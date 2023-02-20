@@ -1,0 +1,40 @@
+threadId=50000	segmentId=50000	!@#NEXLP_DOCVECTOR_SEPARATOR#@!第一次差评. 大概买到一件退货品！皱巴巴满是灰尘的塑料袋，袋口的胶已完全不粘，衣服里子上有白色羽绒，外有灰尘！第一次给中亚自营差评，希望以后不再有！ !#nexlpEOL#!
+threadId=50001	segmentId=50001	!@#NEXLP_DOCVECTOR_SEPARATOR#@!用了不到一个月就坏了，等了一个月才有回复. 4月份买了，5月份绳子就坏了。卖家沟通了一个月后才把绳子寄过来。结果他们公司售后服务人员过来后发现绳子居然不合适。 还有就是我在5月份就就给了差评，结果找不到了。呵呵。 !#nexlpEOL#!
+threadId=50002	segmentId=50002	!@#NEXLP_DOCVECTOR_SEPARATOR#@!要发票却不给发票. 网页订单上写了说要发票结果却没有给我发票，也不留个联系电话，什么意思啊 !#nexlpEOL#!
+threadId=50003	segmentId=50003	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一个礼拜左右的上门退货办理？. 13号提交的退货申请，今天20好了为什么没有上门来办理退货?? !#nexlpEOL#!
+threadId=50004	segmentId=50004	!@#NEXLP_DOCVECTOR_SEPARATOR#@!送货要用三天，而且很不准时，亚马逊应该退出中国. 送货要用三天，而且很不准时，亚马逊应该退出中国 !#nexlpEOL#!
+threadId=50005	segmentId=50005	!@#NEXLP_DOCVECTOR_SEPARATOR#@!又便宜了. 290买的，以为很便宜了，结果现在做活动只要215了。。亚马逊做活动天天不一样，伤不起。 !#nexlpEOL#!
+threadId=50006	segmentId=50006	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不好的一次购物. 质量特别差，像是旧的，有人戴过一样，掉色 !#nexlpEOL#!
+threadId=50007	segmentId=50007	!@#NEXLP_DOCVECTOR_SEPARATOR#@!呼吸管漏水. 质量太差,这次带到菲律宾去,发现呼吸管漏水,差点出事,用了一次直接扔了 !#nexlpEOL#!
+threadId=50008	segmentId=50008	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常不值得. 被名字迷惑，而且价格贵，京 东不超过一千，同一型号。上当了，亲们，以后不要被所谓秒杀迷惑啊。永久很不错，这个所谓悍马非常不值 !#nexlpEOL#!
+threadId=50009	segmentId=50009	!@#NEXLP_DOCVECTOR_SEPARATOR#@!亚马逊和客户是怎样沟通. 12月7日下单，至今未收到货，未收到退款，不知怎么回事，亚马逊的服务太差。 !#nexlpEOL#!
+threadId=50010	segmentId=50010	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尺寸太大. 我180买的XL 大的像风衣一样。懒得退 !#nexlpEOL#!
+threadId=50011	segmentId=50011	!@#NEXLP_DOCVECTOR_SEPARATOR#@!都是我腿太粗了！. 感觉很一般，不如直接去迪卡依店里试了再买！徒步百公里磨了好多个水泡！ !#nexlpEOL#!
+threadId=50012	segmentId=50012	!@#NEXLP_DOCVECTOR_SEPARATOR#@!配送有问题. 亚马逊把我的星皇寄成星驰了，太马虎了，而且机油还泄漏了，估计是物流出了问题 !#nexlpEOL#!
+threadId=50013	segmentId=50013	!@#NEXLP_DOCVECTOR_SEPARATOR#@!总体满意的帐篷. 没看到货前一直很犹豫商品的质量，见到货后还是挺满意的，空间挺大。不过感觉价钱还是有些贵。 !#nexlpEOL#!
+threadId=50014	segmentId=50014	!@#NEXLP_DOCVECTOR_SEPARATOR#@!商品很好5星，物流和客服太差劲，给0分。物流快递小哥撒谎。. 商品，一如既往的好，这是我买的第二件，商品给5分。但物流太差和客服，给物流和客服的分0分，但这次购物的快递小哥和客服太差劲了，撒谎，让人真不能接受。商品明明显示派送状态，但我们下班早，大热天的，我怕他白跑一趟，于是我根据系统给他打电话，打了三个他就是不接。于是我联系客服，让客服帮忙联系，问是否送，如果送我就等，如果不送，那就明天送，然后跟我反馈结果。我这是出于好心，出于善良体谅他的角度考虑的，但一个半小时过后，客服才给我打电话问我是否接到快递小哥电话，我回答没有收到一个电话。我多亏没继续等，否则我干等一个半小时。客服还狡辩说给我打了两个电话，我没接。我当时回复是“我手机没有未接来电，我一直在手里拿着手机，等你的电话，怎么能没接任何电话呢？你要是说忘记打了，我倒不生气，你要是说打了，我反而生气了，因为我没有接到任何一个电话，也没错过任何一个电话。”然后客服人员说她可能打错了。晚上21:30，快递小哥用另外一个号码给我打了三个电话，由于陌生号码，所以我没接，然后给我发了信息说次日10点左右送。可是第二天午饭的时候才送到。然后上午给我发了条短信，内容是由于未联系到我，所以明日在配送。我想问的是，客服人员，还有快递小哥，你们为了规避责任，撒谎来撒谎去，不感觉昧着良心吗？我作为一个顾客，都从你们角度考虑，大热天怕你们白跑，不投诉你们怕你们扣工资，你们竟然撒谎骗人？最基本的人性都不存在了。太让人失望。这次购物体验，真得太差了。 !#nexlpEOL#!
+threadId=50015	segmentId=50015	!@#NEXLP_DOCVECTOR_SEPARATOR#@!这也能叫没异味？. 这也能叫没异味？明明很重的香味。做工一般，边缘有毛刺。而且图片上的内胆是白色的，我买的蓝色，内胆也是蓝色的。。。无语 !#nexlpEOL#!
+threadId=50016	segmentId=50016	!@#NEXLP_DOCVECTOR_SEPARATOR#@!配件都是配套的么？. 主支架上有个塑料套，去掉的话支架会晃动，按上的话又插不进去，费了很多时间把塑料套磨好的 !#nexlpEOL#!
+threadId=50017	segmentId=50017	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般般 卖的太贵. 太贵 不值这个价 感觉15块最多 卡扣很容易掉 而且还不好配..... !#nexlpEOL#!
+threadId=50018	segmentId=50018	!@#NEXLP_DOCVECTOR_SEPARATOR#@!照片和实物不太一样，适合中学生背. 想买个通勤包来着，结果买回来发现就像一个中学生背的书包。。。。只好退货 !#nexlpEOL#!
+threadId=50019	segmentId=50019	!@#NEXLP_DOCVECTOR_SEPARATOR#@!两颗星. 今天下午收到货了，说是套装为什么我这里一个电池都没有，在亚马逊买过好几回东西这次很失望😞不想麻烦了只好自己花钱买电池了 !#nexlpEOL#!
+threadId=50020	segmentId=50020	!@#NEXLP_DOCVECTOR_SEPARATOR#@!中规中矩的商品. 120入的价格比较高，实用性给4星。做工中规中矩，比那些几十块的耐用；对于5寸的手机来说就比较吃力；跑步的时候比较舒适，不考虑价格的话值得入。 !#nexlpEOL#!
+threadId=50021	segmentId=50021	!@#NEXLP_DOCVECTOR_SEPARATOR#@!希望不要自作主张打开别人的快递。. 不喜欢送货人员代开包裹。非常的不开心。拿来就就只剩一个包了。对换货速度很满意。 !#nexlpEOL#!
+threadId=50022	segmentId=50022	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错. 挺好的。。。。。。。。。。。。。。。。。。。。 !#nexlpEOL#!
+threadId=50023	segmentId=50023	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不同花色的厚薄不一样这款裤子. 嗯，比较薄，比去年买的要薄，但还是好穿呢。 !#nexlpEOL#!
+threadId=50024	segmentId=50024	!@#NEXLP_DOCVECTOR_SEPARATOR#@!按自己的尺码选择. 其实土拨鼠的服装裁剪是标准的，完全可以按照自己的实际尺寸进行选择，裤腿稍长没有那些人说得严重。我买时选了小一号的，结果就紧了，只好退货，非常遗憾，很好的裤子，做工很好 !#nexlpEOL#!
+threadId=50025	segmentId=50025	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还行. 东西不错，物流没按约定的晚上时间送到，提前了半天家里没人，希望以后能按购买约定的时间范围送货 !#nexlpEOL#!
+threadId=50026	segmentId=50026	!@#NEXLP_DOCVECTOR_SEPARATOR#@!值. 东西不错，功能强大👍，物流很快，连接有点复杂。 !#nexlpEOL#!
+threadId=50027	segmentId=50027	!@#NEXLP_DOCVECTOR_SEPARATOR#@!袖子略长. 3百不到很实惠，170、75宽松，袖子长一点点。 !#nexlpEOL#!
+threadId=50028	segmentId=50028	!@#NEXLP_DOCVECTOR_SEPARATOR#@!基本可以. 与卖家描述一致，保暖，修身有弹力，172/70 kg穿M，较修身，肩稍窄点，肥点的人应买大一码。 !#nexlpEOL#!
+threadId=50029	segmentId=50029	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很满意. 如果邮费可以再便宜一些就完美了 没觉得掉毛有多严重 很不错 45码篮球鞋的脚L合适 !#nexlpEOL#!
+threadId=50030	segmentId=50030	!@#NEXLP_DOCVECTOR_SEPARATOR#@!宝贝很不错. 这个瑜伽垫真的很不错，第一是完全没有色差，是我喜欢的颜色，而且而且垫子的质量非常好，打开包裹时也没有难闻的气味。买到了一个好东西，谢谢卖家！ !#nexlpEOL#!
+threadId=50031	segmentId=50031	!@#NEXLP_DOCVECTOR_SEPARATOR#@!合身. 透气面料，适合运动。身高182，体重70公斤，宽松。 !#nexlpEOL#!
+threadId=50032	segmentId=50032	!@#NEXLP_DOCVECTOR_SEPARATOR#@!薄！物美价廉！挡太阳光！有点不透气！. 简直太薄了！非常棒！喜欢！有太阳的情况下，穿上或者不穿的体感温差非常明显，只是少许不透气，因为在无风的情况下，会出汗。 !#nexlpEOL#!
+threadId=50033	segmentId=50033	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺棒. 很棒的一次购物体验。 发货速度挺快，产品有保证。 !#nexlpEOL#!
+threadId=50034	segmentId=50034	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买家评论. 送货跟安装的不是一批师傅，不过也很好，送货前师傅给我电话，我就联系安装的师傅过来安装，基本上都是一起的。质量不多说，大品牌减震可以，跑起来有感觉。 !#nexlpEOL#!
+threadId=50035	segmentId=50035	!@#NEXLP_DOCVECTOR_SEPARATOR#@!满意. 满意，26号买的，27号就到了，够速度的 !#nexlpEOL#!
+threadId=50036	segmentId=50036	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错的商品. 使用大概10天，蓝牙连接状态较好，速度较快，时间也准。穿戴感舒适，夜里睡觉带着也不觉得难受，同学也说好看。 !#nexlpEOL#!
+threadId=50037	segmentId=50037	!@#NEXLP_DOCVECTOR_SEPARATOR#@!安德玛. 穿着舒适，透气速干，十公里下来衣服上都没什么汗！安德玛紧身衣就是好，穿别的衣服全身湿透，以后紧身衣就买安德玛！本人171，74，小肚子，M码合适，可以参考下。 !#nexlpEOL#!
+threadId=50038	segmentId=50038	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好评. 老板人真心不错，第一次物流把拍子弄坏了，老板二话没说又给换了一副 !#nexlpEOL#!
+threadId=50039	segmentId=50039	!@#NEXLP_DOCVECTOR_SEPARATOR#@!为什么不能评论？. 为什么不能评论为什么不能评论为什么不能评论 !#nexlpEOL#!

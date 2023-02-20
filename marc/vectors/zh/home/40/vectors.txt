@@ -1,0 +1,40 @@
+threadId=50000	segmentId=50000	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常差的商品！. 用精美的包装和低廉的价格吸引顾客，商品做的非常粗糙，绝对是黑心商家。这次评论给大家提醒，切勿购买。 !#nexlpEOL#!
+threadId=50001	segmentId=50001	!@#NEXLP_DOCVECTOR_SEPARATOR#@!当你拆开洗的时候就知道了。. 当你拆开洗的时候就会发现内部做工一塌糊涂。 !#nexlpEOL#!
+threadId=50002	segmentId=50002	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不推荐. 去污能力一般，且比京东、苏宁都要贵，这个价位一点都不划算 !#nexlpEOL#!
+threadId=50003	segmentId=50003	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买了两个，居然不一样，第二次发来的是去非洲游晒黑的吗？. 看图片吧，哪个是真的呢？这个居然没有无理由退货。。。，不给星星怎么还发不了， !#nexlpEOL#!
+threadId=50004	segmentId=50004	!@#NEXLP_DOCVECTOR_SEPARATOR#@!名不副实的东西，30的东西都比这好，图片是宜家不锈钢的. 首先这东西不知道为什么值这个价，中间的架子扣上去摇摇晃晃，而且是白色油漆的，使用的时候漆肯定会碰坏。油漆的水平也就国内蚊帐的杆子的水平。宜家的一个比这颜值高的才几十块，如果能退货的话一定退。不想使用。这个东西只值30,不能再多了，连个不锈钢都舍不得用。 !#nexlpEOL#!
+threadId=50005	segmentId=50005	!@#NEXLP_DOCVECTOR_SEPARATOR#@!请客服回话. 坏的，包装与图片不符，枕头变形，请客服回话 !#nexlpEOL#!
+threadId=50006	segmentId=50006	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一直没有收到货却显示签收. 一直没有收到货，却显示签收，不知道怎么回事儿？能不能帮我查一下，是不是被快递人员给弄没了。正常是应该送到单位的，但我们单位的工作人员并没有收到我的快递。 !#nexlpEOL#!
+threadId=50007	segmentId=50007	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不好. 秒杀回来洗过后用了一下，掉毛严重，根本不像是纯棉材质，吸水不好！不打算再用了，再便宜也是浪费！！！ !#nexlpEOL#!
+threadId=50008	segmentId=50008	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量太差啦！. 气味刺鼻难闻，应该是垃圾塑料做成的，严重失望！郑重劝告没买的朋友千万不要买了！如果不是25元秒杀的不值得来回折腾早就退货了！真是便宜没好货啊！ !#nexlpEOL#!
+threadId=50009	segmentId=50009	!@#NEXLP_DOCVECTOR_SEPARATOR#@!配送. 货物一直没有收到，钱已经交了，什么时候退给我 !#nexlpEOL#!
+threadId=50010	segmentId=50010	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很薄. 很薄很薄的那种，要不是秒杀价买的，一定把它推掉的 !#nexlpEOL#!
+threadId=50011	segmentId=50011	!@#NEXLP_DOCVECTOR_SEPARATOR#@!内部大接缝，粗旷做工. 远渡重洋折腾一趟回来发现made in china，外观还不错，但是内侧这么大的接缝，我从日本买回来的膳魔师内部可没有 !#nexlpEOL#!
+threadId=50012	segmentId=50012	!@#NEXLP_DOCVECTOR_SEPARATOR#@!指针不牢固. 指针有颤抖，可能是固定不牢固，而且也不准。 !#nexlpEOL#!
+threadId=50013	segmentId=50013	!@#NEXLP_DOCVECTOR_SEPARATOR#@!感应不灵敏. 在使用中，人体感应十分迟钝，有时近到20公分内才会反映，有时在门口还是能感应到的。质量不好评价。 !#nexlpEOL#!
+threadId=50014	segmentId=50014	!@#NEXLP_DOCVECTOR_SEPARATOR#@!设计有缺陷. 刚买，发现接水口与杯座的距离太短，家里的保温杯没一个能放进去的，得用手拿着接。而且机子太矮，人接水都弯着腰。退货。 !#nexlpEOL#!
+threadId=50015	segmentId=50015	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量太差了，怀疑是假货？. 质量太差了，买回来没几天就坏了，这尼玛…… !#nexlpEOL#!
+threadId=50016	segmentId=50016	!@#NEXLP_DOCVECTOR_SEPARATOR#@!比较失望. 很失望，荧光绿和深灰的字体配合起来显得很脏，表面处理也不好，毛边，铸造痕迹很多，壳体平面度也不行，个别地方缝隙很大。 !#nexlpEOL#!
+threadId=50017	segmentId=50017	!@#NEXLP_DOCVECTOR_SEPARATOR#@!保温效果非常一般！不建议大家购买. 保温效果非常一般！大概40分钟就不暖和了，根本没有广告里写的那么好 !#nexlpEOL#!
+threadId=50018	segmentId=50018	!@#NEXLP_DOCVECTOR_SEPARATOR#@!味道大. 太低，味道很大，一股腥臭味，闻着恶心，不知道有没有毒 !#nexlpEOL#!
+threadId=50019	segmentId=50019	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般般. 做工一般般， 好几个螺钉都拧不进去，纳闷为什么那么多人给5星， !#nexlpEOL#!
+threadId=50020	segmentId=50020	!@#NEXLP_DOCVECTOR_SEPARATOR#@!物有所值. 带书架的置物功能还是强大的，放了不少书和小零碎，还能放，书桌装好后平稳，外观也耐看，出租屋小房间必备，总体好评。 !#nexlpEOL#!
+threadId=50021	segmentId=50021	!@#NEXLP_DOCVECTOR_SEPARATOR#@!橡胶一样的手感. 薄薄一片，小不丁点，太贵太贵。买时找的不够，再搜索时已枉然！ !#nexlpEOL#!
+threadId=50022	segmentId=50022	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺好看的,但是用了半个月有些变形. 收到商品颜色很好看,只是用了半个月之后感觉会变形走样 !#nexlpEOL#!
+threadId=50023	segmentId=50023	!@#NEXLP_DOCVECTOR_SEPARATOR#@!感觉不错，舒服的. 感觉不错，硬度适中，略微有点大，靠着感觉很舒服。 !#nexlpEOL#!
+threadId=50024	segmentId=50024	!@#NEXLP_DOCVECTOR_SEPARATOR#@!丢了. 用了一个多月，结果今天忘在了高铁上。 再来买一个，结果发现便宜了100块，心伤透了 !#nexlpEOL#!
+threadId=50025	segmentId=50025	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错. 样子还不错，没试穿不知道质量怎么样。能不能换一家快递公司，快递到了也不打电话，就丢在门房 !#nexlpEOL#!
+threadId=50026	segmentId=50026	!@#NEXLP_DOCVECTOR_SEPARATOR#@!防止颈椎老化. 在看电脑看电视看手机的时候带，有点用，减轻颈椎压力 !#nexlpEOL#!
+threadId=50027	segmentId=50027	!@#NEXLP_DOCVECTOR_SEPARATOR#@!东西还好，物流有问题. 尽管出了点小状况，但商家很快解决了，很好。 !#nexlpEOL#!
+threadId=50028	segmentId=50028	!@#NEXLP_DOCVECTOR_SEPARATOR#@!漏勺是平的，不太合适. 不知道为什么漏勺要做成平的，其他都挺好，性价比很高，推荐购 !#nexlpEOL#!
+threadId=50029	segmentId=50029	!@#NEXLP_DOCVECTOR_SEPARATOR#@!实惠，比国内便宜。。. 风不是很大，不过声音挺小，我买了个70w的变压器，总体来说价格很实惠 ，，刚到手还觉得挺大的。。 !#nexlpEOL#!
+threadId=50030	segmentId=50030	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量可靠性价比高. 实惠大品牌，第二次买了，值得信赖，可惜不是最底价买的 !#nexlpEOL#!
+threadId=50031	segmentId=50031	!@#NEXLP_DOCVECTOR_SEPARATOR#@!喜欢. 这款被子好喜欢松松的，适合春季时候盖，我女儿好喜欢， !#nexlpEOL#!
+threadId=50032	segmentId=50032	!@#NEXLP_DOCVECTOR_SEPARATOR#@!魔术贴是最短的那块木扳. 用了1个半月，魔术贴就失效了，没办法只好再买了一个，希望这个寿命能长点。 !#nexlpEOL#!
+threadId=50033	segmentId=50033	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很好. 比某品牌十来块一盒的好太多。带上只能听见室友说话，其他声音全部听不到 !#nexlpEOL#!
+threadId=50034	segmentId=50034	!@#NEXLP_DOCVECTOR_SEPARATOR#@!真不错，很漂亮. 我自己安装起来的，是有技巧的哦！总之，产品真不错，很漂亮，娘家妈妈特喜欢！很惊喜！ !#nexlpEOL#!
+threadId=50035	segmentId=50035	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量好. 终于等到降价了，很好看，摸起来质感也好。 !#nexlpEOL#!
+threadId=50036	segmentId=50036	!@#NEXLP_DOCVECTOR_SEPARATOR#@!测量结果很准确，使用很方便！. 没想到今天就收到货，物流真快！该温湿度计的产地为中国，做工还算可以，并没有像美国进口的测试仪器那样材质那么好，根据这个价格应该是物有所值了。 !#nexlpEOL#!
+threadId=50037	segmentId=50037	!@#NEXLP_DOCVECTOR_SEPARATOR#@!快递很快就到了，有了这个门铃很称心. 门铃用上了，方便了很多，经常要收快递，快递敲门的声音轻重不一，打印了个请注意敲门力度贴在门上，依旧是有不快，把门铃调成了声光的，正好适合自己的安静的性，用的称心如意。 !#nexlpEOL#!
+threadId=50038	segmentId=50038	!@#NEXLP_DOCVECTOR_SEPARATOR#@!收到没有色差，手感和质量都挺好的。。。。. 收到没有色差，手感和质量都挺好的。。。。 !#nexlpEOL#!
+threadId=50039	segmentId=50039	!@#NEXLP_DOCVECTOR_SEPARATOR#@!确实没蟑螂了. 以前半夜总能在厨房看到大蟑螂，现在好长时间都没影了。没亲眼看到过蟑螂吃诱饵，但反正现在没蟑螂了，也没投放其他药剂，只能说诱饵确实好使吧！ !#nexlpEOL#!

@@ -1,0 +1,2110 @@
+ID	intent	text	domain	label
+3232343532393836	IN:SET_RSVP_INTERESTED	เปลี่ยนสถานะของฉันเป็น รู้สึกสนใจ สำหรับงานที่สอง	event	0
+3232343532383030	IN:SET_RSVP_INTERESTED	ทำเครื่องหมายว่าฉันสนใจใน Autumnal Gathering	event	0
+3232343532373835	IN:SET_RSVP_INTERESTED	ตอบกลับหากสนใจงานเพลตบายเพลต	event	0
+3232343533313031	IN:SET_RSVP_INTERESTED	ตั้งสเตตัสของฉันว่าสนใจในงานเปิดตัวหนังสือเรื่องอินเซอร์เจนต์เอมไพร์	event	0
+3232343533353933	IN:SET_RSVP_INTERESTED	ตอบรับความสนใจเข้าร่วมงานสัมมนาวิถีชีวิตในเมืองแบบดิจิทัล	event	0
+3232343533343830	IN:SET_RSVP_INTERESTED	ตอบกลับว่าสนใจในกิจกรรมที่สาม	event	0
+3232343533343035	IN:SET_RSVP_INTERESTED	ตั้งสถานะของฉันเป็นสนใจสำหรับ Awakening You	event	0
+3231323233313237	IN:GET_REMINDER_AMOUNT	เดือนนี้ฉันมีการแจ้งเตือนเกี่ยวกับ ร้านค้าของชำกี่อัน	reminder	2
+3232323230313632	IN:PLAY_MEDIA	ค้นหาเพลง I Like It โดย โจช กุดวิน	music	3
+3231323333323539	IN:GET_REMINDER_DATE_TIME	เวลาแจ้งเตือนสำหรับอาหารเช้าควบเที่ยงของฉันที่ตั้งไว้คือหนึ่งชั่วโมงก่อนใช่ไหม	reminder	4
+3231323334373735	IN:GET_REMINDER_DATE_TIME	การแจ้งเตือนสำหรับกิจกรรมการกุศลคือเมื่อไร?	reminder	4
+3231323334343539	IN:GET_REMINDER_DATE_TIME	การแจ้งเตือนสำหรับการพบหมอฟันของฉันคือเวลาไหน	reminder	4
+3138393931373237	IN:GET_EMPLOYMENT_TIME	debbie เริ่มทำงานให้กับ bath and body ในปีไหน	people	5
+3138393932313837	IN:GET_EMPLOYMENT_TIME	บิลเริ่มทำงานให้กับตำรวจเมื่อไหร่	people	5
+3138393931323830	IN:GET_EMPLOYMENT_TIME	เจฟทำงานที่แอมะซอนนานเท่าไหร่	people	5
+3138393933303434	IN:GET_EMPLOYMENT_TIME	จิลล์ทำงานให้ผู้ว่าจ้างปัจจุบันมานานเท่าไหร่แล้ว	people	5
+3138393932353236	IN:GET_EMPLOYMENT_TIME	แจ็คกี้ทำงานให้กับ Viaero นานเท่าไหร่	people	5
+3138393931343631	IN:GET_EMPLOYMENT_TIME	ซูทำงานที่ WCTC มานานแค่ไหนแล้ว	people	5
+3132363031353339	IN:LOOP_MUSIC	เล่นเพลงล่าสุดหกครั้ง	music	6
+39353639343433	IN:LOOP_MUSIC	ฉันขอฟังเพลงนั้นซ้ำไปซ้ำมาได้ไหม?	music	6
+3132353834333036	IN:SKIP_TRACK_MUSIC	คุณช่วยกรุณาเล่นเพลงต่อไปได้ไหม	music	8
+39343638393830	IN:SKIP_TRACK_MUSIC	ฉันต้องการฟังเพลงต่อไป	music	8
+3132353634393137	IN:SKIP_TRACK_MUSIC	ข้ามเพลงนี้ไป	music	8
+39353639353034	IN:SKIP_TRACK_MUSIC	เล่นเพลงถัดไป	music	8
+39353131353631	IN:SKIP_TRACK_MUSIC	ช่วยข้ามบียอนเซ่ที	music	8
+39343835343237	IN:SKIP_TRACK_MUSIC	ช่วยส่งต่อเพลงนี้ที	music	8
+39343935313837	IN:SKIP_TRACK_MUSIC	ข้าม 3 แทร็กถัดไปนี้	music	8
+39343733393832	IN:SKIP_TRACK_MUSIC	ข้ามเพลงนี้ไปได้ไหม	music	8
+3132353837373438	IN:LIKE_MUSIC	ตั้งเป็นเพลงโปรด	music	9
+39353536323532	IN:GET_TRACK_INFO_MUSIC	เพลงนี้ของศิลปินคนไหน?	music	10
+39353534383133	IN:GET_TRACK_INFO_MUSIC	ใครเป็นคนร้องเพลง It Just Comes Natural	music	10
+39353431383233	IN:GET_TRACK_INFO_MUSIC	กำลังเล่นเพลงอะไรอยู่	music	10
+39353430393339	IN:GET_TRACK_INFO_MUSIC	เล่าให้ฉันฟังเกี่ยวกับเพลงนี้	music	10
+39353339343731	IN:GET_TRACK_INFO_MUSIC	นี่คือศิลปินอะไร	music	10
+39353333353232	IN:GET_TRACK_INFO_MUSIC	เพลงนี้อยู่ในอัลบั้มใหม่รึเปล่า	music	10
+39353136363332	IN:GET_TRACK_INFO_MUSIC	เธอรู้ไหมว่าเพลงนี้มาจากอัลบั้มชื่อว่าอะไร?	music	10
+39353130303237	IN:GET_TRACK_INFO_MUSIC	ใครกำลังร้องเพลงนี้?	music	10
+39353033373134	IN:GET_TRACK_INFO_MUSIC	เพลงนี้ของใคร	music	10
+39353030353639	IN:GET_TRACK_INFO_MUSIC	ฉันอยากรู้ชื่ออัลบั้มนี้	music	10
+39343934343232	IN:GET_TRACK_INFO_MUSIC	ศิลปินคนไหนร้องเพลงนี้	music	10
+39343835383834	IN:GET_TRACK_INFO_MUSIC	ใครเล่นเพลงนี้?	music	10
+39343639363937	IN:GET_TRACK_INFO_MUSIC	เพลงอะไรที่กำลังเล่นอยู่ตอนนี้	music	10
+3231323337353636	IN:CREATE_REMINDER	เตือนฉันว่าเหลือเวลาอีกเท่าไรหลังจากนี้อีก 10 นาที	reminder	11
+3231323337343936	IN:CREATE_REMINDER	ตั้งการเตือนสำหรับวันอาทิตย์เวลา 17 น.	reminder	11
+3231323336343834	IN:CREATE_REMINDER	เตือนฉันเรื่องงานเลี้ยงสุดสัปดาห์นี้	reminder	11
+3231323336343637	IN:CREATE_REMINDER	เตือนฉันให้ซื้อนม	reminder	11
+3231323336303632	IN:CREATE_REMINDER	เตือนฉันเรื่องนัดหมอฟันของฉันตอน 10 โมงเช้า	reminder	11
+3231323336303336	IN:CREATE_REMINDER	เตือนฉันให้ต่ออายุป้ายทะเบียนรถ	reminder	11
+3231323335393939	IN:CREATE_REMINDER	ตั้งเตือนให้ทำอาหารในอีก 2 ชั่วโมง	reminder	11
+3231323335383831	IN:CREATE_REMINDER	เตือนให้ฉันไปซื้อของกินของใช้ที่เวลา 12 น.	reminder	11
+3231323335353634	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนการแสดงของลูกสาวของฉันคืนนี้	reminder	11
+3231323335343631	IN:CREATE_REMINDER	ตั้งเตือนความจำให้ซื้อนม	reminder	11
+3231323335333235	IN:CREATE_REMINDER	เตือนฉันว่าลูกสาวของฉันมีคอนเสิร์ตคืนวันพุธตอน 1 ทุ่ม	reminder	11
+3231323335323231	IN:CREATE_REMINDER	เตือนให้ฉันสระผมในอีก 30 นาที	reminder	11
+3231323335323138	IN:CREATE_REMINDER	เตือนฉันให้ไปพบแพทย์พรุ่งนี้เวลา 8:00 น.	reminder	11
+3231323335313035	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนสำหรับการนัดหมายกับแพทย์	reminder	11
+3231323333323339	IN:CREATE_REMINDER	เตือนฉันว่าฉันต้องไปรับหลานสาวของโมนาจากชั้นเรียนเต้นรำในวันเสาร์	reminder	11
+3231323332373830	IN:CREATE_REMINDER	เตือนให้ฉันหยุดเติมน้ำมันระหว่างทางจากที่ทำงานกลับบ้าน	reminder	11
+3231323332373735	IN:CREATE_REMINDER	ตั้งเตือนความจำเรื่องงานวันเกิดของเชลลีย์สุดสัปดาห์นี้	reminder	11
+3231323330393237	IN:CREATE_REMINDER	เริ่มเตือนความจำ	reminder	11
+3231323330363535	IN:CREATE_REMINDER	เตือนฉันเรื่องวันเกิดของแคมรีนในคืนวันศุกร์	reminder	11
+3231323330323638	IN:CREATE_REMINDER	สร้างการแจ้งเตือนเพื่อไปพบแพทย์วันอังคารหน้าเวลา 14:00 น.	reminder	11
+3231323330313335	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนให้ไปรับสเปรย์ฉีดผมด้วย	reminder	11
+3231323238323436	IN:CREATE_REMINDER	เตือนให้ฉันเอาเอกสารไปส่งในวันพุธที่เวลา 4 โมงเย็น	reminder	11
+3231323236333838	IN:CREATE_REMINDER	วันนี้ตอนสองทุ่มเตือนให้ฉันโทรหาน้องสาวของฉันคืนนี้	reminder	11
+3231323236323830	IN:CREATE_REMINDER	เตือนให้ฉันเติมน้ำมันเครื่องตัดหญ้าระหว่างทางกลับบ้านคืนนี้	reminder	11
+3231323235393032	IN:CREATE_REMINDER	สร้างการแจ้งเตือนสำหรับวันอาทิตย์นี้เพื่อเข้าสู่ระบบออนไลน์และจองตั๋วสายการบินสำหรับงานแต่งงานของเดฟ	reminder	11
+3231323235383433	IN:CREATE_REMINDER	โปรดเตือนฉันให้ทาสีบ้านในวันพฤหัสบดีนี้เวลา 8:00 น. ตั้งการแจ้งเตือนให้เริ่ม 2 ชั่วโมงล่วงหน้า	reminder	11
+3231323235343933	IN:CREATE_REMINDER	เตือนให้ฉันเอาน้ำให้เด็ก ๆ ตอนบ่าย 3	reminder	11
+3231323233353837	IN:CREATE_REMINDER	คุณช่วยเตือนถึงส่วนประกอบของเค้กแครอทให้ฉันได้ไหม?	reminder	11
+3231323233333830	IN:CREATE_REMINDER	เตือนฉันให้โทรกลับหาอีริกในภายหลังคืนนี้	reminder	11
+3231323233323237	IN:CREATE_REMINDER	ตั้งเตือนความจำล่วงหน้า 3 เดือนเรื่องงานรวมญาติครอบครัวมาร์ตินในวันที่ 17 ตุลาคม	reminder	11
+3231323233313537	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนสำหรับซ้อมร้องประสานเสียงเดือนตุลาคมและพฤศจิกายน	reminder	11
+3231323232383735	IN:CREATE_REMINDER	ตั้งเตือน 10 นาทีก่อนเริ่มประชุมวันพฤหัส	reminder	11
+3231323232333334	IN:CREATE_REMINDER	ฉันไม่อยากตกรถเมล์ตอน บ่าย 3 โมงพรุ่งนี้ ช่วยเตือนฉันก่อนเวลา 15 นาทีได้ไหม	reminder	11
+3231313536343736	IN:CREATE_REMINDER	เตือนฉันให้อาหารสุนัขวันนี้เวลาห้าโมงเย็น	reminder	11
+3231313536343037	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนให้สั่งอุปกรณ์งานปาร์ตี้ Luau ทั้งหมดวันที่ 1 กันยายน	reminder	11
+3231313535383132	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนให้เปลี่ยนน้ำมันเครื่องในวันพุธ	reminder	11
+3231313535373436	IN:CREATE_REMINDER	เตือนฉันให้ซื้อซีเรียลพรุ่งนี้	reminder	11
+3231313534343731	IN:CREATE_REMINDER	ฉันไม่อยากพลาดพัสดุนี้ ช่วยเตือนฉันให้ติดตามพัสดุตอนบ่ายโมงได้ไหม	reminder	11
+3231313534303234	IN:CREATE_REMINDER	ตั้งการเตือนให้ลองชุดในวันอาทิตย์เวลา 10.30 น.	reminder	11
+3231313533383432	IN:CREATE_REMINDER	เตือนให้ฉันซื้อหนังสือสำหรับวิชาจิตวิทยาก่อนวันที่ 20 สิงหาคม	reminder	11
+3231313533383139	IN:CREATE_REMINDER	เตือนฉันให้ซื้อน้ำส้มหลังจากดูหนังวันนี้	reminder	11
+3231313533373739	IN:CREATE_REMINDER	เตือนฉันเรื่องนัดกินมื้อกลางวันตอนเที่ยงกับเพื่อนร่วมงานวันศุกร์นี้	reminder	11
+3231313533343435	IN:CREATE_REMINDER	ตั้งการแจ้งเตือน เพื่อยกเลิกนัดสัตวแพทย์ของแมว	reminder	11
+3231313532373530	IN:CREATE_REMINDER	เตือนฉันให้เปิดสไกป์ในอีก 20 นาที	reminder	11
+3231313532333236	IN:CREATE_REMINDER	เตือนให้เรย์กินยาของเขาที่เวลา 12 น.	reminder	11
+3231313531393134	IN:CREATE_REMINDER	ตั้งการเตือนให้จัดกระเป๋าไปเที่ยวทะเลวันศุกร์	reminder	11
+3231313531323330	IN:CREATE_REMINDER	เตือนฉันให้โทรหาแม่ของฉันพรุ่งนี้เช้าตอน 8:30 น.	reminder	11
+3231313530363433	IN:CREATE_REMINDER	เตือนฉันล่วงหน้าสองชั่วโมงก่อนงานเลี้ยงคืนสู่เหย้าของโรงเรียนในวันเสาร์ที่ 14 สิงหาคม ตอน 10 โมงเช้า	reminder	11
+3231313530313437	IN:CREATE_REMINDER	เตือนฉันตอนเช้าวันศุกร์ว่าอาจมีพัสดุส่งมาสองชิ้นในวันนั้น	reminder	11
+3231313530303735	IN:CREATE_REMINDER	ในตอนเช้าเตือนให้ฉันกินอาหารเช้า	reminder	11
+3231313439393435	IN:CREATE_REMINDER	เตือนฉันให้บอกทีมเรื่องเวลาที่ลูกค้าจะมาถึงในวันจันทร์หน้า	reminder	11
+3231313439393139	IN:CREATE_REMINDER	เตือนให้ฉันจัดคลาสหลังคลอดแล้วส่งตารางเรียนให้จอห์นทางอีเมล	reminder	11
+3231313439353532	IN:CREATE_REMINDER	เตือนฉันให้ขอบคุณจอห์นสำหรับของขวัญพรุ่งนี้ 1 ทุ่ม	reminder	11
+3231313439353439	IN:CREATE_REMINDER	เตือนให้ฉันส่งพัสดุการดูแลให้รามอนทางไปรษณีย์ในวันอังคาร	reminder	11
+3231313438373732	IN:CREATE_REMINDER	เตือนให้ฉันทำความสะอาดห้องคืนนี้ที่เวลา 6 โมงเย็น	reminder	11
+3231313438323931	IN:CREATE_REMINDER	เตือนลูกชายของฉันให้ไปรับเครื่องแบบของเขา	reminder	11
+3231313437393738	IN:CREATE_REMINDER	เตือนฉันวันนี้ที่เวลา 15:00 น. ให้บันทึกบัตรวีซ่าใหม่ของฉันใน Amazon	reminder	11
+3231313437383431	IN:CREATE_REMINDER	เตือนให้ฉันส่งข้อมูลการบรรยายของอเล็กซ์ให้เขาวันพุธนี้	reminder	11
+3231313437343639	IN:CREATE_REMINDER	ตั้งค่าการเตือนสำหรับพี่ชายของฉันเพื่อติดต่อนายหน้าซื้อขายหลักทรัพย์พรุ่งนี้เวลา 11:00 น.	reminder	11
+3231313436393134	IN:CREATE_REMINDER	เตือนฉันให้โทรหาพ่อตอน 5 โมงเย็น	reminder	11
+3231313436373431	IN:CREATE_REMINDER	สร้างรายการเตือนความจำตอน 5 โมงเย็นว่าคริสจะกลับจากที่ทำงานมาบ้าน	reminder	11
+3231313436353137	IN:CREATE_REMINDER	ตั้งการเตือนให้โทรหาผู้ให้บริการโทรศัพท์ของฉันในอีก 10 นาที	reminder	11
+3231313436313133	IN:CREATE_REMINDER	เตือนความจำฉันให้รับวัคซีนไข้หวัดใหญ่ในวันที่ 1 ตุลาคม 2018	reminder	11
+3231313435393239	IN:CREATE_REMINDER	เตือนให้ฉันยืนยันกับซาราเรื่องวันที่จะไปตั้งแคมป์เดือนนี้	reminder	11
+3231313435383535	IN:CREATE_REMINDER	ส่งเตือนความจำถึงโจเรื่องเดตมื้อค่ำในวันพฤหัสบดี	reminder	11
+3231313435353734	IN:CREATE_REMINDER	เตือนฉันให้เปลี่ยนหมายเลขบัตรเครดิตที่ใช้สำหรับสมาชิกยิมของฉัน	reminder	11
+3231313435303636	IN:CREATE_REMINDER	คุณช่วยเตือนเกี่ยวกับการสอบของฉันในวันพรุ่งนี้ตอนเช้าเวลา 7 น. ได้ไหม	reminder	11
+3231313434393437	IN:CREATE_REMINDER	ต้องรับดอกไม้ก่อนงานเลี้ยงของ Brianna ในวันเสาร์; ตั้งเตือนเวลา 4 โมงเย็น	reminder	11
+3231313434393434	IN:CREATE_REMINDER	ตั้งการเตือนให้ไปรับประทานอาหารเย็นกับเพื่อนของฉันจากโบสถ์คืนนี้เวลา 6 โมงเย็น	reminder	11
+3231313434383439	IN:CREATE_REMINDER	แจ้งเตือนฉันให้โทรหาแลร์รี วันจันทร์ตอนสองทุ่มเวลามาตรฐานภาคกลาง	reminder	11
+3231313434373234	IN:CREATE_REMINDER	ช่วยเตือนฉันให้ส่งการ์ดคริสต์มาสทางไปรษณีย์ในวันที่ 12 ธันวาคม	reminder	11
+3231313434323134	IN:CREATE_REMINDER	เตือนฉันให้กินยาตอน 3 ทุ่ม	reminder	11
+3231313434303532	IN:CREATE_REMINDER	เตือนฉันให้โทรหาคุณปู่ของฉันคืนพรุ่งนี้ตอน 1 ทุ่ม	reminder	11
+3231313433393136	IN:CREATE_REMINDER	กรุณาตั้งการแจ้งเตือนให้ส่งข้อความอวยพรวันเกิดให้คลาร์กในวันศุกร์	reminder	11
+3231313433383032	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนให้ปิดเตาอบในอีก 3 ชั่วโมง	reminder	11
+3231313433373334	IN:CREATE_REMINDER	ในอีกหนึ่งชั่วโมง เตือนให้ฉันเช็คการบ้านลูก	reminder	11
+3231313433333531	IN:CREATE_REMINDER	เตือนฉันว่านัดแพทย์ของฉันคือพรุ่งนี้ตอน 10 โมงเช้า	reminder	11
+3231343030363532	IN:CREATE_REMINDER	เตือนฉันให้โทรหาย่า	reminder	11
+3231323432333239	IN:CREATE_REMINDER	ตั้งการเตือนให้ทำ Agile sprint ปัจจุบันให้เสร็จภายในวันพฤหัสบดีเวลาห้าโมงเย็น	reminder	11
+3231323432313032	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนให้โทรหาพ่อคืนนี้เวลา 5 โมง	reminder	11
+3231323431353638	IN:CREATE_REMINDER	เตือนฉันให้โทรหาภรรยาของฉันเมื่อฉันออกจากที่ทำงาน	reminder	11
+3231323430393234	IN:CREATE_REMINDER	การแจ้งเตือนใหม่ : โทรหาหมอวันนี้ตอนเที่ยง	reminder	11
+3231323430383235	IN:CREATE_REMINDER	เตือนฉันให้ดู Big Brother ตอนสองทุ่มวันอาทิตย์	reminder	11
+3231323339363535	IN:CREATE_REMINDER	ช่วยเตือนฉันในวันที่ 21 กันยายนให้อวยพรวันเกิดน้องชายของฉันทีได้ไหม	reminder	11
+3231323339333739	IN:CREATE_REMINDER	เตือนฉันให้ใส่เม็ดคลอรีนในสระว่ายน้ำวันพรุ่งนี้เช้าตอน 8 โมง	reminder	11
+3231323338383435	IN:CREATE_REMINDER	เตือนฉันเกี่ยวกับเดตของฉันในคืนวันศุกร์	reminder	11
+3231323338373134	IN:CREATE_REMINDER	ช่วยเตือนฉันให้ทำนัดช่วงบ่ายต้น ๆ ของวันพรุ่งนี้ได้ไหม	reminder	11
+3231323338313837	IN:CREATE_REMINDER	เตือนให้ฉันโทรหาแมรีคืนนี้หลังเลิกงาน	reminder	11
+3231323337383039	IN:CREATE_REMINDER	ตั้งการเตือนให้ไปพบหมอฟันในวันจันทร์เวลาสี่โมงเย็น	reminder	11
+3231323337363831	IN:CREATE_REMINDER	ฉันอยากตั้งการแจ้งเตือนมื้อกลางวันของวันศุกร์	reminder	11
+3231323334323339	IN:CREATE_REMINDER	เตือน Chris กับ Brian ให้ออกไปตอนเที่ยงและเตือนพวกเขาหนึ่งชั่วโมงล่วงหน้า	reminder	11
+3231323334323139	IN:CREATE_REMINDER	เตือน Elizabeth ให้เตรียมอุปกรณ์การเรียนให้พร้อมสำหรับวันพรุ่งนี้	reminder	11
+3231323334303735	IN:CREATE_REMINDER	ช่วยเตือน Bamby ให้พาหมาไปเดินเล่นทันทีที่กลับมาบ้านที	reminder	11
+3231323333373136	IN:CREATE_REMINDER	ตั้งแจ้งเตือนไปดูหนังกับ Alex วันศุกร์นี้	reminder	11
+3231323332393833	IN:CREATE_REMINDER	ฉันอยากให้ช่วยเตือนเปลี่ยนน้ำมันรถวันนี้	reminder	11
+3231323332353836	IN:CREATE_REMINDER	เตือนฉันให้เข้าร่วมคืนผู้ปกครองในวันพุธ	reminder	11
+3231323332313231	IN:CREATE_REMINDER	ตั้งเตือนให้น้องสาวของฉันไปเยี่ยมแม่ในวันศุกร์หน้าเวลา 4 โมงเย็น	reminder	11
+3231323332303930	IN:CREATE_REMINDER	ส่งคำเตือนถึงฉันในวันอังคารตอนเที่ยงให้ไปหา John โดยเร็วที่สุด	reminder	11
+3231323331363331	IN:CREATE_REMINDER	เตือนแจ็คว่าอาทิตย์หน้าวันเกิดฉัน	reminder	11
+3231323330323932	IN:CREATE_REMINDER	เตือนความจำให้ซื้อของสำหรับงานเลี้ยงวันเกิดของปีเตอร์	reminder	11
+3231323237353638	IN:CREATE_REMINDER	เตือนตัวเองและมาร์คให้ซื้อตั๋วประจำฤดูกาลไป Cavs วันที่ 20 มีนาคมปีหน้า	reminder	11
+3231323233363132	IN:CREATE_REMINDER	ช่วยตั้งการเตือนหนึ่งชั่วโมงก่อนการสอบของฉันวันอังคารนี้ได้ไหม	reminder	11
+3231313535313134	IN:CREATE_REMINDER	ตั้งเตือนความจำว่ามีนัดกับหมอวันอังคารหน้า	reminder	11
+3231313534383339	IN:CREATE_REMINDER	เตือนให้ฉันโทรหาบริษัทประกันภัยเรื่องรถมินิแวนวันนี้ตอนบ่าย 3 โมง	reminder	11
+3231313534303838	IN:CREATE_REMINDER	ฉันต้องโทรหาลิซ่าพรุ่งนี้ เตือนฉันก่อน 5 โมงเย็น	reminder	11
+3231313533323632	IN:CREATE_REMINDER	ฉันต้องออกไปตอน 5 โมงเย็นวันนี้ แจ้งเตือนฉัน 20 นาทีก่อนถึงเวลา	reminder	11
+3231313532353037	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนให้โจนาธานโทรหาคุณย่าอาทิตย์หน้า	reminder	11
+3231313532323934	IN:CREATE_REMINDER	เตือนแชนนอนกับไอสลีนให้ออกเดินทางเวลา 10 โมง เตือนพวกเขา 15 นาทีก่อนหน้านั้น	reminder	11
+3231313532303734	IN:CREATE_REMINDER	เตือนฉันให้นัดหมอในเดือนกันยายน	reminder	11
+3231313530373239	IN:CREATE_REMINDER	เตือนฉันให้สั่งดอกไม้สำหรับมื้ออาหารค่ำ	reminder	11
+3231313530363439	IN:CREATE_REMINDER	เตือนฉันให้ทำรายงานให้เสร็จภายในวันที่ 8 กันยายนเวลา 19.00 น.	reminder	11
+3231313530323839	IN:CREATE_REMINDER	เตือนฉันให้จองโรงแรมสำหรับวันหยุดของเราในวันที่ 26 สิงหาคม	reminder	11
+3231313439393334	IN:CREATE_REMINDER	เตือนให้ฉันเปลี่ยนแผ่นกรองเครื่องปรับอากาศพรุ่งนี้	reminder	11
+3231313439373632	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนตอน 8 โมงเพื่อเช็กอีเมลเรื่องงาน	reminder	11
+3231313439303239	IN:CREATE_REMINDER	ตั้งการแจ้งเตือน 2 ชั่วโมงก่อนการขายขนมในวันศุกร์	reminder	11
+3231313438383531	IN:CREATE_REMINDER	เตือนฉันตอนบ่ายสองวันอังคารให้ทำบราวนีสำหรับ Paint Night	reminder	11
+3231313437393034	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนให้อีเมล Clea	reminder	11
+3231313437373733	IN:CREATE_REMINDER	เตือนฉันเกี่ยวกับการฝึกร้องประสานเสียงคืนนี้	reminder	11
+3231313437363539	IN:CREATE_REMINDER	เตือนให้ฉันศึกษาเกี่ยวกับการส่องกล้องตรวจลำไส้ใหญ่เพื่อดูว่าฉันต้องตรวจเมื่อไหร่	reminder	11
+3231313435313935	IN:CREATE_REMINDER	เตือนฉันด้วยว่าให้ไปรับใบสั่งยาของฉันวันพุธหน้าตอน 4 โมง 45	reminder	11
+3231313434353532	IN:CREATE_REMINDER	เตือนฉันให้ตรวจสอบเตาอบในหนึ่งชั่วโมง	reminder	11
+3231313434333530	IN:CREATE_REMINDER	ต้องการเตือนความจำให้ซื้อการ์ดวันพ่อ	reminder	11
+3231313433373034	IN:CREATE_REMINDER	เตือนฉันให้จองโรงแรมในคอนเวย์ อาร์คันซอ	reminder	11
+3231343030363939	IN:CREATE_REMINDER	เตือนฉันว่าบรูซกำลังจะมาถึงมะรืนนี้	reminder	11
+3231323431353736	IN:CREATE_REMINDER	เตือนฉันให้โทรหาแม่คืนนี้ตอนหนึ่งทุ่ม	reminder	11
+3231323430373038	IN:CREATE_REMINDER	ตั้งการแจ้งเตือนสำหรับวันที่ 14 สิงหาคม	reminder	11
+3231323430363337	IN:CREATE_REMINDER	เตือนฉันเรื่องนัดกับธนาคาร	reminder	11
+3231323339393334	IN:CREATE_REMINDER	การแจ้งเตือนครั้งใหม่ให้จดทะเบียนรถ	reminder	11
+3231323339373937	IN:CREATE_REMINDER	เตือนฉันให้ป้อนอาหารปลาของฉันคืนนี้	reminder	11
+3231323339313739	IN:CREATE_REMINDER	เตือนให้ฉันตื่นนอนตอน 6 โมงพรุ่งนี้	reminder	11
+3231323336393037	IN:CREATE_REMINDER	สร้างการแจ้งเตือนใหม่ของคืนนี้	reminder	11
+3231323333343039	IN:CREATE_REMINDER	ฉันอยากให้ตั้งแจ้งเตือนให้ฉันโทรหาฝ่ายบุคคลเวลาบ่ายสามวันนี้	reminder	11
+3231323332393939	IN:CREATE_REMINDER	ตั้งการเตือนสำหรับดินเนอร์กับสามีคืนนี้ตอน 6 โมงเย็น	reminder	11
+3231323332393536	IN:CREATE_REMINDER	ส่งการแจ้งเตือนแบบกลุ่มเพื่อบอกรายการภูมิแพ้ใด ๆ ก็ตามที่ทุกคนที่จะมาปาร์ตี้วันเกิดมี	reminder	11
+3231323332383936	IN:CREATE_REMINDER	ตั้งการเตือนความจำให้ฉันไม่ลืมซักรีดเสื้อผ้าเมื่อถึงบ้าน	reminder	11
+3231323331393735	IN:CREATE_REMINDER	ตั้งการเตือนให้ลูกสาวของฉันโทรหาฉันคืนวันเสาร์	reminder	11
+3231323330313538	IN:CREATE_REMINDER	เตือนให้ฉันไปเจอทิมในการประชุมวันนี้ตอน 5 โมงเย็น	reminder	11
+3231323239363432	IN:CREATE_REMINDER	เตือนฉันให้ถามแซ็กเรื่อง TianChi ให้มากกว่านี้	reminder	11
+3231323239333537	IN:CREATE_REMINDER	เตือนฉันให้ส่งคำเชิญมางานปาร์ตี้	reminder	11
+3231323238343138	IN:CREATE_REMINDER	เตือนฉันให้สร้างแม่แบบสำหรับงานให้เสร็จภายในวันพุธ	reminder	11
+3231323236363736	IN:CREATE_REMINDER	ตั้งการเตือนความจำสำหรับอาหารกลางวันในวันอังคาร	reminder	11
+3231323236363630	IN:CREATE_REMINDER	เตือนฉันให้โทรหาเชอร์รีคืนวันอังคารตอนหนึ่งทุ่ม	reminder	11
+3231323236313938	IN:CREATE_REMINDER	เตือนให้ฉันซื้อกระดาษชำระด้วย	reminder	11
+3231323234393735	IN:CREATE_REMINDER	ตั้งเตือนสำหรับงานปาร์ตี้วันพรุ่งนี้ตอนสี่ทุ่ม	reminder	11
+3231323234393332	IN:CREATE_REMINDER	เตือนฉันให้เปลี่ยนเวลาให้ตรงกับการเปลี่ยนแปลงเวลาโลก	reminder	11
+3231313536303731	IN:CREATE_REMINDER	เตือนไมค์ให้ทำงานเอกสารทั้งหมดให้เสร็จหนึ่งวันก่อนวันเสาร์ตอนหนึ่งทุ่ม	reminder	11
+3231313535373230	IN:CREATE_REMINDER	ฉันต้องไปทานมื้อค่ำกับ Oscar คืนนี้ ช่วยแจ้งเตือนฉันตอน 5 โมงด้วย	reminder	11
+3231313533323735	IN:CREATE_REMINDER	เตือน Joao ให้มารับฉันตอน 5 โมงเย็นวันนี้	reminder	11
+3231313532383636	IN:CREATE_REMINDER	ฉันต้องโทรหายายของฉันในวันอาทิตย์ ตั้งค่าการเตือนความจำตอน 9 โมงเช้า	reminder	11
+3231313532353139	IN:CREATE_REMINDER	เตือนให้ฉันจองเที่ยวบินไปเยอรมันด้วยวันนี้	reminder	11
+3231313531313931	IN:CREATE_REMINDER	เตือนพ่อกับแม่ให้ออกเดินทางตอนบ่าย 3 และเตือนล่วงหน้า 30 นาที	reminder	11
+3231313530393133	IN:CREATE_REMINDER	เตือนฉันให้โทรหาหมอผิวหนังวันจันทร์เพื่อนัดตรวจประจำปี	reminder	11
+3231313530373536	IN:CREATE_REMINDER	ช่วยเตือนฉันให้ลบเพลย์ลิสต์ของ Prince ตอนบ่ายโมงวันนี้	reminder	11
+3231313439343336	IN:CREATE_REMINDER	เตือนฉันให้สระผมในวันเสาร์นี้	reminder	11
+3231313439303134	IN:CREATE_REMINDER	เตือนฉันให้โทรหาแม่เพื่อดูอาการน้าโอฟีเลียหลังผ่าตัดสะโพก	reminder	11
+3231313438313438	IN:CREATE_REMINDER	คุณเตือนฉันให้เข้าร่วมกลุ่มความขัดแย้งตอน 5 โมงได้ไหม	reminder	11
+3231313437333934	IN:CREATE_REMINDER	เตือนฉันให้ส่งที่อยู่ของงานเลี้ยงให้แม่คืนนี้	reminder	11
+3231313437323037	IN:CREATE_REMINDER	ฉันกำลังอบคุกกี้ ช่วยเตือนให้เอาคุกกี้ออกจากเตาอบในอีก 25 นาทีได้ไหม?	reminder	11
+3231313437323036	IN:CREATE_REMINDER	ตั้งเตือนให้สไกป์กับแม่ในคืนนี้	reminder	11
+3231363337353332	IN:SNOOZE_ALARM	ให้ฉันนอนต่ออีก 10 นาที	alarm	13
+3231363337353032	IN:SNOOZE_ALARM	โปรดเลื่อนเสียงปลุกของฉันอีกครั้ง	alarm	13
+3231363031323033	IN:SNOOZE_ALARM	กรุณาเลื่อนนาฬิกาปลุกอันต่อไปของฉัน	alarm	13
+3231363031313733	IN:SNOOZE_ALARM	ตั้งโหมดสนูซของนาฬิกาปลุกหนึ่งชั่วโมง	alarm	13
+3231353534323238	IN:SNOOZE_ALARM	ปิดเสียงปลุกของฉันหน่อย	alarm	13
+3231353533383335	IN:SNOOZE_ALARM	ขอฉันงีบสัก 5 นาที	alarm	13
+3136353036303434	IN:SNOOZE_ALARM	เพิ่มเวลาสนูซ 15 นาทีในการตั้งเวลาปลุกแต่ละรายการ	alarm	13
+3136353035383739	IN:SNOOZE_ALARM	หยุดการเตือนเวลาทั้งหมด	alarm	13
+39353333303638	IN:SNOOZE_ALARM	เลื่อนการเตือนไป 10 นาที	alarm	13
+39353030323037	IN:SNOOZE_ALARM	เลื่อนเตือนเวลา 3 นาที	alarm	13
+3231363337353433	IN:SNOOZE_ALARM	หยุดเสียงนาฬิกาปลุกชั่วคราวเป็นเวลา 10 โมง	alarm	13
+39353438323337	IN:START_SHUFFLE_MUSIC	สุ่มเพลงในอัลบั้มใหม่ของ Kings of Leon หน่อย	music	14
+3231363032363332	IN:START_SHUFFLE_MUSIC	เปิด Pandora และเล่น Nirvana แบบสุ่ม	music	14
+3231363032363236	IN:START_SHUFFLE_MUSIC	เปิด iHeartRadio และเล่น The First Five แบบสุ่ม	music	14
+3231363431393134	IN:START_SHUFFLE_MUSIC	เปิด Spotify และเล่นอัลบัมสุดยอดเพลงฮิตแห่งปี 1970-2002 แบบสุ่ม	music	14
+39353039343230	IN:START_SHUFFLE_MUSIC	ตั้งสลับเพลงของเพลย์ลิสต์ปัจจุบัน	music	14
+39353632343630	IN:PAUSE_MUSIC	หยุดเพลงปัจจุบันชั่วคราว	music	15
+39353633333038	IN:PAUSE_MUSIC	หยุดเพลงปัจจุบัน	music	15
+3132363137333330	IN:PAUSE_MUSIC	หยุดเพลงชั่วคราว	music	15
+3232343330383235	IN:RESUME_TIMER	ฉันต้องการให้เครื่องจับเวลาทำงานต่อไป	timer	16
+3232333436323436	IN:RESUME_TIMER	ใช้เครื่องจับเวลาสิ้นสุดการทำสมาธิของฉันต่อไป	timer	16
+3231363032333539	IN:RESUME_TIMER	ใช้การจับเวลาต่อไป	timer	16
+3136343034373037	IN:RESUME_TIMER	เริ่มจับเวลาใหม่	timer	16
+3232343330383233	IN:RESUME_TIMER	จับเวลาต่อไปได้ไหม	timer	16
+39353238363631	IN:RESUME_TIMER	จับเวลาอบขนมต่อไป	timer	16
+3231353836303330	IN:PLAY_MUSIC	เปิด iheartradio และเล่น WHTZ	music	17
+3231353334393932	IN:PLAY_MUSIC	เล่นเพลง For What It's Worth บน iHeartRadio	music	17
+3231353334393437	IN:PLAY_MUSIC	เล่นอัลบั้ม I AM...SASHA FIERCE - ที่เป็นรุ่นแพลตินัมบน iheartradio	music	17
+3231353334383232	IN:PLAY_MUSIC	เล่น Formation บน iHeartRadio	music	17
+3231353233363837	IN:PLAY_MUSIC	เล่นเพลง Without Me	music	17
+3231353233363836	IN:PLAY_MUSIC	เริ่มเล่นอัลบั้มล่าสุดของนิกกี้ มินาจ	music	17
+3231353233363639	IN:PLAY_MUSIC	ฉันรู้สึกอยากจะฟังฮาร์ดคอร์ เอนกา	music	17
+3231353233333937	IN:PLAY_MUSIC	เปิดเพลงในอัลบั้มล่าสุดของเจเรมี ซักเกอร์ให้ฟังหน่อย	music	17
+3231353233333134	IN:PLAY_MUSIC	เปิด H.E.R.	music	17
+3231353233323430	IN:PLAY_MUSIC	เล่นอัลบั้ม เจมส์ อาเธอร์ ให้ฉัน	music	17
+3231353233303031	IN:PLAY_MUSIC	เปิดเพลง Pop-Rock & Roll เก่า ๆ ให้ฉันฟังหน่อย	music	17
+3231353232373736	IN:PLAY_MUSIC	เล่น Anderson .Paak Topanga	music	17
+3231353232363636	IN:PLAY_MUSIC	คุณช่วยเล่นเพลงของนิปซีย์ ฮัสเซิล ได้ไหม	music	17
+3231353232353536	IN:PLAY_MUSIC	เล่นเพลงของ Selena Gomez บน Spotify	music	17
+3231353232353336	IN:PLAY_MUSIC	เล่นเพลงในอัลบั้มของ Anderson .Paak ให้ฉันหน่อย	music	17
+3231303932363333	IN:PLAY_MUSIC	เล่นเพลงลาติน	music	17
+3139373936343537	IN:PLAY_MUSIC	คุณช่วยเปิด 105.1 ทาง iheartradio ได้ไหม	music	17
+3139373936323035	IN:PLAY_MUSIC	เล่นสถานีดับเบิลยูเอสวีโอ	music	17
+3138383937383232	IN:PLAY_MUSIC	กรุณาเล่นเพลงโรแมนติค	music	17
+3132363231363239	IN:PLAY_MUSIC	กรุณาเล่นเพลงของ The Eagles	music	17
+3132363230343839	IN:PLAY_MUSIC	เล่นเพลงประกอบหนังเรื่อง Cinderella	music	17
+3132363135383930	IN:PLAY_MUSIC	โปรดเล่นเพลย์ลิสต์ "เพลงของฉัน" บน spotify	music	17
+3132363135373638	IN:PLAY_MUSIC	เพลงนั้นถูกต้องแล้ว	music	17
+3132363130343439	IN:PLAY_MUSIC	เล่นอัลบั้มของเดรกใหม่ล่าสุด	music	17
+3132353933393434	IN:PLAY_MUSIC	เล่นเพลย์ลิสต์ 6	music	17
+3132353932383439	IN:PLAY_MUSIC	เล่นเพลงจากอัลบั้มใหม่ของ DMX	music	17
+3132353834353634	IN:PLAY_MUSIC	ช่วยเล่นเพลงบ้าง	music	17
+3132353739393839	IN:PLAY_MUSIC	กรุณาเล่นเพลง Drummer Boy ของ Pentatonix	music	17
+3132353738353632	IN:PLAY_MUSIC	เปลี่ยนเพลย์ลิสต์	music	17
+3132353730383233	IN:PLAY_MUSIC	เล่นสถานีแอโฟร์บีตส์บนแพนโดรา	music	17
+3132353639373136	IN:PLAY_MUSIC	เล่นเพลงของดิสนีย์	music	17
+39353832333038	IN:PLAY_MUSIC	ฉันต้องการฟังอัลบั้มล่าสุดของ Celine Dion	music	17
+39353732323437	IN:PLAY_MUSIC	เปิดเพลง Queen Under Pressure	music	17
+39353732323031	IN:PLAY_MUSIC	เล่น Alabama Shakes ในสปอติฟาย	music	17
+39353638373932	IN:PLAY_MUSIC	เล่นเพลง Ocean Breathes Salty โดย Modest Mouse	music	17
+39353537343436	IN:PLAY_MUSIC	เล่นเพลงของ train	music	17
+39353531343634	IN:PLAY_MUSIC	เล่นอัลบั้มใหม่ของ Spearhead	music	17
+39353436383538	IN:PLAY_MUSIC	ฉันอยากฟังเพลงยุค 90 บ้าง	music	17
+39353435323138	IN:PLAY_MUSIC	เล่นเพลงของเจย์ซีอัลบั้มล่าสุด	music	17
+39353338373436	IN:PLAY_MUSIC	เล่นเพลงใหม่ล่าสุดของคานเย เวสต์	music	17
+39353336323537	IN:PLAY_MUSIC	เล่นเพลงจากอัลบั้มนี้อีก	music	17
+39353335313539	IN:PLAY_MUSIC	เล่นเพลงร็อกคลาสสิค	music	17
+39353332373231	IN:PLAY_MUSIC	เล่นเพลงเก่าของเจเน็ต แจ็กสัน	music	17
+39353238383935	IN:PLAY_MUSIC	ฟังเพลงอัลบั้มใหม่ของคริส บราวน์	music	17
+39353233383032	IN:PLAY_MUSIC	Spotify เล่นเพลงของเลดี้กาก้าให้ฉันฟังตอนนี้ได้ไหม	music	17
+39353139353038	IN:PLAY_MUSIC	เล่นเบบี้ ไอสไตน์ ทางสปอติฟาย	music	17
+39353136383134	IN:PLAY_MUSIC	เล่นเพลง MacArthur Park บน Spotify ให้ฉันที	music	17
+39353130303732	IN:PLAY_MUSIC	ฉันต้องการฟังอัลบั้มล่าสุดของ Kaskade	music	17
+39353039383638	IN:PLAY_MUSIC	แสดงผลลัพธ์ของ "Classic rock"	music	17
+39353031323539	IN:PLAY_MUSIC	หา august alsina	music	17
+39353030333037	IN:PLAY_MUSIC	เล่นซาวด์แทร็กของเพอร์เพิลเรน	music	17
+39343937383734	IN:PLAY_MUSIC	ฉันต้องการฟังเพลงในทุกอัลบั้มของคริสตินา เพอร์รี่	music	17
+39343933333738	IN:PLAY_MUSIC	เล่นเพลงของวิทนี่ ฮิวส์ตัน ทั้งหมด	music	17
+39343932313230	IN:PLAY_MUSIC	ฉันขอฟังเพลงเซ็กซี่แบ็กของจัสติน ทิมเบอร์เลกได้ไหม	music	17
+39343836333131	IN:PLAY_MUSIC	ฉันอยากฟัง Toby Keith!	music	17
+39343830323331	IN:PLAY_MUSIC	ตั้งเพลย์ลิสต์เป็นเพลงคันทรี	music	17
+39343731363932	IN:PLAY_MUSIC	ขอฉันฟังคริส บราวน์ได้ไหม	music	17
+39343730383734	IN:PLAY_MUSIC	ฉันต้องการฟังเพลงร็อคคลาสสิก	music	17
+39343639383531	IN:PLAY_MUSIC	เล่นเพลงหมายเลขหนึ่งบน 100 อันดับต้นของบิลบอร์ดตอนนี้	music	17
+3232323831303039	IN:PLAY_MUSIC	เล่นเพลงของ Glen Campbell	music	17
+3232323739323530	IN:PLAY_MUSIC	โปรดเล่นเพลงของโธมัส เรตต์	music	17
+3232323731393139	IN:PLAY_MUSIC	ฉันต้องการฟัง Jeremih ใน google play music	music	17
+3231363032383935	IN:PLAY_MUSIC	เริ่มเล่น Nothing But The Beat	music	17
+3231353334333631	IN:PLAY_MUSIC	เล่น TLC ทาง iheartradio	music	17
+3231353334333236	IN:PLAY_MUSIC	เล่นเพลงของ Duran Duran บน iheartradio	music	17
+3231353233363236	IN:PLAY_MUSIC	เล่น Don't Stop Me Now โดย Tee Grizzley	music	17
+3231353233353930	IN:PLAY_MUSIC	ฉันอยากฟัง Dua Lipa	music	17
+3231353232313635	IN:PLAY_MUSIC	เล่นอัลบั้มอันทิลเดธคอลมายเนมรีโหลดดิด	music	17
+3139373936343131	IN:PLAY_MUSIC	เปิดสถานี WSVO บน iheartradio	music	17
+3139373936333337	IN:PLAY_MUSIC	เล่น 106.1	music	17
+3132353835303632	IN:PLAY_MUSIC	เล่นเพลง เอบีซี	music	17
+39353832303133	IN:PLAY_MUSIC	ช่วยเล่นเพลงฮิตเก่า ๆ ของสตีวี วันเดอร์ที	music	17
+39353831333434	IN:PLAY_MUSIC	ค้นหาเพลงนิวเอจ	music	17
+39353634373330	IN:PLAY_MUSIC	เล่นเพลงทั้งหมดของจิมมี่ เรย์ จากยุค 90 ให้หน่อย	music	17
+39353538383834	IN:PLAY_MUSIC	เล่นเพลงยุค 80	music	17
+39353434313830	IN:PLAY_MUSIC	เล่นเพลงจากสถานีวิทยุที่ฉันฟังบ่อยที่สุดบน pandora	music	17
+39353434303436	IN:PLAY_MUSIC	ฉันอยากฟังแอ็บบา	music	17
+39353432353430	IN:PLAY_MUSIC	เปิดแพนโดราแล้วค้นหาดนตรีละติน	music	17
+39353338333437	IN:PLAY_MUSIC	ช่วยเล่นเพลงของ Vybz Kartel หน่อย	music	17
+39353238363639	IN:PLAY_MUSIC	เล่นเพลย์ลิสต์เพลงร็อกของฉันบนสปอติฟาย	music	17
+39353230303939	IN:PLAY_MUSIC	ฉันอยากฟังอัลบั้มใหม่ล่าสุดของ Meek Mill	music	17
+39353133303539	IN:PLAY_MUSIC	มาฟังเพลงของแฟรงก์ ซินาตรา	music	17
+39353034343537	IN:PLAY_MUSIC	เล่นอัลบั้มใหม่ของเคช่า	music	17
+39353030323335	IN:PLAY_MUSIC	ฉันอยากฟังวง AC/DC	music	17
+39343932383535	IN:PLAY_MUSIC	ฉันต้องการฟังเพลงอินดี้	music	17
+39343839393638	IN:PLAY_MUSIC	เล่นเพลงล่าสุดของ Ed Sheeran	music	17
+39343836393037	IN:PLAY_MUSIC	เล่นทุกเพลงของ Led Zeppelin	music	17
+39343830303237	IN:PLAY_MUSIC	เล่นเพลงบลูส์	music	17
+39343738393438	IN:PLAY_MUSIC	ช่วยเล่นดนตรีพังก์หน่อย	music	17
+39343733323431	IN:PLAY_MUSIC	ค้นหาเพลงที่มีเนื้อร้องว่า "never make a pretty woman your wife"	music	17
+39343639343836	IN:PLAY_MUSIC	ค้นหาเพลย์ลิสต์ที่มีบอยแบนด์	music	17
+3232323831343839	IN:PLAY_MUSIC	เล่นเพลง Say You Won't Let Go	music	17
+3232323831323337	IN:PLAY_MUSIC	เล่นเพลงของ Childish Gambino หน่อย	music	17
+3232323831313234	IN:PLAY_MUSIC	เล่นเพลง Nevermind ของ Nirvana	music	17
+3232323830363730	IN:PLAY_MUSIC	เล่นเพลงของศิลปินดัว ลิปา	music	17
+3232323739323038	IN:PLAY_MUSIC	เล่นเพลง the remedy for a broken heart โดย Ty Dolla $ign	music	17
+3232323731383731	IN:PLAY_MUSIC	เปิด google play music และเล่นเพลงของ green day	music	17
+3231373439373734	IN:PLAY_MUSIC	เล่นเพลง I will go to you like the first snow บน iheartradio	music	17
+3231353334383932	IN:PLAY_MUSIC	เล่นเพลง A Day To Remember ใน iheartradio	music	17
+3231353334353831	IN:PLAY_MUSIC	เล่นอัลบั้ม 4 บน iheartradio	music	17
+3231353334343333	IN:PLAY_MUSIC	เล่นอัลบั้ม Unorthodox Jukebox บน iheartradio	music	17
+3231353233363231	IN:PLAY_MUSIC	เล่นอัลบั้มใหม่ของรัสส์	music	17
+3231353232373839	IN:PLAY_MUSIC	เล่นเพลงต่าง ๆ ของอีริค เชิร์ช	music	17
+3231353232313433	IN:PLAY_MUSIC	เล่นเพลง Happier	music	17
+3231353232313130	IN:PLAY_MUSIC	เล่นเพลง Leave Me Alone	music	17
+3230393939333432	IN:PLAY_MUSIC	เริ่มเปิด Spotify	music	17
+3132363132333038	IN:PLAY_MUSIC	เล่นเพลงแจ๊สเก่า ๆ	music	17
+3132353930303830	IN:PLAY_MUSIC	เปิดเพลงอีกครั้ง	music	17
+39353739383934	IN:PLAY_MUSIC	เล่นเพลงบรอดเวย์	music	17
+39353637313938	IN:PLAY_MUSIC	เปิดเพลงคันทรี่ให้หน่อย	music	17
+39353436323837	IN:PLAY_MUSIC	เล่นเพลงที่จะทำให้เด็กทารกหลับ	music	17
+39353430353836	IN:PLAY_MUSIC	เพลงเก่า ๆ ของ charlie daniels	music	17
+39353430353436	IN:PLAY_MUSIC	เล่นเพลงของ Imagine Dragons	music	17
+39353236343638	IN:PLAY_MUSIC	เล่นอัลเทอร์เนทีฟร็อก	music	17
+39353232383939	IN:PLAY_MUSIC	เล่นเพลงช้า	music	17
+39353139373430	IN:PLAY_MUSIC	เล่นเพลง Chasing Cars ของวง Snow Patrol ในแพนดอราด้วย	music	17
+39353136313736	IN:PLAY_MUSIC	ช่วยเล่นเพลง yo yo ma บน pandora หน่อย	music	17
+39353130313937	IN:PLAY_MUSIC	สปอติฟายเล่น​เพลงของมิเกล	music	17
+39353033383039	IN:PLAY_MUSIC	เล่นเฉพาะเพลงฟังสบายแนวเมลโลว์	music	17
+39353030333737	IN:PLAY_MUSIC	เล่นเพลงที่ส่งเสริมพลังของผู้หญิง	music	17
+39343836363039	IN:PLAY_MUSIC	ช่วยเล่นเพลงแนวโมทาวน์หน่อย​	music	17
+39343737313534	IN:PLAY_MUSIC	เล่นเพลงของ the Killers	music	17
+3231333933323039	IN:UPDATE_REMINDER	เปลี่ยนการแจ้งเตือนที่ชื่อว่าเติมน้ำมัน	reminder	18
+3231303133353431	IN:REPEAT_ALL_OFF_MUSIC	ปิดการเล่นเพลงซ้ำทั้งหมด	music	20
+3231303135313933	IN:END_CALL	รีบๆ หน่อย และจบการโทร ก่อนที่ฉันจะถูกเรียกเก็บเงินเกิน	calling	21
+3231363736343939	IN:END_CALL	ยุติการโทร	calling	21
+3231363736313533	IN:END_CALL	วางสายนี้	calling	21
+3231363734313530	IN:END_CALL	รอเดี๋ยว ไม่โทรแล้ว ยกเลิกการโทร	calling	21
+3231363734313034	IN:END_CALL	หยุดการโทรเดี๋ยวนี้	calling	21
+3231363138303232	IN:END_CALL	วางสาย ลีโอเนล แพม แคนเทรล	calling	21
+3231363137393935	IN:END_CALL	วางสายชอนซีย์ แอล ฟิลเบิร์น	calling	21
+3231363137393331	IN:END_CALL	วางสาย Gunnar	calling	21
+3231353438343736	IN:END_CALL	จบการโทร	calling	21
+3231353437373938	IN:END_CALL	เสร็จสิ้นการโทร	calling	21
+3231353436363835	IN:END_CALL	หยุดโทรหาพ่อ	calling	21
+3231353436353839	IN:END_CALL	ช่วยยกเลิกการโทรให้ด้วย	calling	21
+3231333530373837	IN:END_CALL	สิ้นสุดการโทรตอนนี้	calling	21
+3231333436373430	IN:END_CALL	วางสาย เพราะฉันไม่อยากคุยแล้ว	calling	21
+3231333436323937	IN:END_CALL	สิ้นสุดการโทรให้หน่อย	calling	21
+3231333435383832	IN:END_CALL	ระงับการสนทนานี้	calling	21
+3231333432333131	IN:END_CALL	วางสายเพื่อจบการสนทนา	calling	21
+3231303230313134	IN:END_CALL	ตัดสายจากแซลลี	calling	21
+3231303136393332	IN:END_CALL	โปรดสิ้นสุดการโทรนี้	calling	21
+3231303134333739	IN:END_CALL	ฉันคุยโทรศัพท์เสร็จแล้ว	calling	21
+3231363736343435	IN:END_CALL	กรุณาวางสายโทรศัพท์	calling	21
+3231363736343339	IN:END_CALL	วางสายการโทรจาก Mary	calling	21
+3231323236333137	IN:UPDATE_REMINDER_DATE_TIME	อัปเดตการแจ้งเตือนการประชุมของฉันเป็นวันพฤหัสบดีถัดไป	reminder	22
+3231323232333639	IN:UPDATE_REMINDER_DATE_TIME	โปรดแก้ไขการเตือนวันหยุดของเจ้านายฉันที่จะเริ่มในอาทิตย์หน้าเป็นวันที่ 12 เดือนหน้า	reminder	22
+3231323232333233	IN:UPDATE_REMINDER_DATE_TIME	เปลี่ยนการเตือนวันที่ไปปิคนิคจากวันเสาร์นี้ให้เป็นเสาร์หน้า	reminder	22
+3231323232313333	IN:UPDATE_REMINDER_DATE_TIME	อัปเดตการเตือนความจำของฉันให้พาลูก ๆ ไปเรียนคาราเต้ตอน 10 โมงแทน 11 โมง	reminder	22
+3231323232303632	IN:UPDATE_REMINDER_DATE_TIME	ตั้งการแจ้งเตือนเสาร์หน้า แทนวันศุกร์เพื่อลงทะเบียน 5k	reminder	22
+3231323231363639	IN:UPDATE_REMINDER_DATE_TIME	ย้ายการเตือนทั้งหมดของวันนี้ไปวันพรุ่งนี้	reminder	22
+3231323237363939	IN:UPDATE_REMINDER_DATE_TIME	ลบการแจ้งเตือนสุดสัปดาห์ของฉันและโอนไปยังสุดสัปดาห์ถัดไป	reminder	22
+3231323237323230	IN:UPDATE_REMINDER_DATE_TIME	อัปเดตการแจ้งเตือนของฉันเพื่อโทรหาโรสตอนวันศุกร์เวลา 4 โมง เวลาตามมาตรฐาน MDT	reminder	22
+3231323238343631	IN:UPDATE_REMINDER_DATE_TIME	เปลี่ยนการแจ้งเตือนให้สระผมวันพรุ่งนี้	reminder	22
+3231323238333236	IN:UPDATE_REMINDER_DATE_TIME	อัปเดตการแจ้งเตือนวันเกิดเป็นวันเสาร์	reminder	22
+3231333438343031	IN:SET_AVAILABLE	ตั้งสถานะของฉันให้เป็นว่าง	calling	23
+3231333436353339	IN:SET_AVAILABLE	เปลี่ยนสถานะของฉันให้เป็นว่าง	calling	23
+3231333436343431	IN:SET_AVAILABLE	แสดงว่าฉันกำลังใช้งานอยู่	calling	23
+3231333435353935	IN:SET_AVAILABLE	ฉันว่าง	calling	23
+3231333435313832	IN:SET_AVAILABLE	ตั้งสเตตัสว่าว่าง	calling	23
+3231333433343531	IN:SET_AVAILABLE	ฉันต้องการแสดงว่าฉันว่าง	calling	23
+3231353437363236	IN:SET_AVAILABLE	แสดงสถานะว่าฉันว่าง	calling	23
+3231333438303832	IN:SET_AVAILABLE	เปิดสถานะว่าง	calling	23
+3232343436333731	IN:GET_MESSAGE_CONTACT	ใครส่งข้อความมาหาฉัน เจอกันเร็ว ๆ นี้	messaging	24
+3232353735313432	IN:GET_MESSAGE_CONTACT	มีใครส่งข้อความหาฉันทาง Messenger หรือเปล่า	messaging	24
+3232323232343032	IN:SHARE_EVENT	ส่งการเปิดตัวหนังสือ Insurgent Empire ให้ Logan	event	25
+3232323232333830	IN:SHARE_EVENT	แชร์ Paws to Party กับ Kira	event	25
+3232323232343536	IN:SHARE_EVENT	แชร์กิจกรรมแรกกับมอลลี่	event	25
+3231373530383433	IN:GET_ATTENDEE_EVENT	มีเพื่อนคนไหนของฉันจะไป Trash Party ไหม?	event	27
+3231373530383338	IN:GET_ATTENDEE_EVENT	มีเพื่อนคนไหนของฉันกำลังไปที่ทาโก้แคตหรือไม่?	event	27
+3231373530383334	IN:GET_ATTENDEE_EVENT	ใครกำลังไปที่ Po' Boy Pop-Up บ้าง	event	27
+3138383931353333	IN:GET_INFO_RECIPES	มาร์ซาลาไก่มีส่วนผสมอะไรบ้าง	recipes	28
+3138383931333032	IN:GET_INFO_RECIPES	ส่วนผสมของแป้งทำพิซซ่ามีอะไรบ้าง	recipes	28
+3137353031313437	IN:GET_INFO_RECIPES	คุณเติมความชื้นให้แก่ผลไม้อบแห้งอย่างไร	recipes	28
+3133343139313339	IN:GET_INFO_RECIPES	ผักอะไรที่ใช้ในสตูว์	recipes	28
+3133343130363931	IN:GET_INFO_RECIPES	ฉันจะทำข้าวโอ๊ตในหม้ออบอาหารพร้อมรับประทานได้อย่างไร	recipes	28
+3133343130313931	IN:GET_INFO_RECIPES	สเต็กไก่ทอดมีกี่แคลเลอรี่	recipes	28
+3133323735343533	IN:GET_INFO_RECIPES	ใช้ไมโครเวฟหุงข้าวยังงัย	recipes	28
+3132383135323231	IN:GET_INFO_RECIPES	ซอสทาร์ทาร์มีส่วนผสมอะไรบ้าง	recipes	28
+3132363236393636	IN:GET_INFO_RECIPES	กล้วย 100 กรัมมีคาร์โบไฮเดรตเท่าไหร่	recipes	28
+39343632333332	IN:GET_INFO_RECIPES	เฝอใส่อะไรบ้าง	recipes	28
+39343631373839	IN:GET_INFO_RECIPES	มีอะไรอยู่ในทามาเล่บ้าง	recipes	28
+39343631373837	IN:GET_INFO_RECIPES	ฉันจะทำซิติอบนานแค่ไหน	recipes	28
+39343631353732	IN:GET_INFO_RECIPES	ส่วนผสมของชา kombucha มีอะไรบ้าง	recipes	28
+39343539343232	IN:GET_INFO_RECIPES	ซี่โครงจะสุกที่อุณหภูมิเท่าใด	recipes	28
+39343538323034	IN:GET_INFO_RECIPES	ฉันจะทำใช้เวลาในการทำเนื้อสันในหมูนานแค่ไหน	recipes	28
+39343537343530	IN:GET_INFO_RECIPES	มีอะไรบ้างในซอสตาฮินี	recipes	28
+39343536333933	IN:GET_INFO_RECIPES	ส่วนผสมของไก่อัลเฟรโดมีอะไรบ้าง	recipes	28
+39343535303636	IN:GET_INFO_RECIPES	ต้องใช้ส่วนผสมอะไรในการทำวาฟเฟิล	recipes	28
+39343532383937	IN:GET_INFO_RECIPES	น้ำมันหรือเนยเทียมดีต่อสุขภาพมากกว่ากัน	recipes	28
+39343532353638	IN:GET_INFO_RECIPES	น้ำมันประเภทไหนที่ดีต่อสุขภาพมากที่สุด	recipes	28
+39343531323535	IN:GET_INFO_RECIPES	วิธีทำมีทโลฟใช้อุณหภูมิเท่าไร	recipes	28
+39343530313733	IN:GET_INFO_RECIPES	ส่วนผสมของสตูว์เนื้อวัวมีอะไรบ้าง	recipes	28
+3138383934363938	IN:GET_INFO_RECIPES	ส่วนผสมในซัลซามะม่วงพีชมีอะไรบ้าง	recipes	28
+3133343635323433	IN:GET_INFO_RECIPES	มีส่วนผสมอะไรบ้างในลาเต้	recipes	28
+3133343138373939	IN:GET_INFO_RECIPES	ฉันต้องใส่น้ำเท่าไหร่สำหรับการอบในหม้อตุ๋นไฟฟ้า	recipes	28
+3133323737323036	IN:GET_INFO_RECIPES	ส่วนผสมในการทำรีซอตโตเห็ด	recipes	28
+3132353534373833	IN:GET_INFO_RECIPES	ฉันต้องใช้เครื่องเทศอะไรบ้างสำหรับใส่ทาโก้	recipes	28
+39343631333732	IN:GET_INFO_RECIPES	รายการส่วนผสมสำหรับบลูเบอร์รี่ มัฟฟิน	recipes	28
+39343630353734	IN:GET_INFO_RECIPES	ซอสเพสโต้มีส่วนผสมอะไรบ้าง	recipes	28
+39343539343735	IN:GET_INFO_RECIPES	บราวนี่ใส่เกลือเยอะแค่ไหน	recipes	28
+39343537303731	IN:GET_INFO_RECIPES	ฉันควรใช้อุณหภูมิกี่องศาอบพิซซ่าหน้าชีส	recipes	28
+39343533353935	IN:GET_INFO_RECIPES	ควรอบคุกกี้ที่อุณหภูมิเท่าไร	recipes	28
+39343532313932	IN:GET_INFO_RECIPES	อุณหภูมิที่เหมาะสำหรับการปรุงหมูให้สุกคือเท่าไหร่	recipes	28
+39343531333436	IN:GET_INFO_RECIPES	เราตั้งอุณหภูมิไว้ที่เท่าไหร่	recipes	28
+3138383934393135	IN:GET_INFO_RECIPES	ส่วนผสมของ sloppy joe	recipes	28
+3138383931373637	IN:GET_INFO_RECIPES	มีอะไรอยู่ในไข่ม้วนกันแน่	recipes	28
+3135323835343338	IN:GET_INFO_RECIPES	น้ำตาลทรายแดงทำมาจากอะไร	recipes	28
+3133343139313139	IN:GET_INFO_RECIPES	สเต็กมีเดียมแรร์มีอุณหภูมิเท่าไหร่	recipes	28
+3133323735333237	IN:GET_INFO_RECIPES	ควรปรุงสะโพกไก่ที่อุณหภูมิเท่าไหร่	recipes	28
+3132363235393433	IN:GET_INFO_RECIPES	เปลี่ยนจากพาร์สลีย์สด 1/2 ถ้วยเป็นพาร์สลีย์แห้ง	recipes	28
+39343632313031	IN:GET_INFO_RECIPES	อุณหภูมิขณะพักของไก่งวงควรเป็นเท่าไหร่	recipes	28
+39343631313333	IN:GET_INFO_RECIPES	ไก่สุกที่อุณหภูมิเท่าไหร่	recipes	28
+39343539343137	IN:GET_INFO_RECIPES	มีตโลฟต้องใช้เวลาปรุงนานแค่ไหน	recipes	28
+39343538323639	IN:GET_INFO_RECIPES	ฉันต้องใช้ส่วนผสมอะไรในการทำพายแอปเปิล	recipes	28
+39343533343630	IN:GET_INFO_RECIPES	ข้อมูลสารอาหารสำหรับไก่มีอะไรบ้าง	recipes	28
+39343533343232	IN:GET_INFO_RECIPES	ในน้ำซุปเนื้อมีอะไรอยู่บ้าง	recipes	28
+3139343332353530	IN:GET_LIFE_EVENT	เคลลี โรว์แลนด์แต่งงานแล้วหรือยัง?	people	29
+3231373237393139	IN:DISLIKE_MUSIC	ไม่ชอบเพลงนี้	music	30
+3231353439303236	IN:DELETE_ALARM	คุณสามารถยกเลิกการเตือนที่กำลังจะมาถึงได้หรือไม่?	alarm	31
+3135323939343732	IN:DELETE_ALARM	ยกเลิกการเตือนเวลาทั้งหมด	alarm	31
+39353030323539	IN:DELETE_ALARM	ลบการตั้งปลุกปัจจุบัน	alarm	31
+39343933373933	IN:DELETE_ALARM	ยกเลิกนาฬิกาปลุกทั้งหมดในวันอาทิตย์	alarm	31
+3231363331323439	IN:DELETE_ALARM	ยกเลิกการปลุกไปซะ	alarm	31
+3231363330383337	IN:DELETE_ALARM	ยกเลิกการแจ้งเตือนของฉัน	alarm	31
+39353739393035	IN:DELETE_ALARM	ล้างรายการตั้งปลุกทั้งหมด	alarm	31
+3231363330393836	IN:DELETE_ALARM	ยกเลิกการตั้งปลุกที่ตั้งไว้แล้วทั้งหมด	alarm	31
+3231353439303738	IN:DELETE_ALARM	ยกเลิกนาฬิกาปลุกในตอนเช้าของฉันสำหรับวันพรุ่งนี้	alarm	31
+3232343532353338	IN:SET_RSVP_YES	กำลังไปเทศกาลเดอะโอลีฟ	event	32
+3232343533323230	IN:SET_RSVP_YES	กรุณาตอบรับสำหรับอีเวนต์ที่สาม	event	32
+3232343532393032	IN:SET_RSVP_YES	กำลังไปเทศกาลโอลิมปิกเพ็นนินซูลาแอปเปิลแอนด์ไซเดอร์	event	32
+3232343532363633	IN:SET_RSVP_YES	ทําเครื่องหมายว่าฉันไปงานประชุม Sea-Meow	event	32
+3232343533373030	IN:SET_RSVP_YES	ตอบตกลงกับกิจกรรมที่ห้า	event	32
+3232343533313838	IN:SET_RSVP_YES	ตั้งสถานะของฉันว่าจะไปที่ Planet Home	event	32
+3132363138373538	IN:ADD_TO_PLAYLIST_MUSIC	เพิ่มเพลงนี้ในรายการโปรดของฉัน	music	33
+39353034303631	IN:ADD_TO_PLAYLIST_MUSIC	เพิ่มไปยังแพนโดรา	music	33
+3232353833383933	IN:GET_MESSAGE	แสดงข้อความจากพี่น้องของฉัน	messaging	34
+3232353832393132	IN:GET_MESSAGE	กลุ่มสำนักงานส่งข้อความถึงฉันไหมในสัปดาห์ที่ผ่านมา	messaging	34
+3232353832333434	IN:GET_MESSAGE	แสดงข้อความของฉันจากคาลวิน	messaging	34
+3232353832313739	IN:GET_MESSAGE	ให้ฉันดูข้อความจากแม่ของฉัน เคย์สัน	messaging	34
+3232353832303338	IN:GET_MESSAGE	รับข้อความจากคุณย่าเฮเวนของฉัน	messaging	34
+3232353735333231	IN:GET_MESSAGE	กู้ข้อความของฉันบน Facebook	messaging	34
+3232353735323034	IN:GET_MESSAGE	แอนส่งอะไรมาให้ฉันทาง WhatsApp หรือยัง	messaging	34
+3231363039353735	IN:GET_MESSAGE	แสดงข้อความของฉัน	messaging	34
+3231363039333930	IN:GET_MESSAGE	แสดงข้อความให้ฉันดู	messaging	34
+3231333932393238	IN:GET_MESSAGE	ฉันอยากให้เกร็กตอบกลับวันนี้	messaging	34
+3231333637363532	IN:GET_MESSAGE	อ่านข้อความนี้แทน	messaging	34
+3231323830323732	IN:GET_MESSAGE	อ่านข้อความจากสัปดาห์ที่แล้วให้ฉันฟังหน่อย	messaging	34
+3231323739383735	IN:GET_MESSAGE	อ่านข้อความจากพ่อตั้งแต่เมื่อวานนี้	messaging	34
+3231323738343438	IN:GET_MESSAGE	ฉันได้รับข้อความจากเควิน ลี อ็อกซ์บ้างไหมในสัปดาห์นี้	messaging	34
+3231323737313237	IN:GET_MESSAGE	อ่านข้อความของเมื่อวาน	messaging	34
+3232353832323535	IN:GET_MESSAGE	ให้ฉันดูข้อความจากเฮนรี	messaging	34
+3232353832323334	IN:GET_MESSAGE	แสดงข้อความของฉันจาก Bella	messaging	34
+3232353832323139	IN:GET_MESSAGE	มาดูข้อความจากแองเจิล ลูกชายของฉันกัน	messaging	34
+3232353832313436	IN:GET_MESSAGE	แสดงข้อความวิดีโอจากปู่กันเนอร์ของฉัน	messaging	34
+3232353832313237	IN:GET_MESSAGE	ข้อความจากคุณปู่วิเวียน่าว่ายังไงบ้าง	messaging	34
+3232353832313032	IN:GET_MESSAGE	แสดงข้อความวิดีโอจากเฟอร์นันโด ลูกพี่ลูกน้องของฉัน	messaging	34
+3232353734353938	IN:GET_MESSAGE	วอลเลนบี้ได้ส่งอะไรให้ฉันผ่านเฟซบุ๊กหรือเปล่า	messaging	34
+3232313734363037	IN:GET_MESSAGE	อาทิตย์นี้ฉันได้ข้อความอะไรจากป้าของฉันบ้างหรือเปล่า	messaging	34
+3231343937353238	IN:GET_EVENT	จะมีการแข่งขันวอลเลย์บอลเกิดขึ้นเร็ว ๆ นี้ไหม	event	35
+3139393839363835	IN:GET_EVENT	เกิดอะไรขึ้นในบรันสวิกในคืนพรุ่งนี้	event	35
+3139393839363736	IN:GET_EVENT	งานดนตรีในฟีนิกซ์เดือนหน้า	event	35
+3139393839363636	IN:GET_EVENT	ฉันจะไปดูอะไรได้บ้างในแทมปาสุดสัปดาห์หน้า	event	35
+3139393839363238	IN:GET_EVENT	โอเปร่าในฟอร์ท เวิร์ธ วันเสาร์	event	35
+3139393839363133	IN:GET_EVENT	สัปดาห์หน้ามีงานอะไรบ้างในนิว โรเชล	event	35
+3139393839323534	IN:GET_EVENT	ละครเพลงใน Windham สุดสัปดาห์นี้	event	35
+3139393839303635	IN:GET_EVENT	มีอะไรน่าทำในชิคาโกในวันขอบคุณพระเจ้า	event	35
+3139393838363632	IN:GET_EVENT	จะเกิดอะไรขึ้นบ้างในไมอามีสุดสัปดาห์นี้	event	35
+3139393838353436	IN:GET_EVENT	คืนนี้มีอะไรให้ทำบ้างที่ตัวเมืองออร์แลนด์โด	event	35
+3139393838323237	IN:GET_EVENT	กิจกรรมสุดสัปดาห์นี้ในนาบาร์รา	event	35
+3139393838313437	IN:GET_EVENT	มีอะไรทำที่ Headland ในคืนวันศุกร์ไหม	event	35
+3139393838303838	IN:GET_EVENT	การแสดงวงดนตรีของโรงเรียนในวันพรุ่งนี้ที่ Macomb	event	35
+3139393837383936	IN:GET_EVENT	มีอะไรน่าสนใจให้ทำในโอคอนโต้คืนนี้	event	35
+3139393837373831	IN:GET_EVENT	สิ่งที่น่าทำในพอร์ตแลนด์วันหยุดสุดสัปดาห์นี้	event	35
+3139393837373537	IN:GET_EVENT	อะไรจะเกิดขึ้นที่กรุงเอเธนส์ในสองอาทิตย์	event	35
+3139393837363233	IN:GET_EVENT	วันเสาร์มีคอนเสิร์ตอะไรในออสติน	event	35
+3139393837343631	IN:GET_EVENT	สิ่งที่ต้องทำในซีไอส์แลนด์คืนวันศุกร์ถัดไป	event	35
+3139393837313830	IN:GET_EVENT	การแสดงคอนเสิร์ตสดวันเสาร์อาทิตย์นี้	event	35
+3139393837303830	IN:GET_EVENT	งานที่ Jacksonville ในคืนนี้	event	35
+3139393836393030	IN:GET_EVENT	สิ่งที่ทำได้ใน Burbank ในสัปดาห์หน้า	event	35
+3139393836353738	IN:GET_EVENT	สุดสัปดาห์หน้าจะมีอะไรเกิดขึ้น	event	35
+3139393836353535	IN:GET_EVENT	สุดสัปดาห์นี้มีอะไรที่ซานฟรานซิสโกบ้าง	event	35
+3139393836313331	IN:GET_EVENT	งานดนตรีสุดสัปดาห์นี้ที่เคิร์กแลนด์	event	35
+3139393835393931	IN:GET_EVENT	มีงานอะไรบ้างในกราฟทันสำหรับวันหยุดสุดสัปดาห์นี้	event	35
+3139393835393730	IN:GET_EVENT	คอนเสิร์ตในนิวยอร์ก	event	35
+3139393835373036	IN:GET_EVENT	มีอะไรสนุก ๆ ให้ทำในสัปดาห์นี้ไหม	event	35
+3139393835333534	IN:GET_EVENT	มีอะไรให้ทำบ้างในซาน ฟรานซิสโกสำหรับสุดสัปดาห์นี้	event	35
+3139393834313338	IN:GET_EVENT	งานยกเลิกเพราะไฟไหม้ใช่ไหม	event	35
+3139393833373734	IN:GET_EVENT	งานแฟร์มีขึ้นที่ ann arbor สัปดาห์หน้า	event	35
+3139393833313933	IN:GET_EVENT	งานวันเสาร์	event	35
+3139393833303939	IN:GET_EVENT	สิ่งที่น่าทำในลอส แองเจลลิส สุดสัปดาห์นี้	event	35
+3139393832393435	IN:GET_EVENT	บอกฉันว่าเกิดอะไรขึ้นในแทมปาในเดือนหน้า	event	35
+3139393832383938	IN:GET_EVENT	สิ่งที่น่าทำในออร์แลนโด้ในสัปดาห์หน้า	event	35
+3139393832373935	IN:GET_EVENT	งานแสดงดนตรีในซีแอตเติลสำหรับวันศุกร์นี้	event	35
+3139393832363439	IN:GET_EVENT	คืนนี้ที่ชิคาโก้มีอะไรบ้าง	event	35
+3139393832303532	IN:GET_EVENT	แนะนำสิ่งที่ต้องทำ	event	35
+3139393831363334	IN:GET_EVENT	มีคอนเสิร์ตอะไรบ้างในแนชวิลสุดสัปดาห์นี้	event	35
+3139393831353138	IN:GET_EVENT	สิ่งที่มีให้ทำที่ซานตาครูซวันเสาร์	event	35
+3139393831323931	IN:GET_EVENT	สิ่งที่ต้องทำวันนี้	event	35
+3139393831313734	IN:GET_EVENT	มีอะไรสนุก ๆ ให้ทำคืนพรุ่งนี้ไหม	event	35
+3139393830373034	IN:GET_EVENT	บอกฉันทีว่ามีเทศกาลอาหารอะไรที่จะจัดขึ้นในเดือนกันยายนที่ Des Moines	event	35
+3139393830333237	IN:GET_EVENT	มีอะไรสนุกเกิดขึ้นวันนี้	event	35
+3139393739393239	IN:GET_EVENT	มีอะไรน่าสนใจที่จะทำในสัปดาห์นี้ไหม	event	35
+3139393739383938	IN:GET_EVENT	ฉันต้องการทำอะไรบางอย่างคืนนี้	event	35
+3139393739363639	IN:GET_EVENT	สัปดาห์นี้ใครเล่นคอนเสิร์ตในแอตแลนต้า	event	35
+3139393739363132	IN:GET_EVENT	มีการแสดงสดอะไรที่ยังมีตั๋วเหลือในสัปดาห์นี้ไหม	event	35
+3139393739353432	IN:GET_EVENT	ฉันจะสนุกในตอนเช้าได้ที่ไหน	event	35
+3139393739323630	IN:GET_EVENT	บอกฉันเกี่ยวกับสิ่งที่เกิดขึ้นในแอตแลนตาคืนนี้	event	35
+3139393739303730	IN:GET_EVENT	มีอะไรน่าทำในคลีฟแลนด์ช่วงสุดสัปดาห์หน้า	event	35
+3139393739303237	IN:GET_EVENT	วันหยุดสุดสัปดาห์นี้มีงานอะไรในท้องถิ่นบ้าง	event	35
+3139393738393534	IN:GET_EVENT	สิ่งที่มีให้ทำที่แอตแลนตา จอร์เจียสุดสัปดาห์นี้	event	35
+3139393738373131	IN:GET_EVENT	งานเลี้ยงในซาน ฟรานซิสโกตลอดเดือนธันวาคม	event	35
+3139393738363839	IN:GET_EVENT	ดูหนังที่เซาท์ธิงตันคืนนี้	event	35
+3139393738363737	IN:GET_EVENT	มีงานอะไรที่ชายหาด Huntington เสาร์อาทิตย์นี้	event	35
+3139393738323839	IN:GET_EVENT	สิ่งที่น่าทำในบอสตันคืนนี้	event	35
+3139393738323331	IN:GET_EVENT	มีคอนเสิร์ตอะไรบ้างที่โอมาฮา	event	35
+3139393737383933	IN:GET_EVENT	กิจกรรมกลางแจ้งวันหยุดสุดสัปดาห์นี้	event	35
+3139393737373736	IN:GET_EVENT	อาทิตย์นี้จะมีโชว์ตลกอะไรบ้าง	event	35
+3139393737363932	IN:GET_EVENT	หนังที่ฉายในคืนนี้	event	35
+3139393737333939	IN:GET_EVENT	มีการแสดงดนตรีสดดี ๆ ไหมคืนนี้	event	35
+3139393737323439	IN:GET_EVENT	ช่วยฉันค้นหากิจกรรมสำหรับสุดสัปดาห์ถัดไป	event	35
+3139393737313539	IN:GET_EVENT	ปาร์ตี้สุดเจ๋งสุดสัปดาห์นี้	event	35
+3139393736373235	IN:GET_EVENT	โชว์โอเปรามีคืนนี้	event	35
+3139393736373137	IN:GET_EVENT	มีอะไรสนุก ๆ เกิดขึ้นในเดือนนี้ไหม	event	35
+3139393736343633	IN:GET_EVENT	พรุ่งนี้มีงานอะไรบ้าง	event	35
+3231373530333933	IN:GET_EVENT	มีงานแสดงรถยนต์เพิ่มเติมบ้างไหม	event	35
+3231343937353635	IN:GET_EVENT	มีการแข่งขันกีฬาอะไรในเดือนพฤษภาคมบ้าง	event	35
+3231343937353032	IN:GET_EVENT	มีการแข่งขันเทนนิสที่จะจัดขึ้นเร็ว ๆ นี้บ้างไหม	event	35
+3231343937333431	IN:GET_EVENT	แมตช์บาสเกตบอลอะไรกำลังแข่งกันอยู่	event	35
+3231343937333235	IN:GET_EVENT	มีการแข่งขันกีฬาในเดือนพฤศจิกายนหรือเปล่า	event	35
+3231343937333032	IN:GET_EVENT	เกมรักบี้ใด ๆ ที่จะมีขึ้น	event	35
+3231343937323435	IN:GET_EVENT	บอกฉันว่าจะมีการจัดการแข่งขันบาสเกตบอลอะไรในเดือนตุลาคม	event	35
+3139393839383139	IN:GET_EVENT	สิ่งที่ให้ทำในไมอามีเสาร์อาทิตย์นี้	event	35
+3139393839383038	IN:GET_EVENT	คอนเสิร์ตที่เบอร์แบงค์เสาร์อาทิตย์นี้	event	35
+3139393839373238	IN:GET_EVENT	งานต่างๆ ที่แอนแลนติกซิตี้คืนพรุ่งนี้	event	35
+3139393839373139	IN:GET_EVENT	เสาร์อาทิตย์นี้มีอะไรน่าตื่นเต้นใน New Hope บ้าง	event	35
+3139393839303033	IN:GET_EVENT	สัปดาห์หน้าใน phoenix	event	35
+3139393838343034	IN:GET_EVENT	มีอะไรให้ทำในโบลเดอร์เสาร์อาทิตย์นี้	event	35
+3139393837333935	IN:GET_EVENT	พรุ่งนี้ในโคลัมบัส	event	35
+3139393836383636	IN:GET_EVENT	งานอีเวนต์อะไรบ้างที่จะจัดขึ้นในเย็นวันพรุ่งนี้	event	35
+3139393836373434	IN:GET_EVENT	วันนี้ฉันควรทำอะไร	event	35
+3139393836313236	IN:GET_EVENT	สิ่งที่ต้องทำในแอตแลนตาพรุ่งนี้	event	35
+3139393835313234	IN:GET_EVENT	มีการแสดงอะไรบ้างในสุดสัปดาห์นี้	event	35
+3139393834393534	IN:GET_EVENT	มีเพลงเล่นสดคืนนี้ไหม	event	35
+3139393834363537	IN:GET_EVENT	มีอะไรเกิดขึ้นบ้างที่เดนเวอร์ในคืนวันพฤหัสบ​ดี​​	event	35
+3139393834323135	IN:GET_EVENT	สิ่งที่ให้ทำในฮาวายคืนนี้	event	35
+3139393834303930	IN:GET_EVENT	ทำอะไรดีที่โฮโนลูลูคืนวันศุกร์	event	35
+3139393833383539	IN:GET_EVENT	สิ่งที่ต้องทำในแฮตตีส์เบิร์กสุดสัปดาห์​นี้	event	35
+3139393833363737	IN:GET_EVENT	มีอะไรในนิวออร์ลีนส์คืนนี้	event	35
+3139393833363631	IN:GET_EVENT	พรุ่งนี้มีอะไรสนุก ๆ ไหม	event	35
+3139393833343839	IN:GET_EVENT	วันพรุ่งนี้มีอะไรบ้าง	event	35
+3139393833313631	IN:GET_EVENT	มีปาร์ตี้อะไรในนิวยอร์กคืนนี้	event	35
+3139393831363132	IN:GET_EVENT	ปาร์ตี้ที่จะจัดขึ้นในเสาร์อาทิตย์นี้	event	35
+3139393830373735	IN:GET_EVENT	มีอะไรเกิดขึ้นบ้างในโทรอนโตคืนนี้	event	35
+3139393830363035	IN:GET_EVENT	คืนนี้มีอะไรในลอสแองเจลิสบ้าง	event	35
+3139393830363034	IN:GET_EVENT	ฉันไม่มีอะไรทำ มีอะไรสนุก ๆ อยู่บ้างตอนนี้	event	35
+3139393830323631	IN:GET_EVENT	คืนนี้มีอีเวนต์อะไรบ้างในเมืองเทราต์เดล	event	35
+3139393739373131	IN:GET_EVENT	พรุ่งนี้มีอะไร	event	35
+3139393739363138	IN:GET_EVENT	คืนนี้มีอะไรสนุก ๆ บ้างไหม	event	35
+3139393739333934	IN:GET_EVENT	อาทิตย์หน้ามีอะไรเจ๋ง ๆ ใน bayside บ้างไหม	event	35
+3139393739333334	IN:GET_EVENT	เหตุการณ์ที่เกิดขึ้นในช่วงปลายเดือนที่ Atlanta	event	35
+3139393739323432	IN:GET_EVENT	คอนเสิร์ตอะไรบ้างที่จะจัดขึ้นที่ Denver ในเดือนเมษายน	event	35
+3139393739303139	IN:GET_EVENT	งานคอมเมดี้ในแคลิฟอร์เนีย	event	35
+3139393738393039	IN:GET_EVENT	มีอะไรเกิดขึ้นบ้างใน San Jose คืนนี้	event	35
+3139393738383332	IN:GET_EVENT	พรุ่งนี้จะมีอะไรเจ๋ง ๆ ในสปริงฟิลด์บ้าง	event	35
+3139393738333338	IN:GET_EVENT	เรื่องสนุกให้ทำใน Olean เสาร์อาทิตย์นี้	event	35
+3139393737313533	IN:GET_EVENT	อาทิตย์นี้มีคอนเสิร์ตอะไรบ้างไหม	event	35
+3139393736373937	IN:GET_EVENT	มีอะไรให้ทำบ้าง	event	35
+3139393736333830	IN:GET_EVENT	งานเลี้ยงจะจัดขึ้นพรุ่งนี้	event	35
+3232323232323733	IN:GET_EVENT	ช่วยหากิจกรรมที่คล้ายกับ Children's Fest เพิ่มเติมให้อีกได้ไหม	event	35
+3231373530333133	IN:GET_EVENT	แนะนำเกมฮ็อกกี้น้ำแข็งใน Joplin สำหรับวันศุกร์ให้หน่อย	event	35
+3139393930303839	IN:GET_EVENT	คืนนี้มีอะไรเกิดขึ้นบ้างในเมืองแคนซัส	event	35
+3231353438343739	IN:HOLD_CALL	พักสายปัจจุบันจากพอลลี	calling	36
+3138393839363436	IN:GET_EDUCATION_TIME	แดเนียลเริ่มเข้ามหาวิทยาลัยชิคาโกเมื่อไหร่	people	37
+3138393931353836	IN:GET_EDUCATION_TIME	Wind in หลานสาวของฉันจะเข้าเรียนที่มหาวิทยาลัยดีทรอยต์	people	37
+3138393930363134	IN:GET_EDUCATION_TIME	อแมนด้าไปดับเบิลยูเอ็นอียูเมื่อไร	people	37
+39343836343230	IN:GET_WEATHER	อากาศที่ฮิวสตันวันพรุ่งนี้	weather	38
+39343836313636	IN:GET_WEATHER	อุณหภูมิเฉลี่ยสำหรับเดือนนี้คือเท่าไหร่	weather	38
+39343737373530	IN:GET_WEATHER	พายุเฮอริเคนกำลังมุ่งหน้าไปยังอเมริการึเปล่า	weather	38
+3232353035323032	IN:GET_WEATHER	สภาพอากาศตอน 9 โมงจะเป็นอย่างไร	weather	38
+3232353035313934	IN:GET_WEATHER	อากาศช่วง 7 โมงเช้านี้เป็นอย่างไร	weather	38
+3232343330373131	IN:GET_WEATHER	บอกเกี่ยวกับอากาศสำหรับทั้งอาทิตย์	weather	38
+3232313432393335	IN:GET_WEATHER	พยากรณ์อากาศสำหรับ Medlar โดย Wesham	weather	38
+3231393232383935	IN:GET_WEATHER	แนะนำให้ใส่เสื้อกั๊กหรือไม่	weather	38
+3231363431353539	IN:GET_WEATHER	อากาศเป็นฟาเรนไฮต์หรือ	weather	38
+3231363431343434	IN:GET_WEATHER	บอกอุณหภูมิให้ฉันรู้เป็นเซลเซียส	weather	38
+3231363431343339	IN:GET_WEATHER	บอกสภาพอากาศในหน่วยเซลเซียสหน่อย	weather	38
+3231363431303138	IN:GET_WEATHER	อากาศตอนตี 5 จะหนาวแค่ไหน	weather	38
+3231363430393830	IN:GET_WEATHER	ช่วยบอกสภาพอากาศตอน 10 โมงเช้าหน่อย	weather	38
+3231363430383331	IN:GET_WEATHER	ฉันจำเป็นต้องรู้เกี่ยวกับการพยากรณ์อากาศในอีก 10 วันข้างหน้า	weather	38
+3231363430353830	IN:GET_WEATHER	อากาศเป็นอย่างไร?	weather	38
+3231363430343932	IN:GET_WEATHER	อ่านเรื่องเกี่ยวกับสภาพอากาศให้ฉันฟัง	weather	38
+3231363430343930	IN:GET_WEATHER	และอากาศจะเป็นอย่างไร	weather	38
+3231363430313536	IN:GET_WEATHER	คืนนี้ฉันควรเอาเสื้อคาดิแกนไปด้วยไหม	weather	38
+3231363339393132	IN:GET_WEATHER	ในช่วงคริสต์มาส อากาศในแคลิฟอร์เนียจะหนาวพอให้ใส่เสื้อแจ็คเก็ตไหม?	weather	38
+3231363339383637	IN:GET_WEATHER	พยากรณ์อากาศสำหรับวันจันทร์นี้มีว่าอย่างไร	weather	38
+3231363339373839	IN:GET_WEATHER	จะมีหิมะตกที่ภูเขาฟูจิพรุ่งนี้ตอนเที่ยงหรือไม่?	weather	38
+3231363339373835	IN:GET_WEATHER	ช่วยบอกพยากรณ์อากาศของเพิร์ทวันพรุ่งนี้ให้ฉันหน่อย	weather	38
+3231363339363635	IN:GET_WEATHER	ช่วยบอกพยากรณ์อากาศของเสาร์อาทิตย์นี้ด้วย	weather	38
+3231363339323834	IN:GET_WEATHER	บอกฉันทีว่าสภาพอากาศใน Queensland เป็นอย่างไรบ้าง?	weather	38
+3231363339313736	IN:GET_WEATHER	ช่วยบอกสภาพอากาศในเท็กซัสหน่อย	weather	38
+3231363339313137	IN:GET_WEATHER	ฉันอยากรู้พยากรณ์อากาศสำหรับ 7 วัน	weather	38
+3231363339303632	IN:GET_WEATHER	นี่ กรุณาแสดงพยากรณ์อากาศของวันพรุ่งนี้	weather	38
+3231363339303037	IN:GET_WEATHER	พยากรณ์อากาศสำหรับวันเสาร์นี้เป็นอย่างไร	weather	38
+3231363338393331	IN:GET_WEATHER	พรุ่งนี้พยากรณ์อากาศเป็นยังไง?	weather	38
+3231363338373531	IN:GET_WEATHER	ฟิจิอากาศเป็นอย่างไร	weather	38
+3231363338373335	IN:GET_WEATHER	วานูอาตูมีฝนตกไหม	weather	38
+3231363338363834	IN:GET_WEATHER	บอกฉันทีว่าสภาพอากาศในนิวซีแลนด์เป็นอย่างไร	weather	38
+3231363338363332	IN:GET_WEATHER	พยากรณ์อากาศที่เม็กซิโก	weather	38
+3231363338343435	IN:GET_WEATHER	บอกฉันทีสิว่าอากาศที่ปารีส ฝรั่งเศส ว่าเป็นอย่างไร	weather	38
+3231363338323936	IN:GET_WEATHER	อากาศใน Dunedin เป็นอย่างไร?	weather	38
+3231353938343135	IN:GET_WEATHER	โปรดเช็คอากาศที่ออนตาริโอตอนนี้	weather	38
+3231353938323837	IN:GET_WEATHER	อากาศเป็นอย่างไรบ้าง?	weather	38
+3231353938323339	IN:GET_WEATHER	มันร้อนแค่ไหน	weather	38
+3231353938303830	IN:GET_WEATHER	พยากรณ์อากาศจะเป็นยังไงในช่วงวันเสาร์บ่าย	weather	38
+3231353937343233	IN:GET_WEATHER	แสดงอากาศตอนเที่ยง	weather	38
+3231353937333431	IN:GET_WEATHER	ฉันอยากรู้สภาพอากาศช่วงบ่ายนี้	weather	38
+3231353936383637	IN:GET_WEATHER	เสาร์อาทิตย์นี้โทรอนโตอากาศร้อนแค่ไหน	weather	38
+3231353936383533	IN:GET_WEATHER	พยากรณ์อากาศเสาร์อาทิตย์นี้	weather	38
+3231353539363833	IN:GET_WEATHER	บอกข้อมูลอากาศให้ฉันรู้	weather	38
+3231353539363736	IN:GET_WEATHER	บอกให้ฉันรู้เกี่ยวกับอากาศของวันนี้	weather	38
+3231353539343936	IN:GET_WEATHER	ฉันจำเป็นต้องใช้ร่มเมื่อออกไปข้างนอกคืนนี้หรือไม่?	weather	38
+3231353539313534	IN:GET_WEATHER	บอกสภาพอากาศที่แบล็คพูลในช่วงสุดสัปดาห์นี้ให้ฉัน	weather	38
+3231353539313139	IN:GET_WEATHER	ฉันขอดูข้อมูลอากาศในลอนดอนสำหรับวันเสาร์ที่ 18	weather	38
+3231353539303533	IN:GET_WEATHER	คาดว่าจะมีสภาพอากาศใดในวันศุกร์นี้เวลา 20:00 น.?	weather	38
+3231353538373439	IN:GET_WEATHER	พยากรณ์อากาศสำหรับ วันอีสเตอร์ในสกอตแลนด์เป็นอย่างไรบ้าง	weather	38
+3231353538323838	IN:GET_WEATHER	สภาพอากาศเวลา 9.00 น.	weather	38
+3231353538323132	IN:GET_WEATHER	อากาศจะเป็นยังงัยในอีกหนึ่งชั่วโมง	weather	38
+3231353538313235	IN:GET_WEATHER	ฉันต้องการทราบพยากรณ์อากาศสำหรับเวลา 9 น.	weather	38
+3231353537363731	IN:GET_WEATHER	สวัสดี บอท ช่วยบอกอากาศที่นิวยอร์คในสหรัฐอเมริกาให้หน่อย	weather	38
+3231353537363533	IN:GET_WEATHER	ตอนนี้ที่เรโนฝนกำลังตกอยู่ไหม?	weather	38
+3231353537363439	IN:GET_WEATHER	อากาศในฟลอริด้าเป็นอย่างไร?	weather	38
+3231353537343830	IN:GET_WEATHER	อากาศวันเสาร์อาทิตย์จะเป็นยังงัย	weather	38
+3231353537323032	IN:GET_WEATHER	บอกฉันเกี่ยวกับสภาพอากาศในช่วงสุดสัปดาห์หน้า	weather	38
+3231353537303635	IN:GET_WEATHER	การพยากรณ์สำหรับวันอาทิตย์เป็นอย่างไร?	weather	38
+3231353536313834	IN:GET_WEATHER	เฮ้ บอต สภาพอากาศในแมนเชสเตอร์เป็นอย่างไรบ้าง	weather	38
+3231353536313536	IN:GET_WEATHER	อากาศที่ฟลอริดาเป็นยังไง	weather	38
+3231353536313036	IN:GET_WEATHER	ฉันต้องการรู้ว่าอากาศจะเป็นอย่างไรในวันอังคารที่ลอนดอน	weather	38
+3231353536313033	IN:GET_WEATHER	สภาพอากาศในปรากเป็นอย่างไร?	weather	38
+3231353535383939	IN:GET_WEATHER	พรุ่งนี้จะร้อนไหม	weather	38
+3231353535383931	IN:GET_WEATHER	สุดสัปดาห์นี้จะร้อนหรือเปล่า	weather	38
+3230393939343831	IN:GET_WEATHER	วันนี้หิมะตกไหม?	weather	38
+3230313137303330	IN:GET_WEATHER	อุณหภูมิ	weather	38
+3135343634313431	IN:GET_WEATHER	สภาพอากาศวันที่ 15/12/2017	weather	38
+3134313630333331	IN:GET_WEATHER	อุณหภูมิวันนี้ เซลเซียส	weather	38
+3134313630323931	IN:GET_WEATHER	อุณหภูมิคืนนี้ที่ Sao Paulo ในหน่วยฟาเรนไฮต์	weather	38
+3134313630323532	IN:GET_WEATHER	พรุ่งนี้ข้างนอกจะร้อนแค่ไหนในหน่วยเซลเซียส	weather	38
+3134313539383737	IN:GET_WEATHER	อุณหภูมิสัปดาห์หน้า โตเกียว ฟาเรนไฮต์	weather	38
+3134313539363837	IN:GET_WEATHER	อุณหภูมิประมาณ 66 ฟาเรนไฮต์ในเดลีใช่ไหม	weather	38
+3134313539363235	IN:GET_WEATHER	ที่ซีแอตเติลจะหนาวมากไหมสุดสัปดาห์นี้เป็นฟาเรนไฮต์	weather	38
+3134313539333832	IN:GET_WEATHER	พรุ่งนี้ข้างนอกมีอุณหภูมิประมาณ 29 องศาฟาเรนไฮต์หรือเปล่า	weather	38
+3134313539323035	IN:GET_WEATHER	เซี่ยงไฮ้หนาวแค่ไหนเป็นอุณหภูมิองศาฟาเรนไฮต์	weather	38
+3133383234343936	IN:GET_WEATHER	เมื่อไหร่จะมีหิมะตก	weather	38
+3132383135373439	IN:GET_WEATHER	มีฝนฟ้าคะนองอีกไหม	weather	38
+3132383135353935	IN:GET_WEATHER	พยากรณ์รายชั่วโมงพรุ่งนี้เป็นอย่างไรบ้าง	weather	38
+3132383135353533	IN:GET_WEATHER	เมื่อไหร่อุณหภูมิจะเปลี่ยน	weather	38
+3132383135353332	IN:GET_WEATHER	ความชื้นวันนี้เป็นเท่าไหร่	weather	38
+3132383135353139	IN:GET_WEATHER	วันนี้ฝนจะตกนานแค่ไหน	weather	38
+3132363039373037	IN:GET_WEATHER	เช้านี้สภาพอากาศในซีแอตเทิลเป็นอย่างไร	weather	38
+3132363030363236	IN:GET_WEATHER	เช้านี้มีหมอกไหม	weather	38
+3132353936343735	IN:GET_WEATHER	พยากรณ์อากาศอีก 8 วันเป็นยังไงบ้าง	weather	38
+3132353930373034	IN:GET_WEATHER	วันแรกของฤดูใบไม้ผลิของที่นี่เริ่มเมื่อใด	weather	38
+3132353839383038	IN:GET_WEATHER	ที่ Bronx ฝนตกอยู่หรือเปล่า	weather	38
+3132353836323430	IN:GET_WEATHER	จะมีหมอกเย็นวันนี้ที่ซานตา โมนิกาหรือไม่	weather	38
+3132353833333431	IN:GET_WEATHER	วันนี้ที่เมืองชิคาโก้มีพยากรณ์อากาศเป็นอย่างไรบ้าง	weather	38
+3132353739373839	IN:GET_WEATHER	ข้างนอกเป็นอย่างไร	weather	38
+3132353737363930	IN:GET_WEATHER	เดือนหน้าสภาพอากาศในจีนเป็นอย่างไร	weather	38
+3132353737363031	IN:GET_WEATHER	จะมีแผ่นดินไหวเกิดขึ้นหรือไม่	weather	38
+3132353733353532	IN:GET_WEATHER	เมืองไหนในสหรัฐฯ ที่อากาศดีที่สุดทั้งปี	weather	38
+3132353733333935	IN:GET_WEATHER	วันไหนในสัปดาห์ที่มีโอกาสเกิดพายุน้อยที่สุด	weather	38
+3132353730363138	IN:GET_WEATHER	หิมะน่าจะตกอีกทีเมื่อไร	weather	38
+39353832323030	IN:GET_WEATHER	อุณหภูมิเท่าไหร่	weather	38
+39353831303833	IN:GET_WEATHER	สุดสัปดาห์นี้จะร้อนแค่ไหน?	weather	38
+39353739343939	IN:GET_WEATHER	ฉันควรเอาร่มไปไหม?	weather	38
+39353738303231	IN:GET_WEATHER	การคาดการณ์น้ำฝนในสัปดาห์นี้เป็นอย่างไร	weather	38
+39353736363733	IN:GET_WEATHER	หิมะจะตกไหม	weather	38
+39353735333831	IN:GET_WEATHER	ในแคนคูนร้อนไหม	weather	38
+39353735333436	IN:GET_WEATHER	ไทเปมีอุณหภูมิปัจจุบันเท่าไร	weather	38
+39353732363038	IN:GET_WEATHER	พวกเขาพยากรณ์ว่าพายุฝนฟ้าคะนองจะเริ่มตอนกี่โมง?	weather	38
+39353732313036	IN:GET_WEATHER	พรุ่งนี้ฉันต้องเอาร่มไปทำงานด้วยไหม?	weather	38
+39353730363536	IN:GET_WEATHER	มีพยากรณ์ว่าฝนจะตกวันนี้ไหม?	weather	38
+39353638343439	IN:GET_WEATHER	สัปดาห์นี้จะหนาวไหม	weather	38
+39353637343535	IN:GET_WEATHER	พรุ่งนี้หิมะจะตกเท่าไหร่	weather	38
+39353636393730	IN:GET_WEATHER	พยากรณ์อากาศช่วงสุดสัปดาห์เป็นอย่างไรบ้าง	weather	38
+39353636383533	IN:GET_WEATHER	ฉันควรนำร่มติดตัวไปที่เกมคืนนี้หรือไม่	weather	38
+39353636313431	IN:GET_WEATHER	วันนี้จะร้อนไหม?	weather	38
+39353636303434	IN:GET_WEATHER	สภาพอากาศ 7 วัน	weather	38
+39353633323537	IN:GET_WEATHER	สภาพอากาศในเมืองของฉัน	weather	38
+39353632343737	IN:GET_WEATHER	ตอน 5 โมงเย็นฝนจะตกไหม	weather	38
+39353631363736	IN:GET_WEATHER	คืนนี้ฝนจะตกหรือเปล่า?	weather	38
+39353630393835	IN:GET_WEATHER	วันพรุ่งนี้จะมีแดดจัดไหม	weather	38
+39353630313636	IN:GET_WEATHER	ฉันจะต้องการเสื้อโค้ตไหมวันพรุ่งนี้	weather	38
+39353539383339	IN:GET_WEATHER	ฉันควรใส่เสื้อกันหนาวพรุ่งนี้ไหม?	weather	38
+39353539313838	IN:GET_WEATHER	พยากรณ์ของสัปดาห์หน้าเป็นอย่างไร?	weather	38
+39353539313238	IN:GET_WEATHER	พรุ่งนี้จะมีแดดไหม	weather	38
+39353537363732	IN:GET_WEATHER	บาร์เซโลนา สเปนมีอุณหภูมิเท่าไร?	weather	38
+39353536373031	IN:GET_WEATHER	เมื่อไหร่ฝนจะตก	weather	38
+39353536313939	IN:GET_WEATHER	สภาพอากาศในเดนเวอร์เป็นอย่างไรวันนี้	weather	38
+39353534383137	IN:GET_WEATHER	อากาศข้างนอกเป็นอย่างไรในขณะนี้	weather	38
+39353532303033	IN:GET_WEATHER	วันนี้ร้อนพอที่จะทอดไข่บนทางเท้าได้หรือไม่?	weather	38
+39353438343536	IN:GET_WEATHER	มีการสังเกตการณ์สภาพอากาศใด ๆ ในตอนนี้หรือไม่?	weather	38
+39353437353635	IN:GET_WEATHER	วันนี้มีเปอร์เซ็นความชื้นเท่าใด	weather	38
+39353435323732	IN:GET_WEATHER	มีพยาการณ์อากาศล่าสุดอะไรที่ฉันควรรู้ไหม?	weather	38
+39353434353432	IN:GET_WEATHER	วันนี้ฝนตกกี่นิ้วที่ Slaton	weather	38
+39353434333235	IN:GET_WEATHER	พรุ่งนี้ตอน 9 โมงเช้าอากาศที่ Boise จะเป็นอย่างไร	weather	38
+39353434323237	IN:GET_WEATHER	เราต้องระวังทอร์นาโดหรือเปล่า	weather	38
+39353432383732	IN:GET_WEATHER	สภาพอากาศเขตร้อนมีอะไรอัพเดทบ้าง?	weather	38
+39353432383436	IN:GET_WEATHER	วันนี้คาดว่าจะมีทอร์นาโดไหม	weather	38
+39353430333230	IN:GET_WEATHER	วันนี้ฉันจำเป็นต้องพกร่มหรือเปล่า	weather	38
+39353339363636	IN:GET_WEATHER	พรุ่งนี้เช้าฝนจะตกไหม	weather	38
+39353339363131	IN:GET_WEATHER	จะมีแดดไหม	weather	38
+39353338353338	IN:GET_WEATHER	พยากรณ์อากาศเป็นอย่างไรบ้างใน 10 วันนี้	weather	38
+39353338313632	IN:GET_WEATHER	พรุ่งนี้ฉันจะต้องใส่บูตกันฝนหรือไม่?	weather	38
+39353337333534	IN:GET_WEATHER	ฉันต้องใช้หมวกและถุงมือไหมวันนี้	weather	38
+39353336393931	IN:GET_WEATHER	สภาพอากาศที่ฮิวสตันเป็นยังไง?	weather	38
+39353336353033	IN:GET_WEATHER	สภาพอากาศสำหรับวันจันทร์	weather	38
+39353332383139	IN:GET_WEATHER	พรุ่งนี้อากาศที่โกโก้ บีชเป็นยังไง	weather	38
+39353332373737	IN:GET_WEATHER	สภาพอากาศที่ Roswell, New Mexico ในวันนี้เป็นอย่างไร?	weather	38
+39353239363831	IN:GET_WEATHER	จะมีหิมะตกปีนี้รึเปล่า	weather	38
+39353238313538	IN:GET_WEATHER	อุณหภูมิของคืนนี้เป็นเท่าไร	weather	38
+39353236353635	IN:GET_WEATHER	อากาศที่ซอลต์เลกซิตี้จะเป็นอย่างไรในวันพฤหัสบดี?	weather	38
+39353234323238	IN:GET_WEATHER	วันนี้ฉันต้องใส่แจ็กเก็ตฤดูหนาวรึเปล่า?	weather	38
+39353233383839	IN:GET_WEATHER	อุณหภูมิในวันศุกร์จะเป็นอย่างไรบ้าง	weather	38
+39353233363532	IN:GET_WEATHER	ฉันเอาร่มมาไหมวันนี้	weather	38
+39353232363830	IN:GET_WEATHER	ฝนจะตกนานแค่ไหน	weather	38
+39353138343431	IN:GET_WEATHER	ไอซ์แลนด์หนาวแค่ไหน	weather	38
+39353136383936	IN:GET_WEATHER	อุณหภูมิสูงและต่ำของวันนี้คือเท่าไหร่	weather	38
+39353134303035	IN:GET_WEATHER	อุณหภูมิในไมอามี ฟลอริดาเป็นอย่างไร	weather	38
+39353133323939	IN:GET_WEATHER	วันเสาร์นี้แดดจะออกไหม	weather	38
+39353131343735	IN:GET_WEATHER	พรุ่งนี้ลมจะแรงมากแค่ไหน	weather	38
+39353131333137	IN:GET_WEATHER	วันนี้จะมีแดดไหม?	weather	38
+39353131303134	IN:GET_WEATHER	เช้านี้ฉันต้องใช้เสื้อโค้ตไหม	weather	38
+39353036373836	IN:GET_WEATHER	ฉันจำเป็นต้องไปดูเสื้อแจ็คเก็ตในตัวเมือง Portland คืนนี้หรือเปล่า?	weather	38
+39353035383732	IN:GET_WEATHER	ฉันต้องใช้ยางพิเศษเพื่อขับไปที่ไอดิลล์ไวลด์ไหม	weather	38
+39353035343538	IN:GET_WEATHER	สภาพอากาศสุดสัปดาห์ในซีแอตเทิล	weather	38
+39353034303731	IN:GET_WEATHER	สุดสัปดาห์นี้ สภาพอากาศในบิกเซอร์จะเป็นอย่างไรบ้าง	weather	38
+39353034303338	IN:GET_WEATHER	ลมจะแรงแค่ไหน?	weather	38
+39353033333132	IN:GET_WEATHER	สภาพอากาศทั่วไปของโอไฮโอ	weather	38
+39353032333931	IN:GET_WEATHER	มิลวอกี้จะมีหิมะขนาดมากไหน?	weather	38
+39353032323036	IN:GET_WEATHER	พายุหิมะใหญ่ที่จะเกิดขึ้นในสัปดาห์หน้าคาดว่าจะเกิดขึ้นเมื่อใด	weather	38
+39353031353832	IN:GET_WEATHER	วันนี้ฝนจะตกไหม?	weather	38
+39353030363734	IN:GET_WEATHER	ฉันควรให้ลูกชายใส่เสื้อแจ็กเก็ตไปโรงเรียนไหม	weather	38
+39343938373733	IN:GET_WEATHER	วันเสาร์อุณหภูมิจะต่ำสุดที่เท่าไร	weather	38
+39343938333230	IN:GET_WEATHER	พรุ่งนี้ฉันต้องใช้ร่มในซีแอตเติลไหม	weather	38
+39343933353236	IN:GET_WEATHER	อาทิตย์นี้วันไหนอุ่นที่สุด	weather	38
+39343932383136	IN:GET_WEATHER	อากาศร้อนแค่ไหนในดูไบ	weather	38
+39343931363239	IN:GET_WEATHER	อุณหภูมิในสโปเคนเป็นเท่าไร?	weather	38
+39343930393538	IN:GET_WEATHER	หิมะหนากี่นิ้ว?	weather	38
+39343837363235	IN:GET_WEATHER	สภาพอากาศวันพรุ่งนี้ในฟีนิกซ์	weather	38
+39343835343339	IN:GET_WEATHER	อุณหภูมิในอัฟกานิสถานอยู่ที่กี่องศา?	weather	38
+39343834363231	IN:GET_WEATHER	อากาศจะเป็นอย่างไรในวันศุกร์หน้า?	weather	38
+39343834323032	IN:GET_WEATHER	อุณหภูมิต่ำสุดของวันศุกร์	weather	38
+39343832303630	IN:GET_WEATHER	สภาพอากาศในออสตินวันนี้เป็นอย่างไร	weather	38
+39343830353534	IN:GET_WEATHER	แสดงพยากรณ์ห้าวัน	weather	38
+39343733393136	IN:GET_WEATHER	ต้องระวังฝนฟ้าคะนองไหม?	weather	38
+3232313432393031	IN:GET_WEATHER	พยากรณ์อากาศสำหรับเวลส์เน็กซต์เดอะซี	weather	38
+3232313432383934	IN:GET_WEATHER	ฉันอยากรู้สภาพอากาศที่ชิปสตันออนสตัวร์	weather	38
+3231363431353233	IN:GET_WEATHER	อุณหภูมิเท่าไหร่ในแบบเซลเซียส	weather	38
+3231363431303631	IN:GET_WEATHER	อากาศตอนเย็นเป็นยังไง	weather	38
+3231363430393334	IN:GET_WEATHER	สภาพอากาศช่วงค่ำเป็นอย่างไรบ้าง	weather	38
+3231363430353032	IN:GET_WEATHER	บอกฉันเรื่องอากาศหน่อย	weather	38
+3231363430333637	IN:GET_WEATHER	ตอนนี้สภาพอากาศเป็นยังไง	weather	38
+3231363430323138	IN:GET_WEATHER	วันนี้ฉันต้องทาครีมกันแดดไหม	weather	38
+3231363339353132	IN:GET_WEATHER	อากาศตอนบ่ายวันอังคารเป็นยังไง	weather	38
+3231363339343139	IN:GET_WEATHER	ช่วยหาดูว่าสภาพอากาศของเซาท์ออสเตรเลียเป็นไงได้ไหม	weather	38
+3231363339313839	IN:GET_WEATHER	ช่วยบอกสภาพอากาศในโคโลราโดหน่อยได้ไหม	weather	38
+3231363339303831	IN:GET_WEATHER	การพยากรณ์สำหรับวันจันทร์เป็นอย่างไรบ้าง	weather	38
+3231363339303135	IN:GET_WEATHER	วันจันทร์อากาศจะเป็นยังไง	weather	38
+3231363338393937	IN:GET_WEATHER	วันเสาร์ฝนจะตกไหม	weather	38
+3231363338383036	IN:GET_WEATHER	อากาศในแทนซาเนียเป็นยังไง	weather	38
+3231363338353931	IN:GET_WEATHER	อากาศตอนนี้ในเมลเบิร์นเป็นยังไง	weather	38
+3231363338323131	IN:GET_WEATHER	สภาพอากาศใน Adelaide เป็นยังไงบ้าง	weather	38
+3231353938313031	IN:GET_WEATHER	บอกฉันหน่อยว่าอากาศดูเป็นยังไงสำหรับอีสเตอร์	weather	38
+3231353937393334	IN:GET_WEATHER	ขอสภาพอากาศในฝรั่งเศสหน่อย	weather	38
+3231353937393333	IN:GET_WEATHER	ค้นหาสภาพอากาศในฝรั่งเศส	weather	38
+3231353937393236	IN:GET_WEATHER	พยากรณ์อากาศในเม็กซิโกเป็นยังไงบ้าง	weather	38
+3231353937333839	IN:GET_WEATHER	อากาศจะเป็นอย่างไรในวันพฤหัสบดี	weather	38
+3231353937313136	IN:GET_WEATHER	บอกฉันทีว่าในมัลดีฟส์เป็นอย่างไร	weather	38
+3231353936383032	IN:GET_WEATHER	วันนี้ฉันควรพกร่มไปด้วยไหม	weather	38
+3231353539373733	IN:GET_WEATHER	อุณหภูมิตอนนี้เท่าไหร่	weather	38
+3231353539323233	IN:GET_WEATHER	ตอนหนึ่งทุ่ม สภาพอากาศในออสเตรเลียจะเป็นยังไง	weather	38
+3231353539303934	IN:GET_WEATHER	ตอนเย็นวันพุธนี้อากาศจะเป็นยังไง	weather	38
+3231353538323934	IN:GET_WEATHER	ตอนเช้าฝนจะตกไหม	weather	38
+3231353538313132	IN:GET_WEATHER	เฮ้ บอต อากาศจะดีไหมตอน 5 โมงเย็น	weather	38
+3231353538303937	IN:GET_WEATHER	สภาพอากาศในบ่ายวันนี้	weather	38
+3231353538303338	IN:GET_WEATHER	ฉันอยากรู้สภาพอากาศตอนเที่ยง	weather	38
+3231353537333130	IN:GET_WEATHER	สัปดาห์หน้าอากาศเป็นอย่างไร	weather	38
+3231353537303833	IN:GET_WEATHER	ช่วยบอกทีว่าอากาศพรุ่งนี้จะเป็นยังไง	weather	38
+3231353536393935	IN:GET_WEATHER	วันจันทร์ที่เป็นวันหยุดธนาคาร อากาศจะดีไหม	weather	38
+3231353536353935	IN:GET_WEATHER	อุณหภูมิที่อัฟกานิสถานเป็นยังไงบ้าง	weather	38
+3231353536313938	IN:GET_WEATHER	ฉันขอรายละเอียดสภาพอากาศสำหรับฟาโรวันนี้หน่อย	weather	38
+3138383937313836	IN:GET_WEATHER	เปิดดูสภาพอากาศใน Vancover	weather	38
+3135363238373731	IN:GET_WEATHER	สภาพอากาศวันพรุ่งนี้เป็นอย่างไรบ้าง	weather	38
+3134313539393530	IN:GET_WEATHER	แถวใกล้ดับลินคืนนี้อุ่นแค่ไหน อุณหภูมิเป็นองศาเซลเซียส	weather	38
+3133383232303538	IN:GET_WEATHER	สภาพอากาศในชิคาโกวันอังคารเป็นยังไงบ้าง	weather	38
+3132383135363831	IN:GET_WEATHER	มีการพยากรณ์พายุฝนฟ้าคะนองสุดสัปดาห์นี้ไหม	weather	38
+3132383135363433	IN:GET_WEATHER	หน้าร้อนนี้จะร้อนแค่ไหน	weather	38
+3132383135353835	IN:GET_WEATHER	พยากรณ์อากาศสำหรับรัฐเท็กซัสวันนี้เป็นยังไง	weather	38
+3132383135343930	IN:GET_WEATHER	สภาพอากาศใน Richfield MN คืนวันพรุ่งนี้เป็นยังไงบ้าง	weather	38
+3132363137373038	IN:GET_WEATHER	มันจะหนาวเกินกว่าหิมะจะตกบ้างไหม	weather	38
+3132363135363037	IN:GET_WEATHER	แนวโน้มของพายุเป็นยังไงบ้างวันนี้	weather	38
+3132363135343034	IN:GET_WEATHER	คืนนี้ฝนจะตกไหม	weather	38
+3132363031333138	IN:GET_WEATHER	โปรดบอกสภาพอากาศของคืนวันอังคารหน่อย	weather	38
+3132353839393331	IN:GET_WEATHER	ฝนจะเริ่มตกเมื่อไหร่	weather	38
+3132353837383333	IN:GET_WEATHER	อุณหภูมิสูงและต่ำในวันศุกร์มีอะไรบ้าง	weather	38
+3132353833393838	IN:GET_WEATHER	ตอนเช้าจะมีหมอกหรือเปล่า	weather	38
+39353638363438	IN:GET_WEATHER	ฉันอยากรู้ว่าฝนจะตกหรือเปล่า	weather	38
+39353637373232	IN:GET_WEATHER	อากาศเหมาะสำหรับการปิกนิกไหม	weather	38
+39353535303839	IN:GET_WEATHER	วันนี้ฉันควรเอาร่มไปไหม	weather	38
+39353439383731	IN:GET_WEATHER	พยากรณ์อากาศบอกว่าเสาร์อาทิตย์นี้ฝนจะตกหรือเปล่า	weather	38
+39353437363536	IN:GET_WEATHER	อาทิตย์นี้จะหนาวแค่ไหน	weather	38
+39353437313633	IN:GET_WEATHER	พายุลูกปัจจุบันในเดย์โทนาเคลื่อนที่ด้วยความเร็วลมเท่าไหร่	weather	38
+39353435363739	IN:GET_WEATHER	ขอข่าวคราวสภาพอากาศสำหรับคืนนี้หน่อย	weather	38
+39353434393831	IN:GET_WEATHER	ตอนนี้ที่ฟีนิกซ์อุณหภูมิเท่าไหร่	weather	38
+39353431393130	IN:GET_WEATHER	ฝนจะตกไหมในอีกสองชั่วโมง	weather	38
+39353430383039	IN:GET_WEATHER	มีการสังเกตุการณ์หรือคำเตือนใด ๆ เกี่ยวกับพายุทอร์นาโดในพื้นที่ของ Dyersburg ตอนนี้บ้างไหม	weather	38
+39353430343430	IN:GET_WEATHER	สภาพอากาศในซินซินนาติ โอไฮโอ เป็นยังไง	weather	38
+39353337393838	IN:GET_WEATHER	มีกี่คืนในอาทิตย์นี้ที่อากาศจะต่ำกว่าจุดเยือกแข็ง	weather	38
+39353334373534	IN:GET_WEATHER	สภาพอากาศวันนี้ควรเป็นอย่างไร	weather	38
+39353234363936	IN:GET_WEATHER	ฝนจะตกตอนกี่โมง	weather	38
+39353232313331	IN:GET_WEATHER	ฝนตกมากี่นิ้วแล้ว	weather	38
+3231363332373436	IN:UPDATE_ALARM	เปลี่ยนนาฬิกาปลุก 'ย้ายรถ' เป็นบ่ายโมง	alarm	39
+3231363332363231	IN:UPDATE_ALARM	อัปเดตนาฬิกาปลุกของฉันเป็น 7 โมงเช้า	alarm	39
+39343930333138	IN:UPDATE_ALARM	ตั้งนาฬิกาปลุกซ้ำ ตั้งแต่วันจันทร์ถึงวันศุกร์เท่านั้น	alarm	39
+3231363332313136	IN:UPDATE_ALARM	ฉันจำเป็นต้องเปลี่ยนการแจ้งเตือน	alarm	39
+3231353530353337	IN:UPDATE_ALARM	เปลี่ยนการตั้งปลุกเป็นพรุ่งนี้	alarm	39
+3136353036323832	IN:UPDATE_ALARM	เลื่อนเวลาปลุกออกไป 20 นาที ให้ฉันได้พักอีกหน่อย	alarm	39
+39343732383933	IN:UPDATE_ALARM	ตั้งปลุกซ้ำทุกวัน	alarm	39
+3132353832313934	IN:REPLAY_MUSIC	เล่นซ้ำเพลงนี้อีกครั้ง	music	40
+39353139313235	IN:REPLAY_MUSIC	เล่นเพลงซ้ำอีกครั้ง	music	40
+39353036313735	IN:REPLAY_MUSIC	กรุณาเล่นเพลงนั้นอีกครั้ง	music	40
+39343738383839	IN:REPLAY_MUSIC	ตั้งให้รายการทั้งหมดเล่นซ้ำ	music	40
+39353636383036	IN:REPLAY_MUSIC	เล่นเพลงที่ฉันได้ฟังมากที่สุดตั้งแต่เมื่อวานนี้ซ้ำอีกครั้ง	music	40
+39353031383730	IN:REPLAY_MUSIC	เพลงนั้นเป็นเพลงโปรดของฉัน ช่วยเล่นซ้ำที	music	40
+39353030333733	IN:REPLAY_MUSIC	เล่นเพลงของ tool เพลงนั้นอีกครั้ง	music	40
+39353633333538	IN:REPLAY_MUSIC	เล่นซ้ำเพลง Back Together ของ Robin Thicke	music	40
+3132353639343633	IN:REPLAY_MUSIC	ช่วยเล่นเพลงนี้ซ้ำสองทีได้ไหม	music	40
+3231373530373635	IN:GET_DATE_TIME_EVENT	ฉันต้องการให้คุณบอกฉันเมื่อกิจกรรมสุดท้ายเริ่ม	event	41
+3231373232323139	IN:CREATE_CALL	โทรหาภรรยาของฉันบริแอนน่า แอนเดอร์สัน ผ่าน WhatsApp	calling	42
+3231373232323130	IN:CREATE_CALL	โทรหาภรรยาของฉัน แคโรลิน ผ่าน WhatsApp	calling	42
+3231373232323037	IN:CREATE_CALL	ฉันต้องการโทรหาเซเวียน ผ่าน WhatsApp	calling	42
+3231373131353231	IN:CREATE_CALL	ฉันต้องการโทรหาแอนด์ดรูว์ โรว์แลนด์ สเปนเซอร์	calling	42
+3231373131323034	IN:CREATE_CALL	ฉันต้องการโทรหาไอ คาร์นีย์	calling	42
+3231373131303833	IN:CREATE_CALL	ฉันต้องการโทรหาจอร์จ เจ ริออส	calling	42
+3231363734373233	IN:CREATE_CALL	โทรหาพี่ชายของฉัน	calling	42
+3231363734353432	IN:CREATE_CALL	ช่วยโทรหาเท็ด	calling	42
+3231363734343631	IN:CREATE_CALL	โทรหาผู้จัดการของฉัน	calling	42
+3231363733383133	IN:CREATE_CALL	ให้แหวนกับแม่ของฉัน	calling	42
+3231353835313138	IN:CREATE_CALL	โทรหาแม่ของฉันหน่อย	calling	42
+3231353436323530	IN:CREATE_CALL	โทรหา Apostle Buameh	calling	42
+3231353436313731	IN:CREATE_CALL	โทรหาแจ็คให้ฉันหน่อย	calling	42
+3231353036353631	IN:CREATE_CALL	โทรหาคุณปู่ของแบลนเช่ ดันดอน	calling	42
+3231353036343730	IN:CREATE_CALL	โทรหาสามีของมอลลี่	calling	42
+3231353036313331	IN:CREATE_CALL	โทรหาภรรยาของโซอี้	calling	42
+3231353035383238	IN:CREATE_CALL	โทรหาลุงของคามิ ลอว์เรนซ์	calling	42
+3231333535313037	IN:CREATE_CALL	โทรหาฮอลแลนด์	calling	42
+3231333534363633	IN:CREATE_CALL	ลองโทรหาแบรนดอน เซนต์	calling	42
+3231333531333931	IN:CREATE_CALL	เริ่มต้นการโทรกับเจ้านาย	calling	42
+3231333530373838	IN:CREATE_CALL	โทรเข้าเบอร์มือถือของบิลลี่	calling	42
+3231333434343831	IN:CREATE_CALL	เริ่มการประชุมทางโทรศัพท์	calling	42
+3231333431363236	IN:CREATE_CALL	ติดต่อหาริชชาร์ด	calling	42
+3231333339343831	IN:CREATE_CALL	ฉันต้องโทรหาโจ	calling	42
+3231303232383038	IN:CREATE_CALL	เริ่มวิดีโอแชทกับดีน และฮิลตัน	calling	42
+3232353332373533	IN:CREATE_CALL	โทรหาคริสตีน่า ฮาร์วีย์	calling	42
+3232353332363639	IN:CREATE_CALL	โทรหาวิทนีย์ ซุทตัน	calling	42
+3232353332343332	IN:CREATE_CALL	โทรหาอารอน คาร์เตอร์	calling	42
+3232353332333837	IN:CREATE_CALL	โทรหามาร์ค แอนโทนี	calling	42
+3232353332303738	IN:CREATE_CALL	โทรหาแรนดี	calling	42
+3232353331343334	IN:CREATE_CALL	โทร 555-7533	calling	42
+3232353331343230	IN:CREATE_CALL	โทรหา 555-1918 บนแมสเซนเจอร์	calling	42
+3232353331333130	IN:CREATE_CALL	โทรเบอร์ 7105553393	calling	42
+3232353331323936	IN:CREATE_CALL	ต่อหมายเลข 3675553669	calling	42
+3232353139313339	IN:CREATE_CALL	ติดต่อคลาร่า แลมเบิร์ต	calling	42
+3232353138383430	IN:CREATE_CALL	ฉันอยากติดต่อกับ Katelyn Patton	calling	42
+3232353138373138	IN:CREATE_CALL	ฉันต้องการโทรหาเจวอน แซนดร้า มาร์แชลและเจส ลูกพี่ลูกน้องของฉันทาง Discord	calling	42
+3232353138353932	IN:CREATE_CALL	โทรหาป้าของฉัน Zackary Conley และ แม่ของฉัน Angelo	calling	42
+3232353138343830	IN:CREATE_CALL	โทรติดต่อมีอา คาล์ดเวล เดรค ควินน์ เมลวิน คีทธ์และบริซา แบล๊คเคนชิป	calling	42
+3232353138343334	IN:CREATE_CALL	เริ่มวิดีโอคอลกับเคเล้บ เครนและออร์แลนโด ฮาเน่ย์	calling	42
+3232353138323533	IN:CREATE_CALL	เริ่มการโทรกับ เดสมอนด์และแอบบี้ ทาง Slack	calling	42
+3232353138313930	IN:CREATE_CALL	เริ่มวิดีโอคอลกับคู่สมรสของฉัน ไบรอัน คู่สมรสของฉัน เทียรา เพื่อนสาวของฉันบริจิด และพ่อของฉันเวสลี บน Discord	calling	42
+3232353137373237	IN:CREATE_CALL	เราโทรศัพท์กับกลุ่มคนรักไวน์บน Wechat ได้รึเปล่า	calling	42
+3232353038313937	IN:CREATE_CALL	เริ่มวิดีโอแชทกับทอมและลิซ่า แม่ของทอม	calling	42
+3232333730383335	IN:CREATE_CALL	โทรหาลูกของเมเคล่า	calling	42
+3232333730383039	IN:CREATE_CALL	โทรหาน้องสาวของแกรมห์	calling	42
+3232333730373739	IN:CREATE_CALL	โทรหาแม่ของ Christopher Thomas	calling	42
+3232333636313330	IN:CREATE_CALL	โทรหา Ezekiel Macdonald ผ่าน whatsapp	calling	42
+3232333635393830	IN:CREATE_CALL	โทร whatsapp หาเรแกน	calling	42
+3232333635383638	IN:CREATE_CALL	โทรหาอมีนา ทางวีดีโอ whatsapp	calling	42
+3232333635373935	IN:CREATE_CALL	ใช้โปรแกรม whatsapp โทรหา ทีแกน เดอร์แรม	calling	42
+3232333635363839	IN:CREATE_CALL	โทรหา Piper Chavez ทาง whatsapp	calling	42
+3232333635363634	IN:CREATE_CALL	โทรหาเอเมอร์สันโดยการใช้วิดีโอแชทของวอสต์แอปป์	calling	42
+3232333635363439	IN:CREATE_CALL	ใช้ Whatsapp วิดีโอคอลหา Pedro	calling	42
+3232333635343831	IN:CREATE_CALL	โทรหาอามาย่า ทรูจิลโลในรายชื่อติดต่อ Whatsapp ของฉัน	calling	42
+3232333635343435	IN:CREATE_CALL	โทรหาโนแลนจากรายชื่อผู้ติดต่อของฉันใน Whatsapp	calling	42
+3232333635333837	IN:CREATE_CALL	โทรหาเควิน พอตเตอร์จากผู้ติดต่อวอสต์แอปป์ของฉัน	calling	42
+3232333635333130	IN:CREATE_CALL	โทรหา ไอแซค บาร์เน็ตต์ ทาง Whatsapp	calling	42
+3232333635323236	IN:CREATE_CALL	โทรหาคาริน่าผ่าน Whatsapp	calling	42
+3232323935333534	IN:CREATE_CALL	โทรหาคู่รักแสนสวยของฉัน	calling	42
+3232313933383437	IN:CREATE_CALL	คุณสามารถโทรหาอีลิซ่าทาง WhatsApp ได้ไหม	calling	42
+3232313933363639	IN:CREATE_CALL	โทรหา โคดี้ กิลล์ ทาง Messenger	calling	42
+3232313536363630	IN:CREATE_CALL	โทรหา Rex Schroeder ผ่าน WhatsApp	calling	42
+3232313332343437	IN:CREATE_CALL	โทรหาเคอร์และเชปพาร์ด	calling	42
+3232313332343139	IN:CREATE_CALL	โทรหาโอนีลล์กับเชอร์รี	calling	42
+3232313332333737	IN:CREATE_CALL	โทรหาเอเสเคียลและไดแลน	calling	42
+3231373538373431	IN:CREATE_CALL	โทรหาคิมทันที	calling	42
+3231373538333331	IN:CREATE_CALL	โทรหาเอ็มมาคนที่สาม	calling	42
+3231373538303135	IN:CREATE_CALL	โทรหาซันติอาโกสี่	calling	42
+3231373537393833	IN:CREATE_CALL	โทรหาแคทเทอรีนหมายเลข 4	calling	42
+3231373232323135	IN:CREATE_CALL	เรามาโทรหา Graham บน WhatsApp กันเถอะ	calling	42
+3231373131363738	IN:CREATE_CALL	โทรหา Jude Gavin Miles ตอนนี้	calling	42
+3231373131353536	IN:CREATE_CALL	ฉันอยากโทรหาเบรย์เดน เดวิน เคลลี	calling	42
+3231373131353530	IN:CREATE_CALL	โทรหา Remington Kayson Merritt ให้ฉันหน่อย	calling	42
+3231373131323232	IN:CREATE_CALL	โทรหาไดนาห์ เอ ดอว์สัน	calling	42
+3231373131323036	IN:CREATE_CALL	คุณช่วยโทรหาเจ ลีได้ไหม	calling	42
+3231373131303439	IN:CREATE_CALL	ช่วยโทรหา Raymond White Wright	calling	42
+3231373130393334	IN:CREATE_CALL	คุณช่วยโทรหา คีแกน เซเวียร์ แอนเดอร์สัน ได้ไหม	calling	42
+3231373130393031	IN:CREATE_CALL	โทรหา Kendall Paislee Jimenez ให้ฉัน	calling	42
+3231363734363936	IN:CREATE_CALL	โทรหาพ่อ	calling	42
+3231363734363339	IN:CREATE_CALL	โทรหาอลิซซา	calling	42
+3231363734353337	IN:CREATE_CALL	ฉันอยากให้คุณโทรหาพี่ชายของฉัน	calling	42
+3231363734303735	IN:CREATE_CALL	เริ่มการประชุมทางโทรศัพท์ระหว่างฉัน เชลลีย์และโรนัลด์	calling	42
+3231363733383533	IN:CREATE_CALL	คุณช่วยโทรหาเจ้านายของฉันได้รึเปล่า	calling	42
+3231363733383531	IN:CREATE_CALL	ฉันต้องการโทรผ่านวิดีโอคุยกับลุงฟิลลิปของฉัน	calling	42
+3231363733373735	IN:CREATE_CALL	โทรหา Goldie ตอนนี้	calling	42
+3231363137393131	IN:CREATE_CALL	โทรหา ซอง มิตาล ได้เลย	calling	42
+3231363037343330	IN:CREATE_CALL	โทรหาอันนา แอล	calling	42
+3231363037323934	IN:CREATE_CALL	โทรหาเบ็กแฮมพ่อของฉัน	calling	42
+3231353436373030	IN:CREATE_CALL	โทรหาพ่อของฉัน	calling	42
+3231353436363138	IN:CREATE_CALL	โทรหาโอลลี่	calling	42
+3231353436353431	IN:CREATE_CALL	โทรหา Genny	calling	42
+3231353436323537	IN:CREATE_CALL	โทรหาแม่ทางโทรศัพท์มือถือ	calling	42
+3231353436313534	IN:CREATE_CALL	จัดการโทรผ่านวิดีโอกับมาร์ค	calling	42
+3231353036363735	IN:CREATE_CALL	โทรหาน้าของจูเลียนนา	calling	42
+3231353036353438	IN:CREATE_CALL	โทรหาป้าของดีแลน	calling	42
+3231353035393830	IN:CREATE_CALL	โทรหาลูกชายของอีเดน	calling	42
+3231353035383337	IN:CREATE_CALL	โทรติดต่อเพื่อนของรอดเดอร์ริค เพิร์ธ	calling	42
+3231353035383139	IN:CREATE_CALL	โทรหาแฟนหนุ่มของอิสซาเบล	calling	42
+3231343939343432	IN:CREATE_CALL	โทรหาศัลยแพทย์	calling	42
+3231343939333938	IN:CREATE_CALL	โทรหาครูคณิตศาสตร์	calling	42
+3231343435323136	IN:CREATE_CALL	ฉันต้องการโทรหาแกรีกับทอม ลูกพี่ลูกน้องของฉันตอนนี้เลย	calling	42
+3231333535323337	IN:CREATE_CALL	ลองโทรหาแองเจลิกา	calling	42
+3231333535323237	IN:CREATE_CALL	วิดีโอคอลหา Brandon Saint	calling	42
+3231333535303639	IN:CREATE_CALL	วิดีโอคอลหา Jackson	calling	42
+3231333534393639	IN:CREATE_CALL	ฉันอยากคุยกับแบรนดอน แชนนอน	calling	42
+3231333534373535	IN:CREATE_CALL	ลองโทรหาคุณยายเอสพิโนซ่า แนนซี่	calling	42
+3231333534373239	IN:CREATE_CALL	ลองพยายามโทรหาจอร์แดน	calling	42
+3231333531353635	IN:CREATE_CALL	ติดต่อมิเชล	calling	42
+3231333433333532	IN:CREATE_CALL	โทรหากลุ่มของฉัน	calling	42
+3231333430363537	IN:CREATE_CALL	โทรหาเทเรซา	calling	42
+3231333430353035	IN:CREATE_CALL	เริ่มโทรหาแม่	calling	42
+3231333430303938	IN:CREATE_CALL	โทรหาแอรอน	calling	42
+3231333133303530	IN:CREATE_CALL	โทรหาแม่	calling	42
+3231333131303336	IN:CREATE_CALL	เริ่มการโทรหาแม่	calling	42
+3231333130363530	IN:CREATE_CALL	โทรกลับหลาน ๆ ของฉัน	calling	42
+3231333130343237	IN:CREATE_CALL	โทรหาแม่เลี้ยง	calling	42
+3231333130303139	IN:CREATE_CALL	โทรหาน้องชายของฉัน	calling	42
+3231333039393336	IN:CREATE_CALL	กรุณาโทรหาพี่สะใภ้ของฉันด้วย	calling	42
+3231303138313336	IN:CREATE_CALL	กรุณาโทรศัพท์หาคุณพ่อของฉัน	calling	42
+3231303134313033	IN:CREATE_CALL	วิดีโอแชทกับสามีของฉัน	calling	42
+3231303133383934	IN:CREATE_CALL	ฉันอยากโทรหา Samantha ทันที	calling	42
+3232353332373531	IN:CREATE_CALL	โทรหา Grant Potter	calling	42
+3232353332333832	IN:CREATE_CALL	โทรหาจูดี้ คอลลินส์	calling	42
+3232353331343237	IN:CREATE_CALL	ฉันอยากโทรไปที่เบอร์ 4085556205 ทางสไกป์	calling	42
+3232353331333934	IN:CREATE_CALL	โทร 555-7775 ทางวอทซ์แอป	calling	42
+3232353138353835	IN:CREATE_CALL	ช่วยเริ่มสายสนทนากับคิร่า, เอ็ดเวิร์ด, และ เรมอน บาร์เบอร์หน่อยได้ไหม	calling	42
+3232353138333933	IN:CREATE_CALL	โทรหาออเดรย์ แบงส์, ฟรานซิส คริสเตนเซ่น, แชนนอน วอห์น และดอเรียน โรดส์	calling	42
+3232353138313034	IN:CREATE_CALL	โทรหากลุ่มละครเพลงทาง Whatsapp	calling	42
+3232353138313030	IN:CREATE_CALL	โทรหากลุ่มคนในชุมชนของฉันโดยใช้ Hangouts	calling	42
+3232343339393935	IN:CREATE_CALL	ส่งข้อความหาคาร์ลอส	calling	42
+3232333730363231	IN:CREATE_CALL	คุณโทรหาเพื่อนของแคทเธอรีนได้ไหม	calling	42
+3232333636313235	IN:CREATE_CALL	โทรหาเจวอน นิโคลสันผ่านทางวอทซ์แอป	calling	42
+3232333635383730	IN:CREATE_CALL	โทรหาแมคเคนซีทาง whatsapp	calling	42
+3232333635383430	IN:CREATE_CALL	โทรเข้ามือถือลินคอล์น ไฮน์โดยใช้ whatsapp	calling	42
+3232333635373234	IN:CREATE_CALL	โทรหา Declan Peck ทางวิดีโอแชท Whatsapp	calling	42
+3232333635353830	IN:CREATE_CALL	โทรหา Rylan Mcgee โทรหา Reagan Sawyer ทาง Whatsapp	calling	42
+3232333635353138	IN:CREATE_CALL	โทรหาเอเดน พาดิลลา ที่อยู่ในรายชื่อติดต่อวอทซ์แอปของฉัน	calling	42
+3232333635333534	IN:CREATE_CALL	โทรหา Stephanie จากรายชื่อผู้ติดต่อ Whatsapp ของฉันให้ที	calling	42
+3232333239323831	IN:CREATE_CALL	เราจะโทรหา Amanda	calling	42
+3232313933383435	IN:CREATE_CALL	โทรหาลิเดียด้วย Whatsapp	calling	42
+3232313933373931	IN:CREATE_CALL	ติดต่อ รีเบคกา แรนดอล ทางเมสเซนเจอร์	calling	42
+3232313933373131	IN:CREATE_CALL	ช่วยใช้ Messenger โทรหา Justin Acosta	calling	42
+3232313933373032	IN:CREATE_CALL	ช่วยโทรหาฮัดสัน การ์ซา โดยใช้ WhatsApp ให้หน่อยได้ไหม	calling	42
+3232313933363332	IN:CREATE_CALL	ลองโทรหา Jennifer Curry ด้วย WhatsApp	calling	42
+3232313332343935	IN:CREATE_CALL	โทรหา Michael และ Bridges	calling	42
+3232313332333937	IN:CREATE_CALL	โทรหาคามิลาและคาย	calling	42
+3232313332333533	IN:CREATE_CALL	โทรหาวิคเตอร์กับซาร่า	calling	42
+3232313332333132	IN:CREATE_CALL	โทรหาไคและเอวา	calling	42
+3231373538363634	IN:CREATE_CALL	ช่วยโทรหามอร์แกน​ มอร์แกน​ ตอนนี้เลย	calling	42
+3231373538363134	IN:CREATE_CALL	ช่วยโทรหาแดเนียลทันที	calling	42
+3231373538303931	IN:CREATE_CALL	โทรหาจอร์จคนที่หนึ่ง	calling	42
+3231373538303836	IN:CREATE_CALL	โทรหาเอลิซาเบธสอง	calling	42
+3231373236393538	IN:CREATE_CALL	โทรหา Philip ให้ฉันหน่อย	calling	42
+3231373131343036	IN:CREATE_CALL	ช่วยโทรหา Larry Powell Sweeney	calling	42
+3231373131333838	IN:CREATE_CALL	โทรหาเอมิลี เฟรเซียร์ ซิมส์	calling	42
+3231363736343235	IN:CREATE_CALL	โทรเบอร์แม่อีกครั้ง	calling	42
+3231363734363335	IN:CREATE_CALL	โทรหาพ่อ	calling	42
+3231363734353531	IN:CREATE_CALL	ช่วยโทรหาพ่อให้หน่อย	calling	42
+3231363734313131	IN:CREATE_CALL	โทรหาย่า	calling	42
+3231353436363830	IN:CREATE_CALL	โทรหาพ่อฉัน	calling	42
+3231353436363732	IN:CREATE_CALL	โทรหา Kyle ให้ฉันหน่อย	calling	42
+3231353436353938	IN:CREATE_CALL	โทรหาโจ	calling	42
+3231353436353836	IN:CREATE_CALL	ปิงหาจอห์น	calling	42
+3231353436313238	IN:CREATE_CALL	ช่วยโทรหาลุงของฉันหน่อย	calling	42
+3231353436303730	IN:CREATE_CALL	วิดีโอแชทกับพี่สาวของฉัน	calling	42
+3231353435393836	IN:CREATE_CALL	โทรหา Lara น้องสาวฉัน	calling	42
+3231353138333937	IN:CREATE_CALL	โทรหาอาหมัด คาชู ใช่ ถูกต้อง	calling	42
+3231353032373636	IN:CREATE_CALL	พาน้องชายของฉันมา	calling	42
+3231343538363237	IN:CREATE_CALL	พูดกับคุณยาย Willow ของฉัน	calling	42
+3231333535323536	IN:CREATE_CALL	อยากโทรหาแบรนดอน เซนต์	calling	42
+3231333534393731	IN:CREATE_CALL	วิดีโอคอลกับ Brandon Tara	calling	42
+3231333534353137	IN:CREATE_CALL	โทรหา Nick	calling	42
+3231333437353135	IN:CREATE_CALL	โทรหาเป็นกลุ่ม	calling	42
+3231333431363435	IN:CREATE_CALL	ฉันต้องโทรหา Jim	calling	42
+3231333431353531	IN:CREATE_CALL	โทรหาแม่ตอนนี้	calling	42
+3231333431303531	IN:CREATE_CALL	เชื่อมต่อการโทรหาซูซาน	calling	42
+3231313235343130	IN:GET_SUNSET	งานซันดาวน์จะจัดเมื่อไหร่	weather	43
+3231313235343131	IN:GET_SUNSET	พระอาทิตย์ตกในเวลาอะไร?	weather	43
+3132363034373135	IN:GET_SUNSET	พระอาทิตย์ตกดินเมื่อวันที่ 5 สิงหาคม 1922 ตอนกี่โมง	weather	43
+3138393836343734	IN:GET_LOCATION	อิสเทียนาอาศัยอยู่ที่ไหน	people	44
+3138393836333434	IN:GET_LOCATION	เจสสิกาอยู่ที่นิวยอร์ครึเปล่า	people	44
+3138393836333431	IN:GET_LOCATION	เจสซิก้าอาศัยอยู่ที่ไหน	people	44
+3138393836333032	IN:GET_LOCATION	ที่อยู่ที่ทำงานของลินดาคืออะไร	people	44
+3138393835393335	IN:GET_LOCATION	อลิซาเบธทำงานที่ควีนส์หรือแมนฮัตตัน?	people	44
+3138393835383338	IN:GET_LOCATION	คุณให้ที่อยู่เบิร์ทได้รึเปล่า	people	44
+3138393835363733	IN:GET_LOCATION	Vanessa อาศัยอยู่ที่ไหน?	people	44
+3138393835363335	IN:GET_LOCATION	Brad พักอาศัยอยู่ที่ไหน?	people	44
+3138393835333533	IN:GET_LOCATION	ที่อยู่ที่บ้านของลี่คืออะไร?	people	44
+3138393835313430	IN:GET_LOCATION	เลียมพักอยู่ที่สวนสาธารณะแบรนดอน รึเปล่า	people	44
+3138393834373231	IN:GET_LOCATION	เชลซีย์อาศัยอยู่ที่ไหน?	people	44
+3231373530323630	IN:GET_LOCATION	บอกมาว่ากิจกรรมล่าสุดอยู่ที่ไหน	event	44
+3138393837303034	IN:GET_LOCATION	เลสลีอาศัยอยู่ตรงไหนในเนบราสกา	people	44
+3138393836383734	IN:GET_LOCATION	เอมิลี่ เธออยู่ใน PA หรือเปล่า	people	44
+3138393836383038	IN:GET_LOCATION	ฉันอยากได้ที่อยู่ของแคลร์	people	44
+3138393836333036	IN:GET_LOCATION	Jack อาศัยอยู่ใน Ithaca หรือเปล่า	people	44
+3138393836323932	IN:GET_LOCATION	เลียมอาศัยอยู่ที่ไหน	people	44
+3138393835383738	IN:GET_LOCATION	ตอนนี้ฉันอยู่ที่ไหน	people	44
+3138393835323633	IN:GET_LOCATION	บอกฉันว่าอาห์เหม็ดอาศัยอยู่ที่ไหน	people	44
+3138393835323233	IN:GET_LOCATION	ไคซีอาศัยอยู่ที่รัฐไหน	people	44
+3231373530353936	IN:GET_LOCATION	ฉันอยากให้คุณบอกฉันว่างานสังสรรค์งานนี้อยู่ที่ไหน	event	44
+3139343333343938	IN:GET_LOCATION	ฮัลลี เบอร์รี โตมาจากที่ไหน?	people	44
+3138393836393039	IN:GET_LOCATION	เดวิดไปทำงานที่ไหน	people	44
+3232343532393533	IN:SET_RSVP_NO	ตั้งสถานะของฉันให้เป็น ไม่ไป C-ID Night Market	event	45
+3232343533343631	IN:SET_RSVP_NO	จะไม่ไปครั้งที่สี่	event	45
+3232343533323034	IN:SET_RSVP_NO	เปลี่ยนสถานะของฉันเป็นจะไม่ไปงานนั้น	event	45
+3232343532323038	IN:SET_RSVP_NO	ฉันไม่ต้องการไปที่ Katja Petrowskaja: เรื่องราวของครอบครัวระหว่างความทรงจำและการลืม	event	45
+3232343533343636	IN:SET_RSVP_NO	ตั้งสถานะของฉันว่าไม่ไปกิจกรรมที่สาม	event	45
+3232343532373431	IN:SET_RSVP_NO	ตั้งสถานะของฉันเป็นไม่ไปยูนิคอร์น	event	45
+3232343532353731	IN:SET_RSVP_NO	จะไม่ไป Bark in the Park	event	45
+3231323236373632	IN:DELETE_REMINDER	ช่วยลบการเตือนเกี่ยวกับการโทรหาพี่ชายของฉันในเช้าวันพรุ่งนี้	reminder	48
+3231323236373139	IN:DELETE_REMINDER	ลบเตือนความจำการทำงาน	reminder	48
+3231323235323130	IN:DELETE_REMINDER	ลบการเตือนเกี่ยวกับโบสถ์สำหรับสามสัปดาห์ถัดไป	reminder	48
+3231323233313631	IN:DELETE_REMINDER	ลบการแจ้งเตือนไปเรียนว่ายน้ำ	reminder	48
+3231323233313234	IN:DELETE_REMINDER	ลบเตือนความจำเพื่อกำหนดตารางเวลาการประชุมในที่ทำงานใหม่	reminder	48
+3231313536343134	IN:DELETE_REMINDER	ลบการแจ้งเตือนของฉันเกี่ยวกับ Southwest Airlines.	reminder	48
+3231313535393334	IN:DELETE_REMINDER	ลบการแจ้งเตือนของฉันที่ให้ส่งของขวัญให้ Brent จัดการเรียบร้อยแล้ว	reminder	48
+3231313535373634	IN:DELETE_REMINDER	จัดการกับตัวแจ้งเตือนของฉันเกี่ยวกับการซื้อเค้กในวันเสาร์	reminder	48
+3231313535353431	IN:DELETE_REMINDER	ลบการแจ้งเตือนเกี่ยวกับการนัดทำผมของฉัน	reminder	48
+3231313535303736	IN:DELETE_REMINDER	ยกเลิกการแจ้งเตือนเกี่ยวกับภาพยนตร์ในวันที่ 2 สิงหาคม	reminder	48
+3231313534363135	IN:DELETE_REMINDER	ลบการแจ้งเตือนในการนำคัพเค้กไปชั้นเรียนทำอาหารในวันเสาร์	reminder	48
+3231313532343633	IN:DELETE_REMINDER	ลบการแจ้งเตือนสำหรับอาหารมื้อกลางวันวันพรุ่งนี้ของฉัน	reminder	48
+3231313530323136	IN:DELETE_REMINDER	ลบการแจ้งเตือนสัมมนาของฉันวันนี้	reminder	48
+3231313439393833	IN:DELETE_REMINDER	ลบการเตือนให้ไปรับดอกไม้ในสัปดาห์หน้า	reminder	48
+3231313437393638	IN:DELETE_REMINDER	ลบแจ้งเตือนความจำสำหรับคลาสยิมนาสติกของลิลลี	reminder	48
+3231313436353035	IN:DELETE_REMINDER	ยกเลิกการแจ้งเตือนทั้งหมดของฉันสำหรับศุกร์หน้าหลังบ่าย 2 โมง	reminder	48
+3231323431363836	IN:DELETE_REMINDER	ลบการเตือนให้โทรหาหมอเพื่อนัดหมาย	reminder	48
+3231323430303838	IN:DELETE_REMINDER	ยกเลิกการเตือนความจำของฉันในวันพฤหัสบดี	reminder	48
+3231323336393835	IN:DELETE_REMINDER	ลบการเตือนให้รับนม	reminder	48
+3231323335303031	IN:DELETE_REMINDER	ลบการแจ้งเตือน	reminder	48
+3231323332393739	IN:DELETE_REMINDER	ลบการเตือนความจำทั้งหมดที่ตั้งไว้สำหรับพรุ่งนี้ตอนห้าโมงเย็น	reminder	48
+3231323332313532	IN:DELETE_REMINDER	ลบการแจ้งเตือนสำหรับส่งรายงานในคืนวันศุกร์	reminder	48
+3231323332303031	IN:DELETE_REMINDER	ลบการเตือนความจำที่เกี่ยวข้องกับแฟนของฉันทั้งหมด	reminder	48
+3231323331383331	IN:DELETE_REMINDER	ลบการแจ้งเตือนเกี่ยวกับงานเลี้ยงชมรมหนังสือในเดือนตุลาคมให้ที	reminder	48
+3231323331383031	IN:DELETE_REMINDER	ลบการแจ้งเตือนการประชุม PTO สำหรับวันพรุ่งนี้	reminder	48
+3231323330313730	IN:DELETE_REMINDER	ช่วยลบการเตือนความจำให้เปลี่ยนน้ำมันที่ Saturn หน่อย	reminder	48
+3231323330303738	IN:DELETE_REMINDER	ช่วยยกเลิกการแจ้งเตือนของฉันทั้งหมดในเดือนสิงหาคมให้ที	reminder	48
+3231313536333232	IN:DELETE_REMINDER	ลบการแจ้งเตือนเกี่ยวกับการนัดหมายการจัดส่งสําหรับเช้าวันศุกร์	reminder	48
+3231313531393136	IN:DELETE_REMINDER	ลบการแจ้งเตือนรายการทีวีของฉัน	reminder	48
+3231313436323236	IN:DELETE_REMINDER	ลบการแจ้งเตือนให้ฝึกซ้อมคืนนี้	reminder	48
+3231323337343238	IN:DELETE_REMINDER	ลบการแจ้งเตือนให้รับหนังสือพิมพ์วันพรุ่งนี้	reminder	48
+3231323336363839	IN:DELETE_REMINDER	ย้ายการแจ้งเตือนไปที่ถังขยะ	reminder	48
+3231323335383738	IN:DELETE_REMINDER	ยกเลิกการเตือนความจำเรื่องไปเดทของฉัน	reminder	48
+3231323335303139	IN:DELETE_REMINDER	ลบการเตือนความจำให้พาหมาไปเดินเล่นในวันเสาร์	reminder	48
+3231323331353938	IN:DELETE_REMINDER	ลบการเตือนความจำเกี่ยวกับการรวมตัวของ Andrea	reminder	48
+3231323331343938	IN:DELETE_REMINDER	ลบการแจ้งเตือนเรื่องงานสัปดาห์หน้าทั้งหมดเพราะฉันจะไม่เข้าไป	reminder	48
+3231323239353735	IN:DELETE_REMINDER	ลบการแจ้งเตือนทั้งหมด	reminder	48
+3231323238313934	IN:DELETE_REMINDER	ลบการแจ้งเตือน 30 นาทีที่ให้ไปรับรถสัปดาห์หน้าทั้งหมดของฉัน	reminder	48
+3231323235353535	IN:DELETE_REMINDER	ลบการแจ้งเตือนเรื่องนวดสปาของฉัน	reminder	48
+3231323235353335	IN:DELETE_REMINDER	ยกเลิกการเตือนเรื่องนัดทำความสะอาดพรมวันอังคาร	reminder	48
+3232323730323036	IN:CREATE_TIMER	จับเวลาหลังสี่ชั่วโมงเก้านาทีและสี่ชั่วโมงสี่สิบห้านาที	timer	49
+3232313432313735	IN:CREATE_TIMER	คุณช่วยปรับการจับเวลาได้ไหม	timer	49
+3230303431383532	IN:CREATE_TIMER	ช่วยตั้งการจับเวลานาน 12 ปี	timer	49
+3138383932373632	IN:CREATE_TIMER	กรุณาตั้งเวลาเป็น 2 ชั่วโมง	timer	49
+3135323938383232	IN:CREATE_TIMER	โปรดจับเวลาไว้ 35 นาที	timer	49
+3135323937393133	IN:CREATE_TIMER	จับเวลา 45 นาที	timer	49
+3135323936333336	IN:CREATE_TIMER	ตั้งเวลาสำหรับวิ่งไว้ 30 นาที	timer	49
+3135323934373034	IN:CREATE_TIMER	ตั้งเวลาเพื่อไปใน 4 ชั่วโมง	timer	49
+3135323933383233	IN:CREATE_TIMER	คุณช่วยจับเวลา 40 นาทีให้หน่อยได้ไหม	timer	49
+3135323930363531	IN:CREATE_TIMER	ตั้งนาฬิกาจับเวลา 10 วินาที	timer	49
+3132353835373232	IN:CREATE_TIMER	เริ่มนาฬิกาจับเวลา	timer	49
+39353739373833	IN:CREATE_TIMER	ตั้งเวลาสำหรับ 1 ชั่วโมง	timer	49
+39353733343431	IN:CREATE_TIMER	เริ่มเวลานับถอยหลังของฉัน	timer	49
+39353732383931	IN:CREATE_TIMER	ฉันต้องการนาฬิกาจับเวลา	timer	49
+39353638373735	IN:CREATE_TIMER	เริ่มจับเวลาในอีก 2 ชั่วโมง	timer	49
+39353638333833	IN:CREATE_TIMER	จับเวลา 20 นาที	timer	49
+39353637333630	IN:CREATE_TIMER	จับเวลาสำหรับหม้ออบของฉัน	timer	49
+39353637303635	IN:CREATE_TIMER	เริ่มจับเวลา	timer	49
+39353633303833	IN:CREATE_TIMER	จับเวลา 46 นาที	timer	49
+39353539373535	IN:CREATE_TIMER	จับเวลา 15 นาที	timer	49
+39353539353039	IN:CREATE_TIMER	โปรดจับเวลา	timer	49
+39353536343935	IN:CREATE_TIMER	ตั้งเวลาให้ปิดในหนึ่งชั่วโมง	timer	49
+39353530333839	IN:CREATE_TIMER	เริ่มจับเวลา 30 นาที	timer	49
+39353239363631	IN:CREATE_TIMER	จับเวลา 20 นาที	timer	49
+39353138303634	IN:CREATE_TIMER	ตั้งการจับเวลา	timer	49
+39353030383939	IN:CREATE_TIMER	ตั้งเวลาที่ 4 นาที	timer	49
+39343939343730	IN:CREATE_TIMER	จับเวลา 3 ชั่วโมง	timer	49
+39343934363139	IN:CREATE_TIMER	ตั้งการจับเวลาสำหรับเค้ก	timer	49
+39343933373634	IN:CREATE_TIMER	จับเวลา 8 ชั่วโมง	timer	49
+39343931393434	IN:CREATE_TIMER	ตั้งหยุดจับเวลาเป็นเวลา 15 นาที	timer	49
+39343836353932	IN:CREATE_TIMER	จับเวลาเพื่อให้รู้ว่าจะปิดเตาอบได้ตอนไหน	timer	49
+39343835333739	IN:CREATE_TIMER	ตั้งค่าการนับถอยหลังเป็นเวลา 10 นาที	timer	49
+39343831343733	IN:CREATE_TIMER	จับเวลา 2 ชั่วโมง	timer	49
+39343736333636	IN:CREATE_TIMER	จับเวลาสควอต	timer	49
+39343734313934	IN:CREATE_TIMER	จับเวลาสองชั่วโมง	timer	49
+39343732303833	IN:CREATE_TIMER	จับเวลาให้ฉัน 5 นาที	timer	49
+39343731303137	IN:CREATE_TIMER	ตั้งเวลา 60 นาทีสำหรับการวิ่ง	timer	49
+39343639383533	IN:CREATE_TIMER	จับเวลา 2 นาที	timer	49
+39343639303330	IN:CREATE_TIMER	ตั้งการจับเวลาการหมดเวลาเป็น 8 นาที	timer	49
+39343637303037	IN:CREATE_TIMER	ฉันต้องการให้คุณตั้งเวลาเป็นเวลาหนึ่งชั่วโมง	timer	49
+39343636363532	IN:CREATE_TIMER	เริ่มจับเวลาบ่ายโมงตรง	timer	49
+3232333730383630	IN:CREATE_TIMER	ฉันอยากตั้งเวลา 11 นาทีสำหรับพาสตา	timer	49
+3232333636343937	IN:CREATE_TIMER	ตั้งเครื่องจับเวลานานหนึ่งชั่วโมงและนาน 10 นาที	timer	49
+3135323939383631	IN:CREATE_TIMER	จับเวลา 1 ชั่วโมง	timer	49
+3135323932303930	IN:CREATE_TIMER	ฉันทำอาหารอยู่และต้องจับเวลา 45 นาที	timer	49
+3132353831383336	IN:CREATE_TIMER	สร้างรอบในนาฬิกาจับเวลาใหม่	timer	49
+39353830393130	IN:CREATE_TIMER	ช่วยตั้งเครื่องจับเวลานาน 55 นาทีหน่อย	timer	49
+39353630393130	IN:CREATE_TIMER	เริ่มจับเวลา​การเข้ายิมของฉัน​	timer	49
+39353437313737	IN:CREATE_TIMER	สร้างการปลุกจับเวลาใหม่	timer	49
+39353430313336	IN:CREATE_TIMER	ตั้งเวลาอบ 45 นาที	timer	49
+39353333343736	IN:CREATE_TIMER	กำลังนำไก่งวงมาปรุงอาหาร โดยตั้งเวลาอบไว้ 3 ชั่วโมง	timer	49
+39353330313832	IN:CREATE_TIMER	ตั้งเครื่องจับเวลานาน 2 ชั่วโมง  6 นาที	timer	49
+39353234373830	IN:CREATE_TIMER	โปรดเริ่มจับเวลา 12 นาที	timer	49
+3231353336383033	IN:UPDATE_METHOD_CALL	ฉันอยากเปลี่ยนการโทรนี้จากการโทรด้วยเสียงเป็นวิดีโอคอล	calling	51
+3231353336373833	IN:UPDATE_METHOD_CALL	สลับจากการโทรเป็นวิดีโอ	calling	51
+3231353336373537	IN:UPDATE_METHOD_CALL	สลับการโทรจากการโทรโหมดเสียงเป็นการโทรโหมดวิดีโอ	calling	51
+3231353336363736	IN:UPDATE_METHOD_CALL	ฉันอยากเปิดการใช้งานการโทรแบบวิดีโอตอนนี้	calling	51
+3231353336333837	IN:UPDATE_METHOD_CALL	หยุดวิดีโอสำหรับการโทรปัจจุบัน	calling	51
+3231363736323031	IN:UPDATE_METHOD_CALL	เปลี่ยนการโทรด้วยเสียงเป็นวิดีโอ	calling	51
+3231353437393534	IN:UPDATE_METHOD_CALL	โทรคุยด้วยวิดีโอกับแม่	calling	51
+39343831353430	IN:REMOVE_FROM_PLAYLIST_MUSIC	ลบเพลงนี้	music	53
+3132353836313331	IN:REMOVE_FROM_PLAYLIST_MUSIC	ไม่ต้องเล่นเพลงนี้อีก	music	53
+3138393832393232	IN:GET_CONTACT	รายชื่อเพื่อนของฉันทำงานที่บริษัท ฟิลลิปส์	people	54
+3138393832363839	IN:GET_CONTACT	พนักงานเบอร์เกอร์คิงปัจจุบัน	people	54
+3138393832363135	IN:GET_CONTACT	บอกฉันให้รู้ว่าเพื่อนคนไหนทำงานให้ Google	people	54
+3138393832353233	IN:GET_CONTACT	มีเพื่อนของฉันคนไหนทำงานที่สตาร์บัคส์ไหม?	people	54
+3138393832353131	IN:GET_CONTACT	ใครทำงานที่แม็ก	people	54
+3138393832333230	IN:GET_CONTACT	ใครจบจากมหาวิทยาลัยวิสคอนซิน วิทยาเขตออชโคช	people	54
+3138393832323737	IN:GET_CONTACT	มีใครจบจากเอ็นวายยูบ้าง	people	54
+3138393831373035	IN:GET_CONTACT	มีเพื่อนของฉันคนใดไปที่คอนคอร์เดียหรือไม่?	people	54
+3138393831363334	IN:GET_CONTACT	มีเพื่อนของฉันคนไหนไป A&M บ้าง?	people	54
+3138393831353934	IN:GET_CONTACT	มีเพื่อนของฉันกี่คนจบจากอีอาร์เอยู	people	54
+3138393830383134	IN:GET_CONTACT	มีเพื่อนคนไหนของฉันที่ไปโคลัมเบียหรือไม่?	people	54
+3138393830363132	IN:GET_CONTACT	คุณรู้จักใครที่ไปที่ ยูเอ็นแอลวีไหม?	people	54
+3138393830353830	IN:GET_CONTACT	ฉันรู้จักคนที่จบจากมหาวิทยาลัยไคโรไหม	people	54
+3138393830313638	IN:GET_CONTACT	ฉันรู้จักใครที่เคยเรียนที่มหาวิทยาลัย Penn State หรือเปล่า?	people	54
+3138393739393839	IN:GET_CONTACT	ฉันรู้จักใครที่อยู่ที่นอร์ธแคโรไลนาหรือไม่	people	54
+3138393739373234	IN:GET_CONTACT	มีเพื่อนคนไหนอยู่ในแคนาดาบ้าง?	people	54
+3138393739363533	IN:GET_CONTACT	เพื่อนของฉันคนไหนที่อาศัยในเพ็นซาโคลา	people	54
+3138393739343831	IN:GET_CONTACT	ใครอยู่ในซานฟรานซิสโก?	people	54
+3138393739303139	IN:GET_CONTACT	เพื่อนของฉันคนไหนอาศัยอยู่ในไมอามีบ้าง?	people	54
+3138393738393337	IN:GET_CONTACT	ฉันรู้จักใครในอะแลสกาไหม	people	54
+3138393738383537	IN:GET_CONTACT	เพื่อนคนไหนมาจากซีแอตเติ้ล?	people	54
+3138393738363734	IN:GET_CONTACT	ฉันรู้จักใครในแคลิฟอร์เนียไหม	people	54
+3138393736303039	IN:GET_CONTACT	ใครเป็นเพื่อนกับแอน	people	54
+3138393735363539	IN:GET_CONTACT	เพื่อนของ Wesley	people	54
+3138393735343234	IN:GET_CONTACT	หาเพื่อนของซิสซี่ให้ฉัน	people	54
+3138393734383733	IN:GET_CONTACT	เพื่อนของเนต	people	54
+3138393734373736	IN:GET_CONTACT	ใครจะรู้จักฉันบ้าง?	people	54
+3138393734353636	IN:GET_CONTACT	ใครเป็นเพื่อนของแซนเดอร์	people	54
+3138393734313436	IN:GET_CONTACT	เพื่อนของแอมเบอร์	people	54
+3232353330333530	IN:GET_CONTACT	ช่วยหา Porter ได้ไหม	people	54
+3231343631353432	IN:GET_CONTACT	แสดงวันเกิดเพื่อนของออดรีย์	people	54
+3231343631343430	IN:GET_CONTACT	ใครเกิดวันที่ 5 พฤษภาคม 1941	people	54
+3231343631333138	IN:GET_CONTACT	มีใครเกิดในเดือนนี้บ้าง	people	54
+3231343631303936	IN:GET_CONTACT	แสดงวันเกิดของลูกเขย	people	54
+3231343630393034	IN:GET_CONTACT	พี่น้องบุญธรรม Windsheimer คนไหนวันเกิดกำลังจะมาถึง	people	54
+3231343630373532	IN:GET_CONTACT	มีเพื่อน Astrid Arrick ที่เกิดในเดือนพฤษภาคมบ้างไหม?	people	54
+3231343630373430	IN:GET_CONTACT	มีคนเกิดในเดือนสิงหาคมกี่คน	people	54
+3231313734343039	IN:GET_CONTACT	คนในครอบครัวของฉันคนใดบ้างที่เกิดในเดือนธันวาคม	people	54
+3139343332353730	IN:GET_CONTACT	คนดังคนไหนเรียนที่เยล	people	54
+3138393833363937	IN:GET_CONTACT	ใครทำงานที่ SpaceX	people	54
+3138393833313930	IN:GET_CONTACT	ใครทำงานที่ Farmer's Insurance	people	54
+3138393833303632	IN:GET_CONTACT	ใครทำงานที่โรงพยาบาล	people	54
+3138393833303531	IN:GET_CONTACT	มีใครที่ฉันรู้จักเคยเรียนที่สแตนฟอร์ดบ้างไหม	people	54
+3138393832373335	IN:GET_CONTACT	บอกฉันว่าใครได้รับการว่าจ้างที่ Microsoft	people	54
+3138393831353833	IN:GET_CONTACT	ใครก็ได้ที่มีปริญญาจาก FAMU	people	54
+3138393831353235	IN:GET_CONTACT	ใครจบจาก UCONN	people	54
+3138393739383937	IN:GET_CONTACT	ใครอาศัยอยู่ในแอตแลนติกซิตี้	people	54
+3138393739333638	IN:GET_CONTACT	ฉันรู้จักใครที่อยู่ฮาวายไหม	people	54
+3138393738373233	IN:GET_CONTACT	ลิสต์รายชื่อเพื่อนในพอร์ตแลนด์	people	54
+3138393738323537	IN:GET_CONTACT	แสดงคนที่อยู่ในแอริโซน่า	people	54
+3138393736353434	IN:GET_CONTACT	เพื่อนของโดนัลด์ ทรัมป์	people	54
+3138393736303631	IN:GET_CONTACT	เพื่อนของ Mikes มีใครบ้าง	people	54
+3138393736303139	IN:GET_CONTACT	เพื่อนฉัน	people	54
+3138393734373634	IN:GET_CONTACT	โปรดบอกชื่อเพื่อน ๆ ของ Betty หน่อย	people	54
+3138393734313534	IN:GET_CONTACT	เพื่อน ๆ ของ Ron	people	54
+3232353330333633	IN:GET_CONTACT	ค้นหา Roberto	people	54
+3231373033393939	IN:GET_CONTACT	วันอังคารนี้มีวันเกิดใครบ้าง	people	54
+3231343631353937	IN:GET_CONTACT	มีคนเกิดวันที่​ 18 มกราคม​ 1967 กี่คน	people	54
+3231343631323131	IN:GET_CONTACT	ฉันต้องการดูวันเกิดที่กำลังจะมาถึงของลูก ๆ ของเอเลียนอร์ แบ็กซ์เตอร์	people	54
+3231343630393935	IN:GET_CONTACT	วันที่ 21 มีวันเกิดของกี่คน	people	54
+3231343630383930	IN:GET_CONTACT	ลูกคนไหนของ Krista A. Selvaggi เกิดวันที่ 25	people	54
+3231313730363532	IN:GET_CONTACT	เพื่อนฉันที่อยู่​ในนิวยอร์ก​คนไหนเกิดเดือนนี้	people	54
+3139343333363438	IN:GET_CONTACT	ลูก ๆ ของ Jay Z ชื่ออะไรบ้าง	people	54
+3138393933383033	IN:GET_CONTACT	ใครคือแม่ของอาเลียน่า	people	54
+3138393834323737	IN:GET_CONTACT	ใครทำงานให้ Napa บ้าง	people	54
+3138393834323734	IN:GET_CONTACT	Skyline กำลังจะจ้างใครให้ทำงานที่นั่นอีกบ้าง	people	54
+3138393834323637	IN:GET_CONTACT	ใครทำงานที่ไนกี้	people	54
+3138393834313635	IN:GET_CONTACT	ช่วยดูใน linkedin ได้ไหมว่าใครทำงานที่ Apple	people	54
+3138393833393536	IN:GET_CONTACT	เพื่อนคนไหนทำงานให้กับ UHC	people	54
+3138393833393137	IN:GET_CONTACT	ใครทำงานที่ Baker Shoes ในห้าง Boise บ้าง	people	54
+3138393833383834	IN:GET_CONTACT	บอกชื่อคนที่ทำงานที่ Williams Family Dentistry	people	54
+3138393833373432	IN:GET_CONTACT	ช่วยบอกฉันหน่อยว่าใครทำงานที่ Best Buy	people	54
+3138393833353136	IN:GET_CONTACT	ใครทำงานอยู่ที่พิซซ่าฮัท	people	54
+3138393833343336	IN:GET_CONTACT	ใครทำงานในซีแอตเทิล	people	54
+3138393832373232	IN:GET_CONTACT	สร้างรายชื่อพนักงานเฟิร์สต์เนชันแนล	people	54
+3138393832333232	IN:GET_CONTACT	มีคนที่ฉันรู้จักไป FSU บ้างไหม	people	54
+3138393832323131	IN:GET_CONTACT	มีใครได้ไป Pitt หรือเปล่า	people	54
+3138393831393332	IN:GET_CONTACT	ใครจบจากวิทยาลัยแคลิฟอร์เนีย เพนซิลวาเนียบ้าง	people	54
+3138393831373930	IN:GET_CONTACT	ฉันรู้จักใครที่เคยเรียนที่ฮาวาร์ด​บ้างไหม	people	54
+3138393830393633	IN:GET_CONTACT	ใครเคยเรียนที่ UCR บ้าง	people	54
+3138393830373432	IN:GET_CONTACT	ฉันรู้จักใครที่เรียนจบจาก NIU บ้างหรือเปล่า?	people	54
+3138393830363034	IN:GET_CONTACT	ค้นหาคนที่เคยเรียนที่โรงเรียนมัธยมปลายเลคแลนด์	people	54
+3138393830323038	IN:GET_CONTACT	ฉันรู้จักใครที่มาจาก Wisconsin บ้างไหม	people	54
+3138393830313738	IN:GET_CONTACT	ใครกำลังเรียนที่ DSU	people	54
+3138393735343430	IN:GET_CONTACT	แสดงเพื่อน ๆ ของอีริก	people	54
+3138393735313731	IN:GET_CONTACT	แสดงเพื่อนของฉัน	people	54
+3231343630383439	IN:GET_CONTACT	ใครที่ Mrs. Maryln Truocchio รู้จัก เกิดวันที่ 7 มิถุนายน	people	54
+3231363735313032	IN:GET_CALL	ฉันมีวิดีโอคอลกับดอนนี่คืนนี้หรือเปล่า	calling	55
+3231363734383836	IN:GET_CALL	ฉันมีสายที่ไม่ได้รับไหม	calling	55
+3231363734343334	IN:GET_CALL	ฉันมีสายที่ไม่ได้รับบ้างไหมวันนี้	calling	55
+3231363037363437	IN:GET_CALL	เรียกดูประวัติการโทรหาเคลลีตั้งแต่เมื่อวาน	calling	55
+3231363037353730	IN:GET_CALL	บอกฉันทีว่าไม่ได้รับโทรศัพท์สายไหน	calling	55
+3231363037353137	IN:GET_CALL	โปรดแสดงประวัติการโทรของฉันนับจากวันนี้	calling	55
+3231353437363531	IN:GET_CALL	ฉันจำได้หรือเปล่าว่าวันนี้ต้องโทรวิดีโอคอลหา  John	calling	55
+3231353437303534	IN:GET_CALL	อีวาโทรมาบ้างหรือเปล่า	calling	55
+3231353437303036	IN:GET_CALL	วันนี้ฉันได้โทรหาพ่อหรือเปล่า	calling	55
+39343930373832	IN:DELETE_PLAYLIST_MUSIC	ลบเพลย์ลิสต์ของเอนยา	music	57
+3138393934393830	IN:GET_INFO_CONTACT	ใครคือจอร์จ	people	58
+3138393934383130	IN:GET_INFO_CONTACT	บอกฉันเกี่ยวกับเชอร์ลี่ย์	people	58
+3138393934343333	IN:GET_INFO_CONTACT	ใครคืออดัม?	people	58
+3138393933393734	IN:GET_INFO_CONTACT	บอกฉันทีว่าแอนนาคือใคร	people	58
+3138393933393530	IN:GET_INFO_CONTACT	คุณช่วยบอกรายละเอียดให้ฉันหน่อยได้ไหมว่าลิซ่าคือใคร	people	58
+3138393935323030	IN:GET_INFO_CONTACT	เพื่อนของ Art ที่ชื่อ Sean เป็นใคร	people	58
+3138393934383734	IN:GET_INFO_CONTACT	คุณบอกอะไรฉันเกี่ยวกับพ่อของแซมที่ชื่อเบนได้บ้าง	people	58
+3138393934343437	IN:GET_INFO_CONTACT	บอกรายละเอียดเกี่ยวกับสตีฟให้ฉันรู้	people	58
+3138393933353431	IN:GET_INFO_CONTACT	คุณรู้อะไรเกี่ยวกันปีเตอร์บ้าง	people	58
+3138393935343133	IN:GET_INFO_CONTACT	บอกฉันเพิ่มเติมเกี่ยวกับลีแอนนา	people	58
+3138393934393736	IN:GET_INFO_CONTACT	ฉันอยากรู้เพิ่มเติมเกี่ยวกับเคนซี	people	58
+3138393934373731	IN:GET_INFO_CONTACT	โจคือใคร	people	58
+3138393935343131	IN:GET_INFO_CONTACT	แบรนดอนคือใคร	people	58
+39353035373633	IN:DELETE_TIMER	หยุดจับเวลาเดิน	timer	59
+39343735333931	IN:DELETE_TIMER	ลบตัวจับเวลาเก่าทั้งหมด	timer	59
+3231353335303838	IN:DELETE_TIMER	หยุดการจับเวลา	timer	59
+39353735393337	IN:DELETE_TIMER	เลิกใช้ตัวจับเวลา	timer	59
+39353539353631	IN:DELETE_TIMER	ลบการจับเวลาที่ใช้งานอยู่	timer	59
+39353535393636	IN:DELETE_TIMER	ลบเครื่องจับเวลา	timer	59
+39353339353431	IN:DELETE_TIMER	ลบตัวจับเวลา	timer	59
+39353231323834	IN:DELETE_TIMER	ยกเลิกการจับเวลาและการปลุกทั้งหมด	timer	59
+3232343436353236	IN:CANCEL_MESSAGE	หยุดส่งข้อความ	messaging	61
+3138383932333438	IN:GET_RECIPES	แสดงตำรับอาหารที่มีตะไคร้	recipes	62
+3138383932303938	IN:GET_RECIPES	ฮัมมัสทำอย่างไร	recipes	62
+3138383931363430	IN:GET_RECIPES	ฉันต้องการทำไข่ดาวน้ำ	recipes	62
+3133343635323035	IN:GET_RECIPES	ฉันอยากได้สูตรทำพายสำหรับแอปเปิล	recipes	62
+3133343635303834	IN:GET_RECIPES	ค้นหาสูตรขนมปังข้าวสาลี	recipes	62
+3133343634353436	IN:GET_RECIPES	เตรียมไก่ยังไงบ้าง	recipes	62
+3133343634353135	IN:GET_RECIPES	คุณทำรูส์สำหรับน้ำเกรวี่ได้อย่างไร	recipes	62
+3133343439363438	IN:GET_RECIPES	แสดงสูตรทำเมนูปลาหลายๆ สูตร	recipes	62
+3133343130373735	IN:GET_RECIPES	ฉันใช้เนยถั่วทำอาหารเย็นสูตรไหนได้บ้าง	recipes	62
+3133343130353230	IN:GET_RECIPES	ค้นหาสูตรสำหรับทำสตูว์พริกมังสวิรัติ	recipes	62
+3133343130333837	IN:GET_RECIPES	ขอสูตรอาหารคีโตดี ๆ หน่อย	recipes	62
+3133343130323633	IN:GET_RECIPES	สูตรอาหารที่ไม่มีกลูเตน	recipes	62
+3133343130313337	IN:GET_RECIPES	คุณทำลาซานญ่ามังสวิรัติอย่างไร	recipes	62
+3133323738333634	IN:GET_RECIPES	วิธีที่ดีที่สุดในการทำอาหารที่เป็นปลาคืออะไร	recipes	62
+3133323738323331	IN:GET_RECIPES	ก๋วยเตี๋ยวทำอย่างไร	recipes	62
+3133323738313831	IN:GET_RECIPES	ขอดูวิธีย่างสเต็กแบบง่ายที่สุดหน่อย	recipes	62
+3133323738313230	IN:GET_RECIPES	ฉันต้องการตำรับพิซซ่าไก่แบบถาด	recipes	62
+3133323737383134	IN:GET_RECIPES	ช่วยบอกวิธีย่างเนื้อให้ฉันฟังหน่อย	recipes	62
+3133323734393430	IN:GET_RECIPES	สูตรทำพิซซ่าโฮมเมด	recipes	62
+3133303534333236	IN:GET_RECIPES	ทำเค้กโดยไม่ใช้ไข่ได้อย่างไร?	recipes	62
+3133303534323133	IN:GET_RECIPES	หาวิธีทำมันบด	recipes	62
+3132383135333036	IN:GET_RECIPES	ซอสโบโลเนสทำอย่างไร	recipes	62
+3132353535303132	IN:GET_RECIPES	ฉันจะปลูกต้นหอมจากหัวหอมได้อย่างไร	recipes	62
+39343632313334	IN:GET_RECIPES	ฉันจะทำแป้งพิซซ่าเองที่บ้านได้อย่างไร	recipes	62
+39343631373234	IN:GET_RECIPES	หาตำรับพิซซ่าของพาลีโอ	recipes	62
+39343631303037	IN:GET_RECIPES	สูตรที่ดีที่สุดสำหรับพิซซ่าชีสคือสูตรอะไร	recipes	62
+39343630393434	IN:GET_RECIPES	ช่วยบอกวิธีทำเกี๊ยวครีมชีสได้ไหม	recipes	62
+39343630363031	IN:GET_RECIPES	บอกวิธีทำขนมปังโฮลวีต	recipes	62
+39343630353433	IN:GET_RECIPES	สูตรทำอาหารวีแกนง่ายๆ	recipes	62
+39343630343739	IN:GET_RECIPES	บอกวิธีหุงข้าวสวยให้ฉันหน่อย	recipes	62
+39343539393732	IN:GET_RECIPES	ค้นหาสูตรแมคแอนด์ชีสแบบวีแกน	recipes	62
+39343539363639	IN:GET_RECIPES	ฉันต้องการสูตรอบพิซซ่าแป้งบาง	recipes	62
+39343538343332	IN:GET_RECIPES	ฉันจะทำสเต็กอย่างไรให้ฉ่ำ	recipes	62
+39343538323936	IN:GET_RECIPES	ช่วยฉันทำคิช	recipes	62
+39343537393335	IN:GET_RECIPES	ฉันต้องการสูตรสำหรับคุกกี้	recipes	62
+39343537363237	IN:GET_RECIPES	ขอสูตรอาหารไก่อัลเฟรโด	recipes	62
+39343536393231	IN:GET_RECIPES	สูตรทาโก้	recipes	62
+39343536323636	IN:GET_RECIPES	กรุณาอ่านสูตรอาหาร	recipes	62
+39343535393730	IN:GET_RECIPES	ปรุงไก่งวง	recipes	62
+39343535323130	IN:GET_RECIPES	ฉันอยากทำเฝอ ต้องใช้อะไรบ้าง	recipes	62
+39343535323034	IN:GET_RECIPES	วิธีทำขนมปังตั้งแต่เริ่มต้น	recipes	62
+39343535303234	IN:GET_RECIPES	ฉันจะทำพาสต้าซุกินีได้อย่างไร	recipes	62
+39343534363235	IN:GET_RECIPES	ฉันอยากทำอาหารปิ้งย่าง	recipes	62
+39343534353231	IN:GET_RECIPES	ช่วยค้นหาสูตรเค้กเนื้อฉ่ำหน่อย	recipes	62
+39343532393435	IN:GET_RECIPES	หาสูตรอาหารฝรั่งเศสให้ฉันที	recipes	62
+39343532333932	IN:GET_RECIPES	ฉันต้องการสูตรทำพูลพอร์ก	recipes	62
+39343531383931	IN:GET_RECIPES	ขอสูตรทำซอสมารินาราแบบดั้งเดิม	recipes	62
+39343531373534	IN:GET_RECIPES	สูตรทำฮัมมาสเพื่อสุขภาพคืออะไร	recipes	62
+39343531363732	IN:GET_RECIPES	ฉันจะทำเค้กไม่มีกลูเตนได้ยังไง	recipes	62
+39343530383837	IN:GET_RECIPES	ฉันต้องการสูตรไก่พาร์เมซานอัลเฟรโด	recipes	62
+3133343634393636	IN:GET_RECIPES	สูตรเมนูไก่ทำง่าย ๆ	recipes	62
+3133323738333831	IN:GET_RECIPES	ทำสปาเก็ตตียังไง	recipes	62
+3133323738313736	IN:GET_RECIPES	กอร์ดอน แรมซีย์คนไข่ยังไง	recipes	62
+3133303534323535	IN:GET_RECIPES	ฉันจะเริ่มทำขนมปังป่นเองตั้งแต่ขั้นตอนแรกยังไง	recipes	62
+3132363236303333	IN:GET_RECIPES	วิธีทำกิชทำยังไง	recipes	62
+3132353534373732	IN:GET_RECIPES	แสดงราเม็งที่ถูกที่สุด	recipes	62
+39343632393734	IN:GET_RECIPES	สูตรทำขนมปัง	recipes	62
+39343632393134	IN:GET_RECIPES	ขอไอเดียขนมหวานที่ไม่ต้องอบหน่อย	recipes	62
+39343632373839	IN:GET_RECIPES	ฉันอยากได้สูตรสำหรับเอ็นชิลาดาไก่	recipes	62
+39343631313931	IN:GET_RECIPES	ฉันจะทําคุกกี้ช็อกโกแลตชิปโฮมเมดได้อย่างไร	recipes	62
+39343630363932	IN:GET_RECIPES	วิธีทำแพนเค้กแบบมังสวิรัติ	recipes	62
+39343630363836	IN:GET_RECIPES	ค้นหาไอเดียอาหารเย็นมื้อด่วน	recipes	62
+39343539313839	IN:GET_RECIPES	สูตรซูชิญี่ปุ่น	recipes	62
+39343537393432	IN:GET_RECIPES	ทำสปาเกตตี้ไก่ได้ยังไง	recipes	62
+39343537333235	IN:GET_RECIPES	หาสูตรอาหารเม็กซิกัน	recipes	62
+39343536313238	IN:GET_RECIPES	หาสูตรทำ chicken vindaloo	recipes	62
+39343536313235	IN:GET_RECIPES	วิธีทำไก่และเกี๊ยวตั้งแต่เริ่มต้น	recipes	62
+39343534313335	IN:GET_RECIPES	เราจะทำเครปได้ยังไง	recipes	62
+39343532343936	IN:GET_RECIPES	ฉันจะทําน้ำพริกได้อย่างไร	recipes	62
+39343531383735	IN:GET_RECIPES	หาสูตรทาโก้กุ้งง่าย ๆ ให้ฉัน	recipes	62
+39343531373533	IN:GET_RECIPES	สูตรสำหรับขนมปังมะนาวมีอะไรบ้าง	recipes	62
+39343531303933	IN:GET_RECIPES	วิธีทำคัสตาร์ดราดคาราเมล	recipes	62
+39343439393533	IN:GET_RECIPES	หาสูตรทำหมูฉีก	recipes	62
+3231373439383732	IN:GET_CATEGORY_EVENT	ปาร์ตี้สุดเหวี่ยงเป็นกิจกรรมแบบไหน	event	63
+3231373439383539	IN:GET_CATEGORY_EVENT	งาน Paws to Party เป็นงานแบบไหน	event	63
+3231333432363134	IN:SET_UNAVAILABLE	ฉันไม่ว่างอีกต่อไปแล้ว	calling	64
+3231333432353938	IN:SET_UNAVAILABLE	ตั้งค่าสถานะเป็นออก	calling	64
+3231333532323032	IN:SET_UNAVAILABLE	ตั้งค่าจากว่างเป็นไม่ว่าง	calling	64
+3231333439373034	IN:SET_UNAVAILABLE	เปิดโหมดห้ามรบกวนบนมือถือ	calling	64
+3231333435343939	IN:SET_UNAVAILABLE	เปลี่ยนสถานะว่างของฉันเป็นไม่ว่าง	calling	64
+3231363735363536	IN:SET_UNAVAILABLE	ตอนนี้ไม่ว่าง	calling	64
+3231333530333634	IN:SET_UNAVAILABLE	ฉันไม่ว่าง	calling	64
+3231333439313432	IN:SET_UNAVAILABLE	โปรดเปลี่ยนสถานะของฉันจากว่างเป็นไม่ว่าง	calling	64
+3231333437383939	IN:SET_UNAVAILABLE	ตอนนี้ฉันไม่ว่าง	calling	64
+3231333436343737	IN:SET_UNAVAILABLE	ไม่ต้องการพูด	calling	64
+3231333435343936	IN:SET_UNAVAILABLE	เปลี่ยนโหมดเป็นไม่ว่าง	calling	64
+3231333435323231	IN:SET_UNAVAILABLE	ตอนนี้ฉันคุยไม่ได้	calling	64
+3231333432353739	IN:SET_UNAVAILABLE	เปลี่ยนสถานะเป็นไม่ว่าง	calling	64
+3231333432353536	IN:SET_UNAVAILABLE	แสดงให้คนอื่นรู้ว่าฉันไม่ว่าง	calling	64
+3231363735363437	IN:SET_UNAVAILABLE	เปลี่ยนการมองเห็นออนไลน์เป็นไม่ว่าง	calling	64
+3132353534343233	IN:IS_TRUE_RECIPES	ช่วยเอาจานแก้วใส่ไว้ในเตาอบ	recipes	66
+39343630353233	IN:IS_TRUE_RECIPES	ฉันใส่วนิลาในแพนเค้กได้ไหม	recipes	66
+39343630323536	IN:IS_TRUE_RECIPES	ใส่ไข่ไปในสูตรขนมปังข้าวโพดได้ไหม	recipes	66
+39343538363733	IN:IS_TRUE_RECIPES	ฉันสามารถย่างพิซซ่าได้ไหม	recipes	66
+39343537363836	IN:IS_TRUE_RECIPES	ฉันทำไก่แบบมีเดียมแรร์ได้ไหม	recipes	66
+39343534373132	IN:IS_TRUE_RECIPES	ในซุปมิโซมีสารกลูเตนไหม	recipes	66
+39343531313733	IN:IS_TRUE_RECIPES	ช่วยอุ่นพาสต้าในไมโครเวฟด้วย	recipes	66
+39343632313238	IN:IS_TRUE_RECIPES	ข้าวบริยานีจำเป็นต้องมีขิงและกระเทียมตำละเอียดไหม	recipes	66
+39343538393338	IN:IS_TRUE_RECIPES	ฉันสามารถทำราวิโอลีตั้งแต่แรกเริ่มเลยได้ไหม	recipes	66
+39343538343833	IN:IS_TRUE_RECIPES	กูลาชใส่หัวหอมไหม	recipes	66
+39343532313335	IN:IS_TRUE_RECIPES	คนเรากินไก่ดิบได้ไหม	recipes	66
+3231353232303935	IN:CREATE_PLAYLIST_MUSIC	ตั้งชื่อรายการเล่นว่า Chill Tracks	music	67
+3132353830353538	IN:CREATE_PLAYLIST_MUSIC	สร้างเพลย์ลิสต์ของ คริสติน่า กริมมี	music	67
+39353035383136	IN:CREATE_PLAYLIST_MUSIC	เพิ่มเพลย์ลิสต์ใหม่	music	67
+39353637353136	IN:CREATE_PLAYLIST_MUSIC	เปิดสถานีเพลงคันทรีให้ฉัน	music	67
+3231323239303233	IN:HELP_REMINDER	ฉันจะเปลี่ยนการเตือนความจำสำหรับการฝึกบัลเลต์ได้ยังไง	reminder	68
+3231333433393036	IN:SWITCH_CALL	วางสายและสลับไปรับสายใหม่	calling	69
+3231333433313835	IN:SWITCH_CALL	ปล่อยและสลับสายนี้	calling	69
+3231333439313638	IN:SWITCH_CALL	ช่วยวางสายและสลับสายการโทร	calling	69
+3231333437343931	IN:SWITCH_CALL	พักสายนี้ก่อนแล้วรับอีกสายหนึ่ง	calling	69
+3231333437343735	IN:SWITCH_CALL	ฉันอยากเปลี่ยนไปรับสายที่กำลังโทรเข้ามา	calling	69
+3231333436333035	IN:SWITCH_CALL	สลับสาย	calling	69
+3231333435373730	IN:SWITCH_CALL	พักสายและรับสายที่โทรเข้ามาใหม่	calling	69
+3138393930353635	IN:GET_UNDERGRAD	ทรอยเรียนที่วิทยาลัยไหน?	people	70
+3138393930323631	IN:GET_UNDERGRAD	บอกฉันสิว่าแอนเดรียเรียนวิทยาลัยไหน	people	70
+39353737323138	IN:RESUME_MUSIC	ฟังเพลงต่อ	music	71
+3231363735313631	IN:GET_CALL_TIME	หัวหน้าของฉันโทรหาฉันกี่โมง	calling	73
+3231363735303532	IN:GET_CALL_TIME	สามีของฉันโทรมาเมื่อไหร่	calling	73
+3231353437303938	IN:GET_CALL_TIME	แซมวิดีโอแชทกับฉันเมื่อวานตอนกี่โมง?	calling	73
+3231353437303539	IN:GET_CALL_TIME	คุณยายโทรหาฉันเมื่อไร	calling	73
+3231363734323638	IN:GET_CALL_TIME	ครั้งล่าสุดที่ฉันวิดีโอคอลกับจอห์นคือเมื่อไหร่	calling	73
+3136343035363933	IN:UPDATE_TIMER	ปรับตัวจับเวลาเป็น 20 นาที	timer	74
+3135323931373736	IN:UPDATE_TIMER	เปลี่ยนการจับเวลาของฉัน จาก 3 นาที เป็น 6 นาที	timer	74
+39353634323635	IN:UPDATE_TIMER	โหลดนาฬิกาจับเวลาของฉัน	timer	74
+39343738313830	IN:UPDATE_TIMER	เปลี่ยนเวลานับถอยหลัง	timer	74
+3232313432313938	IN:UPDATE_TIMER	แก้ไขตัวจับเวลาของฉัน	timer	74
+39353135393938	IN:UPDATE_TIMER	แก้ไขเครื่องจับเวลาเป็น 15 นาที	timer	74
+39353035333437	IN:UPDATE_TIMER	เปลี่ยนเครื่องจับเวลาจากตอนนี้เป็นภายหลัง	timer	74
+3231303232353939	IN:IGNORE_CALL	ไม่สนใจเจน	calling	75
+3231303138343932	IN:IGNORE_CALL	ไม่ต้องสนใจสายเข้าจากคอนเท็นต้า	calling	75
+3231303136303133	IN:IGNORE_CALL	ไม่ต้องเก็บอันนี้	calling	75
+3231353436373231	IN:IGNORE_CALL	ไม่รับสายเรียกเข้าสายนี้	calling	75
+3231333534313033	IN:IGNORE_CALL	อย่ารับสายนี้	calling	75
+3231333533373733	IN:IGNORE_CALL	ไม่รับสาย	calling	75
+3231303231383933	IN:IGNORE_CALL	ส่งสายทุกสายคืนนี้ไปที่วอยซ์เมล	calling	75
+3231303135383834	IN:IGNORE_CALL	อย่ารับสายจากแฟรงค์	calling	75
+3231373034333638	IN:GET_SUNRISE	บอกฉันเมื่อพระอาทิตย์ขึ้น	weather	76
+3231373034343338	IN:GET_SUNRISE	พรุ่งนี้จะเช้าเมื่อไร	weather	76
+3231353134383437	IN:GET_SUNRISE	จะมีพระอาทิตย์ขึ้นในวันมะรืนที่ 16 สตรีท มอลล์ไหม	weather	76
+3231333534363038	IN:ANSWER_CALL	ตอบรับวิดีโอคอลจากเคลลี	calling	77
+3231333534363030	IN:ANSWER_CALL	โปรดตอบรับวิดีโอคอลจากจอห์น	calling	77
+3231333436393131	IN:ANSWER_CALL	รับสายใหม่ที่เข้ามา	calling	77
+3231333434343634	IN:ANSWER_CALL	รับสายใหม่หน่อย	calling	77
+3231333130333737	IN:ANSWER_CALL	รับทุกสายจากพ่อตาของฉัน	calling	77
+3231303230373135	IN:ANSWER_CALL	ถ้าเป็นแม่ของฉันให้รับสาย	calling	77
+3231333436383539	IN:ANSWER_CALL	ตอบสายนั้นเดี๋ยวนี้	calling	77
+3231333534383239	IN:ANSWER_CALL	ช่วยกดรับสาย ava Brandon หน่อย	calling	77
+3138383938333932	IN:GET_STORIES_NEWS	ข่าวล่าสุดจากเกาหลีเหนือ	news	78
+3136343035323935	IN:GET_STORIES_NEWS	ขอข่าวล่าสุดเกี่ยวกับการเลือกตั้ง	news	78
+3136343034393239	IN:GET_STORIES_NEWS	โปรดอ่านรายละเอียดเกี่ยวกับความขัดแย้งกับเกาหลีเหนือ	news	78
+3136343034373635	IN:GET_STORIES_NEWS	มีข่าวอะไรอัพเดทบ้างหรือไม่	news	78
+3136333731363933	IN:GET_STORIES_NEWS	วันนี้ประธานาธิบดีได้แจ้งข่าวใหม่อะไรไหม	news	78
+3136303030323632	IN:GET_STORIES_NEWS	คุณช่วยบอกรายละเอียดเกี่ยวกับการเลือกตั้งครั้งล่าสุดให้ฉันได้ไหม	news	78
+3135393637313536	IN:GET_STORIES_NEWS	รายงานข่าวเกี่ยวกับนาซ่า	news	78
+3135383731343230	IN:GET_STORIES_NEWS	บอกฉันเกี่ยวกับรายละเอียดเพิ่มเติมของปัญหาความเสมอภาคทางอินเตอร์เน็ต	news	78
+3135383731323737	IN:GET_STORIES_NEWS	ขอรายละเอียดเพิ่มเกี่ยวกับเด็กผู้หญิงคนที่ยังอายุน้อยที่เสียชีวิตในการติดตามของตำรวจ	news	78
+3135333032353336	IN:GET_STORIES_NEWS	ขอข่าวด่วนรอบโลกที	news	78
+3135323938393133	IN:GET_STORIES_NEWS	รายละเอียดของเพลิงไหม้มีอะบ้าง	news	78
+3135323938373737	IN:GET_STORIES_NEWS	อ่านหัวข้อข่าวเด่น	news	78
+3135323936343734	IN:GET_STORIES_NEWS	หัวข้อข่าวจากเอ็นบีซี	news	78
+3135323935373737	IN:GET_STORIES_NEWS	เรื่องเด่นวันนี้คือเรื่องอะไร	news	78
+3135323933363133	IN:GET_STORIES_NEWS	อ่านหัวข้อข่าวกีฬาล่าสุดให้ฟังหน่อย	news	78
+3135323933363036	IN:GET_STORIES_NEWS	ข่าวเอเชีย	news	78
+3135323932393232	IN:GET_STORIES_NEWS	ข่าวล่าสุดในระดับนานาชาติคืออะไร	news	78
+3135323932363837	IN:GET_STORIES_NEWS	อ่านหัวข้อข่าวปัจจุบันให้ CT ฟัง	news	78
+3135323931383336	IN:GET_STORIES_NEWS	หัวข้อข่าวต่างประเทศของ CNN	news	78
+3135323839373135	IN:GET_STORIES_NEWS	อ่านรายละเอียดข้อความเกี่ยวกับบริการสตรีมมิ่งของดิสนีย์	news	78
+3134373430303437	IN:GET_STORIES_NEWS	หัวข้อข่าวกีฬา	news	78
+39353832333332	IN:GET_STORIES_NEWS	หัวข้อข่าวล่าสุดในยุโรปคืออะไร?	news	78
+39353831323133	IN:GET_STORIES_NEWS	บทความ foxnews เกี่ยวกับการเลือกตั้ง	news	78
+39353739383436	IN:GET_STORIES_NEWS	ข่าวเกี่ยวกับข้อพิพาททะเลจีนใต้	news	78
+39353739353035	IN:GET_STORIES_NEWS	ให้ข่าวล่าสุดจากวอชิงตันกับฉัน	news	78
+39353739313435	IN:GET_STORIES_NEWS	ข่าวเกี่ยวกับรัสเซีย	news	78
+39353736343334	IN:GET_STORIES_NEWS	อัปเดตข่าวให้ฉันที	news	78
+39353734343336	IN:GET_STORIES_NEWS	มีข่าวใหม่เกี่ยวกับประธานาธิบดีรึเปล่า	news	78
+39353733333238	IN:GET_STORIES_NEWS	เล่าเรื่องราวที่เกิดขึ้นวันนี้ให้ฉันฟังหน่อย	news	78
+39353732313730	IN:GET_STORIES_NEWS	อัปเดตข่าวเกี่ยวกับรัฐบาลของทรัมป์	news	78
+39353732313432	IN:GET_STORIES_NEWS	วันนี้มีข่าวอะไรเกิดขึ้นบ้าง?	news	78
+39353639303530	IN:GET_STORIES_NEWS	ข่าวล่าสุดเกี่ยวกับเกาหลีมีอะไรบ้าง	news	78
+39353636373930	IN:GET_STORIES_NEWS	อ่านข่าวล่าสุดใน st augustine ให้ฉัน	news	78
+39353635303939	IN:GET_STORIES_NEWS	ตรวจสอบข่าวปัจจุบัน	news	78
+39353634353839	IN:GET_STORIES_NEWS	บอกข่าวจากเช้านี้ให้กับฉัน	news	78
+39353538373237	IN:GET_STORIES_NEWS	ข่าวเกี่ยวกับหุ้นเอเอ็มดี	news	78
+39353538343137	IN:GET_STORIES_NEWS	วันนี้มีพาดหัวข่าวอะไรบ้าง?	news	78
+39353534373035	IN:GET_STORIES_NEWS	เนื้อหาข่าวล่าสุดของซีเอ็นเอ็นคืออะไร	news	78
+39353534313034	IN:GET_STORIES_NEWS	มีข่าวเกี่ยวกับการเลือกตั้งบ้างไหม	news	78
+39353532383834	IN:GET_STORIES_NEWS	ขอข่าวโดนัลด์ ทรัมป์หน่อย	news	78
+39353530393537	IN:GET_STORIES_NEWS	มีข่าวสำคัญอะไรไหม	news	78
+39353530343832	IN:GET_STORIES_NEWS	โปรดอ่านรายละเอียดข่าวล่าสุดของ Anderson Cooper ให้ฉันที	news	78
+39353439333132	IN:GET_STORIES_NEWS	เล่นข่าวจากลอนดอน	news	78
+39353438343831	IN:GET_STORIES_NEWS	โปรดอ่านหัวข้อข่าวล่าสุดของ CNN	news	78
+39353437393931	IN:GET_STORIES_NEWS	ข่าวท้องถิ่นมีอะไรบ้าง	news	78
+39353437343430	IN:GET_STORIES_NEWS	ข่าวล่าสุดในชิคาโกคือข่าวอะไร?	news	78
+39353437333334	IN:GET_STORIES_NEWS	บอกฉันเกี่ยวกับข่าวในนิวซีแลนด์	news	78
+39353437323534	IN:GET_STORIES_NEWS	ข่าวรัสเซียของจาเร็ด คุชเนอร์	news	78
+39353338303737	IN:GET_STORIES_NEWS	มีอะไรในข่าวท้องถิ่นบ้าง	news	78
+39353335303637	IN:GET_STORIES_NEWS	กรุณารายงานข่าวเกี่ยวกับฮิลลารี่ คลินตันด้วย	news	78
+39353332333939	IN:GET_STORIES_NEWS	อัปเดตข่าวสำหรับวันนี้	news	78
+39353331313532	IN:GET_STORIES_NEWS	เกิดอะไรรอบตัวฉันในข่าววันนี้	news	78
+39353238303338	IN:GET_STORIES_NEWS	ฉันต้องการข่าว	news	78
+39353235353730	IN:GET_STORIES_NEWS	แสดงพาดหัวข่าวทั้งหมดของอเมริกาให้ฉันที	news	78
+39353234343035	IN:GET_STORIES_NEWS	เนื้อหาข่าวเด่นประจำวันคือข่าวอะไร?	news	78
+39353139313630	IN:GET_STORIES_NEWS	ซีเอ็นเอ็นมีข่าวเกี่ยวกับการควบคุมสภาพอากาศหรือไม่?	news	78
+39353137353835	IN:GET_STORIES_NEWS	พร้อมสำหรับพาดหัวข่าวของออแลนโด เซนทินัลของวันนี้หรือยัง?	news	78
+39353134333939	IN:GET_STORIES_NEWS	หัวข้อของเมื่อวานคืออะไร?	news	78
+39353131363238	IN:GET_STORIES_NEWS	มีข่าวอะไรเกี่ยวกับรัสเซียไหม?	news	78
+39353130313231	IN:GET_STORIES_NEWS	มีหัวข้อข่าวใหญ่อะไรหรือไม่	news	78
+39353039393230	IN:GET_STORIES_NEWS	ขอข่าวสำคัญของตุรกีหน่อย	news	78
+39353039353537	IN:GET_STORIES_NEWS	ข่าวในปารีสมีอะไรบ้าง	news	78
+39353034363031	IN:GET_STORIES_NEWS	หัวข้อข่าวการเมืองมีอะไรบ้าง?	news	78
+39353033373936	IN:GET_STORIES_NEWS	อ่านข่าวเด่น	news	78
+39353030373234	IN:GET_STORIES_NEWS	ข่าวล่าสุดเกี่ยวกับพระราชินีเอลิซาเบธในเดือนนี้มีอะไรบ้าง	news	78
+39343939393735	IN:GET_STORIES_NEWS	ข่าวเกี่ยวกับ Fort Lauderdale	news	78
+39343938373436	IN:GET_STORIES_NEWS	คุณช่วยให้รายละเอียดเพิ่มเติมเกี่ยวกับวิกฤติการเข้าเมืองได้ไหม?	news	78
+39343936343234	IN:GET_STORIES_NEWS	อ่านหัวข้อข่าวให้ด้วย	news	78
+39343934343732	IN:GET_STORIES_NEWS	บอกฉันเรื่องข่าวของเมื่อวันก่อน	news	78
+39343934313537	IN:GET_STORIES_NEWS	ข่าวท้องถิ่นในเช้านี้มีอะไรบ้าง	news	78
+39343839393532	IN:GET_STORIES_NEWS	ช่วยบอกข่าวท้องถิ่นที	news	78
+39343739303037	IN:GET_STORIES_NEWS	มีข่าวเกี่ยวกับไฟไหม้ในละแวกบ้านของฉันไหม	news	78
+39343738323036	IN:GET_STORIES_NEWS	เล่นข่าวด่วนทั้งหมด	news	78
+39343734353937	IN:GET_STORIES_NEWS	แสดงข่าวเกี่ยวกับเม็กซิกัน	news	78
+39343734333230	IN:GET_STORIES_NEWS	New York Times มีพาดหัวข่าวอะไรบ้าง?	news	78
+39343730343837	IN:GET_STORIES_NEWS	บอกข้อมูลเกี่ยวกับข่าวในรัฐของฉัน	news	78
+39343638313633	IN:GET_STORIES_NEWS	อ่านพาดหัวข่าวบน CNN หรือยัง	news	78
+39343637383335	IN:GET_STORIES_NEWS	หัวข้อข่าวท้องถิ่นของวันนี้มีอะไรบ้าง	news	78
+39343637323030	IN:GET_STORIES_NEWS	โปรดอ่านรายละเอียดเกี่ยวกับการยกเลิกคอนเสิร์ตของ วิลลี เนลสัน ให้ฉัน	news	78
+39343637303938	IN:GET_STORIES_NEWS	พาดหัวข่าวท้องถิ่นของฉันมีอะไรบ้าง?	news	78
+39343636333130	IN:GET_STORIES_NEWS	อ่านหัวข้อข่าวเรือใบ	news	78
+3136343035373235	IN:GET_STORIES_NEWS	อ่านรายละเอียดเกี่ยวกับการฆาตกรรมใน Charlotte	news	78
+3136343035333634	IN:GET_STORIES_NEWS	พาดหัวข่าวบันเทิงที่เด่นสุดมีอะไรบ้าง	news	78
+3136343034373334	IN:GET_STORIES_NEWS	ช่วยอ่านรายละเอียดเรื่องราวเกี่ยวกับเจนนิเฟอร์ อนิสตันให้ฉันฟังหน่อยได้ไหม	news	78
+3136333731353436	IN:GET_STORIES_NEWS	อ่านพาดหัวข่าวกีฬาให้ฉันฟัง	news	78
+3136333337373439	IN:GET_STORIES_NEWS	กรุณาอ่านพาดหัวข่าวให้ฟังหน่อย	news	78
+3135393637353633	IN:GET_STORIES_NEWS	ช่วยอ่านรายละเอียดคำขู่ของโดนัลด์ ทรัมป์ต่อเกาหลีเหนือผ่านทวิตเตอร์	news	78
+3135383731343937	IN:GET_STORIES_NEWS	มีพาดหัวข่าวใหม่ ๆ บน cnn บ้างไหม	news	78
+3135333030313832	IN:GET_STORIES_NEWS	อ่านพาดหัวข่าวของคืนนี้ให้ฉันฟังหน่อย	news	78
+3135323936323230	IN:GET_STORIES_NEWS	พาดหัวข่าวรอบโลกล่าสุด	news	78
+3135323936303739	IN:GET_STORIES_NEWS	พาดหัวข่าวในซานฟรานซิสโก	news	78
+3135323934353337	IN:GET_STORIES_NEWS	ข่าวเด่นเกี่ยวกับวิทยาศาสตร์มีอะไรบ้าง	news	78
+3135323933373433	IN:GET_STORIES_NEWS	อ่านพาดหัวข่าวของวันนี้ให้ฉันฟังหน่อย	news	78
+3135323931343136	IN:GET_STORIES_NEWS	เปิดบทความล่าสุดจากไวซ์	news	78
+3135323931313730	IN:GET_STORIES_NEWS	พาดหัวข่าวยอดนิยมมีอะไรบ้าง	news	78
+3135323839303331	IN:GET_STORIES_NEWS	พาดหัวข่าวดังจากนิวยอร์กไทม์มีอะไรบ้าง	news	78
+39353830383830	IN:GET_STORIES_NEWS	อ่านพาดหัวข่าวให้ฟังหน่อย	news	78
+39353738303538	IN:GET_STORIES_NEWS	ขอเรื่องใหม่ใน Huffington Post	news	78
+39353436333333	IN:GET_STORIES_NEWS	แสดงรูปภาพเด่นจากพาดหัวข่าวในวันนี้ให้ฉันดูหน่อย	news	78
+39353434323233	IN:GET_STORIES_NEWS	มีข่าวระดับโลกที่สำคัญบ้างไหม	news	78
+39353433363130	IN:GET_STORIES_NEWS	พาดหัวข่าวล่าสุดจากเอ็มเอสเอ็นบีซีมีอะไรบ้าง	news	78
+39353432373336	IN:GET_STORIES_NEWS	แสดงพาดหัวข่าวจาก MSNBC	news	78
+39353431333133	IN:GET_STORIES_NEWS	ข่าวใหญ่ในฟลอริดา	news	78
+39353333323131	IN:GET_STORIES_NEWS	ฉันขอฟังข่าวหน่อย	news	78
+39353239383237	IN:GET_STORIES_NEWS	เรื่องราวข่าวที่ดังที่สุดของวันนี้มีอะไรบ้าง	news	78
+39353233393833	IN:GET_STORIES_NEWS	มีข่าวใหม่เกี่ยวกับเกาหลีเหนือบ้างไหม	news	78
+39353138313037	IN:GET_STORIES_NEWS	พาดหัวข่าวมีว่าอย่างไร	news	78
+39353135363931	IN:GET_STORIES_NEWS	ข่าวพาดหัวใหญ่วันนี้มีอะไร	news	78
+39353037393137	IN:GET_STORIES_NEWS	อ่านรายงานข่าวรอบโลก	news	78
+39343938323533	IN:GET_STORIES_NEWS	มีข่าวท้องถิ่นอะไรบ้าง	news	78
+39343738393130	IN:GET_STORIES_NEWS	บอกให้ฉันรู้พาดหัวข่าวบันเทิงหน่อย	news	78
+39343737373539	IN:GET_STORIES_NEWS	มีข่าวเพิ่มเติมเกี่ยวกับสุริยุปราคาไหม	news	78
+3231353336343530	IN:UPDATE_CALL	ยกเลิกแพทริค ลูกพี่ลูกน้องของฉันจากสายนี้	calling	79
+3231343839343632	IN:UPDATE_CALL	เพิ่มมาเรีย	calling	79
+3231343839343538	IN:UPDATE_CALL	เพิ่มลิน อัลเบอร์โต	calling	79
+3231333534333230	IN:UPDATE_CALL	เพิ่มพ่อในการโทร	calling	79
+3231333534333031	IN:UPDATE_CALL	เพิ่มการโทรหาจูเนียร์เดี๋ยวนี้	calling	79
+3231333531333732	IN:UPDATE_CALL	เชิญ Cobbe เข้ามาร่วมในสายนี้	calling	79
+3231333530353239	IN:UPDATE_CALL	เพิ่มชื่อเบ็ตตี้ในการโทรเดี๋ยวนี้	calling	79
+3231333530343536	IN:UPDATE_CALL	โปรดเชิญทีน่ามายังสายนี้ด้วย	calling	79
+3231333431373336	IN:UPDATE_CALL	เพิ่มชื่อเคลลี่ในการโทรปัจจุบัน	calling	79
+3231333430363739	IN:UPDATE_CALL	เพิ่มพ่อเข้ามาในสายนี้	calling	79
+3231333430343130	IN:UPDATE_CALL	ฉันต้องการเชิญ Nicky เข้าร่วมสายในตอนนี้	calling	79
+3231333430333930	IN:UPDATE_CALL	เชิญแม่และพ่อเข้าร่วมการสนทนา	calling	79
+3231333430313033	IN:UPDATE_CALL	เชิญพอลเข้ามาในการโทร	calling	79
+3231333339363839	IN:UPDATE_CALL	กรุณาเชิญแดนเข้าสู่การโทรกลุ่มของฉัน	calling	79
+3231333131323834	IN:UPDATE_CALL	เพิ่มแม่เลี้ยงมาในสายตอนนี้	calling	79
+3231333039343534	IN:UPDATE_CALL	เพิ่มลูกเลี้ยงเข้าในการโทรปัจจุบัน	calling	79
+3231303232313335	IN:UPDATE_CALL	คุณช่วยเพิ่มพี่ชายของฉันในการโทรนี้ได้ไหม	calling	79
+3231303231313536	IN:UPDATE_CALL	เพิ่ม Moses ในการโทรนี้	calling	79
+3231303139323038	IN:UPDATE_CALL	แม่ของฉันควรถูกลบออกจากการแชทผ่านวิดีโอครั้งนี้	calling	79
+3231363735383738	IN:UPDATE_CALL	ช่วยเพิ่มแม่เข้ามาตอนนี้ที	calling	79
+3231363039383435	IN:UPDATE_CALL	เพิ่มมาร์การีตา ฮัฟตี	calling	79
+3231353438353335	IN:UPDATE_CALL	ให้จอห์นเข้าร่วมการโทรนี้	calling	79
+3231353438333835	IN:UPDATE_CALL	ฉันขอย้ายวิกกี้ออกจากวิดีโอคอลได้ไหม	calling	79
+3231343839343633	IN:UPDATE_CALL	เพิ่มแมคเคนซี	calling	79
+3231333533353636	IN:UPDATE_CALL	เพิ่มไปยังการโทรให้ฉันที	calling	79
+3231333431323839	IN:UPDATE_CALL	เพิ่มคุณพ่อของฉันเข้าไปในการโทร	calling	79
+3231333430383631	IN:UPDATE_CALL	พาแม่เข้ามาในสายนี้ด้วย	calling	79
+3231333339363435	IN:UPDATE_CALL	ช่วยเพิ่ม Elle เข้ามาในการสนทนานี้หน่อย	calling	79
+3231333339363139	IN:UPDATE_CALL	โปรดเชิญแม่เข้าร่วมการโทร	calling	79
+3231333130363837	IN:UPDATE_CALL	เพิ่มย่าของฉันเข้ามาในสาย	calling	79
+3231333130333634	IN:UPDATE_CALL	เพิ่มพ่อเลี้ยงของฉันเข้าในการสนทนานี้	calling	79
+3231303139323430	IN:UPDATE_CALL	ช่วยเพิ่มเจเรมีไปยังวิดีโอแชทนี้หน่อยได้ไหม	calling	79
+3231303136373633	IN:UPDATE_CALL	ช่วยเพิ่มไมค์เข้าการประชุมทางโทรศัพท์นี้ด้วย	calling	79
+3231353336343630	IN:UPDATE_CALL	ลบภรรยาของฉันออกจากการสนทนา	calling	79
+3231333531353237	IN:UPDATE_CALL	เพิ่มฟรานซีนเข้าไปในสายนี้	calling	79
+3138393836353139	IN:GET_AGE	June อายุเท่าไร	people	80
+3138393837383438	IN:GET_AGE	เลียมจะอายุเท่าไหร่ในเดือนกุมภาพันธ์นี้	people	80
+3139343332373632	IN:GET_AGE	มารายห์ แครีอายุเท่าไร?	people	80
+3138393838383330	IN:GET_AGE	ปีนี้โทมัสจะอายุเท่าไร	people	80
+3138393838363637	IN:GET_AGE	เมลินด้าอายุเท่าไหร่​	people	80
+3138393838313632	IN:GET_AGE	Liz อายุเท่าไหร่หรือ	people	80
+3138393838373935	IN:GET_AGE	Michelle จะอายุครบ 50 เมื่อไหร่	people	80
+3230303431393338	IN:PREVIOUS_TRACK_MUSIC	ช่วยเล่นเพลงก่อนหน้านี้ได้ไหม	music	81
+39343932383439	IN:PREVIOUS_TRACK_MUSIC	เล่นเพลงที่แล้วอีกครั้งได้ไหม	music	81
+3230303431393336	IN:PREVIOUS_TRACK_MUSIC	ช่วยเปิดเพลงที่เล่นก่อนหน้าเพลงนี้หน่อย	music	81
+3132363230393338	IN:PREVIOUS_TRACK_MUSIC	เปิดเพลงสุดท้ายซ้ำอีกรอบ	music	81
+3132363133363936	IN:PREVIOUS_TRACK_MUSIC	เล่นเพลงสุดท้ายซ้ำ	music	81
+3132353833323432	IN:PREVIOUS_TRACK_MUSIC	ไปที่เพลงก่อนหน้า	music	81
+39353236393931	IN:SUBTRACT_TIME_TIMER	ลดเวลาในการจับเวลาตอนนี้ลงครึ่งหนึ่ง	timer	82
+3232313938333839	IN:SUBTRACT_TIME_TIMER	ทำให้การจับเวลาคุณยังวิ่งไม่เสร็จจนกว่าสัญญาณจะดังสั้นลง 11 นาที	timer	82
+39353830373136	IN:SUBTRACT_TIME_TIMER	ลบนาทีจากเวลาการวิ่งของฉัน	timer	82
+39353638363333	IN:SUBTRACT_TIME_TIMER	ลดเครื่องจับเวลาลง 5 นาที	timer	82
+39353532303432	IN:SUBTRACT_TIME_TIMER	ลดเวลาในเครื่องจับเวลาลง 1 นาที	timer	82
+39353134353835	IN:SUBTRACT_TIME_TIMER	ลดเวลาในเครื่องจับเวลาของฉันลง 15 วินาที	timer	82
+39343736313736	IN:SUBTRACT_TIME_TIMER	เปลี่ยนให้เครื่องจับเวลาดังในอีก 10 นาที	timer	82
+3232333731303937	IN:SUBTRACT_TIME_TIMER	ลดเวลาในเครื่องจับเวลาสำหรับหน้ากาก	timer	82
+39353831373135	IN:QUESTION_MUSIC	The Judds มีผลงานกี่อัลบั้ม	music	83
+39353733313935	IN:QUESTION_MUSIC	เพลงฮิตล่าสุดคือเพลงอะไร?	music	83
+39353531333337	IN:QUESTION_MUSIC	ใครเป็นนักดนตรีแจ๊สที่ดังที่สุดที่เคยมีมา?	music	83
+39353239343832	IN:QUESTION_MUSIC	แสดงอัลบั้มทั้งหมดของแบล็ก แซ็บบาธ	music	83
+3231363336393535	IN:SILENCE_ALARM	ปิดนาฬิกาปลุกเดี๋ยวนี้	alarm	85
+3231363336383533	IN:SILENCE_ALARM	หยุดการแจ้งเตือน	alarm	85
+3231363336363535	IN:SILENCE_ALARM	ปิดเครื่อง	alarm	85
+3231363032313635	IN:SILENCE_ALARM	ปิดเสียงปลุก	alarm	85
+3231353938383034	IN:SILENCE_ALARM	ปิดเวลาปลุกที่ฉันตั้งไว้	alarm	85
+3231353535383137	IN:SILENCE_ALARM	ปิดเสียงนาฬิกาปลุก	alarm	85
+3231353439333839	IN:SILENCE_ALARM	หยุดนาฬิการปลุกของฉันไม่ให้ส่งเสียง	alarm	85
+3231363032323337	IN:SILENCE_ALARM	กรุณาปิดเสียง	alarm	85
+3231353535363930	IN:SILENCE_ALARM	ฉันอยากให้คุณปิดการแจ้งเตือน	alarm	85
+3231353535353736	IN:SILENCE_ALARM	โปรดเงียบ	alarm	85
+39353631313035	IN:SILENCE_ALARM	ตั้งการแจ้งเตือน	alarm	85
+3135323934363036	IN:CREATE_ALARM	ปลุกฉันหลังจาก 2 ชั่วโมง	alarm	87
+3135323839333038	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกทุกๆ ชั่วโมง เป็นเวลา 12 ชั่วโมง	alarm	87
+39353832333030	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกเวลา 8 โมงเช้า	alarm	87
+39353737353437	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกทุกๆ 4 ชั่วโมง	alarm	87
+39353732343237	IN:CREATE_ALARM	ตั้งเวลาปลุก ตอน 10 โมงเช้า	alarm	87
+39353634313839	IN:CREATE_ALARM	ช่วยตั้งเตือนทุก 6 นาที	alarm	87
+39353438323538	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอน 7 โมงครึ่ง ทุกวันในสัปดาห์หน้า	alarm	87
+39353036343433	IN:CREATE_ALARM	ตั้งนาฬิกาปลุก 6 โมงครึ่งตอนเช้า	alarm	87
+39353036313432	IN:CREATE_ALARM	ตั้งเวลาปลุกทุกๆ 1 นาที เป็นเวลา 15 นาที	alarm	87
+39353034343433	IN:CREATE_ALARM	ช่วยตั้งนาฬิกาปลุกสำหรับพรุ่งนี้ 8 โมงเช้า	alarm	87
+39343733303533	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอนเช้า 7 โมงครึ่ง	alarm	87
+39343731343137	IN:CREATE_ALARM	ช่วยตั้งนาฬิกาปลุกตอนเที่ยงหน่อย	alarm	87
+39343731333035	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกพรุ่งนี้ตอน 10 โมงครึ่ง	alarm	87
+39343636383131	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอนเช้าเก้าโมงครึ่ง ทุกๆวันในสัปดาห์นี้	alarm	87
+3232333238363635	IN:CREATE_ALARM	ตั้งการเตือนอีกสี่นาทีหลังจากนี้	alarm	87
+3232323630383432	IN:CREATE_ALARM	ตั้งเตือนเวลาสำหรับวันธรรมดา	alarm	87
+3232323630383038	IN:CREATE_ALARM	นาฬิกาปลุกซ้ำทุกวันพุธเวลาหนึ่งทุ่ม	alarm	87
+3232313432323338	IN:CREATE_ALARM	ตั้งเวลาปลุก 2 ชั่วโมงหลังจากนี้	alarm	87
+3231393233313135	IN:CREATE_ALARM	ให้มีสัญญาณเตือนเวลาพรุ่งนี้เช้า	alarm	87
+3231393233303936	IN:CREATE_ALARM	กรุณาปิดนาฬิกาปลุกของฉัน	alarm	87
+3231363337333637	IN:CREATE_ALARM	คุณจะช่วยปลุกฉันหน่อยได้ไหม?	alarm	87
+3231363337333135	IN:CREATE_ALARM	ตั้งปลุกให้ฉันหน่อย	alarm	87
+3231363337323831	IN:CREATE_ALARM	ฉันต้องการตั้งนาฬิกาปลุกใหม่	alarm	87
+3231363336393930	IN:CREATE_ALARM	ตั้งนาฬิกาปลุก	alarm	87
+3231363336303835	IN:CREATE_ALARM	กรุณาตั้งนาฬิกาปลุกเวลา 8 น. ในวันเสาร์	alarm	87
+3231363335393939	IN:CREATE_ALARM	เสียงนาฬิกาปลุกใหม่ตอน 11 โมง	alarm	87
+3231363335393537	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่เวลา 23:30 น.	alarm	87
+3231363335383933	IN:CREATE_ALARM	คุณสามารถสร้างการแจ้งเตือนสำหรับวันจันทร์หน้าได้ไหม	alarm	87
+3231363335363139	IN:CREATE_ALARM	ฉันอยากตั้งปลุกตอน 6 โมงเช้าวันจันทร์	alarm	87
+3231363335353339	IN:CREATE_ALARM	ตั้งปลุกวันศุกร์ตอน 4 โมงเย็น	alarm	87
+3231363335353238	IN:CREATE_ALARM	สร้างให้การแจ้งเตือนปิดที่เวลา 18:45 น. ของวันศุกร์ถัดไป	alarm	87
+3231363335343536	IN:CREATE_ALARM	สร้างการเตือนใหม่สำหรับวันที่ 5	alarm	87
+3231363335313039	IN:CREATE_ALARM	เปิดการตั้งเตือนวันศุกร์ที่ 5 พฤษภาคม	alarm	87
+3231363335303036	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกวันอังคารเวลาหนึ่งทุ่ม	alarm	87
+3231363334393231	IN:CREATE_ALARM	ฉันต้องตั้งปลุกตอนบ่าย 2 โมง ทุกวันอาทิตย์โดยใช้ชื่อว่า พาสุนัขไปเดินเล่น	alarm	87
+3231363334373434	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกทุก ๆ วันพุธเวลา 6 โมงเย็น	alarm	87
+3231363334363337	IN:CREATE_ALARM	ตั้งเตือนแบบซ้ำสำหรับทุกวันพฤหัสบดี	alarm	87
+3231363334343939	IN:CREATE_ALARM	ตั้งเสียงเตือนใหม่สำหรับ 4 โมง 45 นาทีทุกวันอังคาร	alarm	87
+3231363334323333	IN:CREATE_ALARM	ตั้งให้นาฬิกาปลุกปิดทุกวันเวลา 6:00 น.	alarm	87
+3231363333393539	IN:CREATE_ALARM	ตั้งเตือนเวลานัดเป็น 11:30 โมงเช้า	alarm	87
+3231363333383433	IN:CREATE_ALARM	ตั้งเวลาปลุกให้ออกไปทำงานทุกวันตอน 8 โมง	alarm	87
+3231363333373237	IN:CREATE_ALARM	ตั้งการเตือนชื่อ นัด สำหรับวันศุกร์ตอน 10 โมงเช้า	alarm	87
+3231363333343035	IN:CREATE_ALARM	ตั้งปลุกตอน 6 โมง และ 7 โมง และ 8 โมง	alarm	87
+3231363333313830	IN:CREATE_ALARM	ตั้งเสียงเตือนเวลา 21:00 น. สำหรับวันเสาร์และวันอาทิตย์	alarm	87
+3231363333313631	IN:CREATE_ALARM	วันนี้ตั้งนาฬิกาปลุก 2 ครั้ง ตอน 12:00 น. และ 2:00 น.	alarm	87
+3231363038383132	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกใหม่เป็น 6 โมง 40 นาที	alarm	87
+3231363038373934	IN:CREATE_ALARM	ตั้งเตือนเวลาเป็น 6 โมง	alarm	87
+3231363038363832	IN:CREATE_ALARM	ทำการแจ้งเตือนใหม่ให้กับฉันเป็นเวลา 06.40 น.	alarm	87
+3231363038343338	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่ 06.50 น.	alarm	87
+3231363038313933	IN:CREATE_ALARM	ตั้งปลุกตอน 6 โมง 35 นาที	alarm	87
+3231363038303738	IN:CREATE_ALARM	นาฬิกาปลุกดังตอนตี 5 15 นาที	alarm	87
+3231363038303230	IN:CREATE_ALARM	ตั้งเวลาเตือน 24 ชม. 15 นาที	alarm	87
+3231363031383930	IN:CREATE_ALARM	ตั้งปลุกเวลา 8:00 น.	alarm	87
+3231363031373531	IN:CREATE_ALARM	ตั้งการเตือนเวลาสำหรับวันจันทร์ตอน 8 โมง	alarm	87
+3231363031373434	IN:CREATE_ALARM	ตั้งเตือนเวลาวันนี้ 6 โมงเย็น	alarm	87
+3231363031363736	IN:CREATE_ALARM	ตั้งปลุกวันเสาร์ตอนบ่าย 3	alarm	87
+3231363030373837	IN:CREATE_ALARM	ช่วยตั้งนาฬิกาปลุกทุกวันศุกร์ตอน 6 โมงเช้าเป็นเวลา 2 เดือนให้หน่อย	alarm	87
+3231363030343831	IN:CREATE_ALARM	ช่วยตั้งการแจ้งเตือนวันอังคารตอนเจ็ดโมงชื่อว่า บิลค่าโทรศัพท์	alarm	87
+3231353939383635	IN:CREATE_ALARM	คุณช่วยกรุณาตั้งนาฬิกาปลุกที่เวลา 7 น. สำหรับวันทำงานได้ไหม	alarm	87
+3231353535333032	IN:CREATE_ALARM	ฉันต้องการให้ปลุกเวลาบ่ายสอง	alarm	87
+3231353535313231	IN:CREATE_ALARM	ฉันต้องการเวลาปลุกใหม่ตอน 7 โมงเช้า	alarm	87
+3231353535303632	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่เวลา 6 น.	alarm	87
+3231353534363437	IN:CREATE_ALARM	ช่วยตั้งปลุกตอน 10 โมงเช้าหน่อย	alarm	87
+3231353534353930	IN:CREATE_ALARM	ทำการแจ้งเตือนสำหรับ 29 พฤษภาคมให้กับฉัน	alarm	87
+3231353534353632	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกสำหรับวันที่ 25 ธันวาคม	alarm	87
+3231353534353335	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่เวลาสองทุ่มของวันที่ 18	alarm	87
+3231353534343232	IN:CREATE_ALARM	ตั้งเตือนฉันสำหรับวันที่ 1 มิถุนายน เวลา 7 โมงเช้า	alarm	87
+3231353533373533	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอน 6 โมงและ 6 โมงครึ่ง ทุกวันอังคาร	alarm	87
+3231353533343930	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่เวลา 9 น.และ 22 น.	alarm	87
+3231353533323337	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอน 6 โมงเย็นและ 1 ทุ่มคืนนี้	alarm	87
+3231353533313832	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกเวลา 8.00 น. พรุ่งนี้ และ 10.00 น. ในวันศุกร์	alarm	87
+3231353533313630	IN:CREATE_ALARM	ตั้งการเตือนใหม่สองครั้ง ครั้งแรกตอนเที่ยง และอีกครั้งตอน 5 โมงเย็น	alarm	87
+3231353532333935	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกทุกวันพฤหัสบดีที่เวลา 6 น.	alarm	87
+3231353532323231	IN:CREATE_ALARM	เพิ่มการแจ้งเตือนซ้ำสำหรับตอนเช้าวันพฤหัสเวลา 8:00 น.	alarm	87
+3231353532313535	IN:CREATE_ALARM	ตั้งสัญญาณเตือนฉันซ้ำทุก ๆ วันพฤหัสบดีเวลา 6 โมง	alarm	87
+3231353531393235	IN:CREATE_ALARM	กรุณาตั้งนาฬิกาปลุกที่เวลา 10 น. ของทุกวันอาทิตย์	alarm	87
+3231353531393031	IN:CREATE_ALARM	ตั้งปลุกทุกเช้าวันอังคาร	alarm	87
+3231353531353937	IN:CREATE_ALARM	ตั้งเตือนให้เข้านอนตอนตี 2	alarm	87
+3231353531353338	IN:CREATE_ALARM	ฉันต้องการตั้งเตือนเวลาให้พร้อมเข้านอนตอนสี่ทุ่ม	alarm	87
+3231353531343133	IN:CREATE_ALARM	ตั้งการแจ้งเตือนการทำงานในวันพรุ่งนี้ตอนตี 5 วันพรุ่งนี้	alarm	87
+3231353531323331	IN:CREATE_ALARM	ตั้งปลุกเวลาเข้านอนตอน 1 ทุ่ม	alarm	87
+3231353531323239	IN:CREATE_ALARM	ตั้งปลุกตอน 9 โมงเช้าให้เอาขยะออกไปทิ้ง	alarm	87
+3231353438363639	IN:CREATE_ALARM	ขอตั้งเตือนเวลาสำหรับคืนนี้	alarm	87
+3137303534303830	IN:CREATE_ALARM	เปิดการตั้งปลุก	alarm	87
+3136343732343836	IN:CREATE_ALARM	เพิ่มการเตือนในวันเสาร์เวลา 8:30 น.	alarm	87
+3135333032353433	IN:CREATE_ALARM	กรุณาตั้งเวลา 1 ชั่วโมง	alarm	87
+3135323937303633	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่เวลาบ่ายโมงของทุกวันในสัปดาห์นี้	alarm	87
+3135323934303739	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกเวลาบ่ายโมงทุกวัน	alarm	87
+3135323932323436	IN:CREATE_ALARM	ตั้งปลุกตอนตี 5	alarm	87
+3135323930343433	IN:CREATE_ALARM	ฉันต้องตั้งนาฬิกาปลุกในตอนเช้า	alarm	87
+3135323930343338	IN:CREATE_ALARM	ตั้งเสียงเตือนเป็นเวลา 10 นาที นับจากตอนนี้	alarm	87
+3135323930313130	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกเวลา 10 น. วันพรุ่งนี้	alarm	87
+39353737383131	IN:CREATE_ALARM	เปิดนาฬิกาปลุก	alarm	87
+39353734363230	IN:CREATE_ALARM	ตั้งการเตือนในอีก 30 นาทีจากตอนนี้	alarm	87
+39353734323832	IN:CREATE_ALARM	ตั้งปลุกตอน 8 โมงเช้า ทุกวันอาทิตย์	alarm	87
+39353732383438	IN:CREATE_ALARM	กำหนดการตั้งปลุกของฉันเป็นเวลาสิบโมงเช้า	alarm	87
+39353731323333	IN:CREATE_ALARM	ตั้งปลุกอีก 30 นาที	alarm	87
+39353731303334	IN:CREATE_ALARM	ฉันต้องการให้เธอตั้งเสียงเตือนตอน บ่ายโมง	alarm	87
+39353639363231	IN:CREATE_ALARM	ตั้งเวลาปลุกตอน 7 โมงเช้า	alarm	87
+39353638323936	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกเวลา 12:30 น. ในวันพรุ่งนี้	alarm	87
+39353635363939	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอนตี 5 ตั้งชื่อว่าตื่นนอน	alarm	87
+39353633383133	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอนตี 5 พรุ่งนี้	alarm	87
+39353536393035	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่ 6 น.	alarm	87
+39353433363336	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกใน 30 นาที	alarm	87
+39353430303939	IN:CREATE_ALARM	ตั้งเตือนเวลา 7 โมงพรุ่งนี้	alarm	87
+39353336393239	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกเวลา 19 น. วันนี้	alarm	87
+39353335393238	IN:CREATE_ALARM	ตั้งให้มีสัญญาณเตือนเวลาทุกวัน	alarm	87
+39353330313632	IN:CREATE_ALARM	ตั้งนาฬิกาปลุก 30 นาทีหลังจากนี้	alarm	87
+39353233323739	IN:CREATE_ALARM	ตั้งเตือนเวลาที่ 6 โมงเช้า	alarm	87
+39353233303231	IN:CREATE_ALARM	ตั้งปลุกวันนี้ตอน 7:30 โมงเช้า	alarm	87
+39353134363936	IN:CREATE_ALARM	ตั้งการเตือนให้ฉันกินยา	alarm	87
+39353130353139	IN:CREATE_ALARM	ตั้งเสียงเตือนเป็นเวลา 1 ชั่วโมง เริ่มตั้งแต่ตอนนี้	alarm	87
+39353036363935	IN:CREATE_ALARM	ทำนาฬิกาปลุกใหม่สำหรับ 1 นาฬิกาวันอังคาร	alarm	87
+39353033373834	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกทุกต้นชั่วโมง	alarm	87
+39343939313839	IN:CREATE_ALARM	ตั้งเตือนเวลา 8 โมงเช้าวันพฤหัสบดี	alarm	87
+39343934383737	IN:CREATE_ALARM	ตั้งเตือนเวลาที่ 12:20 น.	alarm	87
+39343837383531	IN:CREATE_ALARM	ตั้งเวลาปลุกวันนี้ตอนบ่าย 3 โมง	alarm	87
+39343834343730	IN:CREATE_ALARM	ตั้งเสียงเตือนเวลา 15:45 น.	alarm	87
+39343832333631	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่ 9 น.	alarm	87
+39343830373139	IN:CREATE_ALARM	โปรดตั้งเวลาปลุกในวันพรุ่งนี้ เวลา 6:00 น.	alarm	87
+39343830313337	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกทุก ๆ นาทีเป็นเวลา 24 นาที	alarm	87
+39343737383538	IN:CREATE_ALARM	ช่วยตั้งปลุกตอนตี 4 ทุกๆ วันเสาร์ได้ไหม?	alarm	87
+39343735353130	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตามปกติ	alarm	87
+39343735313635	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่ 5 น.	alarm	87
+39343735313131	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกสำหรับวันศุกร์เวลา 15.00 น.	alarm	87
+39343639313032	IN:CREATE_ALARM	ตั้งเวลาปลุกตอน 15:47 น	alarm	87
+39343635343831	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกที่เวลา 10 น. ทุก ๆ วันคี่	alarm	87
+3231363337313234	IN:CREATE_ALARM	สร้างนาฬิกาปลุกใหม่	alarm	87
+3231363336333638	IN:CREATE_ALARM	ปลุกฉันตอนบ่ายโมง	alarm	87
+3231363336333035	IN:CREATE_ALARM	ฉันต้องการเข้านอนตอนสี่ทุ่ม	alarm	87
+3231363335383134	IN:CREATE_ALARM	ตั้งเสียงนาฬิกาปลุกสำหรับเช้าวันพรุ่งนี้	alarm	87
+3231363335373135	IN:CREATE_ALARM	ฉันต้องการตั้งนาฬิกาปลุกสำหรับวันจันทร์ตอนบ่าย 3	alarm	87
+3231363335363033	IN:CREATE_ALARM	ตั้งปลุกวันศุกร์ตอน 8 โมงเช้า	alarm	87
+3231363335353530	IN:CREATE_ALARM	ตั้งการเตือนค่ำวันพรุ่งนี้	alarm	87
+3231363335313834	IN:CREATE_ALARM	ตั้งปลุกวันที่ 14 กุมภาพันธ์ เวลา 10 โมง	alarm	87
+3231363334313538	IN:CREATE_ALARM	ตั้งเวลาเตือนให้ฉันตื่นตอน 5 โมงเย็น	alarm	87
+3231363333373638	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกสำหรับพรุ่งนี้ตอน 6 โมงเช้า	alarm	87
+3231363332383437	IN:CREATE_ALARM	เริ่มการแจ้งเตือนตอน 4 โมงเย็น และ 6 โมงเย็น	alarm	87
+3231363037373731	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกตอนตีสาม 50	alarm	87
+3231363031373037	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกเที่ยงคืนวันพฤหัสฯ	alarm	87
+3231363031353632	IN:CREATE_ALARM	ตั้งปลุกในวันศุกร์ให้ฉันหน่อย	alarm	87
+3231363030393336	IN:CREATE_ALARM	ปลุกฉันตอน 10 โมงทุกวันเสาร์	alarm	87
+3231363030373534	IN:CREATE_ALARM	เพิ่มตั้งปลุกตอน 9 โมงทุกวันอังคาร	alarm	87
+3231363030353338	IN:CREATE_ALARM	ตั้งการแจ้งเตือน 'งานศพ' สำหรับวันที่ 2 มิถุนายน เวลาบ่าย 3 โมง	alarm	87
+3231353535333833	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกใหม่สำหรับ 8 โมง	alarm	87
+3231353533333039	IN:CREATE_ALARM	ตั้งนาฬิกาปลุกซ้ำสำหรับ 7 โมงเช้าทุกวันจันทร์	alarm	87
+3231353531363931	IN:CREATE_ALARM	นาฬิกาปลุกเวลาใหม่ในวันอังคารตอน 6 โมงเช้า เป็นเวลา 2 เดือน	alarm	87
+3138383937323131	IN:CREATE_ALARM	โปรดตั้งนาฬิกาปลุกสำหรับตี 4 ครึ่งพรุ่งนี้	alarm	87
+3136353035393239	IN:CREATE_ALARM	เปิดตั้งปลุก	alarm	87
+3135323934313934	IN:CREATE_ALARM	ตั้งปลุกทุกครึ่งชั่วโมง	alarm	87
+3135323932303434	IN:CREATE_ALARM	ตั้งเวลาปลุกทุกห้านาทีระหว่าง 6 โมงและ 6 โมงครึ่ง	alarm	87
+39353736363031	IN:CREATE_ALARM	ตั้งปลุกตอน ตี 4:30 น. สำหรับวันทำงาน	alarm	87
+39353734313432	IN:CREATE_ALARM	ตั้งเวลาปลุกตอน 6 โมงเช้าวันพรุ่งนี้	alarm	87
+3138393930303134	IN:GET_EDUCATION_DEGREE	การศึกษาระดับสูงสุดของเมลคืออะไร	people	88
+3231303137363230	IN:GET_CALL_CONTACT	แสดงข้อมูลบุคคลที่กำลังโทรหาฉันตอนนี้	calling	90
+3231363735313937	IN:GET_CALL_CONTACT	ใครโทรหาฉันตอนตี 3?	calling	90
+39353133383932	IN:RESTART_TIMER	รีเซ็ตตัวจับเวลาของฉันเป็น 12 นาที	timer	91
+39343735303537	IN:RESTART_TIMER	รีเซ็ตเวลาสำหรับตัวจับเวลาการหมดเวลา	timer	91
+39343730363432	IN:RESTART_TIMER	รีเซ็ตเวลานับถอยหลังสำหรับการออกกำลังกาย	timer	91
+3135323934313936	IN:RESTART_TIMER	เริ่มต้นเครื่องจับเวลาก่อนหน้าของฉันใหม่	timer	91
+39353433343438	IN:RESTART_TIMER	รีสตาร์ทตัวจับเวลาที่ฉันตั้งไว้	timer	91
+3132363138333237	IN:RESTART_TIMER	ตั้งนาฬิกาจับเวลาใหม่	timer	91
+39353734383631	IN:RESTART_TIMER	รีสตาร์ทตัวจับเวลาให้หน่อย	timer	91
+39343937333739	IN:RESTART_TIMER	รีสตาร์ทเครื่องจับเวลาครั้งล่าสุด	timer	91
+3138393932313939	IN:GET_EMPLOYER	อลิซเคยทำงานที่บริษัทนี้มาก่อนหรือไม่?	people	92
+3138393932303939	IN:GET_EMPLOYER	ลิซทำงานให้เวอร์ไรซอนหรือ	people	92
+3138393931383232	IN:GET_EMPLOYER	บริษัทที่ราเชลทำงานชื่ออะไร	people	92
+3138393931353131	IN:GET_EMPLOYER	ดั๊กทำงานที่ไหน?	people	92
+3138393931323231	IN:GET_EMPLOYER	ฉันเคยทำงานที่ McDonalds หรือไม่?	people	92
+3138393836383236	IN:GET_EMPLOYER	ลิลลี่ทำงานที่ costco หรือเปล่า	people	92
+3138393834383032	IN:GET_EMPLOYER	โมนิกายังทำงานอยู่ที่ทาร์เก็ตไหม?	people	92
+3138393932373536	IN:GET_EMPLOYER	เกลทำงานที่ไมโครซอฟต์จริงหรือเปล่า	people	92
+3138393932323239	IN:GET_EMPLOYER	ups ยังเป็นนายจ้างของ andrews อยู่หรือเปล่า	people	92
+3138393931393038	IN:GET_EMPLOYER	ขณะนี้ Pam ทำงานให้ใคร	people	92
+3138393931383236	IN:GET_EMPLOYER	จูดี้ทำงานที่ Google ใช่หรือไม่	people	92
+3138393931373530	IN:GET_EMPLOYER	ฟิลยังเป็นพนักงานของรัฐวอชิงตันอยู่ไหม	people	92
+3138393834363333	IN:GET_EMPLOYER	Kathy ทำงานที่ US Gold gymnastics หรือเปล่า	people	92
+3138393934303637	IN:GET_EMPLOYER	Li ทำงานให้กับใคร?	people	92
+3138393933363830	IN:GET_EMPLOYER	แฟรงก์ทำงานที่ไหน	people	92
+3138393932383730	IN:GET_EMPLOYER	โนอาห์ยังทำงานที่แลกซ์อยู่หรือเปล่า	people	92
+3138393932353737	IN:GET_EMPLOYER	วอลเลซทำงานให้ใคร	people	92
+3231323334343036	IN:GET_REMINDER	ให้ฉันดูหน่อยว่าฉันตั้งเตือนความจำอะไรไว้เมื่อสัปดาห์ที่แล้ว	reminder	93
+3231323334343032	IN:GET_REMINDER	ฉันตั้งเตือนไว้ที่เวลา 6 โมงเย็นหรือไม่?	reminder	93
+3231323334303536	IN:GET_REMINDER	แสดงการเตือนของฉันที่เวลา 5 โมงเย็นในวันพฤหัสบดี	reminder	93
+3231323332333630	IN:GET_REMINDER	แสดงรายการแจ้งเตือนโซเชียลมีเดียทั้งหมดสำหรับ 8 วันถัดไป	reminder	93
+3231323330363132	IN:GET_REMINDER	การเตือนที่ให้ Maia ไปพบกับที่ปรึกษาของเธออยู่ที่ไหน	reminder	93
+3231323330353934	IN:GET_REMINDER	ฉันมีการแจ้งเตือนจากที่ทำงานเมื่อวานไหม?	reminder	93
+3231323330343435	IN:GET_REMINDER	ฉันตั้งการแจ้งเตือนสำหรับปาร์ตี้ของจู๊ดหรือยัง	reminder	93
+3231323330313030	IN:GET_REMINDER	แสดงการแจ้งเตือนของฉันเกี่ยวกับลูกเสือหญิงสำหรับสัปดาห์นี้	reminder	93
+3231323239393533	IN:GET_REMINDER	คุณช่วยอ่านการเตือนจาก Krissy ได้ไหม?	reminder	93
+3231323238313433	IN:GET_REMINDER	ฉันตั้งเตือนอะไรบ้างเกี่ยวกับการทำงานในสุดสัปดาห์วันแรงงาน ตารางงานของฉันสำหรับงานนั้นโดยเฉพาะในสุดสัปดาห์นั้นเป็นอย่างไรบ้าง	reminder	93
+3231323236373232	IN:GET_REMINDER	แสดงการเตือนทั้งหมดที่มีชื่อเบลินดา	reminder	93
+3231323235383237	IN:GET_REMINDER	แสดงการเตือนเรื่องนักร้องประสานเสียงทั้งหมดของเมื่อวานนี้?	reminder	93
+3231323233333133	IN:GET_REMINDER	เตือนฉันว่าเตือนความจำจะเตือนอะไรฉันต่อไป	reminder	93
+3231323233313735	IN:GET_REMINDER	แสดงเตือนความจำจากคณะกรรมการโรงเรียนในอีก 6 เดือนข้างหน้า	reminder	93
+3231313438343831	IN:GET_REMINDER	ฉันมีรายการเตือนอะไรบ้างสำหรับวันเสาร์	reminder	93
+3231313436383530	IN:GET_REMINDER	ฉันมีรายการเตือนความจำอะไรบ้างในสัปดาห์แรกของเดือนกันยายน	reminder	93
+3231323334323933	IN:GET_REMINDER	ฉันได้สร้างการเตือนสำหรับวันอังคารหรือยัง	reminder	93
+3231323332393132	IN:GET_REMINDER	ค้นหาการเตือนความจำทั้งหมดเกี่ยวกับบริษัทประกันภัย	reminder	93
+3231323332313838	IN:GET_REMINDER	อ่านการเตือนความจำที่ตั้งไว้อาทิตย์ที่แล้วให้ฉันฟังที	reminder	93
+3231323331393034	IN:GET_REMINDER	ช่วยแสดงการเตือนความจำเรื่องนัดดินเนอร์กับลูก ๆ ของฉันในอาทิตย์นี้หน่อย	reminder	93
+3231323331313035	IN:GET_REMINDER	ฉันคิดว่าฉันตั้งการเตือนความจำสำหรับโทรศัพท์ตอนบ่าย 3 โมงแล้ว แต่ช่วยเช็กหน่อยได้ไหม	reminder	93
+3231323330393937	IN:GET_REMINDER	บอกฉันเรื่องการแจ้งเตือนการใช้รถร่วมกันในอาทิตย์นี้	reminder	93
+3231323330343437	IN:GET_REMINDER	เทย์เลอร์และเอวามีการแจ้งเตือนสำหรับกิจกรรมเชียร์ลีดเดอร์อาทิตย์หน้าไหม	reminder	93
+3231323330323337	IN:GET_REMINDER	แสดงการแจ้งเตือนทั้งหมดของฉันสำหรับวันพฤหัส	reminder	93
+3231323238363037	IN:GET_REMINDER	ฉันมีการเตือนความจำของวันอาทิตย์ที่จะถึงบ้างไหม	reminder	93
+3231323233393936	IN:GET_REMINDER	แสดงการแจ้งเตือนทั้งหมดเกี่ยวกับการประชุมเรื่องการค้นพบของเรา	reminder	93
+3231323233313430	IN:GET_REMINDER	แสดงการแจ้งเตือนการทำงานของฉันในวันนี้	reminder	93
+3231313534333533	IN:GET_REMINDER	มีการเตือนความจำอะไรสำหรับวันอังคารหน้าไหม	reminder	93
+3231313534303137	IN:GET_REMINDER	ในเดือนนี้ฉันมีรายการเตือนความจำอะไรบ้าง	reminder	93
+3231313439333336	IN:GET_REMINDER	ฉันมีการเตือนความจำเรื่องอะไรในวันที่ 20 นี้	reminder	93
+3231313437393633	IN:GET_REMINDER	วันอังคารสัปดาห์หน้าตอนบ่าย 2 มีการเตือนความจำเรื่องอะไรบ้าง	reminder	93
+3231323237383036	IN:GET_REMINDER	ฉันมีการตั้งเตือนอะไรบ้างสำหรับวันศุกร์นี้	reminder	93
+3231323237333837	IN:GET_REMINDER	แสดงการแจ้งเตือนที่มีตั้งแต่วันนี้	reminder	93
+3231323236323134	IN:GET_REMINDER	ฉันมีการเตือนความจำว่าต้องทำอะไรกับสเตฟานีบ้างไหมเสาร์อาทิตย์นี้	reminder	93
+39353532313735	IN:REWIND_MUSIC	กรอเพลงกลับ	music	97
+3136333731353232	IN:QUESTION_NEWS	สงครามกำลังจะเกิดขึ้นใช่ไหม	news	98
+3136333731353039	IN:QUESTION_NEWS	ทรัมป์ถูกถอดถอนแล้วหรือยัง?	news	98
+3136333337373536	IN:QUESTION_NEWS	ประเทศที่อยู่ในรายชื่อห้ามเดินทางมีกี่ประเทศ	news	98
+3136333337363434	IN:QUESTION_NEWS	สภาพเศรษฐกิจของเราเป็นอย่างไร	news	98
+3136303030323539	IN:QUESTION_NEWS	ผลของ The Bachelorette ซีซันนี้เป็นอย่างไร	news	98
+3136303030313634	IN:QUESTION_NEWS	ไฟในคาลการียังไม่สามารถควบคุมได้หรือ	news	98
+3135393637353031	IN:QUESTION_NEWS	ประธานาธิบดีทรัมป์ ทำอะไรวันนี้	news	98
+3135323930323635	IN:QUESTION_NEWS	ใครกำลังใช้งานตั๋วจีโอพี	news	98
+39353634323032	IN:QUESTION_NEWS	Beyonce มีฝาแฝดไหม	news	98
+39353338313536	IN:QUESTION_NEWS	ทรัมป์ไล่ผู้อำนวยการเอฟบีไอออกใช่ไหม	news	98
+39353236393630	IN:QUESTION_NEWS	วันนี้มีแถลงการณ์จากสภาคองเกรสเกี่ยวกับการปฏิรูปภาษีไหม	news	98
+3136343034373938	IN:QUESTION_NEWS	มีการถ่ายทอดพายุเฮอร์ริเคนทางทีวีหรือเปล่า	news	98
+3136343034353136	IN:QUESTION_NEWS	มีโอกาสเกิดสงครามนิวเคลียร์ไหม	news	98
+3136303030343136	IN:QUESTION_NEWS	เกล็น มิลเลอร์ ตายยังไง	news	98
+3136303030313332	IN:QUESTION_NEWS	คนดังคนไหนเสียชีวิตวันนี้บ้าง	news	98
+39353034373032	IN:QUESTION_NEWS	ประธานาธิบดีออกข่าวช่องเอบีซีหรือไม่	news	98
+3136333731353035	IN:QUESTION_NEWS	Donald Trump ทวีตเกี่ยวกับรัฐสภาหรือเปล่าวันนี้	news	98
+3136303030323238	IN:QUESTION_NEWS	คำตัดสินในการพิจารณาคดีฆาตกรรมโอเจ ซิมป์สันเป็นอย่างไร	news	98
+3135323933383238	IN:QUESTION_NEWS	ใครเสียชีวิตในเหตุจลาจลที่ชาร์ลอตส์วิลล์	news	98
+39343931323438	IN:QUESTION_NEWS	ใครคือคนที่เกี่ยวข้องกับเรื่องอื้อฉาวระหว่างทรัมป์กับชาวรัสเซีย	news	98
+3232343331303031	IN:PAUSE_TIMER	ปิดเสียงการนับถอยหลัง	timer	99
+3232333730393131	IN:PAUSE_TIMER	หยุดนาฬิกาจับเวลาต้มไข่	timer	99
+3232333537373430	IN:PAUSE_TIMER	หยุดจับเวลาพรูฟฟิ่งของฉันชั่วคราว	timer	99
+3136343035303832	IN:PAUSE_TIMER	หยุดนับถอยหลังนี้ชั่วคราว	timer	99
+3136343035303534	IN:PAUSE_TIMER	หยุดการจับเวลานับถอยหลังของฉัน	timer	99
+3135323932343432	IN:PAUSE_TIMER	โปรดหยุดตัวจับเวลาที่มีอยู่	timer	99
+39353736393339	IN:PAUSE_TIMER	กรุณาปิดเครื่องจับเวลา	timer	99
+39353731363335	IN:PAUSE_TIMER	หยุดการจับเวลา	timer	99
+39353631333839	IN:PAUSE_TIMER	หยุดเวลานับถอยหลังนี้ชั่วคราว	timer	99
+39353333373435	IN:PAUSE_TIMER	ช่วยปิดเวลานับถอยหลังหน่อย	timer	99
+39343939333437	IN:PAUSE_TIMER	ปิดเวลานับถอยหลัง	timer	99
+3232323930323434	IN:PAUSE_TIMER	หยุดตัวควบคุมเวลาแช่ผ้า	timer	99
+3231333938383237	IN:UPDATE_REMINDER_TODO	เพิ่ม 'ไข่' ไปยังการเตือนความจำ 'ซื้อกาแฟ' ของฉัน	reminder	101
+3231323231343736	IN:UPDATE_REMINDER_TODO	เพิ่มการตัดหญ้าสนามหลังบ้านเข้าไปในการเตือนความจำของฉันเรื่องงานบ้านอาทิตย์หน้า	reminder	101
+3231363331393037	IN:GET_ALARM	แสดงการแจ้งเตือนของฉัน	alarm	102
+3231363331363731	IN:GET_ALARM	การปลุกครั้งต่อไปของฉันกี่โมง	alarm	102
+3231363331353937	IN:GET_ALARM	ช่วยบอกเวลาตั้งปลุกทั้งหมดของฉันที	alarm	102
+3231353939323434	IN:GET_ALARM	การตั้งเวลาสำหรับวันจันทร์ของฉันเป็นเวลากี่โมง?	alarm	102
+3231353938393732	IN:GET_ALARM	แสดงการตั้งเตือนเวลาที่ให้เตือนซ้ำทั้งหมด	alarm	102
+3231353530323835	IN:GET_ALARM	แสดงทุกการตั้งปลุกในสัปดาห์นี้	alarm	102
+3231353530323830	IN:GET_ALARM	แสดงเวลาปลุกทั้งหมดที่ฉันตั้งไว้ให้ดูหน่อย	alarm	102
+3231353530303733	IN:GET_ALARM	บอกว่าฉันตั้งการแจ้งเตือนอะไรไว้บ้างทั้งหมด	alarm	102
+3231353439373135	IN:GET_ALARM	ฉันตั้งการเตือนไว้กี่โมงตอนวันพุธ	alarm	102
+3136353036323636	IN:GET_ALARM	เวลาปลุกครั้งต่อไปของฉันคือเมื่อไร	alarm	102
+39353736323936	IN:GET_ALARM	เหลือเวลาอีกเท่าไหร่สำหรับการเตือนที่ฉันตั้งไว้	alarm	102
+39353635363638	IN:GET_ALARM	นาฬิกาปลุกของฉันอยู่ไหน?	alarm	102
+39353234343030	IN:GET_ALARM	การแจ้งเตือนอันต่อไปเมื่อไร?	alarm	102
+39343937323535	IN:GET_ALARM	เหลือเวลาก่อนเสียงเตือนอีกเท่าไร	alarm	102
+3231363331353737	IN:GET_ALARM	ฉันมีตั้งปลุกอยู่กี่อัน	alarm	102
+3231353939313536	IN:GET_ALARM	ลิสต์รายการแจ้งเตือนของฉันวันนี้	alarm	102
+39353735333239	IN:GET_ALARM	แสดงการตั้งปลุกของฉันให้ดูหน่อย	alarm	102
+39353338303034	IN:GET_ALARM	ปลุกครั้งแรกตอนกี่โมง	alarm	102
+39353832343130	IN:ADD_TIME_TIMER	จับเวลา 16 นาทีในนาฬิกาจับเวลาของฉัน	timer	103
+39353830323639	IN:ADD_TIME_TIMER	จับเวลา 7 นาที	timer	103
+39353537393732	IN:ADD_TIME_TIMER	เพิ่มอีก 30 วินาทีในตัวจับเวลา	timer	103
+39353439333433	IN:ADD_TIME_TIMER	เพิ่มอีก 5 นาทีในตัวจับเวลา 1	timer	103
+39343838323232	IN:ADD_TIME_TIMER	เพิ่ม 99 นาทีในนาฬิกาจับเวลา	timer	103
+3232343331313234	IN:ADD_TIME_TIMER	ปรับตัวจับเวลาให้นานขึ้น 15 นาที	timer	103
+3232333731303532	IN:ADD_TIME_TIMER	ฉันต้องการเพิ่มการจับเวลาสำหรับผ้ามัดย้อมของฉันอีก 5 นาที	timer	103
+39353435333930	IN:ADD_TIME_TIMER	เพิ่มเวลาในตัวจับเวลาที่ใช้อยู่ตอนนี้อีก 12 นาที	timer	103
+39353038303035	IN:ADD_TIME_TIMER	เพิ่มเวลาที่ตัวควบคุมเวลาไปอีก 5 นาที	timer	103
+39343733313133	IN:ADD_TIME_TIMER	ฉันต้องการเพิ่ม 10 นาทีเข้าในเครื่องจับเวลา	timer	103
+3232333437383333	IN:ADD_TIME_TIMER	เพิ่มการจับเวลาพาสต้าไปอีก 20 นาที	timer	103
+3135333032323533	IN:ADD_TIME_TIMER	เพิ่มอีก 5 นาที	timer	103
+3135323931343331	IN:ADD_TIME_TIMER	เพิ่มเวลาในตัวจับเวลาอีก 1 นาที	timer	103
+3135323931313336	IN:ADD_TIME_TIMER	เพิ่มเวลาให้ตัวจับเวลาอีกสองนาที	timer	103
+39353737363030	IN:ADD_TIME_TIMER	เพิ่ม 10 นาที ไปยังนาฬิกาจับเวลา	timer	103
+3136343035353539	IN:GET_TIMER	อีกนานเท่าไร	timer	104
+3136343035343237	IN:GET_TIMER	ฉันใช้เวลาเดินทางมาทำงานตอนเช้านี้นานเท่าไหร่	timer	104
+3135323933353137	IN:GET_TIMER	ตอนนี้เวลาบนนาฬิกาจับเวลาของฉันคือเท่าไรแล้ว	timer	104
+3132353832343138	IN:GET_TIMER	ช่วยบอกเวลาที่เหลือหน่อย	timer	104
+3132353735383234	IN:GET_TIMER	บอกว่าฉันเหลือเวลาอีกกี่นาที	timer	104
+39353830353935	IN:GET_TIMER	นาฬิกาจับเวลาของฉันจะส่งเสียงเตือนเร็วๆ นี้ใช่ไหม?	timer	104
+39353734383831	IN:GET_TIMER	เหลือเวลาอีกเท่าไรในการจับเวลาของฉัน	timer	104
+39353638393831	IN:GET_TIMER	จับเวลานานเท่าไร	timer	104
+39353630363932	IN:GET_TIMER	เหลืออีกกี่นาทีก่อนที่เครื่องจับเวลาจะดัง	timer	104
+39353537313137	IN:GET_TIMER	ตัวจับเวลาเหลือเวลาอีกเท่าไหร่	timer	104
+39353536343832	IN:GET_TIMER	เหลือเวลาอีกนานแค่ไหนก่อนที่ตัวจับเวลาจะดัง?	timer	104
+39353533343838	IN:GET_TIMER	เหลือเวลานานแค่ไหนในการจับเวลา?	timer	104
+39353435313336	IN:GET_TIMER	เวลานับถอยหลังสำหรับการนอนของฉันเหลือเวลาอีกเท่าไร	timer	104
+39353431313535	IN:GET_TIMER	เวลานับถอยหลังของฉันเหลืออีกกี่วินาที?	timer	104
+39353232313534	IN:GET_TIMER	มีเวลาเหลืออีกเท่าไรในนาฬิกาจับเวลาของฉัน?	timer	104
+39343938303732	IN:GET_TIMER	เหลือเวลาเท่าไรในการจับเวลา	timer	104
+39343933313234	IN:GET_TIMER	เวลาที่เหลือในปัจจุบัน	timer	104
+3232343330373636	IN:GET_TIMER	ช่วยแสดงเครื่องจับเวลาบนหน้าจอของฉันได้ไหม	timer	104
+3232333730393732	IN:GET_TIMER	ยังเหลือเวลาออกกำลังกายอีกเท่าไหร่	timer	104
+3232333437383332	IN:GET_TIMER	จับเวลาการงีบของคุณได้เท่าไหร่	timer	104
+3232323930333639	IN:GET_TIMER	แสดงตัวจับเวลาซักผ้า	timer	104
+3139363031303037	IN:GET_TIMER	เหลือเวลาอีกเท่าไหร่จากเวลาที่จำกัด	timer	104
+3135333032343730	IN:GET_TIMER	ฉันเหลือเวลาเท่าไหร่ในเครื่องจับเวลาล่าสุดของฉัน	timer	104
+3132353639303132	IN:GET_TIMER	ฉันเหลือเวลาอีกนานแค่ไหน	timer	104
+39353633323031	IN:GET_TIMER	เครื่องจับเวลาของฉันเป็นยังไงบ้าง	timer	104
+39353530343935	IN:GET_TIMER	เกิดอะไรขึ้นกับการจับเวลาของฉัน	timer	104
+39353236373334	IN:GET_TIMER	เหลือเวลาเท่าไหร่ในตัวตั้งเวลา	timer	104
+39343835393132	IN:GET_TIMER	เวลาที่เหลือทั้งหมดในการจับเวลา	timer	104
+3232333730393932	IN:GET_TIMER	ขอฉันดูเวลาที่เหลือบนตัวจับเวลาพักสูบบุหรี่	timer	104
+39343638333439	IN:FAST_FORWARD_MUSIC	กรอไปข้างหน้า	music	105
+3232323731333933	IN:SET_DEFAULT_PROVIDER_MUSIC	ใช้แอปเปิลเล่นเพลงเสมอ	music	106
+3232323731333533	IN:SET_DEFAULT_PROVIDER_MUSIC	ใช้เฉพาะ pandora เป็นแอพฟังเพลงของฉัน	music	106
+3232323731313436	IN:SET_DEFAULT_PROVIDER_MUSIC	ตั้ง spotify เป็นแอปสำหรับฟังเพลง	music	106
+3232323731353734	IN:SET_DEFAULT_PROVIDER_MUSIC	กรุณาใช้ spotify เป็นค่าเริ่มต้นของฉัน	music	106
+3232323731343935	IN:SET_DEFAULT_PROVIDER_MUSIC	ใช้ amazon เป็นค่าเริ่มต้น	music	106
+3232323731353638	IN:SET_DEFAULT_PROVIDER_MUSIC	ช่วยตั้งสปอติฟายเป็นตัวเล่นหลักของฉัน	music	106
+3232323731353135	IN:SET_DEFAULT_PROVIDER_MUSIC	เล่นบน google play music เป็นค่าเริ่มต้น	music	106
+3138393735393035	IN:GET_MUTUAL_FRIENDS	หาเพื่อนของฉันที่รู้จัก Katie	people	107
+3231363735373533	IN:GET_AVAILABILITY	โปรดตรวจสอบว่าซาร่าห์ว่างอยู่ไหม	calling	110
+3231363735333930	IN:GET_AVAILABILITY	แสดงว่าใครกำลังออนไลน์	calling	110
+3231363734323932	IN:GET_AVAILABILITY	ตรวจสอบว่าตอนนี้พี่สาวของฉันออนไลน์อยู่ไหม	calling	110
+3231363032333039	IN:GET_AVAILABILITY	บอกฉันว่ามีใครที่อยู่ใน facebook	calling	110
+3231353437373935	IN:GET_AVAILABILITY	มีใครว่างให้โทรหาตอนนี้บ้าง?	calling	110
+3231353437363837	IN:GET_AVAILABILITY	พ่อออนไลน์อยู่รึเปล่า	calling	110
+3231353437363736	IN:GET_AVAILABILITY	คุณพ่อของฉันกำลังออนไลน์ไหม	calling	110
+3231353437363730	IN:GET_AVAILABILITY	น้องสาวของฉันว่างออนไลน์หรือไม่	calling	110
+3231353437303337	IN:GET_AVAILABILITY	จอห์นตั้งไว้ให้โทรหาได้ไหม	calling	110
+3231333534323339	IN:GET_AVAILABILITY	แสดงให้ดูว่าตอนนี้มีใครออนไลน์อยู่บ้าง	calling	110
+3231333534303238	IN:GET_AVAILABILITY	บอกฉันทีว่ามีใครที่ฉันรู้จักออนไลน์อยู่ไหม	calling	110
+3231333534303232	IN:GET_AVAILABILITY	มีใครที่ฉันรู้จักกำลังออนไลน์ไหม	calling	110
+3231333533393932	IN:GET_AVAILABILITY	บอกฉันทีว่าใครออนไลน์อยู่บ้าง	calling	110
+3231333533323734	IN:GET_AVAILABILITY	บอกให้ฉันรู้ถึงคนที่กำลังออนไลน์ที่เป็นเพื่อนของฉัน	calling	110
+3231333532373034	IN:GET_AVAILABILITY	บ็อบออนไลน์อยู่ไหม	calling	110
+3231333532363331	IN:GET_AVAILABILITY	ตอนนี้มีใครออนไลน์บ้าง	calling	110
+3231333532353635	IN:GET_AVAILABILITY	ใครเพิ่งออนไลน์?	calling	110
+3231333532353437	IN:GET_AVAILABILITY	เพื่อนของฉันทั้งสองคนออนไลน์อยู่ไหม	calling	110
+3231333532343435	IN:GET_AVAILABILITY	มีผู้ติดต่อไหนออนไลน์บ้าง	calling	110
+3231333531373331	IN:GET_AVAILABILITY	ได้โปรดมีคนอยู่	calling	110
+3231333531373036	IN:GET_AVAILABILITY	เพื่อนคนไหนของฉันที่กำลังออนไลน์	calling	110
+3231333530373739	IN:GET_AVAILABILITY	บอกฉันถึงความพร้อมใช้งาน	calling	110
+3231333439343935	IN:GET_AVAILABILITY	ใครกำลังออนไลน์	calling	110
+3231333436363631	IN:GET_AVAILABILITY	แสดงว่าใครว่างบ้าง	calling	110
+3231333432383533	IN:GET_AVAILABILITY	หาใครก็ได้ที่ว่างให้ฉันหน่อย	calling	110
+3231303137343330	IN:GET_AVAILABILITY	ดูว่าคริสตัลพร้อมที่จะพูดคุยหรือยัง	calling	110
+3231333534323233	IN:GET_AVAILABILITY	มีใครเพิ่งออนไลน์	calling	110
+3231333532393734	IN:GET_AVAILABILITY	เชลบีออนไลน์หรือเปล่า	calling	110
+3231333532383232	IN:GET_AVAILABILITY	มีใครออนไลน์อยู่บ้างตอนนี้	calling	110
+3231333531363734	IN:GET_AVAILABILITY	แสดงผู้อยู่ในรายชื่อติดต่อของฉันที่กำลังออนไลน์	calling	110
+3231333435323134	IN:GET_AVAILABILITY	ตอนนี้มีใครอยู่บ้าง	calling	110
+3231333430353430	IN:GET_AVAILABILITY	คืนนี้ลุงของฉันว่างไหม	calling	110
+3231353437373331	IN:GET_AVAILABILITY	ดูว่าใครออนไลน์​อยู่ตอนนี้	calling	110
+3231333534323035	IN:GET_AVAILABILITY	พี่ชายของฉันคนไหนที่ออนไลน์อยู่ตอนนี้	calling	110
+3231333533313232	IN:GET_AVAILABILITY	แม่ของฉันสะดวกคุยในสายไหม	calling	110
+3231333533303538	IN:GET_AVAILABILITY	เพื่อนฉันคนไหนกำลังออนไลน์อยู่บ้าง	calling	110
+3137303534303831	IN:STOP_MUSIC	ปิดเพลง	music	111
+39343734323430	IN:STOP_MUSIC	ฉันฟังเพลงจบแล้ว	music	111
+3231323831363932	IN:SEND_MESSAGE	บอกพี่เขยของฉันให้หน่อยว่า สุขสันต์วันเกิด	messaging	112
+3231323831363338	IN:SEND_MESSAGE	ส่งข้อความถึงแชนด์เลอร์ ให้โทรกลับหาฉัน	messaging	112
+3231323831333036	IN:SEND_MESSAGE	ถามจอนว่าเขาอยู่ที่ไหน	messaging	112
+3231323830333833	IN:SEND_MESSAGE	บอกเชอร์รี่ว่าขอบใจ	messaging	112
+3231323739313330	IN:SEND_MESSAGE	ส่งข้อความให้เมสันว่า เจอกันที่ล็อบบี้	messaging	112
+3231323736323530	IN:SEND_MESSAGE	บอกเธอว่า ฉันไปพบเธอได้ที่ซิตี้ วอล์ค ตอนบ่าย 3 โมงวันนี้	messaging	112
+3231323735363132	IN:SEND_MESSAGE	ส่งข้อความไปหาหลุยส์ และถามว่าฉันเผลอทิ้งกระเป๋าเงินไว้ในรถของเธอรึเปล่า	messaging	112
+3231323735353031	IN:SEND_MESSAGE	ส่งข้อความ สุขสันต์วันเกิด ให้ซูซาน เพนน์	messaging	112
+3232353834303437	IN:SEND_MESSAGE	ตอบครอบครัวของฉันทางข้อความ	messaging	112
+3232353833383738	IN:SEND_MESSAGE	เธอช่วยส่งข้อความไปให้กลุ่มโค้ดบลูทีได้ไหม	messaging	112
+3232353833383639	IN:SEND_MESSAGE	ฉันอยากส่งข้อความวิดีโอนั้นให้แอนนา จูเลีย ปีเตอร์สัน และโฮเซ	messaging	112
+3232353833373632	IN:SEND_MESSAGE	กรุณาส่งข้อความให้กับกลุ่มแอนิเมะได้ไหม	messaging	112
+3232353833373335	IN:SEND_MESSAGE	กรุณาส่งให้พี่น้องของฉัน	messaging	112
+3232353833363434	IN:SEND_MESSAGE	ส่งข้อความหาพี่น้องของฉันว่า สวัสดีปีใหม่	messaging	112
+3232353833353734	IN:SEND_MESSAGE	ข้อความฟังดูดีสำหรับ Terry และ Kelly	messaging	112
+3232353833333138	IN:SEND_MESSAGE	คุณช่วยส่งข้อความถึงเคลลี่และอดัม เวฟเวอรี่ได้ไหม	messaging	112
+3232353833323039	IN:SEND_MESSAGE	เธอช่วยส่งข้อความหา Minerva และ Ned ที	messaging	112
+3232353833313131	IN:SEND_MESSAGE	ส่งข้อความว่า ไว้ค่อยคุยกันให้แจ็คกับโรเบิร์ต	messaging	112
+3232353833303033	IN:SEND_MESSAGE	ฉันอยากส่งข้อความหาพี่น้องของฉัน	messaging	112
+3232353832383833	IN:SEND_MESSAGE	คุณส่งข้อความถึงไคล่า และฟิล แบรดลี่ย์ได้ไหม	messaging	112
+3232353832373436	IN:SEND_MESSAGE	ฉันต้องการส่งข้อความถึงพ่อแม่ของฉัน	messaging	112
+3232353832353938	IN:SEND_MESSAGE	ช่วยส่งข้อความหาพ่อแม่ของฉันได้ไหม	messaging	112
+3232353832353934	IN:SEND_MESSAGE	ส่งข้อความนั้นให้พ่อแม่ของฉันหน่อย	messaging	112
+3232353832353631	IN:SEND_MESSAGE	ส่งข้อความให้ปู่ย่าของฉันว่าสุขสันต์วันเกิด	messaging	112
+3232353735323239	IN:SEND_MESSAGE	ส่งข้อความผ่านแมสเซนเจอร์	messaging	112
+3232353734373533	IN:SEND_MESSAGE	ฉันอยากส่งข้อความสุขสันต์วันเกิดให้ลูซีผ่านเฟซบุ๊ก	messaging	112
+3232353734363431	IN:SEND_MESSAGE	ส่งข้อความวิดีโอทางเฟสบุ๊ค	messaging	112
+3232353734343732	IN:SEND_MESSAGE	ฉันอยากส่งข้อความหาดาร์เรนผ่านแมสเซนเจอร์	messaging	112
+3232313734353633	IN:SEND_MESSAGE	ฉันต้องการฝากข้อความวิดีโอให้เจอร์รี่	messaging	112
+3232313734353534	IN:SEND_MESSAGE	ฉันต้องการฝากการบันทึกวิดีโอให้ซาแมนธา	messaging	112
+3232313731323432	IN:SEND_MESSAGE	ช่วยบันทึกข้อความวิดีโอสำหรับ Rosalina Vannice	messaging	112
+3231373234313135	IN:SEND_MESSAGE	ช่วยเริ่มข้อความวิดีโอหน่อย	messaging	112
+3231373234313038	IN:SEND_MESSAGE	ปล่อยให้วิดีโอบันทึกต่อไป	messaging	112
+3231373234303033	IN:SEND_MESSAGE	ฉันต้องการส่งข้อความวิดีโอ	messaging	112
+3231373233343231	IN:SEND_MESSAGE	ส่งข้อความวิดีโอให้ Dylan	messaging	112
+3231373233313630	IN:SEND_MESSAGE	คุณส่งข้อความวิดีโอไปหาเพื่อน ๆ ของฉันได้หรือเปล่า	messaging	112
+3231373233313433	IN:SEND_MESSAGE	ข้อความวิดีโอ สตีฟ เคสส์เลอร์	messaging	112
+3231373233303238	IN:SEND_MESSAGE	ฉันอยากส่งข้อความวิดีโอหาคาเรน	messaging	112
+3231363039373335	IN:SEND_MESSAGE	ช่วยส่งข้อความถึงบรีอานา และบอกว่าคุณสามารถปล่อยอันนี้ได้เมื่อฉันเป็นวุฒิสมาชิก	messaging	112
+3231363039373139	IN:SEND_MESSAGE	ส่งข้อความหาลูคัส ใช่ อยากเจอทุกคนจะแย่อยู่แล้ว :D	messaging	112
+3231363039343938	IN:SEND_MESSAGE	ส่งข้อความถึงเดอร์เรคว่าเจ๋ง	messaging	112
+3231343435303432	IN:SEND_MESSAGE	ฉันอยากส่งข้อความถึงเคิร์สเตน เลวี	messaging	112
+3231333936353034	IN:SEND_MESSAGE	บอกเบลินดาว่าฉันจะดูแลลูกๆ ของเธอในคืนวันศุกร์	messaging	112
+3231333935383939	IN:SEND_MESSAGE	ส่งข้อความบอกพ่อว่าฉันจะไปช้า 5 นาที	messaging	112
+3231323932353832	IN:SEND_MESSAGE	ช่วยส่งข้อความหาริชาร์ดบอกเขาว่าฉันน่าจะถึงในอีก 30 นาที	messaging	112
+3231323932323638	IN:SEND_MESSAGE	ส่งข้อความถามคาริว่าตอนนี้เธออยู่ที่ไหน	messaging	112
+3231323932323532	IN:SEND_MESSAGE	ส่งข้อความถึงโดนัลด์ แล้วบอกเขาว่าฉันจะไปถึงสนามบินในอีก 3 ชั่วโมง	messaging	112
+3231323930393330	IN:SEND_MESSAGE	ถามเบธว่าทางที่ดีที่สุดจากที่นี่ไปเคบินคือทางไหน	messaging	112
+3231323930383633	IN:SEND_MESSAGE	ส่งข้อความหาแม่และบอกเธอว่าเครื่องบินของฉันจะบินไปถึงออสติน เท็กซัส ช้าอย่างน้อย 2 ชั่วโมง	messaging	112
+3231323930373532	IN:SEND_MESSAGE	ส่งข้อความบอกแอนดี้ว่าเราจะไม่ไปคืนนี้	messaging	112
+3231323837393732	IN:SEND_MESSAGE	ส่งข้อความกลุ่มให้เพื่อนของฉันเพื่อถามว่าพวกเขาต้องการไปดูหนังและกินข้าวเย็นสุดสัปดาห์นี้ไหม	messaging	112
+3231323837373930	IN:SEND_MESSAGE	บอกพ่อกับแม่ว่าฉันอยากพาท่านไปคอนเสิร์ตวันศุกร์	messaging	112
+3231323837333333	IN:SEND_MESSAGE	ส่งข้อความถึงแคนเดซว่ามันเป็นการประชุมที่ยอดเยี่ยมของเธอเมื่อวานนี้ และฉันอยากจะไปดื่มกาแฟในวันอังคาร	messaging	112
+3231323836393233	IN:SEND_MESSAGE	ส่งข้อความถึงพ่อว่าปาร์ตี้วันเกิดของฉันวันศุกร์นี้ 6:00 โมงที่ Pizza Hut	messaging	112
+3231323836343234	IN:SEND_MESSAGE	ถามวันและเวลาของแคมป์ไฟจากแมรี	messaging	112
+3231323836313937	IN:SEND_MESSAGE	ส่งข้อความหาแม่ว่ามื้อเย็นของป้าแมรี่จะจัดวันเสาร์ตอนห้าโมง	messaging	112
+3231323836303137	IN:SEND_MESSAGE	บอกโรเบิร์ตให้เปิด message tree ยกเลิกการล้างรถเพราะฝนตก	messaging	112
+3231323835393032	IN:SEND_MESSAGE	ส่งข้อความถึงเฮเลนา เพื่อเตือนว่าซีรีส์คอนเสิร์ตชายหาด มีทุกๆ วันพุธที่บีชพาร์ค	messaging	112
+3231323835353637	IN:SEND_MESSAGE	ถาม Martha ว่าคอนเสิร์ต June Gloom จัดเมื่อไร	messaging	112
+3231323835353138	IN:SEND_MESSAGE	ส่งข้อความหาสตีฟว่าฉันจะไม่เข้าประชุมครั้งต่อไป	messaging	112
+3231323835323739	IN:SEND_MESSAGE	ตามแม่ว่าปาร์ตี้ของพี่สาวเริ่มกี่โมง	messaging	112
+3231323835323034	IN:SEND_MESSAGE	ส่งข้อความหาป้าโรซี่ และถามเธอว่าเธอจะมางานศีลจุ่มได้ไหม	messaging	112
+3231323834353533	IN:SEND_MESSAGE	ถามจอร์แดนว่าวันแต่งงานเมื่อไหร่	messaging	112
+3231323834323637	IN:SEND_MESSAGE	ส่งข้อความถามลิซ่าว่าเธอต้องการออกไปดูคอนเสิร์ตกี่โมงในวันอาทิตย์	messaging	112
+3231323834313938	IN:SEND_MESSAGE	ส่งข้อความถึงเรจจี้ บอกให้มาที่บ้านฉัน	messaging	112
+3231323833373138	IN:SEND_MESSAGE	ตรวจสอบดูว่าไมค์อยากไปเรียนทำอาหารกับฉันพรุ่งนี้เวลา 20:00 น. หรือไม่	messaging	112
+3231323833313232	IN:SEND_MESSAGE	บอก Reggie ว่าเรายกเลิกงานเลี้ยงพรุ่งนี้	messaging	112
+3231323832393430	IN:SEND_MESSAGE	ส่งข้อความกลับหาแดนว่าห้องสมุดเปิดตอนเที่ยงพรุ่งนี้ ไม่ใช่สิบเอ็ดโมง	messaging	112
+3231323832333535	IN:SEND_MESSAGE	ส่งข้อความหาเพื่อน ๆ ของฉันว่า มีการระดมทุมที่ RuffHouse Rescue และพวกเขาสามารถบริจาคได้	messaging	112
+3231323831393930	IN:SEND_MESSAGE	ส่งข้อความหานิโคลัสถามว่ารู้สึกโอเครึเปล่า	messaging	112
+3231323831383134	IN:SEND_MESSAGE	ถามคุณแม่ของฉันว่าฉันควรไปหาเวลาเท่าไร	messaging	112
+3231323831333733	IN:SEND_MESSAGE	โปรดส่งข้อความถึงเจมินาว่าฉันจะไปทานอาหารกลางวันสุดสัปดาห์นี้ด้วย	messaging	112
+3231323831313139	IN:SEND_MESSAGE	ส่งข้อความหาคริสตีว่าเธอจะเป็นคนเลือกหนังที่จะดูสุดสัปดาห์นี้	messaging	112
+3231323830363436	IN:SEND_MESSAGE	ส่งข้อความหาบาร์บาราและถามเธอว่าพอจะช่วยบอกลอราได้ไหมว่าฉันส่งจดหมายให้	messaging	112
+3231323830343337	IN:SEND_MESSAGE	ขอให้เลียมลบฉันออกจาก NJ blues	messaging	112
+3231323830333131	IN:SEND_MESSAGE	ส่งข้อความหาพอลถามว่าอยากได้อะไรเป็นอาหารเย็น	messaging	112
+3231323739353834	IN:SEND_MESSAGE	ส่งข้อความถึง Josh ถามเขาว่าโรงแรมตั้งอยู่ที่ไหนและฉันควรไปถึงที่นั่นกี่โมง	messaging	112
+3231323739343835	IN:SEND_MESSAGE	ส่งข้อความถึงแมรี่ ถามว่าเธอจะไปเบบี้ชาวเวอร์ของลินดาหรือไม่	messaging	112
+3231323739313832	IN:SEND_MESSAGE	ส่งข้อความถึงคู่สมรสของฉันให้มาพบฉันที่โบสถ์	messaging	112
+3231323738323239	IN:SEND_MESSAGE	ส่งข้อความหาเจฟและถามว่าแผนการสำหรับการฝึกพรุ่งนี้เป็นอย่างไร	messaging	112
+3231323738313533	IN:SEND_MESSAGE	ส่งคำเตือนให้แบรดล็อกบ้าน	messaging	112
+3231323738303937	IN:SEND_MESSAGE	ส่งข้อความถึงลูกชายของฉันว่ารถของฉันเสีย	messaging	112
+3231323736353035	IN:SEND_MESSAGE	ส่งคำอวยพรวันเกิดให้เจริลีน	messaging	112
+3231323736333431	IN:SEND_MESSAGE	ส่งข้อความหาเจนเพื่อขอบคุณสำหรับของขวัญออนไลน์	messaging	112
+3231323735333839	IN:SEND_MESSAGE	ถามแมตต์ว่าเขายังจำนัดแรกของเราได้ไหม	messaging	112
+3232353833343234	IN:SEND_MESSAGE	ช่วยส่งกระทู้คู่หูการทำงานได้หรือเปล่า	messaging	112
+3232353833323030	IN:SEND_MESSAGE	ฉันต้องการส่งวิดีโอนั้นเป็นข้อความถึง Eric Sarah และ Sarah	messaging	112
+3232353833313639	IN:SEND_MESSAGE	ช่วยส่งข้อความไปหาคุณตาคุณยายของฉันให้ที	messaging	112
+3232353832383339	IN:SEND_MESSAGE	ส่งข้อความถึง Dana Thompson, Minerva และ Zachary Fletcher บอกว่าฉันอยู่ระหว่างทาง	messaging	112
+3232353735323836	IN:SEND_MESSAGE	ฉันต้องการส่งข้อความเมสเซนเจอร์	messaging	112
+3232353735323833	IN:SEND_MESSAGE	ส่งข้อความบน WhatsApp	messaging	112
+3232353735303937	IN:SEND_MESSAGE	ตอบกลับด้วยข้อความผ่าน Facebook	messaging	112
+3232353734353939	IN:SEND_MESSAGE	ผมต้องการส่งข้อความเมสเสนเจอร์	messaging	112
+3232313731313132	IN:SEND_MESSAGE	คุณอัดข้อความวิดีโอสำหรับ รอนนา กรูว์ ได้ไหม	messaging	112
+3232313730393630	IN:SEND_MESSAGE	อัดข้อความวิดีโอสำหรับสามีของฉัน	messaging	112
+3231373236373335	IN:SEND_MESSAGE	ส่งให้เมอร์ริลีน เลสเนียก	messaging	112
+3231373234303731	IN:SEND_MESSAGE	ตอบเอ็นโซด้วยข้อความวิดีโอ	messaging	112
+3231373234303637	IN:SEND_MESSAGE	ตอบกลับ Thiago ด้วยวิดีโอ	messaging	112
+3231373234303237	IN:SEND_MESSAGE	ส่งข้อความเป็นวิดีโอไปหา Samuel Fowler Mcguire	messaging	112
+3231373233343734	IN:SEND_MESSAGE	ฉันต้องการให้ส่งข้อความวิดีโอหาซี สก็อต	messaging	112
+3231373233343230	IN:SEND_MESSAGE	ตอบรับเจสสิก้าด้วยวิดีโอ	messaging	112
+3231373233333634	IN:SEND_MESSAGE	ตอบกลับลอร่า แมคอินทอช อีวานส์ด้วยข้อความวิดีโอ	messaging	112
+3231373233333538	IN:SEND_MESSAGE	ส่งข้อความวิดีโอหา Jonas	messaging	112
+3231363039363934	IN:SEND_MESSAGE	ข้อความใหม่ อ๋อ โอเค	messaging	112
+3231323932323737	IN:SEND_MESSAGE	ส่งข้อความหาพนักงาน​ทำความสะอาด​ออฟฟิศ​ว่าพรุ่งนี้ตอนเช้า​เธอไม่ต้องมา	messaging	112
+3231323931393334	IN:SEND_MESSAGE	ส่งข้อความถึง Cris เพื่อแจ้งให้เขาทราบว่า Barre ห่างจากแยก White River 50 ไมล์	messaging	112
+3231323836393532	IN:SEND_MESSAGE	ถามโรบินว่าเธอกับดาร์เรนยังจะไปคอนเสิร์ตอยู่ไหม	messaging	112
+3231323836323631	IN:SEND_MESSAGE	ส่งข้อความหามาริซอล บอกว่าป้าเอพริลของฉันจะไปดินเนอร์กับเราที่ร้านเดนนีส์	messaging	112
+3231323835393135	IN:SEND_MESSAGE	ถาม Shaney ว่าเธอต้องการบริการอะไรและเธอพร้อมสำหรับการนัดวันไหน	messaging	112
+3231323835363033	IN:SEND_MESSAGE	บอกเบรียนนาว่างานเลี้ยงจบการศึกษาจะจัดที่บ้านของแอชลีย์วันที่ 12 มิถุนายน	messaging	112
+3231323834363239	IN:SEND_MESSAGE	ส่งข้อความหาเรจจีถามว่าเขาจะมาถึงกี่โมง	messaging	112
+3231323834353035	IN:SEND_MESSAGE	ส่งข้อความหาเทรเวอร์และบอกเขาว่าเราจะไปถึงโอไฮโอวันอังคารที่ 19	messaging	112
+3231323834333835	IN:SEND_MESSAGE	บอก Bud ว่าเขาจะต้องออกไปดูคอนเสิร์ตก่อน 4 โมงเพื่อเลี่ยงชั่วโมงเร่งด่วน	messaging	112
+3231323834333132	IN:SEND_MESSAGE	ส่งข้อความไปถาม Ollie ว่ารู้ไหมว่างานวันเกิดของฉันจัดที่ไหน	messaging	112
+3231323832383736	IN:SEND_MESSAGE	ถามเจนนิเฟอร์ว่าเธอจะไปที่งานพาเหรดวันอาทิตย์ได้ไหม	messaging	112
+3231323831353836	IN:SEND_MESSAGE	ส่งข้อความบอกพ่อของฉันว่าฉันจะไปรับไอติมเอง	messaging	112
+3231323738353537	IN:SEND_MESSAGE	ส่งข้อความถึงมาร์เซลล์เพื่อถามเขาว่าซ่อมเลื่อยไฟฟ้าหรือยัง	messaging	112
+3231323736363434	IN:SEND_MESSAGE	ส่งข้อความหาปีเตอร์และบอกว่าคืนนี้ยังไปดินเนอร์กันหรือเปล่า	messaging	112
+3231323735353138	IN:SEND_MESSAGE	ส่งข้อความถึง Betsy บอกว่าฉันจะไปช้าหน่อย	messaging	112
+3231323735323539	IN:SEND_MESSAGE	ส่งข้อความถามน้องสาวของฉันว่าจะเธอมาถึงประมาณกี่โมง	messaging	112
+3232353833323838	IN:SEND_MESSAGE	ส่งข้อความถึงพอลและสตีเว่นได้ไหม	messaging	112
+3232353833323736	IN:SEND_MESSAGE	ฉันอยากส่งวิดีโอนั้นเป็นข้อความถึง Phil Bradley, Ned และ Gavin	messaging	112
+3232353833323137	IN:SEND_MESSAGE	ส่งเบ็ธและพอล	messaging	112
+3232353832393930	IN:SEND_MESSAGE	ส่งวิดีโอนั้นไปให้อีริค, เจอรี่ วอร์ด และจิม	messaging	112

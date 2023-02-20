@@ -1,0 +1,4 @@
+threadId=50000	segmentId=50000	!@#NEXLP_DOCVECTOR_SEPARATOR#@!垃圾售后. 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是怎么效率！！估计之后有问题修更麻烦，期待好售后的朋友们还是绕道吧，太费心！ !#nexlpEOL#!
+threadId=50001	segmentId=50001	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量也忒没保证了！. 明明寄过来的时候琴弦都是断的，还说是我自己弄断的，我的天，大家千万别买了，我买了这个简直倒八辈子霉了！血泪教训，质量没保证啊！ !#nexlpEOL#!
+threadId=50002	segmentId=50002	!@#NEXLP_DOCVECTOR_SEPARATOR#@!价格虚高的东西. 买贵了，几天就跌500元，以后不碰JBL 的东西 !#nexlpEOL#!
+threadId=50003	segmentId=50003	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还行吧，第一把面单. 用了很久，除了低音出不来，总体还不错。就是做工并没有想象中的那么完美 !#nexlpEOL#!

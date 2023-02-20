@@ -1,0 +1,2146 @@
+ID	intent	text	domain	label
+3232343533313339	IN:SET_RSVP_INTERESTED	Pon que estoy interesado en asistir al segundo evento	event	0
+3232343533313031	IN:SET_RSVP_INTERESTED	fija mi estado como interesado para el lanzamiento del libro Insurgent Empire	event	0
+3232343532393836	IN:SET_RSVP_INTERESTED	Cambia mi estado a interesado en el segundo evento	event	0
+3232343532393234	IN:SET_RSVP_INTERESTED	Cambia mi estado tal vez para Hocus Pocus	event	0
+3232343532373835	IN:SET_RSVP_INTERESTED	responde que estoy interesado para Plate by Plate	event	0
+3232343532373730	IN:SET_RSVP_INTERESTED	Tengo interés en ir al primer evento	event	0
+3232343532363533	IN:SET_RSVP_INTERESTED	me interesa ir a Two Door Cinema Club	event	0
+3232343532353931	IN:SET_RSVP_INTERESTED	Pon mi estado en Quizás para Hillside Bar Trivia Night	event	0
+3231323339383031	IN:GET_REMINDER_AMOUNT	¿Cuántos recordatorios tengo que programar?	reminder	2
+3232323230333036	IN:PLAY_MEDIA	Busca el álbum la "Felicidad comienza".	music	3
+3231323235343334	IN:GET_REMINDER_DATE_TIME	¿Cuándo es mi recordatorio para quedar con Sally en Topeka?	reminder	4
+3231323234393233	IN:GET_REMINDER_DATE_TIME	¿Cuándo es mi recordatorio para la recolección de manzanas?	reminder	4
+3231323339343932	IN:GET_REMINDER_DATE_TIME	¿Para cuándo está programado el recordatorio de la fiesta de cumpleaños de Traico?	reminder	4
+3231323337373035	IN:GET_REMINDER_DATE_TIME	Recuérdame cuando aparece el número cinco.	reminder	4
+39353639343433	IN:LOOP_MUSIC	¿Puedo escuchar esa canción una y otra vez?	music	6
+39343935313837	IN:SKIP_TRACK_MUSIC	Salta las siguientes tres pistas.	music	8
+39343835343237	IN:SKIP_TRACK_MUSIC	adelanta esta pista, por favor	music	8
+39343734303838	IN:SKIP_TRACK_MUSIC	Para esta canción y pon la siguiente	music	8
+39343733393832	IN:SKIP_TRACK_MUSIC	¿Puedes saltear esta canción?	music	8
+39343638393830	IN:SKIP_TRACK_MUSIC	Quiero escuchar la siguiente pista	music	8
+3132363231333730	IN:SKIP_TRACK_MUSIC	Saltéalo.	music	8
+39353636373430	IN:LIKE_MUSIC	¡Me encanta esta canción!	music	9
+39353536323532	IN:GET_TRACK_INFO_MUSIC	¿Quién canta esta canción?	music	10
+39353534383133	IN:GET_TRACK_INFO_MUSIC	¿quién canta It Just Comes Natural?	music	10
+39353430393339	IN:GET_TRACK_INFO_MUSIC	Dime sobre esta canción.	music	10
+39353339343731	IN:GET_TRACK_INFO_MUSIC	Cuál es este artista	music	10
+39353333353232	IN:GET_TRACK_INFO_MUSIC	¿Está esta canción en el disco nuevo?	music	10
+39353331353733	IN:GET_TRACK_INFO_MUSIC	¿Qué canción viene de seguida?	music	10
+39353330393535	IN:GET_TRACK_INFO_MUSIC	quién tocó la última canción	music	10
+39353330373833	IN:GET_TRACK_INFO_MUSIC	Nombre de esta melodía	music	10
+39353238373137	IN:GET_TRACK_INFO_MUSIC	¿Quién es el artista que canta esta canción?	music	10
+39353238373039	IN:GET_TRACK_INFO_MUSIC	¿Quién está tocando esta canción?	music	10
+39353231313636	IN:GET_TRACK_INFO_MUSIC	¿Quién es el cantante?	music	10
+39353139353536	IN:GET_TRACK_INFO_MUSIC	Qué pista es esta	music	10
+39353130303237	IN:GET_TRACK_INFO_MUSIC	¿QUIÉN está cantando esta canción?	music	10
+3231323237393436	IN:CREATE_REMINDER	Pon un recordatorio para escuela mañana	reminder	11
+3231323237373830	IN:CREATE_REMINDER	Recuérdame que conteste a los correos mañana por la mañana.	reminder	11
+3231323237363730	IN:CREATE_REMINDER	Recuerda a mis hermanos y hermanas que es el 50 aniversario de papá y mamá el sábado	reminder	11
+3231323237333036	IN:CREATE_REMINDER	Recuérdame barrer las escaleras para este fin de semana.	reminder	11
+3231323237313134	IN:CREATE_REMINDER	Recuérdame cuatro días antes que debo llevar un aperitivo al almuerzo divertido del mes que viene.	reminder	11
+3231323237303632	IN:CREATE_REMINDER	Por favor pon un recordatorio para que nosotros video llamemos a la tía Barb esta noche	reminder	11
+3231323236393830	IN:CREATE_REMINDER	La asociación del condo se reúne el martes, pon un recordatorio para el martes por la mañana a las 10	reminder	11
+3231323236363736	IN:CREATE_REMINDER	Pon un recordatorio para el almuerzo el martes	reminder	11
+3231323236363630	IN:CREATE_REMINDER	Recuérdame llamar a Sherry el martes por la noche a las 7 p.m.	reminder	11
+3231323236333838	IN:CREATE_REMINDER	Recordarme llamar a mi hermana esta noche a las 8 p. m. hoy.	reminder	11
+3231323236323830	IN:CREATE_REMINDER	Recuérdame que cargue gasolina para la cortadora de camino a casa esta noche	reminder	11
+3231323236323231	IN:CREATE_REMINDER	Programar un recordatorio de pedir cita médica para la próxima semana	reminder	11
+3231323236313938	IN:CREATE_REMINDER	Recuérdame comprar papel de baño	reminder	11
+3231323236303833	IN:CREATE_REMINDER	Programa un recordatorio para llamar a Candy por su tienda nueva	reminder	11
+3231323235353137	IN:CREATE_REMINDER	Necesito tomar el vuelo más temprano a Los Ángeles, ¿podrías recordarme 5 horas antes?	reminder	11
+3231323235343933	IN:CREATE_REMINDER	Recuérdame comprar agua para los niños a las 3 p.m.	reminder	11
+3231323235313030	IN:CREATE_REMINDER	Crea un recordatorio para recoger la ropa de la tintorería mañana.	reminder	11
+3231323234393934	IN:CREATE_REMINDER	recuérdame sacar las bayas del congelador 15 minutos antes de mi última alarma de mañana	reminder	11
+3231323234393735	IN:CREATE_REMINDER	Pon un recordatorio para la fiesta mañana a las 10 PM	reminder	11
+3231323234393332	IN:CREATE_REMINDER	Recuérdame cambiar la hora para el cambio de hora	reminder	11
+3231323234373637	IN:CREATE_REMINDER	Por favor recordarle a la tintorería que necesito mi abrigo de invierno para el 15	reminder	11
+3231323234363432	IN:CREATE_REMINDER	Envía un recordatorio para reservar el catering mañana	reminder	11
+3231323234353538	IN:CREATE_REMINDER	Hazme recordar que todo es hermoso	reminder	11
+3231323234353031	IN:CREATE_REMINDER	Recuérdame la reunión el lunes a las 5 de la mañana	reminder	11
+3231323234333431	IN:CREATE_REMINDER	Programar recordatorio para enviar por correo la prueba de ADN esta noche	reminder	11
+3231323234313632	IN:CREATE_REMINDER	Fija un recordatorio para comprar ingredientes para la cena de mañana	reminder	11
+3231323233363132	IN:CREATE_REMINDER	¿Puedes poner un recordatorio para una hora antes de mi prueba este martes?	reminder	11
+3231323233323237	IN:CREATE_REMINDER	Coloca un recordatorio para la reunión de la familia Martin tres meses antes de octubre 17.	reminder	11
+3231323233313537	IN:CREATE_REMINDER	Establecer un recordatorio para los ensayos del coro para octubre y noviembre.	reminder	11
+3231323233303639	IN:CREATE_REMINDER	Pon un recordatorio para la fiesta con mis amigos el viernes	reminder	11
+3231323232393132	IN:CREATE_REMINDER	recuérdame hacer una cita de una hora con una masajista	reminder	11
+3231323232363437	IN:CREATE_REMINDER	Fijar recordatorio para traer guarnición para la fiesta de cumpleaños de Peter	reminder	11
+3231323232353230	IN:CREATE_REMINDER	Colocar un recordatorio por el cumpleaños de John.	reminder	11
+3231323232333431	IN:CREATE_REMINDER	Necesito programar un nuevo plan de pagos para los servicios, recuérdame hacer eso mañana	reminder	11
+3231323232313533	IN:CREATE_REMINDER	Recuérdame que no tengo dinero para viajar	reminder	11
+3231313536343736	IN:CREATE_REMINDER	Recuérdame que le dé de comer al perro hoy a las 5 PM	reminder	11
+3231313536343037	IN:CREATE_REMINDER	Crea un recordatorio para pedir todas las cosas para la fiesta de Luau el 1 de septiembre.	reminder	11
+3231313536333732	IN:CREATE_REMINDER	Los boletos para Impractical Jokers salen a la venta mañana, ¿podrías recordarme mañana a las 9 a.m.?	reminder	11
+3231313536333436	IN:CREATE_REMINDER	Recuérdame calificar las tareas mañana en la tarde.	reminder	11
+3231313536333038	IN:CREATE_REMINDER	Recuérdame el 19 de septiembre que me tengo que preparar para la fiesta de Valeria del 21 de septiembre	reminder	11
+3231313536303931	IN:CREATE_REMINDER	Enviar un recordatorio a DreAnna de nuestra cita para uñas el domingo.	reminder	11
+3231313536303731	IN:CREATE_REMINDER	Recuérdale a Mike que termine todos los papeles un día antes del sábado a las 7 pm.	reminder	11
+3231313536303634	IN:CREATE_REMINDER	Recuérdame sacar el pollo del congelador hoy a las 11 AM.	reminder	11
+3231313536303337	IN:CREATE_REMINDER	Recordame responder el email de John esta noche a las 7:00 pm.	reminder	11
+3231313535393238	IN:CREATE_REMINDER	Recuérdale al personal de la oficina que la reunión se ha cambiado a las 3 p. m. del jueves	reminder	11
+3231313535383536	IN:CREATE_REMINDER	Recuérdame que me registre con Susan el viernes.	reminder	11
+3231313535383337	IN:CREATE_REMINDER	Recuérdame que coja la información de mi depósito directo antes de salir de casa.	reminder	11
+3231313535373931	IN:CREATE_REMINDER	Poner un recordatorio para devolver los libros de la biblioteca antes de las 5:00 hoy.	reminder	11
+3231313535373535	IN:CREATE_REMINDER	Crear un recordatorio para recoger semillas a las 10am el jueves.	reminder	11
+3231313535373436	IN:CREATE_REMINDER	Recuérdame comprar cereal mañana	reminder	11
+3231313535373332	IN:CREATE_REMINDER	Recuérdame el aniversario de Debbie y Eric una semana antes.	reminder	11
+3231313535343835	IN:CREATE_REMINDER	Recuérdame verificar las reservaciones para Yosemite el 10 de febrero.	reminder	11
+3231313535343438	IN:CREATE_REMINDER	Recuérdame cancelar mi cita con el oftalmólogo y reprogramarla	reminder	11
+3231313535343032	IN:CREATE_REMINDER	Recordarme que envíe el código terminado a Josh al final del día el viernes.	reminder	11
+3231313535323039	IN:CREATE_REMINDER	Recordarles a Aaliyah y Alicia que salgan a las 3 p. m. para el entrenamiento. Avisarles 10 minutos antes.	reminder	11
+3231313535313636	IN:CREATE_REMINDER	Recuérdame que envíe un correo electrónico a Appen con respecto a las horas.	reminder	11
+3231313535313633	IN:CREATE_REMINDER	Recuérdame llamar al dentista	reminder	11
+3231313535313134	IN:CREATE_REMINDER	Establece un recordatorio para la cita médica el próximo martes.	reminder	11
+3231313535303734	IN:CREATE_REMINDER	recuérdame cambiar el filtro del aire acondicionado en abril	reminder	11
+3231313534393138	IN:CREATE_REMINDER	Recuérdales a Brady y a Jackson que necesitamos irnos a las 3; avísales una hora antes.	reminder	11
+3231313534383534	IN:CREATE_REMINDER	recuérdame el viernes que eche gasolina	reminder	11
+3231313534383339	IN:CREATE_REMINDER	Recuérdame llamar a la compañía de seguros acerca de la camioneta a las 3 p.m. hoy.	reminder	11
+3231313534373838	IN:CREATE_REMINDER	¿Puedes poner un recordatorio para mi cita con el dentista el sábado a las 2?	reminder	11
+3231313534373132	IN:CREATE_REMINDER	Recordar a James y Laura que salgan a las 2:10 para la reunión	reminder	11
+3231313534363931	IN:CREATE_REMINDER	Agregar un recordatorio a mi calendario sobre el cumpleaños de Erin el 21 de agosto	reminder	11
+3231313534353234	IN:CREATE_REMINDER	Recuérdame que recoja hielo el sábado a las 9 am	reminder	11
+3231313534333737	IN:CREATE_REMINDER	Configura un recordatorio para chatear por vídeo con mi esposo esta noche a las 10 p.m.	reminder	11
+3231313534333732	IN:CREATE_REMINDER	Recuérdame fijar varias alarmas acerca de mi vuelo del miércoles. ¿También podrías alertarme 10 minutos antes de la medianoche?	reminder	11
+3231313534333635	IN:CREATE_REMINDER	Recordarme llamar a Annette mañana a las 6:30 PM por el dinero para la tarjeta de crédito	reminder	11
+3231313534333434	IN:CREATE_REMINDER	Recuérdame el programa del concierto.	reminder	11
+3231313534323732	IN:CREATE_REMINDER	¿Puedes recordarme que envíe mi hoja de cálculo hoy a las 5 p. m.?	reminder	11
+3231313534313733	IN:CREATE_REMINDER	Recuérdame que tengo una cita con el dentista el martes 7.	reminder	11
+3231313534313533	IN:CREATE_REMINDER	Hazme acordar que compre ajo hoy a las 5 p.m.	reminder	11
+3231313534313436	IN:CREATE_REMINDER	Recordarme enviar un correo electrónico a Theresa sobre la reunión de esta noche	reminder	11
+3231313534303234	IN:CREATE_REMINDER	Pon un recordatorio para probarme el vestido el domingo a las 1030	reminder	11
+3231313533393837	IN:CREATE_REMINDER	Recuérdame que me despierte a las 5 hoy	reminder	11
+3231313533383139	IN:CREATE_REMINDER	Recuérdame recoger jugo de naranja después de la película hoy	reminder	11
+3231313533373730	IN:CREATE_REMINDER	Recordarme la reunión el lunes.	reminder	11
+3231313533363931	IN:CREATE_REMINDER	¿Me puedes recordar que llame media hora antes de la teleconferencia de hoy?	reminder	11
+3231313533353738	IN:CREATE_REMINDER	Crear un recordatorio para regar las plantas.	reminder	11
+3231313533353539	IN:CREATE_REMINDER	Prepara un recordatorio matutino para que Brody se cepille los dientes antes de ir a la escuela.	reminder	11
+3231313533353533	IN:CREATE_REMINDER	Recuérdame encontrar todos los iPod antes de ir a dormir para que pueda cargarlos para el día siguiente.	reminder	11
+3231313533343736	IN:CREATE_REMINDER	Recuérdame revisar con Selena el sábado sus planes de mudanza para agosto.	reminder	11
+3231313533343238	IN:CREATE_REMINDER	Recuérdame el partido de fútbol que hay hoy a las 3 de la tarde.	reminder	11
+3231313533333634	IN:CREATE_REMINDER	Recuerda a Sarah que tenemos una reunión a las 12:30 p. m. el día 3	reminder	11
+3231313533323735	IN:CREATE_REMINDER	Recuérdale a Joao que me recoja a las 5 p. m. hoy.	reminder	11
+3231313533323135	IN:CREATE_REMINDER	Recuérdame que envíe el informe de investigación antes de las 20:00.	reminder	11
+3231313532393439	IN:CREATE_REMINDER	Recuérdame llamar a mi esposa para que pueda cambiar la hora de nuestra cita para comer.	reminder	11
+3231313532383636	IN:CREATE_REMINDER	Necesito llamar a mi abuela el domingo; pon un recordatorio para las 9 AM	reminder	11
+3231313532383232	IN:CREATE_REMINDER	recuérdame comprar entradas para la película mañana a las 2pm	reminder	11
+3231313532383130	IN:CREATE_REMINDER	Agrega un recordatorio para voltear las verduras en 10 minutos.	reminder	11
+3231313532373736	IN:CREATE_REMINDER	Crea un recordatorio para fregar los platos este fin de semana	reminder	11
+3231313532373632	IN:CREATE_REMINDER	Recuérdame recoger las baterías hoy	reminder	11
+3231313532373530	IN:CREATE_REMINDER	Recuérdame en 20 minutos que active Skype	reminder	11
+3231313532353139	IN:CREATE_REMINDER	Recuérdame reservar mi vuelo a Alemania hoy.	reminder	11
+3231313532353037	IN:CREATE_REMINDER	Pon un recordatorio para que Jonathan llame a la abuela la semana que viene	reminder	11
+3231313532343835	IN:CREATE_REMINDER	Recuérdame ir a la clase de yoga el viernes a las 3:00 p. m.	reminder	11
+3231313532343736	IN:CREATE_REMINDER	Establece un recordatorio de que la audición de Donna es el próximo viernes a las 3 p. m.	reminder	11
+3231313532343734	IN:CREATE_REMINDER	Recordarme pasar a retirar la verdura y que la limpie antes de ponerla en el refrigerador.	reminder	11
+3231313532333331	IN:CREATE_REMINDER	Crear un recordatorio para mi turno con el dentista para mañana a la 1 p.m.	reminder	11
+3231313532333236	IN:CREATE_REMINDER	Recuerda a Ray que tome su medicina a las 12 p. m.	reminder	11
+3231313532333139	IN:CREATE_REMINDER	Recuérdame bañar a Ron este fin de semana, el domingo por la tarde.	reminder	11
+3231313532323035	IN:CREATE_REMINDER	Recuerda a los Street Crew que descarguen los folletos nuevos para la gira de verano de este año.	reminder	11
+3231313532313930	IN:CREATE_REMINDER	Pon un recordatorio para recoger a Lilly de ballet en 3 horas.	reminder	11
+3231313532303734	IN:CREATE_REMINDER	Recuérdame que pida cita con el doctor en septiembre.	reminder	11
+3231313531393434	IN:CREATE_REMINDER	Pon un recordatorio para la reunión por la graduación de mi hermano el sábado de esta semana.	reminder	11
+3231313531393134	IN:CREATE_REMINDER	Establece un recordatorio para hacer las maletas para nuestro viaje a la playa el viernes	reminder	11
+3231313531383839	IN:CREATE_REMINDER	Recuérdame actualizar el currículo el martes por la mañana.	reminder	11
+3231313531373331	IN:CREATE_REMINDER	Recuérdame que envíe mañana la tarjeta de cumpleaños de Tommy.	reminder	11
+3231313531373136	IN:CREATE_REMINDER	Recuérdame llamar a Connor a las 4 p. m.	reminder	11
+3231313531363733	IN:CREATE_REMINDER	Poner un recordatorio para enviar un regalo de Edible Arrangements a Sammie y a Wiff el 4 de agosto a las 8 a.m.	reminder	11
+3231313531363532	IN:CREATE_REMINDER	Recuérdame responder a la invitación de John en Facebook a la fiesta de cumpleaños de su hermana el sábado el jueves a las 12:00 del mediodía.	reminder	11
+3231313531353139	IN:CREATE_REMINDER	Recuérdame firmar la tarjeta de cumpleaños para Jillian	reminder	11
+3231313531333437	IN:CREATE_REMINDER	Recuérdame ir a por leche y huevos mañana.	reminder	11
+3231313531323330	IN:CREATE_REMINDER	recuérdame llamar a mi madre mañana a las 8:30 a. m.	reminder	11
+3231313531313231	IN:CREATE_REMINDER	La cena estará lista a las 6:30, recuérdame que ponga el arroz a las 6:00.	reminder	11
+3231313531313136	IN:CREATE_REMINDER	Recuérdame que guarde los pasaportes en mi cartera	reminder	11
+3231313531303936	IN:CREATE_REMINDER	Recuérdame inscribirme en la temporada de fútbol de otoño el 10 de agosto a las 9 a. m.	reminder	11
+3231313531303733	IN:CREATE_REMINDER	Recuérdame empacar los artículos de aseo personal en otra bolsa	reminder	11
+3231313531303332	IN:CREATE_REMINDER	recuérdame hacer una lista de compras para el regreso a clases	reminder	11
+3231313531303238	IN:CREATE_REMINDER	Recuérdame a ir a buscar comida china hoy	reminder	11
+3231313530393436	IN:CREATE_REMINDER	Recuérdame cancelar el evento del miércoles en mi club de lectura	reminder	11
+3231313530393133	IN:CREATE_REMINDER	Recuérdame llamar al dermatólogo el lunes para el chequeo anual.	reminder	11
+3231313530393038	IN:CREATE_REMINDER	Recuérdame coger dos botellas de agua.	reminder	11
+3231313530383434	IN:CREATE_REMINDER	Recuérdame llamar a mi mamá esta noche a las 8pm.	reminder	11
+3231313530373536	IN:CREATE_REMINDER	Por favor, recuérdame que elimine mi lista de reproducción de Prince hoy a la 1 PM.	reminder	11
+3231313530373239	IN:CREATE_REMINDER	Recuérdame hacer el pedido de las flores para la cena.	reminder	11
+3231313530363439	IN:CREATE_REMINDER	Recuérdame terminar el informe antes de las 7 pm del 8 de septiembre.	reminder	11
+3231313530353931	IN:CREATE_REMINDER	Programar recordatorio para ir a mercar el sábado.	reminder	11
+3231313530343432	IN:CREATE_REMINDER	Por favor, crea un recordatorio el lunes por la noche para que me comunique con Jason y averigüe cómo fue la reunión de lanzamiento.	reminder	11
+3231313530333638	IN:CREATE_REMINDER	Recuérdame mi próxima cita con el dentista dos días antes	reminder	11
+3231313530323930	IN:CREATE_REMINDER	recordarme la reunión de hoy 30 minutos antes de que comience	reminder	11
+3231313530323839	IN:CREATE_REMINDER	Recuérdame reservar el hotel para nuestras vacaciones el 26 de agosto.	reminder	11
+3231313530313437	IN:CREATE_REMINDER	Acuérdame el viernes en la mañana que los dos paquetes deben llegar ese día.	reminder	11
+3231313530303939	IN:CREATE_REMINDER	Recuérdame el coro sobre la práctica a las 5 p.m.	reminder	11
+3231313530303735	IN:CREATE_REMINDER	Recuérdame tomar el desayuno por la mañana.	reminder	11
+3231313439393836	IN:CREATE_REMINDER	Recuérdame que recoja pizza y coca cola para cenar.	reminder	11
+3231313439393534	IN:CREATE_REMINDER	Recuérdame recoger el pastel de cumpleaños de Eliza el viernes para la fiesta de cumpleaños.	reminder	11
+3231313439393435	IN:CREATE_REMINDER	Recuérdame actualizar a mi equipo sobre cuando los clientes lleguen el próximo lunes.	reminder	11
+3231313439393434	IN:CREATE_REMINDER	Recuérdale a los servidores la reunión del personal a las 5 p.m.	reminder	11
+3231313439393336	IN:CREATE_REMINDER	Recuérdame mi cita quiropráctica el lunes a las 10 a. m.	reminder	11
+3231313439393334	IN:CREATE_REMINDER	Recuérdame cambiar mis filtros de AC mañana.	reminder	11
+3231313439373632	IN:CREATE_REMINDER	Crea una alerta para las 8 AM para revisar correo electrónico de trabajo.	reminder	11
+3231313439373331	IN:CREATE_REMINDER	Recuérdame entregar mi tarea mañana al mediodía	reminder	11
+3231313439373232	IN:CREATE_REMINDER	recuérdame pedir desayuno cuando me despierte el sábado por la mañana.	reminder	11
+3231313439363338	IN:CREATE_REMINDER	Recuérdame que envíe la receta de lasaña vegetal a Kim antes del próximo martes, 7 de agosto.	reminder	11
+3231313439353532	IN:CREATE_REMINDER	Recuérdame agradecerle a John por el regalo a las 7pm mañana.	reminder	11
+3231313439353439	IN:CREATE_REMINDER	Recuérdame enviar caja de provisiones a Ramón el martes.	reminder	11
+3231313439343538	IN:CREATE_REMINDER	Recuérdame que tome una ducha hoy	reminder	11
+3231313439343336	IN:CREATE_REMINDER	Recuérdame que me lave el pelo este sábado.	reminder	11
+3231313439333937	IN:CREATE_REMINDER	Recuérdame recoger mi tintorería	reminder	11
+3231313439323530	IN:CREATE_REMINDER	Recuérdame que llame al Dr. Salomn para reprogramar la cita.	reminder	11
+3231313439323431	IN:CREATE_REMINDER	Programa un recordatorio para llamar a mi esposo y recordarle sobre nuestras reservaciones	reminder	11
+3231313439313938	IN:CREATE_REMINDER	Recuérdame que consulte Field Agent mañana por la mañana.	reminder	11
+3231313439313236	IN:CREATE_REMINDER	Recuérdame girar a la izquierda en el semáforo	reminder	11
+3231313439303239	IN:CREATE_REMINDER	Pon un recordatorio 2 horas antes de la venta de pasteles el viernes.	reminder	11
+3231313439303134	IN:CREATE_REMINDER	Recuérdame que llame a mamá para averiguar el estado de la cirugía de cadera de la tía Ofelia.	reminder	11
+3231313438393038	IN:CREATE_REMINDER	Recuérdame que reserve una mesa en la venta de jardín de moose el viernes.	reminder	11
+3231313438353936	IN:CREATE_REMINDER	Puedes recordarme limpiar el filtro de la piscina el próximo jueves	reminder	11
+3231313438333632	IN:CREATE_REMINDER	Recuérdame que consiga crema batida de camino a casa.	reminder	11
+3231313438313637	IN:CREATE_REMINDER	Recuérdame cambiar el aceite de mi automóvil en 6 semanas.	reminder	11
+3231313438313438	IN:CREATE_REMINDER	¿Puedes recordarme unirme al grupo de discordia a las 5 p.m.?	reminder	11
+3231313437393738	IN:CREATE_REMINDER	Recuérdame hoy a las 3:00 p.m. configurar mi nueva tarjeta Visa en Amazon.	reminder	11
+3231313437393034	IN:CREATE_REMINDER	Pon un recordatorio para mandar un correo electrónico a Clea	reminder	11
+3231313437383630	IN:CREATE_REMINDER	Recuérdame que llame a mi mamá el domingo a las 10 a. m.	reminder	11
+3231313437383431	IN:CREATE_REMINDER	Recuérdame enviarle el regalo a Álex este miércoles.	reminder	11
+3231313437373733	IN:CREATE_REMINDER	Recuérdame ensayo del coro esta noche	reminder	11
+3231313437363635	IN:CREATE_REMINDER	Recordarme llamar a mi padre hoy.	reminder	11
+3231313437363539	IN:CREATE_REMINDER	Recuérdame que averigüe sobre una colonoscopía para ver cuándo necesitaría una	reminder	11
+3231313437363536	IN:CREATE_REMINDER	Configurar un recordatorio para el cumpleaños de Camryn el 7 de septiembre.	reminder	11
+3231313437363430	IN:CREATE_REMINDER	Necesito activar un recordatorio de fiesta de cumpleaños para el 25 de agosto; por favor, activa un recordatorio para mi grupo familiar a las 4 PM.	reminder	11
+3231313437333934	IN:CREATE_REMINDER	Recuérdame enviar mensaje a mamá con la dirección de la fiesta de esta noche.	reminder	11
+3231313437323133	IN:CREATE_REMINDER	Recuérdame que investigue los precios de las entradas de Broadway para Cats más tarde.	reminder	11
+3231313437323037	IN:CREATE_REMINDER	Estoy haciendo galletas en el horno, ¿puedes recordarme que las saque en 25 minutos?	reminder	11
+3231313437323036	IN:CREATE_REMINDER	Fija un recordatorio para hablar por Skype con mi mamá más tarde esta noche.	reminder	11
+3231313437303831	IN:CREATE_REMINDER	pon un recordatorio para la cita dental de Mike este martes	reminder	11
+3231313436393133	IN:CREATE_REMINDER	Recordar a Bill que le quiero hoy a las 4 p. m.	reminder	11
+3231313436373739	IN:CREATE_REMINDER	Recuérdame a las 8 p.m. del viernes para que Landry tome la segunda ronda de su medicamento.	reminder	11
+3231313436373333	IN:CREATE_REMINDER	Recuérdale a Alyssa que tiene práctica del Equipo de Baile después de la escuela el 28 de agosto; envíale una notificación 10 minutos antes.	reminder	11
+3231313436373132	IN:CREATE_REMINDER	Recuérdame que compre entradas para Smackdown el día antes de que salgan a la venta	reminder	11
+3231313436373039	IN:CREATE_REMINDER	Tengo que acordarme de desconectar el tractor del cargador de batería esta noche.	reminder	11
+3231313436353137	IN:CREATE_REMINDER	Programar un recordatorio para llamar a mi proveedor de teléfono en 10 minutos.	reminder	11
+3231313436343439	IN:CREATE_REMINDER	Recuérdame el jueves a las 2 PM que le recuerde a mi esposo sobre la reunión del gremio de las 7 PM	reminder	11
+3231313436333437	IN:CREATE_REMINDER	Recordarme pedirle a Josh que llame a la compañía eléctrica el jueves antes de las 3:00 p. m.	reminder	11
+3231313436333038	IN:CREATE_REMINDER	Recuérdame que compre la parrilla para la comida del 28 de agosto.	reminder	11
+3231313436323131	IN:CREATE_REMINDER	Establece un recordatorio para grabar Grey's Anatomy el jueves	reminder	11
+3231313436313634	IN:CREATE_REMINDER	Recuérdale a Deb que agregue su menú a la lista del campamento.	reminder	11
+3231313436313133	IN:CREATE_REMINDER	Recuérdame vacunarme contra la gripe el 1 de octubre de 2018	reminder	11
+3231363336373235	IN:SNOOZE_ALARM	Déjame en paz y déjame dormir	alarm	13
+3231363032333730	IN:SNOOZE_ALARM	repite la alarma 5 más	alarm	13
+3231363031323033	IN:SNOOZE_ALARM	Retrasar mi siguiente alarma	alarm	13
+3231363031313935	IN:SNOOZE_ALARM	Silenciar alarma	alarm	13
+3231363031313733	IN:SNOOZE_ALARM	detén la alarma durante una hora	alarm	13
+3231363031313436	IN:SNOOZE_ALARM	Repite la siguiente alarma durante 10 minutos	alarm	13
+3231363031303830	IN:SNOOZE_ALARM	Coloca esta alarma 10 minutos antes	alarm	13
+3231363031303331	IN:SNOOZE_ALARM	Retrasa la alarma.	alarm	13
+3231363031303034	IN:SNOOZE_ALARM	Repetir mi alarma por 2 minutos, por favor.	alarm	13
+3231353534323238	IN:SNOOZE_ALARM	Por favor retrasa mi alarma	alarm	13
+3231353534303835	IN:SNOOZE_ALARM	Quiero dormir diez minutos más	alarm	13
+3231353534303631	IN:SNOOZE_ALARM	Me levanto en 10 minutos, pospón la alarma	alarm	13
+3231353534303130	IN:SNOOZE_ALARM	¿Puedes aplazar mi alarma 5 minutos más?	alarm	13
+3231353533393537	IN:SNOOZE_ALARM	Posterga la alarma por 30 segundos	alarm	13
+3132363133323033	IN:START_SHUFFLE_MUSIC	Activa el modo aleatorio	music	14
+3132363038343638	IN:START_SHUFFLE_MUSIC	Ponlo en aleatorio.	music	14
+3132353831343039	IN:START_SHUFFLE_MUSIC	Activa el modo mezcla	music	14
+3132353638393631	IN:START_SHUFFLE_MUSIC	Reorganizar mi lista de reproducción actual.	music	14
+39353438323337	IN:START_SHUFFLE_MUSIC	Ordena de forma aleatoria el nuevo álbum del Kings of Leon, por favor.	music	14
+39353535313632	IN:PAUSE_MUSIC	Pausa mi música.	music	15
+39353232353330	IN:PAUSE_MUSIC	Pausa la canción	music	15
+39353030343437	IN:PAUSE_MUSIC	Pausar la canción	music	15
+39353339313934	IN:RESUME_TIMER	Reanuda el cronómetro.	timer	16
+39353238363631	IN:RESUME_TIMER	reanuda el temporizador de hornear	timer	16
+39353230313030	IN:RESUME_TIMER	Reanuda el temporizador en 18 minutos	timer	16
+39353230303130	IN:RESUME_TIMER	Reanudar el temporizador mañana	timer	16
+39343836303030	IN:RESUME_TIMER	Sigue contando el tiempo	timer	16
+3232343330383333	IN:RESUME_TIMER	Continúa con el temporizador.	timer	16
+3132353834343632	IN:PLAY_MUSIC	PON MÚSICA DE ROCK & ROLL	music	17
+3132353834343438	IN:PLAY_MUSIC	Pon el nuevo álbum de Lady Gaga	music	17
+3132353735343931	IN:PLAY_MUSIC	Por favor, reproduce mi lista para hacer senderismo.	music	17
+3132353734303232	IN:PLAY_MUSIC	Reproduce una canción de los 80	music	17
+3132353732373138	IN:PLAY_MUSIC	¿Puedo escuchar el último álbum de The Weeknd en Spotify	music	17
+3132353730323630	IN:PLAY_MUSIC	Por favor, reproduce las 100 mejores canciones de todos los tiempos	music	17
+3132353730303533	IN:PLAY_MUSIC	Quiero escuchar el último disco de Taylor Swift	music	17
+3132353639373136	IN:PLAY_MUSIC	Toca música de Disney.	music	17
+3132353639363731	IN:PLAY_MUSIC	enciende la música	music	17
+3132353638343231	IN:PLAY_MUSIC	Reproducir música punk clásica	music	17
+3132353637383239	IN:PLAY_MUSIC	Pon una canción de otra lista de reproducción	music	17
+3132353637373436	IN:PLAY_MUSIC	reproduce música country para mí	music	17
+3132353636393332	IN:PLAY_MUSIC	Reproduce la lista de baile	music	17
+39353832303133	IN:PLAY_MUSIC	Reproducir hits viejos de Stevie Wonder, por favor	music	17
+39353831343339	IN:PLAY_MUSIC	reproduce la canción Happy	music	17
+39353831333434	IN:PLAY_MUSIC	Buscar género new age	music	17
+39353830323139	IN:PLAY_MUSIC	Reproducir música jazz.	music	17
+39353830313832	IN:PLAY_MUSIC	REPRODUCIR COUNTRY	music	17
+39353739383934	IN:PLAY_MUSIC	Reproduce canciones de Broadway.	music	17
+39353739363537	IN:PLAY_MUSIC	Pon mis 5 canciones más tocadas.	music	17
+39353738373739	IN:PLAY_MUSIC	Quiero escuchar showtunes.	music	17
+39353738353432	IN:PLAY_MUSIC	Reproduce mi lista diaria en Spotify	music	17
+39353737343537	IN:PLAY_MUSIC	Busca la última canción de Kelly Clark.	music	17
+39353732363738	IN:PLAY_MUSIC	reproducir solo canciones alegres	music	17
+39353732353338	IN:PLAY_MUSIC	reproduce algunas showtunes	music	17
+39353732353039	IN:PLAY_MUSIC	Quiero escuchar el último álbum de Chris Brown	music	17
+39353732323031	IN:PLAY_MUSIC	Reproduce los Alabama Shakes en Spotify.	music	17
+39353639343539	IN:PLAY_MUSIC	Reproduce el segundo álbum de Whitney Houston	music	17
+39353637313938	IN:PLAY_MUSIC	Pon música country, por favor.	music	17
+39353637303230	IN:PLAY_MUSIC	Vamos a escuchar un poco de jazz	music	17
+39353636343033	IN:PLAY_MUSIC	Reproducir música rap	music	17
+39353636303839	IN:PLAY_MUSIC	Por favor, pasa algo de música de los 80	music	17
+39353634373330	IN:PLAY_MUSIC	por favor reproducir todas las canciones de los 90 de Jimmy Ray	music	17
+39353634323036	IN:PLAY_MUSIC	Reproducir a todo volumen	music	17
+39353633373736	IN:PLAY_MUSIC	Reproduce el nuevo 'single' de Jeremy camp	music	17
+39353632313036	IN:PLAY_MUSIC	Pon la lista de reproducción de cardio	music	17
+39353632303136	IN:PLAY_MUSIC	Reproduce una canción	music	17
+39353631313136	IN:PLAY_MUSIC	Quiero escuchar música clásica.	music	17
+39353630353539	IN:PLAY_MUSIC	Toca música instrumental	music	17
+39353630343631	IN:PLAY_MUSIC	Pon música para hacer ejercicio	music	17
+39353538383834	IN:PLAY_MUSIC	Por favor, reproducir música de los 80.	music	17
+39353538323334	IN:PLAY_MUSIC	Reproduce música "rhythm and blues"	music	17
+39353537343436	IN:PLAY_MUSIC	pon música en el tren	music	17
+39353537323634	IN:PLAY_MUSIC	Pon la lista de reproducción de Depeche Mode	music	17
+39353536333933	IN:PLAY_MUSIC	Ponme el último disco de Justin Timberlake	music	17
+39353535333839	IN:PLAY_MUSIC	reproduce música divertida para niños hoy para la fiesta infantil	music	17
+39353531393839	IN:PLAY_MUSIC	Reproducir música nueva de Justin Timberlake	music	17
+39353439343431	IN:PLAY_MUSIC	Quiero escuchar algo de hip hop y R&B	music	17
+39353438343734	IN:PLAY_MUSIC	Pon mi lista de reproducción favorita.	music	17
+39353436333737	IN:PLAY_MUSIC	Pon el primer álbum de los Beatles.	music	17
+39353436333330	IN:PLAY_MUSIC	Ponme algo suave y relajante	music	17
+39353436323837	IN:PLAY_MUSIC	Pon música que haga dormir a un bebé	music	17
+39353435343939	IN:PLAY_MUSIC	abre Pandora y pon mi estación	music	17
+39353435323138	IN:PLAY_MUSIC	Pon el último álbum de Jay Z	music	17
+39353434343537	IN:PLAY_MUSIC	Estoy de humor para un poco de R&B	music	17
+39353434333438	IN:PLAY_MUSIC	Quiero escuchar el último álbum de Jay Z	music	17
+39353434313830	IN:PLAY_MUSIC	Reproduce mi estación de radio más escuchada en Pandora	music	17
+39353434303436	IN:PLAY_MUSIC	Quiero escuchar a ABBA.	music	17
+39353433383439	IN:PLAY_MUSIC	Reproduce las canciones más populares de hoy.	music	17
+39353430343937	IN:PLAY_MUSIC	cualquier canción de john lennon	music	17
+39353339353636	IN:PLAY_MUSIC	quiero escuchar música Rock	music	17
+39353338373436	IN:PLAY_MUSIC	Reproduce la canción más nueva de Kanye West	music	17
+39353338333437	IN:PLAY_MUSIC	por favor, toca las canciones de Vybz Kartel	music	17
+39353337383230	IN:PLAY_MUSIC	Pon música alternativa	music	17
+39353336393933	IN:PLAY_MUSIC	pon los éxitos principales del Pop	music	17
+39353336323834	IN:PLAY_MUSIC	reproduce mi lista de reproducción de 2016	music	17
+39353336323537	IN:PLAY_MUSIC	reproduce más canciones de este álbum	music	17
+39353335313539	IN:PLAY_MUSIC	Pasa para mí un rock clásico.	music	17
+39353333323537	IN:PLAY_MUSIC	Ponme dos canciones de los 80	music	17
+39353333303331	IN:PLAY_MUSIC	ponme música de rock duro, por favor	music	17
+39353332373231	IN:PLAY_MUSIC	Reproduce algunas de las canciones viejas de Janet Jackson	music	17
+39353332323030	IN:PLAY_MUSIC	Reproducir reggae	music	17
+39353330393831	IN:PLAY_MUSIC	Reproduce los mejores éxitos de Jimmy Buffett	music	17
+39353239323635	IN:PLAY_MUSIC	Solo toca rock en este momento.	music	17
+39353238383935	IN:PLAY_MUSIC	Escucha el nuevo álbum de Chris Brown	music	17
+39353238363639	IN:PLAY_MUSIC	reproduce mi lista de reproducción de rock en Spotify	music	17
+39353237333930	IN:PLAY_MUSIC	¿Por favor toca la nueva canción de Rihanna?	music	17
+39353236343638	IN:PLAY_MUSIC	Toca rock alternativo	music	17
+39353235383733	IN:PLAY_MUSIC	Pongamos algo de Selena Gomez.	music	17
+39353235373431	IN:PLAY_MUSIC	Por favor, toca algo de música pop.	music	17
+39353234303437	IN:PLAY_MUSIC	Pon música rap.	music	17
+39353233383032	IN:PLAY_MUSIC	Se puede reproducir Lady Gaga ahora en Spotify.	music	17
+39353232383939	IN:PLAY_MUSIC	TOCA ALGO LENTO.	music	17
+39353231383438	IN:PLAY_MUSIC	Quiero escuchar a Beyoncé	music	17
+39353230323330	IN:PLAY_MUSIC	Pon los temas más escuchados de música County.	music	17
+39353139393136	IN:PLAY_MUSIC	Reproduce una emisora de género country en Pandora.	music	17
+39353139373430	IN:PLAY_MUSIC	Reproduce Chasing Cars de Snow Patrol en Pandora, por favor.	music	17
+39353139353038	IN:PLAY_MUSIC	reproduce Baby Einstein en Spotify	music	17
+39353139333535	IN:PLAY_MUSIC	Reproduce el álbum de Alicia Keys	music	17
+39353138333538	IN:PLAY_MUSIC	Por favor, pon algo de música country.	music	17
+39353136393538	IN:PLAY_MUSIC	Quiero escuchar canciones de los cincuenta	music	17
+39353136383134	IN:PLAY_MUSIC	ponme MacArthur Park en Spotify	music	17
+39353136323437	IN:PLAY_MUSIC	Ponme la banda sonora de un videojuego.	music	17
+39353135373630	IN:PLAY_MUSIC	Toca mi estación de rock en Pandora	music	17
+39353135343833	IN:PLAY_MUSIC	¿Puedo escuchar el álbum Rumours de Fleetwood Mac?	music	17
+39353134363937	IN:PLAY_MUSIC	Escuchar la canción "Another brick on the wall" en Spotify	music	17
+39353134323830	IN:PLAY_MUSIC	Por favor reproduce mi lista de reproducción de Spotify	music	17
+39353133303539	IN:PLAY_MUSIC	Escuchemos un poco de Frank Sinatra	music	17
+39353132363132	IN:PLAY_MUSIC	Reproduce las mejores canciones de rock del momento.	music	17
+39353132343136	IN:PLAY_MUSIC	Por favor, pon algo de blues	music	17
+39353130313937	IN:PLAY_MUSIC	Spotify, reproduce a Miguel	music	17
+39353130303732	IN:PLAY_MUSIC	Quiero escuchar el álbum más reciente de Kaskade	music	17
+39353130303230	IN:PLAY_MUSIC	Reproduce el primer álbum de Moon Hooch.	music	17
+39353039343232	IN:PLAY_MUSIC	Quiero escuchar música pop	music	17
+39353036383936	IN:PLAY_MUSIC	Pon música clásica	music	17
+39353034343537	IN:PLAY_MUSIC	Reproducir el álbum nuevo de Kesha	music	17
+39353033383039	IN:PLAY_MUSIC	Reproduce sólo canciones suaves	music	17
+39353032383238	IN:PLAY_MUSIC	Reproducir hits de Rock	music	17
+39353031323539	IN:PLAY_MUSIC	Encuentra a August Alsina	music	17
+3231323432313732	IN:UPDATE_REMINDER	Cambia la hora/fecha de un recordatorio que ya se ha registrado.	reminder	18
+3231323333373431	IN:UPDATE_REMINDER	Añade a Lindsey a todos los recordatorios relacionados con los partidos de fútbol de Ava.	reminder	18
+3231303133353431	IN:REPEAT_ALL_OFF_MUSIC	Repite toda la música	music	20
+3231353436373631	IN:END_CALL	Corta la llamada	calling	21
+3231353436373531	IN:END_CALL	Terminar la llamada inmediatamente por favor	calling	21
+3231353436373035	IN:END_CALL	Cancela esta llamada	calling	21
+3231353436363835	IN:END_CALL	Deja de llamar a papá	calling	21
+3231353436353839	IN:END_CALL	¿Podrías cancelar la llamada?	calling	21
+3231353436353138	IN:END_CALL	Detener esa llamada	calling	21
+3231333535303839	IN:END_CALL	deja de llamar a Ng Baird	calling	21
+3231333534303233	IN:END_CALL	Finaliza la llamada	calling	21
+3231333531393734	IN:END_CALL	Necesito detener la llamada	calling	21
+3231333531313539	IN:END_CALL	Finalizar llamada	calling	21
+3231333439353436	IN:END_CALL	Por favor desconecta la llamada	calling	21
+3231333439303836	IN:END_CALL	Cuelga la llamada	calling	21
+3231333436373131	IN:END_CALL	cuelgalo	calling	21
+3231333436323937	IN:END_CALL	por favor terminar la llamada	calling	21
+3231333435383832	IN:END_CALL	Terminar esta conversación	calling	21
+3231333435383632	IN:END_CALL	Cerrar esta llamada	calling	21
+3231333435333436	IN:END_CALL	Detén la llamada ahora.	calling	21
+3231333435333430	IN:END_CALL	desactiva la llamada	calling	21
+3231333433383637	IN:END_CALL	sal de la llamada por favor	calling	21
+3231333433303738	IN:END_CALL	Cortar la línea	calling	21
+3231333432393733	IN:END_CALL	Por favor, cuelga la llamada	calling	21
+3231323234333535	IN:UPDATE_REMINDER_DATE_TIME	Recuérdame de nuestro viaje a Tucsón el miércoles en lugar del viernes	reminder	22
+3231323232383836	IN:UPDATE_REMINDER_DATE_TIME	Cambia el recordatorio de Carla de lunes a martes.	reminder	22
+3231323232383435	IN:UPDATE_REMINDER_DATE_TIME	Actualiza mis alertas de almuerzo de 3 p. m. a 4 p. m.	reminder	22
+3231323232383230	IN:UPDATE_REMINDER_DATE_TIME	Actualizar la alerta para hoy 15 minutos más tarde	reminder	22
+3231323232383034	IN:UPDATE_REMINDER_DATE_TIME	editar alarma para recordar pagar la tarjeta de crédito desde ninguno a 1 día antes de la fecha límite	reminder	22
+3231323232373736	IN:UPDATE_REMINDER_DATE_TIME	Cambia el recordatorio del sábado al domingo.	reminder	22
+3231323232373631	IN:UPDATE_REMINDER_DATE_TIME	Mueve nuestro recordatorio del cumpleaños de la tía Thelma al lunes siguiente.	reminder	22
+3231323232353837	IN:UPDATE_REMINDER_DATE_TIME	baraja los recordatorios para que la clase de hip hop sea miércoles	reminder	22
+3231323232343731	IN:UPDATE_REMINDER_DATE_TIME	Actualiza mi recordatorio pt a dos horas antes de que tenga que irme	reminder	22
+3231323232343138	IN:UPDATE_REMINDER_DATE_TIME	Cambiar el recordatorio del trabajo al martes	reminder	22
+3231323232333938	IN:UPDATE_REMINDER_DATE_TIME	Cambia mis recordatorios para que muestren GMT en lugar de EST.	reminder	22
+3231323232333839	IN:UPDATE_REMINDER_DATE_TIME	Cambia el recordatorio de la cita con el médico de Lila a las 11 a. m. del jueves.	reminder	22
+3231323232333838	IN:UPDATE_REMINDER_DATE_TIME	Mueve mi recordatorio sobre el cumpleaños de mi mamá para el próximo viernes	reminder	22
+3231323232333639	IN:UPDATE_REMINDER_DATE_TIME	Por favor modifica el recordatorio de las vacaciones de mi jefe que iban a empezar la próxima semana al próximo mes el 12	reminder	22
+3231323232333233	IN:UPDATE_REMINDER_DATE_TIME	Cambia la fecha del recordatorio del pícnic de este sábado al siguiente sábado.	reminder	22
+3231323232313231	IN:UPDATE_REMINDER_DATE_TIME	Cambia el recordatorio de nuestra cita nocturna a este sábado a las 7pm.	reminder	22
+3231323232303632	IN:UPDATE_REMINDER_DATE_TIME	Programa un recordatorio para el próximo sábado en vez del viernes para inscribirme en la 5k.	reminder	22
+3231323232303431	IN:UPDATE_REMINDER_DATE_TIME	Cambia mi recordatorio de la fiesta de esta noche para las 6, no las 7	reminder	22
+3231333438303832	IN:SET_AVAILABLE	Abrir disponibilidad	calling	23
+3231333438303333	IN:SET_AVAILABLE	Ahora estoy disponible	calling	23
+3231333436343431	IN:SET_AVAILABLE	muestra que estoy disponible	calling	23
+3231333435353935	IN:SET_AVAILABLE	estoy disponible	calling	23
+3231333435323433	IN:SET_AVAILABLE	Modo listo ya	calling	23
+3231333435313230	IN:SET_AVAILABLE	estoy disponible para charlar	calling	23
+3231333433343531	IN:SET_AVAILABLE	Quiero aparecer como disponible	calling	23
+3232353331343439	IN:GET_MESSAGE_CONTACT	muéstrame quién me envió mensajes en video	messaging	24
+3232343436333731	IN:GET_MESSAGE_CONTACT	¿Quién me envió un mensaje diciendo "nos vemos pronto"?	messaging	24
+3232323232343238	IN:SHARE_EVENT	Comparte el cuarto evento con Jordan	event	25
+3232323232343039	IN:SHARE_EVENT	Comparte Share Psychedelics y Social Justice con Emery	event	25
+3232323232343032	IN:SHARE_EVENT	Envía a Logan el lanzamiento del libro Insurgent Empire	event	25
+3231373530383230	IN:GET_ATTENDEE_EVENT	¿Alguien que conozco va a Demonology 101?	event	27
+3231373530373832	IN:GET_ATTENDEE_EVENT	¿Conozco a alguien que vaya a ir a la Fiesta de San Gennaro?	event	27
+3231373530383439	IN:GET_ATTENDEE_EVENT	¿Alguno de mis amigos respondió que sí a la Presentación del libro "Imperio insurgente"?	event	27
+39343631313932	IN:GET_INFO_RECIPES	Qué ingredientes tiene una crema agria vegetariana	recipes	28
+39343631313333	IN:GET_INFO_RECIPES	A qué temperatura se hace el pollo	recipes	28
+39343630393135	IN:GET_INFO_RECIPES	¿A qué temperatura tengo que hornear el pastel?	recipes	28
+39343630373735	IN:GET_INFO_RECIPES	Qué tipo de cebollas van bien con carne?	recipes	28
+39343630373638	IN:GET_INFO_RECIPES	¿A qué temperatura se debe cocinar el cerdo?	recipes	28
+39343630353432	IN:GET_INFO_RECIPES	¿Se usa aceite de oliva o aceite vegetal al saltear ajo?	recipes	28
+39343630323737	IN:GET_INFO_RECIPES	¿Qué tipo de chocolate usar para hacer galletas con chips de chocolate?	recipes	28
+39343539343735	IN:GET_INFO_RECIPES	Cuanta sal llevan los brownies	recipes	28
+39343539343232	IN:GET_INFO_RECIPES	A qué temperatura se preparan las costillas	recipes	28
+39343537353230	IN:GET_INFO_RECIPES	Qué tipo de queso lleva la pizza	recipes	28
+39343537303531	IN:GET_INFO_RECIPES	Temperatura de las carnes	recipes	28
+39343536383334	IN:GET_INFO_RECIPES	¿Qué tipo de queso debería usar para hacer pizza?	recipes	28
+39343536363230	IN:GET_INFO_RECIPES	En qué parrilla debo hornear mi pizza	recipes	28
+39343536343239	IN:GET_INFO_RECIPES	¿A qué temperatura se cocina generalmente el cerdo?	recipes	28
+39343535313437	IN:GET_INFO_RECIPES	¿A qué temperatura horneo los brownies?	recipes	28
+39343534303330	IN:GET_INFO_RECIPES	Durante cuánto tiempo debería de cocinar la carne	recipes	28
+39343533353935	IN:GET_INFO_RECIPES	¿A qué temperatura se deben hornear las galletas?	recipes	28
+39343533343630	IN:GET_INFO_RECIPES	¿Cuál es la información nutricional del pollo	recipes	28
+39343533333130	IN:GET_INFO_RECIPES	¿Cómo sé si ya está listo el pollo?	recipes	28
+39343533323239	IN:GET_INFO_RECIPES	a qué temperatura cocinas un pavo	recipes	28
+39343532383937	IN:GET_INFO_RECIPES	¿el aceite o la margarina son saludables?	recipes	28
+39343532343737	IN:GET_INFO_RECIPES	A qué temperatura se cocina la carne de res generalmente	recipes	28
+39343532313932	IN:GET_INFO_RECIPES	¿Cuál es la temperatura ideal para cocinar cerdo?	recipes	28
+39343532303134	IN:GET_INFO_RECIPES	¿a qué temperatura hierve el agua?	recipes	28
+39343531393733	IN:GET_INFO_RECIPES	¿A qué temperatura horneo magdalenas?	recipes	28
+3231373237393138	IN:DISLIKE_MUSIC	Indica que ya no me gusta la música.	music	30
+3231353938383431	IN:DELETE_ALARM	Elimina las alarmas de los próximos dos meses	alarm	31
+3231353938373731	IN:DELETE_ALARM	Elimina la alarma de mañana	alarm	31
+3231353439313030	IN:DELETE_ALARM	Cancela todas mis alarmas para	alarm	31
+3231353439303738	IN:DELETE_ALARM	Quita mi alarma para mañana a la mañana	alarm	31
+3231353438393932	IN:DELETE_ALARM	Por favor, cancela todas las alarmas fijadas para el domingo.	alarm	31
+3231353438393633	IN:DELETE_ALARM	Borra todas las alarmas futuras	alarm	31
+3135323939343732	IN:DELETE_ALARM	cancela todas mis alarmas	alarm	31
+39353739393035	IN:DELETE_ALARM	borra las alarmas indefinidamente	alarm	31
+39353432393735	IN:DELETE_ALARM	Cancela todas mis alarmas	alarm	31
+39353330353535	IN:DELETE_ALARM	Cancela todas las alarmas que he creado	alarm	31
+3232343533323231	IN:SET_RSVP_YES	Pon mi estado como yendo a Solstice Parade	event	32
+3232343533323230	IN:SET_RSVP_YES	Contesta que asistiré al tercer evento	event	32
+3232343533313838	IN:SET_RSVP_YES	establecer mi estado como yendo a Planet Home	event	32
+3232343532393032	IN:SET_RSVP_YES	ir al Festival de la Manzana y la Sidra de la Península Olímpica	event	32
+3232343532383233	IN:SET_RSVP_YES	voy para Bands on the Bayfront	event	32
+3232343532363633	IN:SET_RSVP_YES	Indica que voy a la Convención de Sea-Meow Convention	event	32
+3132363036393737	IN:ADD_TO_PLAYLIST_MUSIC	Agrega al cantante de esta canción a mis favoritos.	music	33
+3232353832313532	IN:GET_MESSAGE	Mostrar mensajes de video de mi nieto Adeline	messaging	34
+3232353832313436	IN:GET_MESSAGE	Muéstrame mensajes de video de mi abuelo Gunner	messaging	34
+3232353832313237	IN:GET_MESSAGE	¿Qué mensajes hay del abuelo, Viviana?	messaging	34
+3232353832313032	IN:GET_MESSAGE	Muestra los mensajes de video de mi primo Fernando	messaging	34
+3232353832303735	IN:GET_MESSAGE	hazme ver los mensajes de mi esposa	messaging	34
+3232353832303532	IN:GET_MESSAGE	Muéstrame mensajes de video de Atlas	messaging	34
+3232353832303434	IN:GET_MESSAGE	muéstrame mensajes de video del primo Devin	messaging	34
+3232353832303431	IN:GET_MESSAGE	qué mensajes en video tengo del niño Grayson	messaging	34
+3232353832303338	IN:GET_MESSAGE	Tomas los mensaje de mi abuela Heaven	messaging	34
+3232353832303032	IN:GET_MESSAGE	Déjame ver mis mensajes en video de mi papá Dylan	messaging	34
+3232353831393539	IN:GET_MESSAGE	Toma mis mensajes de Aria	messaging	34
+3232353831393235	IN:GET_MESSAGE	déjame ver los textos de mi abuelo Mateo	messaging	34
+3232353831393233	IN:GET_MESSAGE	Muestra los video mensajes de mi novia Karter	messaging	34
+3232353831393038	IN:GET_MESSAGE	Déjame ver mensajes de mi esposa Maximilian	messaging	34
+3232353735323034	IN:GET_MESSAGE	¿Anne me envió algo en WhatsApp?	messaging	34
+3232353735313534	IN:GET_MESSAGE	Enséñame mis mensajes de video de Facebook	messaging	34
+3232353735313330	IN:GET_MESSAGE	¿Tom me envió algo por WhatsApp?	messaging	34
+3232353735303337	IN:GET_MESSAGE	Lee mis mensajes de Facebook	messaging	34
+3232353734383836	IN:GET_MESSAGE	Muéstrame los mensajes por video de Hanna por WhatsApp	messaging	34
+3232353734353938	IN:GET_MESSAGE	¿Wallenby me ha enviado algo por Facebook?	messaging	34
+3232343436343739	IN:GET_MESSAGE	¿Dahlia me envió mensajes hoy?	messaging	34
+3232313734363037	IN:GET_MESSAGE	¿Recibí mensajes de mi tía esta semana?	messaging	34
+3231363039343637	IN:GET_MESSAGE	Recupera el mensaje.	messaging	34
+3231333637373131	IN:GET_MESSAGE	Lee el nuevo mensaje.	messaging	34
+3231333637363532	IN:GET_MESSAGE	Lea este mensaje en su lugar	messaging	34
+3231333637333338	IN:GET_MESSAGE	Lee mis mensajes en voz alta.	messaging	34
+3139393836353738	IN:GET_EVENT	¿Qué pasa el próximo fin de semana?	event	35
+3139393836353535	IN:GET_EVENT	Algo en San Francisco este fin de semana	event	35
+3139393836343838	IN:GET_EVENT	Desfiles este mes	event	35
+3139393836323835	IN:GET_EVENT	Estoy aburrido. ¿Qué hay esta noche?	event	35
+3139393836323334	IN:GET_EVENT	Cosas que hacer en Seattle la semana que viene	event	35
+3139393836323032	IN:GET_EVENT	Cosas para hacer en Chicago el 7 de diciembre	event	35
+3139393836313734	IN:GET_EVENT	¿Qué pasa en el centro de Los Ángeles el viernes próximo?	event	35
+3139393836313532	IN:GET_EVENT	Algún evento especial en Daytona Beach este próximo fin de semana	event	35
+3139393836313331	IN:GET_EVENT	Evento musical de este fin de semana en Kirkland	event	35
+3139393836313236	IN:GET_EVENT	Cosas que hacer en Atlanta mañana	event	35
+3139393835393931	IN:GET_EVENT	qué hay en Grafton este fin de semana	event	35
+3139393835393832	IN:GET_EVENT	¿Qué hacer en boston en Navidad?	event	35
+3139393835393730	IN:GET_EVENT	Conciertos en NYC	event	35
+3139393835393438	IN:GET_EVENT	eventos de mañana	event	35
+3139393835393337	IN:GET_EVENT	Hay algún evento musical en Akron esta noche	event	35
+3139393835393034	IN:GET_EVENT	Cosas para hacer en Biloxi la próxima semana	event	35
+3139393835383636	IN:GET_EVENT	Festivales en Raleigh este fin de semana	event	35
+3139393835383634	IN:GET_EVENT	Eventos deportivos de Memphis este viernes	event	35
+3139393835383439	IN:GET_EVENT	Qué puedo hacer el viernes en la noche	event	35
+3139393835373537	IN:GET_EVENT	Haz una lista de exposiciones de coches que haya en Atlanta el próximo fin de semana	event	35
+3139393835373130	IN:GET_EVENT	Eventos musicales en Las Vegas este fin de semana	event	35
+3139393835373036	IN:GET_EVENT	¿Hay algo divertido que hacer esta semana?	event	35
+3139393835353232	IN:GET_EVENT	Eventos en Los Angeles el fin de semana que viene	event	35
+3139393835353134	IN:GET_EVENT	Películas esta noche a las 9 en el área de Pittsburgh	event	35
+3139393835343634	IN:GET_EVENT	Cualquier evento de música para mañana	event	35
+3139393835343338	IN:GET_EVENT	eventos en Honolulú	event	35
+3139393835343232	IN:GET_EVENT	Eventos musicales en Tacoma para este jueves	event	35
+3139393835333733	IN:GET_EVENT	Conciertos este fin de semana	event	35
+3139393835333534	IN:GET_EVENT	qué hacer este fin de semana en San Francisco	event	35
+3139393835333338	IN:GET_EVENT	¿Qué conciertos se dan este fin de semana en Nueva Jersey?	event	35
+3139393835333337	IN:GET_EVENT	¿Qué está pasando en Las Vegas esta noche?	event	35
+3139393835333031	IN:GET_EVENT	Qué hacer en Nueva York el martes	event	35
+3139393835323738	IN:GET_EVENT	Qué hay para hacer en NYC en la noche del sábado	event	35
+3139393835323730	IN:GET_EVENT	Hay algo divertido en Grand Rapids esta noche	event	35
+3139393835323039	IN:GET_EVENT	Conciertos musicales en Ann Arbor esta semana.	event	35
+3139393835313234	IN:GET_EVENT	¿Qué obras de teatro se están llevando a cabo este fin de semana?	event	35
+3139393835313135	IN:GET_EVENT	Cosas que hacer en Illinois	event	35
+3139393834393534	IN:GET_EVENT	Cualquier música en vivo esta noche	event	35
+3139393834383534	IN:GET_EVENT	Temas de actualidad en Nueva York	event	35
+3139393834383431	IN:GET_EVENT	Concierto de música en Dallas	event	35
+3139393834383430	IN:GET_EVENT	Cualquier cosa genial que esté ocurriendo en Texas	event	35
+3139393834373530	IN:GET_EVENT	¿Qué pasa en Colorado en marzo?	event	35
+3139393834373037	IN:GET_EVENT	Fiestas en Nueva York	event	35
+3139393834363938	IN:GET_EVENT	fiestas esta noche	event	35
+3139393834363537	IN:GET_EVENT	qué hay en Denver el jueves por la noche	event	35
+3139393834363238	IN:GET_EVENT	Eventos en Waco	event	35
+3139393834353232	IN:GET_EVENT	¿Que está sucediendo en Eugene este fin de semana?	event	35
+3139393834353138	IN:GET_EVENT	Hay algún concierto próximamente en Fargo, Dakota del norte	event	35
+3139393834353136	IN:GET_EVENT	Principales eventos en Salt Lake City	event	35
+3139393834343937	IN:GET_EVENT	algo divertido por hacer este fin de semana	event	35
+3139393834343738	IN:GET_EVENT	festivales de comida en Texas este fin de semana	event	35
+3139393834343533	IN:GET_EVENT	Cosas para hacer en Kent el mes próximo	event	35
+3139393834343338	IN:GET_EVENT	Eventos en el centro de Appleton en abril	event	35
+3139393834343030	IN:GET_EVENT	Eventos que haya en Kona esta noche	event	35
+3139393834323931	IN:GET_EVENT	Festivales en Raleigh el mes que viene	event	35
+3139393834323836	IN:GET_EVENT	Eventos en Denver	event	35
+3139393834323436	IN:GET_EVENT	Festivales de arte para el 2018	event	35
+3139393834323135	IN:GET_EVENT	Cosas para hacer en Hawái esta noche	event	35
+3139393834303930	IN:GET_EVENT	Qué hacer el viernes por la noche en Honolulu	event	35
+3139393834303730	IN:GET_EVENT	¿Qué eventos hay en Portland esta noche?	event	35
+3139393833393331	IN:GET_EVENT	conciertos en San José	event	35
+3139393833393037	IN:GET_EVENT	¿Qué puedo hacer este fin de semana?	event	35
+3139393833383539	IN:GET_EVENT	cosas que hacer en Hattiesburg este fin de semana	event	35
+3139393833383332	IN:GET_EVENT	¿Qué puedo hacer el jueves por la noche?	event	35
+3139393833383034	IN:GET_EVENT	lo mejor que se puede hacer mañana por la noche	event	35
+3139393833373735	IN:GET_EVENT	Eventos en Nueva York	event	35
+3139393833373734	IN:GET_EVENT	la feria tendrá lugar en Ann Arbor la próxima semana.	event	35
+3139393833373436	IN:GET_EVENT	A cuales eventos puedo ir la próxima semana	event	35
+3139393833363737	IN:GET_EVENT	Qué eventos hay esta noche en Nueva Orleáns	event	35
+3139393833363631	IN:GET_EVENT	Hay algo divertido para mañana	event	35
+3139393833363137	IN:GET_EVENT	¿Qué pasa en Honolulu este fin de semana?	event	35
+3139393833353935	IN:GET_EVENT	Cosas que pasan este fin de semana.	event	35
+3139393833353639	IN:GET_EVENT	Qué cosas divertidas hay para mañana por la noche	event	35
+3139393833343839	IN:GET_EVENT	¿Hay algo para mañana?	event	35
+3139393833343835	IN:GET_EVENT	¿Qué hay para hacer por la noche la semana que viene en Oconto?	event	35
+3139393833343739	IN:GET_EVENT	Las mejores cosas que hacer en Orlando en la próxima semana	event	35
+3139393833343738	IN:GET_EVENT	Eventos deportivos en Jacksonville este fin de semana	event	35
+3139393833323233	IN:GET_EVENT	Eventos del día de los inocentes en la ciudad de Oakland hoy	event	35
+3139393833323133	IN:GET_EVENT	Qué está pasando en West Palm	event	35
+3139393833313937	IN:GET_EVENT	¿Qué eventos divertidos habrá en el condado de Montgomery, PA esta semana?	event	35
+3139393833313933	IN:GET_EVENT	eventos el sábado	event	35
+3139393833313631	IN:GET_EVENT	¿Qué fiestas hay en Nueva York esta noche?	event	35
+3139393833313232	IN:GET_EVENT	estoy aburrido ayúdame a encontrar algo que hacer hoy	event	35
+3139393833313137	IN:GET_EVENT	Espectáculos de Broadway que se estrenan este mes	event	35
+3139393833303939	IN:GET_EVENT	Cosas que hacer en Los Ángeles este fin de semana	event	35
+3139393832383938	IN:GET_EVENT	cosas que hacer en Orlando la próxima semana	event	35
+3139393832383836	IN:GET_EVENT	qué puedo hacer mañana	event	35
+3139393832383138	IN:GET_EVENT	Eventos en Portland por favor	event	35
+3139393832373935	IN:GET_EVENT	Eventos de música en Seattle este viernes	event	35
+3139393832363237	IN:GET_EVENT	Qué pasa el jueves	event	35
+3139393832353839	IN:GET_EVENT	Patrocinará Seattle algún talento musical de primer nivel en el 2018	event	35
+3139393832353534	IN:GET_EVENT	¿Qué pasará esta noche en Chicago	event	35
+3139393832353335	IN:GET_EVENT	¿Hay algún evento programado para la semana que viene?	event	35
+3139393832343238	IN:GET_EVENT	Cosas para hacer yo	event	35
+3139393832343231	IN:GET_EVENT	Obras de teatro en Atlanta el próximo mes	event	35
+3139393832343037	IN:GET_EVENT	Eventos en Astoria. Solo sábado	event	35
+3139393832333734	IN:GET_EVENT	¿cuáles son los próximos conciertos?	event	35
+3139393832333237	IN:GET_EVENT	¿Hay algún evento después de la medianoche del sábado?	event	35
+3139393832323831	IN:GET_EVENT	Hay algún evento en el centro de hardy	event	35
+3139393832323231	IN:GET_EVENT	¿Hay algo que hacer este domingo?	event	35
+3139393832313338	IN:GET_EVENT	¿Qué pasa en Los Ángeles esta semana	event	35
+3139393831363334	IN:GET_EVENT	¿Qué tipo de conciertos están dando este fin de semana en Nashville?	event	35
+3139393831363132	IN:GET_EVENT	Fiestas de este fin de semana	event	35
+3139393831353138	IN:GET_EVENT	Cosas que hacer en Santa Cruz los sábados	event	35
+3139393831353034	IN:GET_EVENT	Cosas para hacer en Detroit en abril	event	35
+3139393831343537	IN:GET_EVENT	Muestra los espectáculos artísticos que tienen lugar el domingo	event	35
+3139393831343137	IN:GET_EVENT	Qué va a pasar mañana	event	35
+3139393831343131	IN:GET_EVENT	Cosas que pasan en Des Moines	event	35
+3139393831333934	IN:GET_EVENT	Cosas que hacer el próximo viernes	event	35
+3139393831333237	IN:GET_EVENT	Qué eventos buenos hay esta noche	event	35
+3139393831323931	IN:GET_EVENT	Cosas para hacer hoy	event	35
+3139393831323632	IN:GET_EVENT	Qué eventos recomiendas	event	35
+3139393831323430	IN:GET_EVENT	Cuáles son los eventos actuales en Washington DC	event	35
+3139393831313734	IN:GET_EVENT	Algo divertido para hacer mañana en la noche	event	35
+3139393830383336	IN:GET_EVENT	Cuál es el evento más popular en Chicago	event	35
+3139393830373735	IN:GET_EVENT	¿Qué hay hoy en la noche en Toronto?	event	35
+3139393830373034	IN:GET_EVENT	Dime cuáles festivales gastronómicos se estarán realizando en septiembre en Des Moines	event	35
+3139393830363035	IN:GET_EVENT	qué hay en los ángeles esta noche	event	35
+3139393830363034	IN:GET_EVENT	No tengo nada que hacer. ¿Sabes si hay algo divertido?	event	35
+3139393830353939	IN:GET_EVENT	Conciertos en Nueva York el próximo fin de semana	event	35
+3139393830353233	IN:GET_EVENT	Qué sucederá este fin de semana por la noche en Gresham	event	35
+3139393830333830	IN:GET_EVENT	Obras de café teatro en New Hope esta noche	event	35
+3139393830333237	IN:GET_EVENT	¿Hay algo divertido que ocurra hoy?	event	35
+3139393830333031	IN:GET_EVENT	Muestra cosas divertidas para hacer en Schertz el sábado	event	35
+3139393830323631	IN:GET_EVENT	Qué eventos hay en Troutdale esta noche	event	35
+3139393830323332	IN:GET_EVENT	qué hacer por la noche en orange county	event	35
+3139393830313937	IN:GET_EVENT	Cosas divertidas para hacer en Schenectady	event	35
+3231363735393531	IN:HOLD_CALL	Mantente en línea.	calling	36
+3138393930343633	IN:GET_EDUCATION_TIME	¿Cuándo empieza Piers en Mt. San Jacinto College?	people	37
+3134313539363235	IN:GET_WEATHER	¿Qué tanto frío hará en Seattle este fin de semana en fahrenheit?	weather	38
+3134313539353032	IN:GET_WEATHER	¿Habrá sobre 37 grados centígrados en Dublín la semana que viene?	weather	38
+3134313539343331	IN:GET_WEATHER	Cuánto calor va a hacer este fin de semana en Manila en grados F	weather	38
+3134313539333832	IN:GET_WEATHER	¿Estará alrededor de 29 grados F afuera mañana	weather	38
+3134313539323035	IN:GET_WEATHER	Qué frío hace en Shangai en grados Fahrenheit	weather	38
+3134313539313635	IN:GET_WEATHER	¿Están alrededor de 67 en °C cerca de Shanghai esta noche?	weather	38
+3134313539313436	IN:GET_WEATHER	¿Cuánto calor hará la semana que viene en Dublín en grados Celsius?	weather	38
+3134313539313431	IN:GET_WEATHER	Temperatura mañana en Farenheit	weather	38
+3134313539313134	IN:GET_WEATHER	Va a haber menos de 23 grados en Nueva York mañana por la mañana	weather	38
+3134313539313038	IN:GET_WEATHER	¿Qué temperatura hará en la zona de Madrid mañana en grados Fahrenheit	weather	38
+3134313539303338	IN:GET_WEATHER	Habrá unos 64 grados Celsius en Shanghai la semana que viene	weather	38
+3134313538393436	IN:GET_WEATHER	¿Cuánto frío hace en Manila hoy en °C?	weather	38
+3134313538393033	IN:GET_WEATHER	¿Qué tanto calor hace hoy en Manila en grados Fahrenheit?	weather	38
+3133383232303538	IN:GET_WEATHER	Cuáles son las condiciones del tiempo en Chicago el martes	weather	38
+3133383230353733	IN:GET_WEATHER	Qué temperatura hace en Miami	weather	38
+3132383135373633	IN:GET_WEATHER	Dime el pronóstico para el fin de semana	weather	38
+3132383135373032	IN:GET_WEATHER	Habrán heladas en el pronóstico de esta semana	weather	38
+3132383135363835	IN:GET_WEATHER	Qué tiempo hace en Brooklyn ahora mismo	weather	38
+3132383135363831	IN:GET_WEATHER	¿Hay tormentas eléctricas en el pronóstico del clima para este fin de semana?	weather	38
+3132383135363433	IN:GET_WEATHER	Cuánto calor hará este verano	weather	38
+3132383135363236	IN:GET_WEATHER	¿Hay tormentas tropicales en dirección a La Florida?	weather	38
+3132383135353835	IN:GET_WEATHER	¿Cuál es el pronóstico del clima para el estado de Texas hoy?	weather	38
+3132383135353831	IN:GET_WEATHER	QUÉ TAN CALIENTE VA A ESTAR HEMET CALIFORNIA ESTE FIN DE SEMANA	weather	38
+3132383135353335	IN:GET_WEATHER	¿Cuál era la advertencia sobre el clima?	weather	38
+3132383135353332	IN:GET_WEATHER	¿qué humedad hay hoy?	weather	38
+3132383135353235	IN:GET_WEATHER	¿Cuál es la temperatura baja para esta noche	weather	38
+3132383135353139	IN:GET_WEATHER	cuánto tiempo va a llover hoy	weather	38
+3132383135353135	IN:GET_WEATHER	Cuál es la temperatura actual en Fairport	weather	38
+3132383135343930	IN:GET_WEATHER	¿Qué tiempo hará en Richfield MN mañana por la noche?	weather	38
+3132363231393439	IN:GET_WEATHER	¿Cuáles son las últimas noticias sobre el huracán en el golfo?	weather	38
+3132363231383639	IN:GET_WEATHER	Hay demasiado esmog hoy	weather	38
+3132363231333138	IN:GET_WEATHER	¿Hay una advertencia de tornado?	weather	38
+3132363138393331	IN:GET_WEATHER	¿Qué tan grande es el granizo que se espera?	weather	38
+3132363137383238	IN:GET_WEATHER	Va a hacer mucho viento por la zona de Fort Mason	weather	38
+3132363137373038	IN:GET_WEATHER	Puede que haga demasiado frío para que nieve	weather	38
+3132363135363037	IN:GET_WEATHER	¿Cuáles son las probabilidades de tormenta hoy?	weather	38
+3132363135343034	IN:GET_WEATHER	¿estará lloviendo hoy en la noche?	weather	38
+3132363135313034	IN:GET_WEATHER	Se supone que va a haber una tormenta esta noche	weather	38
+3132363134393036	IN:GET_WEATHER	Cualquier alerta del clima.	weather	38
+3132363133353537	IN:GET_WEATHER	Cuándo se supone que va a parar de llover	weather	38
+3132363131353334	IN:GET_WEATHER	Cuándo empieza la temporada de nieve en Truckee	weather	38
+3132363130353736	IN:GET_WEATHER	Cuál es el pronóstico en Seattle esta semana	weather	38
+3132363130303339	IN:GET_WEATHER	Ayer estuvo horrible el calor, y me gustaría saber que fue la temperatura de ayer	weather	38
+3132363039373037	IN:GET_WEATHER	Cómo está el clima en Seattle esta mañana	weather	38
+3132363036303234	IN:GET_WEATHER	Algún clima severo en el pronóstico	weather	38
+3132363035313536	IN:GET_WEATHER	Pronóstico del tiempo para 2 semanas	weather	38
+3132363034333130	IN:GET_WEATHER	¿Hay lluvia esta noche?	weather	38
+3132363032383234	IN:GET_WEATHER	¿Para cuándo se espera el próximo monzón?	weather	38
+3132363032353731	IN:GET_WEATHER	¿Hay alguna tormenta eléctrica en mi área?	weather	38
+3132363032323532	IN:GET_WEATHER	¿La temperatura alcanzará los tres dígitos esta semana?	weather	38
+3132363032323034	IN:GET_WEATHER	¿Hará frío todo el fin de semana en Neptuno, Nueva Jersey?	weather	38
+3132363031373234	IN:GET_WEATHER	¿Cómo estará el clima en el área de Smyrna, Georgia hoy cerca de la 1?	weather	38
+3132363031333138	IN:GET_WEATHER	Clima para la noche del jueves por favor	weather	38
+3132363030353133	IN:GET_WEATHER	¿cuál es el pronóstico de mañana	weather	38
+3132353937373938	IN:GET_WEATHER	¿Podemos llevar chaquetas ligeras a nuestras vacaciones en Nashville, Tennessee, la semana que viene?	weather	38
+3132353936343735	IN:GET_WEATHER	¿Cuál es el pronóstico a 8 días?	weather	38
+3132353936303732	IN:GET_WEATHER	¿La temperatura estará por debajo de los cero grados la próxima semana?	weather	38
+3132353934393035	IN:GET_WEATHER	Cuál es la humedad hoy	weather	38
+3132353933343835	IN:GET_WEATHER	está lloviendo en este momento	weather	38
+3132353933313832	IN:GET_WEATHER	¿Cuánta lluvia tuvimos el mes pasado?	weather	38
+3132353932303632	IN:GET_WEATHER	¿Cada cuánto llueve en Wisconsin?	weather	38
+3132353931383730	IN:GET_WEATHER	Cuán fuertes son las tormentas en Phoenix ahora	weather	38
+3132353930373034	IN:GET_WEATHER	¿Cuándo es el primer día de la primavera aquí?	weather	38
+3132353839393331	IN:GET_WEATHER	¿Cuándo va a comenzar a llover?	weather	38
+3132353839303832	IN:GET_WEATHER	Se supone que va llover esta noche en Nueva York	weather	38
+3132353838323030	IN:GET_WEATHER	¿Cuál es la acumulación de nieve en Stevens Pass este fin de semana?	weather	38
+3132353837383333	IN:GET_WEATHER	¿Cuáles son las altas y bajas del viernes?	weather	38
+3132353837363930	IN:GET_WEATHER	¿Qué tiempo habrá el viernes que viene en Idaho Falls?	weather	38
+3132353836323430	IN:GET_WEATHER	¿Habrá niebla esta noche en Santa Mónica?	weather	38
+3132353833393838	IN:GET_WEATHER	¿Habrá niebla por la mañana?	weather	38
+3132353833333431	IN:GET_WEATHER	¿Cuál es el pronóstico del tiempo de hoy en la ciudad de Chicago?	weather	38
+3132353833323838	IN:GET_WEATHER	¿Cuál es el pronóstico de la próxima semana?	weather	38
+3132353832393235	IN:GET_WEATHER	¿Lloverá hoy?	weather	38
+3132353831343336	IN:GET_WEATHER	¿Hay alguna inundación ahora?	weather	38
+3132353830373733	IN:GET_WEATHER	¿Cuánta nieve se supone caerá esta noche?	weather	38
+3132353739343531	IN:GET_WEATHER	¿Hay lluvia en el pronóstico?	weather	38
+3132353738373535	IN:GET_WEATHER	¿Cómo está el clima en el Condado de Limerick ahora mismo?	weather	38
+3132353738343635	IN:GET_WEATHER	Muéstrame el pronóstico actual para mi área	weather	38
+3132353737363930	IN:GET_WEATHER	El próximo mes cómo estará el clima en China	weather	38
+3132353737363031	IN:GET_WEATHER	¿Vamos a tener un terremoto?	weather	38
+3132353734363032	IN:GET_WEATHER	¿Va a llover en Fort Lauderdale el domingo?	weather	38
+3132353734333132	IN:GET_WEATHER	¿Hay huracanes en el Golfo de México?	weather	38
+3132353733303937	IN:GET_WEATHER	¿Cómo es el mes de septiembre en Georgia?	weather	38
+3132353732363934	IN:GET_WEATHER	¿Cómo está el clima local?	weather	38
+3132353731343839	IN:GET_WEATHER	¿Cómo está afectando el tiempo a mi zona?	weather	38
+3132353730363138	IN:GET_WEATHER	¿cuándo se supone que va a nevar a después?	weather	38
+3132353730343838	IN:GET_WEATHER	¿va a estar soleado mañana en la mañana?	weather	38
+3132353534303731	IN:GET_WEATHER	¿qué tan fuertes fueron los vientos huracanados?	weather	38
+39353832353238	IN:GET_WEATHER	¿Estará helado?	weather	38
+39353832323030	IN:GET_WEATHER	¿Cuál es la temperatura?	weather	38
+39353832303634	IN:GET_WEATHER	¿Se necesita paraguas hoy?	weather	38
+39353831373635	IN:GET_WEATHER	¿Cuál será la temperatura mañana a las 9 a. m.?	weather	38
+39353831363732	IN:GET_WEATHER	¿El tiempo será bueno para ponerse pantalones cortos?	weather	38
+39353831363232	IN:GET_WEATHER	¿Cuál es el pronóstico de 5 días para Phoenix?	weather	38
+39353831343636	IN:GET_WEATHER	¿Cuál es el pronóstico del clima en Destin, Florida para la próxima semana?	weather	38
+39353831323332	IN:GET_WEATHER	¿Debería llevar un abrigo?	weather	38
+39353831323232	IN:GET_WEATHER	¿Necesitaré retirar la nieve con la pala por la mañana?	weather	38
+39353831303833	IN:GET_WEATHER	¿Cuánto calor se supone que hará este fin de semana?	weather	38
+39353831303538	IN:GET_WEATHER	Cómo está el clima en la playa	weather	38
+39353739353630	IN:GET_WEATHER	¿Cómo está el clima en Brasil?	weather	38
+39353739343939	IN:GET_WEATHER	¿Tengo que llevar paraguas?	weather	38
+39353739313230	IN:GET_WEATHER	¿Cuál será la humedad de hoy?	weather	38
+39353738363436	IN:GET_WEATHER	¿Va a llover la semana que viene?	weather	38
+39353738303231	IN:GET_WEATHER	¿Cuáles son las predicciones de lluvia para esta semana?	weather	38
+39353737383432	IN:GET_WEATHER	¿Cómo está el clima en Houston?	weather	38
+39353737373037	IN:GET_WEATHER	¿Va a llover en Westlake hoy?	weather	38
+39353737323932	IN:GET_WEATHER	¿Cuál es el índice UV de hoy?	weather	38
+39353736363733	IN:GET_WEATHER	¿Va a nevar?	weather	38
+39353736313831	IN:GET_WEATHER	ver el clima de hoy	weather	38
+39353735373430	IN:GET_WEATHER	¿Qué tan caluroso estará este fin de semana?	weather	38
+39353735333831	IN:GET_WEATHER	¿Hace calor en Cancún?	weather	38
+39353734363934	IN:GET_WEATHER	¿Cómo está el clima en Singapur?	weather	38
+39353733383431	IN:GET_WEATHER	¿Necesito una chaqueta?	weather	38
+39353732343438	IN:GET_WEATHER	¿Hay lluvia en el pronóstico a 10 días?	weather	38
+39353732313236	IN:GET_WEATHER	¿Cuál será la temperatura este fin de semana?	weather	38
+39353732313036	IN:GET_WEATHER	¿Necesito llevar el paraguas al trabajo mañana?	weather	38
+39353731383533	IN:GET_WEATHER	¿Necesito pantalones o pantalones cortos para esta noche?	weather	38
+39353731373733	IN:GET_WEATHER	¿Debería empacar mucho o poco para el camping este fin de semana?	weather	38
+39353731343230	IN:GET_WEATHER	qué tan caliente estará hoy	weather	38
+39353731333530	IN:GET_WEATHER	¿Puedo usar sandalias hoy?	weather	38
+39353730353932	IN:GET_WEATHER	Cuál es la temperatura actual en Denver	weather	38
+39353730353834	IN:GET_WEATHER	¿Cuándo va a nevar de nuevo?	weather	38
+39353730313835	IN:GET_WEATHER	Cuánto llega a bajar la humedad en esta época del año	weather	38
+39353639363336	IN:GET_WEATHER	¿Va a llover mañana por la mañana?	weather	38
+39353639303330	IN:GET_WEATHER	¿Cuánto lloverá hoy?	weather	38
+39353638363438	IN:GET_WEATHER	Necesito saber si va a llover	weather	38
+39353638363138	IN:GET_WEATHER	Dime el tiempo que hace en Milwaukee	weather	38
+39353638343439	IN:GET_WEATHER	¿Va a hacer frío esta semana?	weather	38
+39353638323231	IN:GET_WEATHER	¿Cuáles serán las temperaturas altas de mañana?	weather	38
+39353638323034	IN:GET_WEATHER	¿Va a llover hoy en Elysburg, Pennsylvania?	weather	38
+39353638313938	IN:GET_WEATHER	¿A qué hora empezará a llover hoy?	weather	38
+39353638303636	IN:GET_WEATHER	Cuánto calor hará hoy	weather	38
+39353637383339	IN:GET_WEATHER	¿Hay probabilidades de nieve para hoy?	weather	38
+39353637373232	IN:GET_WEATHER	¿Es este tiempo de picnic?	weather	38
+39353637363831	IN:GET_WEATHER	¿Cuál es el nivel de humedad hoy?	weather	38
+39353637343535	IN:GET_WEATHER	¿cuánta nieve se espera mañana?	weather	38
+39353637333935	IN:GET_WEATHER	La temperatura de mañana en Dallas	weather	38
+39353636383533	IN:GET_WEATHER	¿Debería llevar paraguas al juego esta noche?	weather	38
+39353636373039	IN:GET_WEATHER	¿Cuál es el estado del tiempo local hoy?	weather	38
+39353636303434	IN:GET_WEATHER	clima, pronóstico de 7 días	weather	38
+39353635383431	IN:GET_WEATHER	¿Necesito un impermeable este fin de semana?	weather	38
+39353635373034	IN:GET_WEATHER	Mostrar el informe meteorológico.	weather	38
+39353634363637	IN:GET_WEATHER	¿Cuál es el nivel de nieve actual en Big Bear?	weather	38
+39353634353833	IN:GET_WEATHER	¿Cómo estará el clima en Las Vegas la próxima semana?	weather	38
+39353634323735	IN:GET_WEATHER	¿Cuándo se supone que se van a sobrepasar os 80 esta semana?	weather	38
+39353633313733	IN:GET_WEATHER	¿Se supone que va a llover el jueves?	weather	38
+39353632393834	IN:GET_WEATHER	¿Se supone que llueve en Kingsland hoy?	weather	38
+39353632363834	IN:GET_WEATHER	¿Lloverá durante la noche?	weather	38
+39353632353830	IN:GET_WEATHER	cuántos días de esta semana hay lluvia en el pronóstico	weather	38
+39353632343737	IN:GET_WEATHER	¿va a llover a las 5 de la tarde?	weather	38
+39353632323034	IN:GET_WEATHER	¿Me hará falta una chaqueta de noche?	weather	38
+39353631393930	IN:GET_WEATHER	¿DIJERON EN LAS NOTICIAS QUE HOY IBA A LLOVER?	weather	38
+39353631373735	IN:GET_WEATHER	¿Está nevando en Chicago?	weather	38
+39353631363736	IN:GET_WEATHER	¿Lloverá esta noche?	weather	38
+39353631363536	IN:GET_WEATHER	Cuándo se espera lluvia	weather	38
+39353631363532	IN:GET_WEATHER	¿Cuál es la probabilidad de que llueva?	weather	38
+39353631323337	IN:GET_WEATHER	¿Necesitan los niños sus chubasqueros hoy?	weather	38
+39353631323130	IN:GET_WEATHER	Este fin de semana ¿será bueno para navegar a vela?	weather	38
+39353630393835	IN:GET_WEATHER	¿Estará soleado mañana?	weather	38
+39353630383238	IN:GET_WEATHER	¿Qué temperatura hace en Sacramento, California?	weather	38
+39353630333230	IN:GET_WEATHER	¿necesito una chamarra hoy?	weather	38
+39353630313636	IN:GET_WEATHER	¿Necesitaré un abrigo mañana?	weather	38
+39353539393535	IN:GET_WEATHER	¿Hará fresco mañana?	weather	38
+39353538343233	IN:GET_WEATHER	¿Se pronostica granizo para Waco?	weather	38
+39353538303334	IN:GET_WEATHER	¿Cómo va a ser el tiempo este fin de semana?	weather	38
+39353537363438	IN:GET_WEATHER	¿Hará calor en Nueva York el miércoles que viene?	weather	38
+39353537333739	IN:GET_WEATHER	¿Qué calor hace fuera?	weather	38
+39353537313238	IN:GET_WEATHER	cuántas pulgadas de lluvia vamos a tener	weather	38
+39353536393732	IN:GET_WEATHER	¿va a hacer viento en la playa hoy?	weather	38
+39353536333036	IN:GET_WEATHER	¿Cuánto va a nevar en Nueva York?	weather	38
+39353536313939	IN:GET_WEATHER	¿Cómo es el clima en Denver el día de hoy?	weather	38
+39353535303839	IN:GET_WEATHER	¿Llevo paraguas hoy?	weather	38
+39353534383137	IN:GET_WEATHER	Qué tiempo hace afuera ahora mismo	weather	38
+39353533393637	IN:GET_WEATHER	¿Qué tiempo hace el sábado?	weather	38
+39353533393533	IN:GET_WEATHER	¿Va a hacer frío esta noche?	weather	38
+39353533393039	IN:GET_WEATHER	¿Debería llevar chaqueta a Las Vegas?	weather	38
+39353533343534	IN:GET_WEATHER	¿Qué tiempo hará en Atlanta mañana por la mañana?	weather	38
+39353533303238	IN:GET_WEATHER	¿Hace calor afuera?	weather	38
+39353532353332	IN:GET_WEATHER	¿Cuál es el pronóstico de hoy?	weather	38
+39353532343031	IN:GET_WEATHER	¿Estará soleado mañana al mediodía?	weather	38
+39353531393332	IN:GET_WEATHER	¿Necesitaré llevar jersey el domingo?	weather	38
+39353531383037	IN:GET_WEATHER	¿Va a nevar en mi zona este año?	weather	38
+39353530393230	IN:GET_WEATHER	¿Cómo está el clima hoy?	weather	38
+39353530343435	IN:GET_WEATHER	¿Necesitamos chaquetas?	weather	38
+39353530333931	IN:GET_WEATHER	Cuál será el clima el próximo lunes.	weather	38
+39353530313530	IN:GET_WEATHER	¿Qué temperatura hace?	weather	38
+39353439383731	IN:GET_WEATHER	¿Hay lluvia en el pronóstico este fin de semana?	weather	38
+39353439373337	IN:GET_WEATHER	¿Cuándo comenzará a nevar mañana?	weather	38
+39353439363832	IN:GET_WEATHER	¿está nevando en toledo?	weather	38
+39353439343937	IN:GET_WEATHER	¿Cuál es la temperatura en Ciudad de México?	weather	38
+39353438383732	IN:GET_WEATHER	¿Cuándo lloverá de nuevo?	weather	38
+39353438363639	IN:GET_WEATHER	nevará en barstow hoy	weather	38
+39353437363536	IN:GET_WEATHER	¿Cuánto frío hará esta semana?	weather	38
+39353437353635	IN:GET_WEATHER	¿Cuál es el porcentaje de humedad para hoy?	weather	38
+39353437313633	IN:GET_WEATHER	¿A qué velocidad se está moviendo la tormenta actual en Daytona?	weather	38
+39353436393231	IN:GET_WEATHER	¿Necesito lentes de sol hoy?	weather	38
+39353436373837	IN:GET_WEATHER	¿Va a nevar esta noche?	weather	38
+39353436323930	IN:GET_WEATHER	¿Estará soleado el próximo fin de semana?	weather	38
+39353435363939	IN:GET_WEATHER	cómo se ve el clima de mañana	weather	38
+39353435363739	IN:GET_WEATHER	puedo recibir información sobre el tiempo para esta noche	weather	38
+39353435363437	IN:GET_WEATHER	Cómo está el tiempo en Fort Wayne este fin de semana	weather	38
+39353435353739	IN:GET_WEATHER	Voy a un juego de béisbol el sábado - ¿Qué tiempo va a hacer ese día?	weather	38
+39353435343330	IN:GET_WEATHER	¿Va a refrescar esta semana?	weather	38
+39353435323732	IN:GET_WEATHER	¿Tengo que enterarme de alguna actualización del pronóstico del tiempo?	weather	38
+39353434393831	IN:GET_WEATHER	¿Cuál es la temperatura en Phoenix en este momento?	weather	38
+39353434373633	IN:GET_WEATHER	¿Habrá suficiente nieve para ir en trineo mañana?	weather	38
+39353434353433	IN:GET_WEATHER	¿Hay un huracán en Hawái?	weather	38
+39353434353432	IN:GET_WEATHER	¿Qué cantidad de lluvia ha caído hoy en Slaton?	weather	38
+39353434333235	IN:GET_WEATHER	¿Cómo estará el clima en Boise a las 9 am mañana?	weather	38
+39353434323430	IN:GET_WEATHER	Está granizando	weather	38
+39353434313239	IN:GET_WEATHER	¿Hay alguna posibilidad de lluvia en Santorini luego de las 12 am?	weather	38
+39353433323432	IN:GET_WEATHER	¿A qué altura llegará?	weather	38
+39353433323239	IN:GET_WEATHER	¿Cuál es el clima esperado en Spokane para la noche del martes?	weather	38
+39353432393939	IN:GET_WEATHER	¿Cómo va a estar el tiempo hoy?	weather	38
+39353432383436	IN:GET_WEATHER	¿Se esperan condiciones de tornado hoy en lo absoluto?	weather	38
+39353432363335	IN:GET_WEATHER	¿Necesitaré protector solar el sábado en Miami o estará nublado?	weather	38
+39353431393538	IN:GET_WEATHER	¿Cómo estará el tiempo en Toronto esta noche?	weather	38
+39353431393130	IN:GET_WEATHER	¿Va a llover en las próximas dos horas?	weather	38
+39353431353732	IN:GET_WEATHER	¿el huracán golpeará la costa del sol?	weather	38
+39353431353233	IN:GET_WEATHER	Llueve en Chandler	weather	38
+39353431333737	IN:GET_WEATHER	¿Qué tan caluroso se pone en Arizona?	weather	38
+39353431333334	IN:GET_WEATHER	¿Va a hacer calor hoy?	weather	38
+39353430383039	IN:GET_WEATHER	¿Hay algún aviso o advertencia de tornado en el área de Dyersburg ahora mismo?	weather	38
+39353430343430	IN:GET_WEATHER	¿Cómo está el clima en Cincinnati, Ohio?	weather	38
+39353430333230	IN:GET_WEATHER	¿Necesitaré un paraguas hoy?	weather	38
+39353339363636	IN:GET_WEATHER	Lloverá mañana por la mañana	weather	38
+39353339363131	IN:GET_WEATHER	¿Estará soleado?	weather	38
+39353339343135	IN:GET_WEATHER	¿El pronóstico mostró nieve para hoy?	weather	38
+39353338393138	IN:GET_WEATHER	¿Va a estar ventoso mañana?	weather	38
+39353337383938	IN:GET_WEATHER	¿Necesito llevar una chaqueta hoy?	weather	38
+39353337363239	IN:GET_WEATHER	¿Cuál es el clima en mi destino?	weather	38
+39353337363030	IN:GET_WEATHER	¿Se espera que el viento sople hoy?	weather	38
+39353337333534	IN:GET_WEATHER	¿Necesito sombrero y guantes hoy?	weather	38
+39353337313335	IN:GET_WEATHER	¿Se espera alguna tormenta en Tahoe mañana?	weather	38
+39353336393931	IN:GET_WEATHER	¿Cómo está el tiempo en Houston?	weather	38
+39353336383431	IN:GET_WEATHER	¿Va a ser un invierno frío?	weather	38
+39353336373934	IN:GET_WEATHER	¿Qué tiempo hará el sábado?	weather	38
+39353336373839	IN:GET_WEATHER	¿Tendremos heladas esta semana?	weather	38
+39353336363635	IN:GET_WEATHER	¿Cuál es la previsión para el próximo martes por la noche?	weather	38
+39353336353034	IN:GET_WEATHER	¿Habrá buen tiempo este fin de semana?	weather	38
+39353336303932	IN:GET_WEATHER	¿El clima en Dallas va a estar malo?	weather	38
+39353335303638	IN:GET_WEATHER	Se supone que hará frío hoy	weather	38
+39353334373837	IN:GET_WEATHER	¿Está lloviendo en Londres?	weather	38
+39353334373534	IN:GET_WEATHER	¿Qué tiempo se supone que va a hacer hoy?	weather	38
+39353334353833	IN:GET_WEATHER	cuál es el pronóstico del tiempo de 5 días para dallas	weather	38
+39353333383333	IN:GET_WEATHER	¿Habrán tormentas eléctricas mañana?	weather	38
+39353333353037	IN:GET_WEATHER	¿Va a llover este fin de semana?	weather	38
+39353333333639	IN:GET_WEATHER	¿Hace calor en Miami Florida ahora mismo?	weather	38
+39353333333131	IN:GET_WEATHER	¿Cuánta lluvia tuvimos?	weather	38
+39353332383139	IN:GET_WEATHER	¿cómo estará el clima mañana en cocoa beach?	weather	38
+39353332333831	IN:GET_WEATHER	¿Cómo estará el tiempo esta noche en el autocine?	weather	38
+39353330373636	IN:GET_WEATHER	¿Qué tanto calor hace en Sudáfrica hoy?	weather	38
+39353330343531	IN:GET_WEATHER	¿voy a necesitar un chubasquero hoy?	weather	38
+39353330323933	IN:GET_WEATHER	Cuándo va a nevar otra vez	weather	38
+39353330323332	IN:GET_WEATHER	¿Cuál es la temperatura en Granger, Iowa, en este momento?	weather	38
+39353239363831	IN:GET_WEATHER	¿Va a nevar este año?	weather	38
+39353239333536	IN:GET_WEATHER	Va a haber tormenta mañana	weather	38
+39353238343935	IN:GET_WEATHER	¿Está lloviendo en Washington ahora?	weather	38
+39353238323539	IN:GET_WEATHER	¿Necesito chaqueta para hoy?	weather	38
+39353238313538	IN:GET_WEATHER	¿Cuál será la temperatura esta noche?	weather	38
+39353237383033	IN:GET_WEATHER	¿Voy a necesitar lentes de sol?	weather	38
+39353237373735	IN:GET_WEATHER	¿Cuándo se espera que vuelva a llover?	weather	38
+39353237343838	IN:GET_WEATHER	¿Cuál es el pronóstico del tiempo a 7 días?	weather	38
+39353236393533	IN:GET_WEATHER	¿Qué temperatura hace en la ciudad de Nueva York?	weather	38
+39353236393435	IN:GET_WEATHER	¿Tormentas hoy?	weather	38
+39353236363836	IN:GET_WEATHER	¿Va a llover en Las Vegas. NV la próxima semana?	weather	38
+39353236353635	IN:GET_WEATHER	¿Cómo estará el tiempo en Salt Lake City el jueves?	weather	38
+39353235393532	IN:GET_WEATHER	¿Cuál es la temperatura en Sacramento?	weather	38
+39353235343638	IN:GET_WEATHER	cuál es el tiempo para la próxima semana	weather	38
+39353235343531	IN:GET_WEATHER	pronistican lluvia esta semana	weather	38
+39353234393034	IN:GET_WEATHER	Cómo está el clima en Alabama	weather	38
+3231353939333334	IN:UPDATE_ALARM	Actualizar mi alarma a las 11 a. m.	alarm	39
+3231353939323933	IN:UPDATE_ALARM	Cambia la alarma de mi recordatorio.	alarm	39
+3231353530383332	IN:UPDATE_ALARM	Quiero actualizar mi alarma.	alarm	39
+3231353530373534	IN:UPDATE_ALARM	Edita la alarma para dar de comer para las 4am	alarm	39
+3231353530353337	IN:UPDATE_ALARM	Cambia la alarma a mañana	alarm	39
+3231353530343639	IN:UPDATE_ALARM	Cambia la alarma de las compras a las 9 a. m.	alarm	39
+3136353036323832	IN:UPDATE_ALARM	Añade 20 minutos a la alarma para poder descansar más	alarm	39
+3136353035393837	IN:UPDATE_ALARM	Adelanta mi alarma 20 minutos	alarm	39
+39353031383730	IN:REPLAY_MUSIC	Esa canción es mi preferida; por favor, pásala de nuevo	music	40
+39343731323036	IN:REPLAY_MUSIC	Pon otra vez esta canción por favor	music	40
+39343637353931	IN:REPLAY_MUSIC	Quiero volver a escuchar esa canción.	music	40
+3137313931313439	IN:REPLAY_MUSIC	Volver a reproducir esta canción	music	40
+3132363131373632	IN:REPLAY_MUSIC	Vuelve a reproducir todo el CD.	music	40
+3132363037363834	IN:REPLAY_MUSIC	Reproduce esta canción nuevamente.	music	40
+3132353832313934	IN:REPLAY_MUSIC	Repite esta canción una vez más.	music	40
+3231373530323433	IN:GET_DATE_TIME_EVENT	¿Cuándo empieza el segundo evento?	event	41
+3139393837313539	IN:GET_DATE_TIME_EVENT	A qué hora comienza el concierto esta noche en Walnut Creek	event	41
+3139393739343437	IN:GET_DATE_TIME_EVENT	¿A qué hora es el desfile de mañana en Austin?	event	41
+3232313933383336	IN:CREATE_CALL	Puedes llamar a Leila por Messenger	calling	42
+3232313933383031	IN:CREATE_CALL	Usando Messenger, llama a River Robertson	calling	42
+3232313933373839	IN:CREATE_CALL	utiliza Messenger para llamar a Maxwell Costa	calling	42
+3232313933373332	IN:CREATE_CALL	puedes usar por favor usa WhatsApp para llamar a Antonio Muñoz	calling	42
+3232313933373236	IN:CREATE_CALL	¿Puedes llamar a Jayceon Hendrix en Whatsapp?	calling	42
+3232313933373234	IN:CREATE_CALL	Podrías por favor usar Whatsapp para llamar a Elise Bernard	calling	42
+3232313933373233	IN:CREATE_CALL	¿Puedes llamar a Clara Wilcox usando Messenger	calling	42
+3232313933373136	IN:CREATE_CALL	Por favor, ¿puedes llamar a Richard Adams en Messenger?	calling	42
+3232313933373131	IN:CREATE_CALL	¿Puedes usar Messenger para llamar a Justin Acosta?	calling	42
+3232313933373032	IN:CREATE_CALL	¿Puedes llamar a Hudson Garza por WhatsApp?	calling	42
+3232313933363639	IN:CREATE_CALL	llamar a Cody Gill en Messenger	calling	42
+3232313933363532	IN:CREATE_CALL	Llamar por Messenger a Jade Nelson	calling	42
+3232313933363431	IN:CREATE_CALL	me gustaría llamar a Kali Fox a través de WhatsApp	calling	42
+3232313933363332	IN:CREATE_CALL	Trata de llamar a Jennifer Curry en WhatsApp	calling	42
+3232313933363235	IN:CREATE_CALL	Llama a Alexander Hinton por WhatsApp	calling	42
+3232313933363038	IN:CREATE_CALL	llamar a Zander Reyes con Messenger por favor	calling	42
+3232313933353932	IN:CREATE_CALL	¿Puedes llamar a Mark Meyers en WhatsApp?	calling	42
+3232313536383037	IN:CREATE_CALL	Llamemos a Katherine por Hangouts	calling	42
+3232313536383035	IN:CREATE_CALL	Llama a Karen por Messenger	calling	42
+3232313536373938	IN:CREATE_CALL	Llamada Hangouts a Melissa	calling	42
+3232313536373731	IN:CREATE_CALL	Llama a James por WeChat	calling	42
+3232313536373630	IN:CREATE_CALL	Llama a Susan por WhatsApp	calling	42
+3232313536373534	IN:CREATE_CALL	llamar a Dennis por WhatsApp	calling	42
+3232313536373531	IN:CREATE_CALL	Llama a Justin por WhatsApp	calling	42
+3232313536363531	IN:CREATE_CALL	Llama por Whatsapp a Jayce Haynes	calling	42
+3232313536363330	IN:CREATE_CALL	Llama por WhatsApp a Christine Davila	calling	42
+3232313536353936	IN:CREATE_CALL	Llama al WhatsApp de Tatum Floyd	calling	42
+3232313332343935	IN:CREATE_CALL	Llama a Michael y Bridges	calling	42
+3232313332343839	IN:CREATE_CALL	Llama a Carson y Hansen	calling	42
+3232313332343532	IN:CREATE_CALL	llama a Suarez y Davis	calling	42
+3232313332343437	IN:CREATE_CALL	llamar a Kerr and Sheppard	calling	42
+3232313332343234	IN:CREATE_CALL	Llama a Sawyer y Wong	calling	42
+3232313332343231	IN:CREATE_CALL	Llama a Gonzales y Chavez.	calling	42
+3232313332333937	IN:CREATE_CALL	llama a Camila y Kai	calling	42
+3232313332333533	IN:CREATE_CALL	llamar a Víctor y Sara	calling	42
+3232313332333233	IN:CREATE_CALL	Llamar a Liliana y Bailey	calling	42
+3232313332333132	IN:CREATE_CALL	Llamar a Kai y Ava	calling	42
+3232313332333035	IN:CREATE_CALL	llama a Young y a Rivera	calling	42
+3232313332323830	IN:CREATE_CALL	Llama al Ryann Small y Callie Mclean	calling	42
+3231373538373539	IN:CREATE_CALL	Por favor, llama a Richardson enseguida	calling	42
+3231373538373532	IN:CREATE_CALL	Llama a Hughes enseguida	calling	42
+3231373538373431	IN:CREATE_CALL	llama a Kim inmediatamente	calling	42
+3231373538373231	IN:CREATE_CALL	Llama a Catherine inmediatamente	calling	42
+3231373538373037	IN:CREATE_CALL	llama a Charlie Hill de inmediato	calling	42
+3231373538363737	IN:CREATE_CALL	Llama a Edgar Lucas ahora mismo	calling	42
+3231373538363634	IN:CREATE_CALL	llama a Morgan Morgan directamente	calling	42
+3231373538363530	IN:CREATE_CALL	marca el número de Keith Chung enseguida	calling	42
+3231373538353938	IN:CREATE_CALL	marca el número de Edward directamente	calling	42
+3231373538353637	IN:CREATE_CALL	Marca al número de Emily enseguida por favor	calling	42
+3231373538353635	IN:CREATE_CALL	marca a Pierce en este momento	calling	42
+3231373538333534	IN:CREATE_CALL	Llama a la última Lisa	calling	42
+3231373538333331	IN:CREATE_CALL	llama a la tercera Emma	calling	42
+3231373538313334	IN:CREATE_CALL	llamar a Dennis dos	calling	42
+3231373538313232	IN:CREATE_CALL	Llama a Daniel número dos	calling	42
+3231373538313032	IN:CREATE_CALL	Llama a Dayana número dos	calling	42
+3231373538303633	IN:CREATE_CALL	Llama a Laura número dos	calling	42
+3231373538303432	IN:CREATE_CALL	Llama a Nataly tres	calling	42
+3231373538303231	IN:CREATE_CALL	Llamar a Alissa, número tres	calling	42
+3231373538303139	IN:CREATE_CALL	Llama a Jack 1	calling	42
+3231373538303135	IN:CREATE_CALL	llama a Santiago cuatro	calling	42
+3231373537393835	IN:CREATE_CALL	llama a Corbin dos	calling	42
+3231373438343132	IN:CREATE_CALL	marcar Shaun Nguyen	calling	42
+3231373438343037	IN:CREATE_CALL	Llamar a Madalynn Burch	calling	42
+3231373438333931	IN:CREATE_CALL	llama a Peyton Castaneda	calling	42
+3231373330353831	IN:CREATE_CALL	Haz una llamada de WhatsApp a Elizabeth	calling	42
+3231373330353337	IN:CREATE_CALL	llamar por WhatsApp a Karen	calling	42
+3231373330313630	IN:CREATE_CALL	Mejor llama a Timothy	calling	42
+3231373330313434	IN:CREATE_CALL	Mejor llama a Sydney Roth	calling	42
+3231373330313432	IN:CREATE_CALL	Llamar mejor a Guillermo Hernández	calling	42
+3231373237303032	IN:CREATE_CALL	Por favor llama a Amy	calling	42
+3231373236393639	IN:CREATE_CALL	Quiero llamar a Anna	calling	42
+3231373236393538	IN:CREATE_CALL	Llama a Philip por mí	calling	42
+3231373236363532	IN:CREATE_CALL	Llámame a mi primo por WhatsApp	calling	42
+3231373236353035	IN:CREATE_CALL	Llamar al celular de Evelyn	calling	42
+3231373232323538	IN:CREATE_CALL	haz una llamada a Jane por WhatsApp	calling	42
+3231373232323537	IN:CREATE_CALL	Iniciar una llamada con Destiny Collins por WhatsApp	calling	42
+3231373232323533	IN:CREATE_CALL	llamar a mi amigo Andy Nelson por WhatsApp	calling	42
+3231373232323432	IN:CREATE_CALL	Llamemos a Catalina por WhatsApp	calling	42
+3231373232323139	IN:CREATE_CALL	llama a mi mujer Brianna Anderson a través de WhatsApp	calling	42
+3231373232323130	IN:CREATE_CALL	Llama a mi esposa Carolyn a través de WhatsApp	calling	42
+3231373232323037	IN:CREATE_CALL	Quiero llamar a Savion mediante WhatsApp	calling	42
+3231373232313437	IN:CREATE_CALL	Vamos a llamar a Uriel por WhatsApp	calling	42
+3231373232313434	IN:CREATE_CALL	Llama a Athena Sims por WhatsApp	calling	42
+3231373131373331	IN:CREATE_CALL	llamar a Francy Carrol Briggs	calling	42
+3231373131363936	IN:CREATE_CALL	quiero llamar a William Landon Bennett	calling	42
+3231373131363438	IN:CREATE_CALL	Por favor, llama a Gideon Rhett Patel	calling	42
+3231373131363436	IN:CREATE_CALL	Llámame a Jayla Carole Bautista	calling	42
+3231373131363339	IN:CREATE_CALL	Quisiera llamar a Sawyer Autumn Lowery	calling	42
+3231373131363033	IN:CREATE_CALL	Quiero llamar a Noah Tobias Ward	calling	42
+3231373131353536	IN:CREATE_CALL	Quiero llamar a Brayden Devin Kelly	calling	42
+3231373131353532	IN:CREATE_CALL	Quisiera llamar a Blake Johnathan Benson	calling	42
+3231373131353333	IN:CREATE_CALL	Puedes llamar a John Miller Casa	calling	42
+3231373131353231	IN:CREATE_CALL	Me gustaría llamar a Andrew Rowland Spencer	calling	42
+3231373131343936	IN:CREATE_CALL	Llama a Catherine Ewing Gibson	calling	42
+3231373131343533	IN:CREATE_CALL	Quiero llamar a Laura Ray Donaldson	calling	42
+3231373131343239	IN:CREATE_CALL	Quisiera llamar a James Oconnor Silva	calling	42
+3231373131343138	IN:CREATE_CALL	Quisiera llamar a Timothy Bass Carson	calling	42
+3231373131343036	IN:CREATE_CALL	¿Puedes llamar a Larry Powell Sweeney?	calling	42
+3231373131343035	IN:CREATE_CALL	Quiero llamar a Jennifer Hooper Zúñiga	calling	42
+3231373131333838	IN:CREATE_CALL	Llama a Emily Frazier Sims	calling	42
+3231373131333834	IN:CREATE_CALL	¿Puedes llamar a Daniel Figueroa Woodard?	calling	42
+3231373131333630	IN:CREATE_CALL	Llámame a Stephanie Conrad Escobar	calling	42
+3231373131323838	IN:CREATE_CALL	Por favor llama a A Holder	calling	42
+3231373131323639	IN:CREATE_CALL	Llamar a RA Larsen	calling	42
+3231373131323435	IN:CREATE_CALL	¿Puedes llamar a KL Luna?	calling	42
+3231373131323036	IN:CREATE_CALL	¿Puedes llamar a J Li?	calling	42
+3231373131323034	IN:CREATE_CALL	Me gustaría llamar a I Carney	calling	42
+3231373131313931	IN:CREATE_CALL	Puedes llamar a S Holt	calling	42
+3231373131313337	IN:CREATE_CALL	Quisiera llamar a Mary M Welch	calling	42
+3231373131313036	IN:CREATE_CALL	Quiero llamar a Betty B Arroyo	calling	42
+3231373131303833	IN:CREATE_CALL	Quiero llamar a Jorge J. Ríos	calling	42
+3231373131303439	IN:CREATE_CALL	¿Puedes llamar a Raymond White Wright?	calling	42
+3231373131303037	IN:CREATE_CALL	llama a Paul Rocha Cox	calling	42
+3231373130393334	IN:CREATE_CALL	¿Puedes llamar a Keegan Xavier Andersen?	calling	42
+3231373130393139	IN:CREATE_CALL	Por favor llamar a Ruby Callie Mclean	calling	42
+3231373130393031	IN:CREATE_CALL	Llama a Kendall Paislee Jimenez por mí	calling	42
+3231363736343235	IN:CREATE_CALL	Vuelve a marcar el teléfono de mamá	calling	42
+3231363735383039	IN:CREATE_CALL	Iniciar llamada grupal	calling	42
+3231363734373438	IN:CREATE_CALL	Llamar a Stephen	calling	42
+3231363734373336	IN:CREATE_CALL	Por favor llama a mi esposa	calling	42
+3231363734373138	IN:CREATE_CALL	Llamar a papá	calling	42
+3231363734363936	IN:CREATE_CALL	llama a papá	calling	42
+3231363734363339	IN:CREATE_CALL	Pon a Alyssa en el teléfono	calling	42
+3231363734363335	IN:CREATE_CALL	llama a papá	calling	42
+3231363734363230	IN:CREATE_CALL	Llama a la abuela por favor.	calling	42
+39343834393530	IN:GET_SUNSET	¿Cuándo es la puesta del sol esta noche?	weather	43
+3231373034353837	IN:GET_SUNSET	¿Cuándo anochece el domingo?	weather	43
+3231353134363533	IN:GET_SUNSET	¿Cuándo es el noveno atardecer?	weather	43
+3231373530333738	IN:GET_LOCATION	¿Dónde queda Planet Home?	event	44
+3231373530333636	IN:GET_LOCATION	Dime la ubicación de Free Intro to Reiki	event	44
+3231373530323838	IN:GET_LOCATION	Dime la ubicación del último evento	event	44
+3231373530323630	IN:GET_LOCATION	Dime dónde es el último evento	event	44
+3232343533303036	IN:SET_RSVP_NO	Señala que no iré al Open Stage NYC	event	45
+3232343532393533	IN:SET_RSVP_NO	pon mi estado de "no va al mercado nocturno de Chinatown"	event	45
+3232343532383634	IN:SET_RSVP_NO	responde "no" a la invitación al partido entre los Giants y los Patriots	event	45
+3232343532373431	IN:SET_RSVP_NO	Coloca mi estado en no voy a Unicorn	event	45
+3232343532353731	IN:SET_RSVP_NO	No iré a Bark in the Park	event	45
+3232343532323930	IN:SET_RSVP_NO	apunta que no voy a ir a Brickpalooza	event	45
+3232343532323038	IN:SET_RSVP_NO	No quiero ir a Katja Petrowskaja: una historia familiar entre la memoria y el olvido	event	45
+3231323330313730	IN:DELETE_REMINDER	Por favor quita ese recordatorio para cambiar el aceite en Saturn.	reminder	48
+3231323330303932	IN:DELETE_REMINDER	quitar el recordatorio de devolver el equipo de oficina el miércoles	reminder	48
+3231323330303738	IN:DELETE_REMINDER	Cancela todos mis recordatorios del mes de agosto.	reminder	48
+3231323330303539	IN:DELETE_REMINDER	Cancelar el recordatorio para la visita al veterinario del perro	reminder	48
+3231323239353735	IN:DELETE_REMINDER	Borra todos los recordatorios.	reminder	48
+3231323239343835	IN:DELETE_REMINDER	Elimina los recordatorios para la limpieza.	reminder	48
+3231323239323934	IN:DELETE_REMINDER	El doctor canceló. Elimina el recordatorio de la cita con el Doctor.	reminder	48
+3231323238333733	IN:DELETE_REMINDER	Cancelar el recordatorio para comprar víveres este jueves	reminder	48
+3231323238313934	IN:DELETE_REMINDER	Elimina todos mis recordatorios por 30 minutos para que recoja el auto la semana que viene	reminder	48
+3231323237393033	IN:DELETE_REMINDER	Cancelar todos los recordatorios con Sasha	reminder	48
+3231323237363032	IN:DELETE_REMINDER	Quitar todos los recordatorios por las próximas 2 horas	reminder	48
+3231323237303133	IN:DELETE_REMINDER	Elimina el recordatorio para renovar la dirección de correos	reminder	48
+3231323236373938	IN:DELETE_REMINDER	Elimina mi recordatorio del cumpleaños de la tía Lisa	reminder	48
+3231323236373532	IN:DELETE_REMINDER	Deshazte del recordatorio de terminar el hummus en la refri	reminder	48
+3231323236373139	IN:DELETE_REMINDER	Eliminar recordatorios de trabajo.	reminder	48
+3231323236363232	IN:DELETE_REMINDER	Elimina mi recordatorio para devolver mis libros de la biblioteca el martes	reminder	48
+3231323236363131	IN:DELETE_REMINDER	Elimina todos los recordatorios para recoger recetas.	reminder	48
+3231323236323331	IN:DELETE_REMINDER	Elimina el recordatorio del almuerzo del domingo de mi calendario	reminder	48
+3231323235353535	IN:DELETE_REMINDER	Eliminar la alerta de cita para mi masaje en el spa.	reminder	48
+3231323235353335	IN:DELETE_REMINDER	Cancela el recordatorio para la reserva de limpieza de alfombras del martes	reminder	48
+3231323235333630	IN:DELETE_REMINDER	Deshazte de todos los recordatorios del tour en autobús de este fin de semana	reminder	48
+3231323235323130	IN:DELETE_REMINDER	eliminar los recordatorios sobre la iglesia durante las próximas tres semanas	reminder	48
+3231323235313537	IN:DELETE_REMINDER	Borra el recordatorio para la fiesta de cumpleaños.	reminder	48
+3231323234393337	IN:DELETE_REMINDER	Vale, cancela mi recordatorio de la fiesta de cumpleaños de mañana de mi padre.	reminder	48
+3231323234383435	IN:DELETE_REMINDER	Borra el recordatorio para el entrenamiento de fútbol de Rob el domingo	reminder	48
+3231323234383430	IN:DELETE_REMINDER	Deshaz el recordatorio de ir al cine con Pauli el domingo.	reminder	48
+3231323234383232	IN:DELETE_REMINDER	Elimina el recordatorio sobre comprar comida de perro pues mi esposo ya lo hizo.	reminder	48
+3231323234373034	IN:DELETE_REMINDER	Por favor, elimina todos mis recordatorios para el lunes	reminder	48
+3231323234303035	IN:DELETE_REMINDER	Borra el recordatorio del correo electrónico para el equipo de fútbol sobre el partido	reminder	48
+3231323233373433	IN:DELETE_REMINDER	Elimina el recordatorio sobre la cita de Jessica porque ya no necesita ir más.	reminder	48
+3231323233363432	IN:DELETE_REMINDER	Abre todos mis recordatorios de eventos para octubre y bórralos todos	reminder	48
+3231323233343031	IN:DELETE_REMINDER	Elimina todos los recordatorios que tengo	reminder	48
+3231323233333239	IN:DELETE_REMINDER	¿Eliminaría los recordatorios de las llamadas al entrenador personal de salud de 2019?	reminder	48
+3231323233313234	IN:DELETE_REMINDER	Deshazte del mensaje para reprogramar la reunión del trabajo.	reminder	48
+3231323231353239	IN:DELETE_REMINDER	Cancela todas las alertas del 20 de octubre	reminder	48
+3231313536343632	IN:DELETE_REMINDER	Por favor eliminar el recordatorio para la reunión por video del equipo de tenis a las 5pm de mañana.	reminder	48
+3231313536333232	IN:DELETE_REMINDER	Elimina la alerta para la cita de la entrega el viernes por la mañana.	reminder	48
+3231313536313934	IN:DELETE_REMINDER	Eliminar mi recordatorio sobre la venta de garaje del sábado.	reminder	48
+3231313535373132	IN:DELETE_REMINDER	Eliminar el recordatorio para reiniciar el reloj.	reminder	48
+3231313535353636	IN:DELETE_REMINDER	Eliminar los recordatorios del gimnasio para el resto de esta semana	reminder	48
+3231313535353632	IN:DELETE_REMINDER	Quita todas las alertas para pedir el almuerzo esta semana para el trabajo.	reminder	48
+3231313535323634	IN:DELETE_REMINDER	Elimina el recordatorio para ver a Carlos mañana a las 10 am.	reminder	48
+3231313535303436	IN:DELETE_REMINDER	Cancela el recordatorio para cambiar el aceite.	reminder	48
+3231313534393637	IN:DELETE_REMINDER	Eliminar mi recordatorio para el domingo.	reminder	48
+3231313533393631	IN:DELETE_REMINDER	Elimina el recordatorio para que Otis pasee al perro mañana a las 8 P.M.	reminder	48
+3231313533393136	IN:DELETE_REMINDER	Elimina mi recordatorio para tomar mi medicamento.	reminder	48
+3231313533393034	IN:DELETE_REMINDER	Deshazte de mi recordatorio para la reunión de equipo del martes.	reminder	48
+3231313533313539	IN:DELETE_REMINDER	Elimina el recordatorio para contratar un payaso para la fiesta de cumpleaños de mi hija el próximo mes.	reminder	48
+3231313532363735	IN:DELETE_REMINDER	Borrar recordatorio de fútbol de lunes por la noche.	reminder	48
+3231313532343636	IN:DELETE_REMINDER	Elimina mi recordatorio del almuerzo del martes.	reminder	48
+3231313532343633	IN:DELETE_REMINDER	Elimina mi recordatorio para el almuerzo de mañana.	reminder	48
+3231313531393136	IN:DELETE_REMINDER	Elimina el recordatorio para mi espectáculo de televisión.	reminder	48
+3231313531383137	IN:DELETE_REMINDER	Eliminar el recordatorio de mi turno en la peluquería	reminder	48
+3231313531313836	IN:DELETE_REMINDER	Borra mi recordatorio para yoga mañana.	reminder	48
+3231313530353639	IN:DELETE_REMINDER	Elimina el recordatorio de comida para gato.	reminder	48
+39353736303439	IN:CREATE_TIMER	Pon el temporizador para 1 minuto	timer	49
+39353735333435	IN:CREATE_TIMER	¿Puedes hacer que mi temporizador suene en 20 minutos, por favor?	timer	49
+39353734343133	IN:CREATE_TIMER	Pon temporizador para que suene en 9 minutos	timer	49
+39353734333533	IN:CREATE_TIMER	Inicia un temporizador ahora	timer	49
+39353733393032	IN:CREATE_TIMER	crear un temporizador de ejercicio de 30 minutos	timer	49
+39353733343431	IN:CREATE_TIMER	INICIAR MI TEMPORIZADOR	timer	49
+39353732383931	IN:CREATE_TIMER	Necesito un temporizador.	timer	49
+39353730393635	IN:CREATE_TIMER	Necesito poner un temporizador por 10 minutos.	timer	49
+39353730393036	IN:CREATE_TIMER	Pon una alarma de una hora a las 8 p.m.	timer	49
+39353638373735	IN:CREATE_TIMER	Inicia el temporizador en dos horas	timer	49
+39353638333833	IN:CREATE_TIMER	Pon un temporizador en 20 minutos.	timer	49
+39353637333630	IN:CREATE_TIMER	Pon un temporizador para mi estofado	timer	49
+39353637303531	IN:CREATE_TIMER	establecer un tiempo de 23 minutos	timer	49
+39353635343231	IN:CREATE_TIMER	Pon cronómetro para 2 minutos 30 segundos	timer	49
+39353634303837	IN:CREATE_TIMER	¿Puedes iniciar otro temporizador?	timer	49
+39353633383333	IN:CREATE_TIMER	Comienza un temporizador por 25 minutos.	timer	49
+39353633313436	IN:CREATE_TIMER	Establece un temporizador de 15 minutos	timer	49
+39353633303833	IN:CREATE_TIMER	programar mi temporizador para 46 minutos	timer	49
+39353630393130	IN:CREATE_TIMER	Activa mi temporizador para el gimnasio.	timer	49
+39353630313339	IN:CREATE_TIMER	empieza mi temporizador	timer	49
+39353539373535	IN:CREATE_TIMER	Pon mi temporizador en 15 minutos	timer	49
+39353539353039	IN:CREATE_TIMER	Ajusta el temporizador, por favor.	timer	49
+39353537333430	IN:CREATE_TIMER	Agregar nuevo temporizador de 30 segundos.	timer	49
+39353536333835	IN:CREATE_TIMER	Pon el temporizador en el horario habitual	timer	49
+39353533393635	IN:CREATE_TIMER	Necesito poner el temporizador a cinco minutos	timer	49
+39353533333231	IN:CREATE_TIMER	Pon un temporizador de 2 minutos	timer	49
+39353532333434	IN:CREATE_TIMER	¿Puedes programar un temporizador para 5 minutos	timer	49
+39353530333839	IN:CREATE_TIMER	iniciar un cronómetro durante 30 minutos	timer	49
+39353530313536	IN:CREATE_TIMER	Pon mi temporizador para 45 segundos.	timer	49
+39353439313630	IN:CREATE_TIMER	inicia el temporizador ahora por 4 minutos	timer	49
+39353438363538	IN:CREATE_TIMER	Fija el temporizador para dormir	timer	49
+39353437313737	IN:CREATE_TIMER	Crear una nueva alerta para el temporizador	timer	49
+39353430313336	IN:CREATE_TIMER	Ajusta el temporizador de horneado por 45 minutos	timer	49
+39353333343736	IN:CREATE_TIMER	El pavo está en el horno. Pon el temporizador a 3 horas	timer	49
+39353331313932	IN:CREATE_TIMER	Inicia un nuevo temporizador por 20 minutos.	timer	49
+39353330333531	IN:CREATE_TIMER	POR FAVOR, ESTABLECE UN TEMPORIZADOR POR 3 HORAS	timer	49
+39353330313832	IN:CREATE_TIMER	establecer un cronómetro por 2 horas y 6 minutos	timer	49
+39353239363631	IN:CREATE_TIMER	ajustar el temporizador para veinte minutos	timer	49
+39353238343833	IN:CREATE_TIMER	Activa mi temporizador de entrenamiento diario	timer	49
+39353235353630	IN:CREATE_TIMER	Pon el temporizador en 10 minutos	timer	49
+39353234373830	IN:CREATE_TIMER	Por favor, por un temporizador de 12 minutos	timer	49
+39353233383936	IN:CREATE_TIMER	Programar mi temporizador a las 2 a. m.	timer	49
+39353233363534	IN:CREATE_TIMER	Pon una alarma de 40 minutos	timer	49
+39353233303534	IN:CREATE_TIMER	crear un nuevo temporizador	timer	49
+39353231333739	IN:CREATE_TIMER	Temporizador en un minuto, por favor	timer	49
+39353137343137	IN:CREATE_TIMER	Poner un temporizador por 24 minutos	timer	49
+39353135343339	IN:CREATE_TIMER	Pon el temporizador a un minuto	timer	49
+39353134373330	IN:CREATE_TIMER	Comienza temporizador para mis sesión de entrenamiento de 30 minutos	timer	49
+39353035303233	IN:CREATE_TIMER	pon el temporizador para dentro de 2 horas	timer	49
+39353034363136	IN:CREATE_TIMER	Pon el temporizador en veinte minutos	timer	49
+39353032303337	IN:CREATE_TIMER	Pon un temporizador de 6 minutos	timer	49
+39353030383939	IN:CREATE_TIMER	Pon el temporizador a 4 minutos	timer	49
+39343939353330	IN:CREATE_TIMER	programa el temporizador para que se prenda o apague con el comando de voz ahora	timer	49
+39343936303537	IN:CREATE_TIMER	Ajustar mi temporizador de nuevo	timer	49
+39343933373634	IN:CREATE_TIMER	PROGRAMAR UN TEMPORIZADOR PARA 8 HORAS	timer	49
+39343931393434	IN:CREATE_TIMER	pon en marcha el temporizador de tiempo de espera durante 15 minutos	timer	49
+39343839343235	IN:CREATE_TIMER	Configura sonido de temporizador	timer	49
+39343838373830	IN:CREATE_TIMER	Pon un temporizador de 60 segundos	timer	49
+39343838313237	IN:CREATE_TIMER	Pon un temporizador para el pollo al horno	timer	49
+39343835333838	IN:CREATE_TIMER	Voy a nadar, así que, por favor, programa un temporizador para 20 minutos	timer	49
+39343834343335	IN:CREATE_TIMER	¿Puedes configurar el temporizador en 15 minutos?	timer	49
+39343834313933	IN:CREATE_TIMER	¿Establecer el cronómetro a 30 minutos?	timer	49
+39343832383736	IN:CREATE_TIMER	Poner un nuevo cronómetro para una hora.	timer	49
+39343831343733	IN:CREATE_TIMER	Establece el cronómetro para dentro de 2 horas.	timer	49
+3231353438353232	IN:UPDATE_METHOD_CALL	Cambiar de llamada de voz a videollamada con Oskar	calling	51
+3231353438343937	IN:UPDATE_METHOD_CALL	Convertir esta llamada en videollamada	calling	51
+3231353437393534	IN:UPDATE_METHOD_CALL	Haz una videollamada con mamá	calling	51
+3231353336383138	IN:UPDATE_METHOD_CALL	pasa de llamada telefónica a video llamada	calling	51
+3231353336383033	IN:UPDATE_METHOD_CALL	Me gustaría cambiar esta llamada de llamada de audio a llamada de video	calling	51
+39353533393137	IN:REMOVE_FROM_PLAYLIST_MUSIC	Elimina todas las canciones de rap.	music	53
+39353237313537	IN:REMOVE_FROM_PLAYLIST_MUSIC	Borra las primeras cinco pistas	music	53
+3138393833383435	IN:GET_CONTACT	Dime quién trabaja en la panadería portuguesa.	people	54
+3138393833383433	IN:GET_CONTACT	Encuentra quién trabaja en el Banco Bradesco.	people	54
+3138393833373432	IN:GET_CONTACT	¿Puedes decirme quién trabaja en Best Buy?	people	54
+3138393833363937	IN:GET_CONTACT	¿Quién trabaja en SpaceX?	people	54
+3138393833363534	IN:GET_CONTACT	¿Quién trabaja en Starbucks?	people	54
+3138393833363432	IN:GET_CONTACT	Quiero saber si alguien trabaja en Walmart.	people	54
+3138393833353136	IN:GET_CONTACT	¿Quién trabaja en pizza hut?	people	54
+3138393833343637	IN:GET_CONTACT	Busca gente que trabaje para Rolls Royce.	people	54
+3138393833343630	IN:GET_CONTACT	¿Yo tengo amigos que trabajen en el Chase Bank?	people	54
+3138393833343335	IN:GET_CONTACT	Quién trabaja en Amazon	people	54
+3138393833333631	IN:GET_CONTACT	Estoy buscando a alguien que trabaje en Sonic.	people	54
+3138393833333538	IN:GET_CONTACT	Quién trabaja en Forever 21	people	54
+3138393833333531	IN:GET_CONTACT	quién trabaja en aig	people	54
+3138393833333437	IN:GET_CONTACT	¿Quién trabaja ahora para Toyota?	people	54
+3138393833313930	IN:GET_CONTACT	quién trabaja en Farmer's Insurance	people	54
+3138393833313534	IN:GET_CONTACT	lista de personas que actualmente trabajan en Lacey Medical Clinic	people	54
+3138393833313532	IN:GET_CONTACT	Nombres de personas que trabajan en Clarus	people	54
+3138393833303632	IN:GET_CONTACT	¿Quién trabaja para el Hospital?	people	54
+3138393833303033	IN:GET_CONTACT	Dime quién trabaja en expresiones	people	54
+3138393832373538	IN:GET_CONTACT	¿Quién trabaja actualmente para Disney World?	people	54
+3138393832373335	IN:GET_CONTACT	Dime quién fue empleado de Microsoft	people	54
+3138393832373232	IN:GET_CONTACT	Lista los empleados de 1st National	people	54
+3138393832363839	IN:GET_CONTACT	Empleados actuales en Burger King	people	54
+3138393832363633	IN:GET_CONTACT	¿Quién trabaja para Lowes?	people	54
+3138393832363435	IN:GET_CONTACT	¿Quién trabaja para el Departamento de Policía de Savannah?	people	54
+3138393832363135	IN:GET_CONTACT	Dime qué amigos trabajan para Google.	people	54
+3138393832353233	IN:GET_CONTACT	¿Alguno de mis amigos trabaja en Starbucks?	people	54
+3138393832343430	IN:GET_CONTACT	Personas que fueron a la Universidad de Nebraska.	people	54
+3138393832343239	IN:GET_CONTACT	¿Qué amigos fueron a Harvard?	people	54
+3138393832343232	IN:GET_CONTACT	¿Qué amigos asistieron a la facultad de medicina?	people	54
+3138393832333835	IN:GET_CONTACT	¿A quién conozco que se haya graduado de Piper?	people	54
+3138393832333232	IN:GET_CONTACT	¿Alguien que conozco fue a FSU?	people	54
+3138393832323737	IN:GET_CONTACT	¿Quién se graduó de NYU?	people	54
+3138393832323237	IN:GET_CONTACT	Dime quién se graduó de Princeton	people	54
+3138393832323131	IN:GET_CONTACT	¿Alguien fue a Pitt	people	54
+3138393832313834	IN:GET_CONTACT	¿Puedes decirme el nombre de amigos que fueron a la Universidad de San Diego?	people	54
+3138393832313730	IN:GET_CONTACT	¿Quién se graduó en Michigan?	people	54
+3138393832313332	IN:GET_CONTACT	Enlista a todos los alumnos de South High en mi lista de amigos.	people	54
+3138393832303832	IN:GET_CONTACT	¿Yo tengo amigos graduados de UCLA?	people	54
+3138393831393332	IN:GET_CONTACT	Quién se graduó de la facultad de California, Pensilvania	people	54
+3138393831393234	IN:GET_CONTACT	¿Quién fue a la Universidad de Boston?	people	54
+3138393831373930	IN:GET_CONTACT	¿Yo conozco a alguien que estudió en Harvard?	people	54
+3138393831363930	IN:GET_CONTACT	¿Alguien de mi familia se graduó de Yale?	people	54
+3138393831363334	IN:GET_CONTACT	¿Alguno de mis amigos fue a A&M?	people	54
+3138393831353934	IN:GET_CONTACT	¿Cuántos de mis amigos fueron a ERAU?	people	54
+3138393831353833	IN:GET_CONTACT	¿Alguien con un título de la FAMU?	people	54
+3138393831353235	IN:GET_CONTACT	¿Quién se graduó de UConn?	people	54
+3138393831343738	IN:GET_CONTACT	¿Alguien de mi familia se ha graduado en OSU?	people	54
+3138393831343733	IN:GET_CONTACT	¿Estudió alguno de mis amigos en la OU?	people	54
+3138393831343236	IN:GET_CONTACT	¿Alguno de mis amigos va a Harvard?	people	54
+3138393831333737	IN:GET_CONTACT	¿Alguno de mis amigos fue a UW-Waukesha?	people	54
+3138393831333234	IN:GET_CONTACT	¿Alguien que yo conozca y que haya ido al Tacoma Community College?	people	54
+3138393831323932	IN:GET_CONTACT	¿Alguno de mis amigos fue a la Universidad Grand Canyon?	people	54
+3138393831323931	IN:GET_CONTACT	¿Cuáles de mis amigos fueron a Louisiana Tech?	people	54
+3138393831323030	IN:GET_CONTACT	¿De qué amigos es KU el alma máter?	people	54
+3138393831313737	IN:GET_CONTACT	Miembros de la familia que han ido a Texas State	people	54
+3138393831313330	IN:GET_CONTACT	¿Cuál de mis amigos se graduó en onu?	people	54
+3138393831303431	IN:GET_CONTACT	¿Cuántos de mis amigos fueron a la U of I?	people	54
+3138393830393633	IN:GET_CONTACT	¿Quién fue a UCR?	people	54
+3138393830383836	IN:GET_CONTACT	¿Cuál de mis amigos asistió a UM?	people	54
+3138393830383737	IN:GET_CONTACT	¿Qué amigos fueron a SUNY New Paltz?	people	54
+3138393830383232	IN:GET_CONTACT	¿Quién se graduó en Berkley?	people	54
+3138393830383134	IN:GET_CONTACT	¿Alguno de mis amigos fue a Columbia?	people	54
+3138393830373432	IN:GET_CONTACT	¿Conozco a alguien que se haya graduado de NIU?	people	54
+3138393830363034	IN:GET_CONTACT	Encuentra a personas que fueron a la Escuela Secundaria Lakeland	people	54
+3138393830353830	IN:GET_CONTACT	¿Yo conozco alguien que se haya graduado de la universidad del Cairo?	people	54
+3138393830313836	IN:GET_CONTACT	¿Alguno de mis amigos asistió a Baylor?	people	54
+3138393830313834	IN:GET_CONTACT	¿Alguno de mis amigos fue a Texas Wesleyan?	people	54
+3138393830313738	IN:GET_CONTACT	¿Quién está asistiendo actualmente a la DSU?	people	54
+3138393739333937	IN:GET_CONTACT	¿Alguno de mis amigos vive en Miami?	people	54
+3138393738393430	IN:GET_CONTACT	¿Cuál de mis amigos ha vivido en Chicago?	people	54
+3138393738363836	IN:GET_CONTACT	Necesito saber quién vive en Phoenix.	people	54
+3138393736353434	IN:GET_CONTACT	Amigos de Donald Trump	people	54
+3138393736303631	IN:GET_CONTACT	¿Quiénes son algunos de los amigos de Mike?	people	54
+3138393736303233	IN:GET_CONTACT	Amigos de Mario	people	54
+3138393736303139	IN:GET_CONTACT	Mis amigos	people	54
+3138393736303039	IN:GET_CONTACT	¿Quién es amigo de Anne?	people	54
+3138393735383931	IN:GET_CONTACT	¿Quiénes son mis amigos?	people	54
+3138393735383735	IN:GET_CONTACT	Nombra quiénes son los amigos de Mini	people	54
+3231363037363437	IN:GET_CALL	obtener mi historial de llamadas con kelly de ayer	calling	55
+3231363037363234	IN:GET_CALL	llamadas hechas a Grace	calling	55
+3231363037363039	IN:GET_CALL	Muéstrame mis llamadas exitosas de esta semana	calling	55
+3231363037353939	IN:GET_CALL	Encuéntrame algunas de las llamadas que he hecho hoy	calling	55
+3231363037353730	IN:GET_CALL	Dime qué llamadas me he perdido	calling	55
+3231363037353137	IN:GET_CALL	Muestra mu historial de llamadas desde hoy	calling	55
+3231353437363531	IN:GET_CALL	¿Recordé llamar a John hoy?	calling	55
+3231353437323934	IN:GET_CALL	¿Llamé a mi madre esta semana?	calling	55
+3231353437323534	IN:GET_CALL	Cuántas llamadas recibí el miércoles	calling	55
+39353632383339	IN:DELETE_PLAYLIST_MUSIC	Elimina la lista de reproducción	music	57
+3138393935333830	IN:GET_INFO_CONTACT	¿Susana está soltera?	people	58
+39353631323537	IN:DELETE_TIMER	Borra todos los cronómetros	timer	59
+39353535393636	IN:DELETE_TIMER	Quitar el temporizador	timer	59
+39353530353531	IN:DELETE_TIMER	Elimina el temporizador actual.	timer	59
+39353437323630	IN:DELETE_TIMER	Cancela este temporizador, por favor	timer	59
+39353339353431	IN:DELETE_TIMER	Borrar el cronómetro.	timer	59
+39353231323834	IN:DELETE_TIMER	Cancela todos los temporizadores y alarmas	timer	59
+39353135333030	IN:DELETE_TIMER	Cancela todos mis temporizadores.	timer	59
+39353039313433	IN:DELETE_TIMER	Elimina todos mis temporizadores configurados.	timer	59
+39353035373633	IN:DELETE_TIMER	Finaliza el temporizador de la caminata	timer	59
+3232343436353733	IN:CANCEL_MESSAGE	Cancela el envío del mensaje a Parker.	messaging	61
+3132353535303132	IN:GET_RECIPES	¿Cómo se hacen las cebolletas con las cebollas de verdeo?	recipes	62
+3132353534373732	IN:GET_RECIPES	Muéstrame el ramen más barato	recipes	62
+39343632393839	IN:GET_RECIPES	Búscame una receta griega	recipes	62
+39343632393734	IN:GET_RECIPES	receta de pan	recipes	62
+39343632393134	IN:GET_RECIPES	¿Cuáles son algunas ideas de postres sin cocer?	recipes	62
+39343632383732	IN:GET_RECIPES	Busca una buena receta de un pollo al ajillo crujiente	recipes	62
+39343632383636	IN:GET_RECIPES	¿Cómo preparar arroz frito chino?	recipes	62
+39343632383237	IN:GET_RECIPES	Necesito una receta española para el arroz.	recipes	62
+39343632383138	IN:GET_RECIPES	Dime cómo cocinar espaguetis	recipes	62
+39343632373839	IN:GET_RECIPES	Necesito una receta de enchiladas con pollo	recipes	62
+39343632333532	IN:GET_RECIPES	Necesito una receta fácil de bizcocho de plátano	recipes	62
+39343632313334	IN:GET_RECIPES	¿Cómo puedo hacer masa de pizza en casa?	recipes	62
+39343632313138	IN:GET_RECIPES	Recetas para preparar un batido de vegetales saludable	recipes	62
+39343631393639	IN:GET_RECIPES	Cómo hacer comida para bebé	recipes	62
+39343631373234	IN:GET_RECIPES	Encuentra una receta paleo de pizza	recipes	62
+39343631373035	IN:GET_RECIPES	¿cómo haría pan sin gluten?	recipes	62
+39343631363735	IN:GET_RECIPES	Recetas rápidas y fáciles	recipes	62
+39343631353734	IN:GET_RECIPES	Necesito una receta con pepinos	recipes	62
+39343631333930	IN:GET_RECIPES	Cómo preparar pollo bourbon	recipes	62
+39343631333437	IN:GET_RECIPES	Cómo haces la masa para pizza	recipes	62
+39343631323834	IN:GET_RECIPES	Necesito una receta de masa de tarta casera	recipes	62
+39343631313931	IN:GET_RECIPES	Cómo hago galletas caseras con chispas de chocolate	recipes	62
+39343631303938	IN:GET_RECIPES	Consígueme recetas de Zanzibar	recipes	62
+39343631303834	IN:GET_RECIPES	Encuéntrame una receta con aceitunas negras	recipes	62
+39343630393434	IN:GET_RECIPES	Puedes decirme cómo hacer wontón de queso crema	recipes	62
+39343630373334	IN:GET_RECIPES	Encuentra una receta con berenjena y salchicha	recipes	62
+39343630363932	IN:GET_RECIPES	Cómo se hacen panqueques veganos	recipes	62
+39343630363836	IN:GET_RECIPES	Encuentra ideas rápidas para la cena	recipes	62
+39343630363031	IN:GET_RECIPES	Dime cómo hacer pan integral	recipes	62
+39343630353433	IN:GET_RECIPES	Recetas veganas fáciles	recipes	62
+39343630343739	IN:GET_RECIPES	Dime como hacer un arroz blanco perfecto	recipes	62
+39343630343435	IN:GET_RECIPES	¿Cómo se cocina una pizza suprema?	recipes	62
+39343630333634	IN:GET_RECIPES	cómo se cocina el arroz frito	recipes	62
+39343630333335	IN:GET_RECIPES	Necesito una receta para marinar carne	recipes	62
+39343630313732	IN:GET_RECIPES	Necesito una receta para cupcake	recipes	62
+39343539393731	IN:GET_RECIPES	¿Puedes encontrar la mejor receta de galleta con chips de chocolate?	recipes	62
+39343539393637	IN:GET_RECIPES	Cómo se hace el pollo marsala	recipes	62
+39343539373134	IN:GET_RECIPES	receta de sopa vegetariana	recipes	62
+39343539363639	IN:GET_RECIPES	Necesito una receta para hornear una pizza de corteza delgada	recipes	62
+39343539313839	IN:GET_RECIPES	Recetas de sushi japonés	recipes	62
+39343539303137	IN:GET_RECIPES	RECETAS PARA EL DESAYUNO	recipes	62
+39343538393830	IN:GET_RECIPES	¿qué postre existe sin gluten y sin huevo?	recipes	62
+39343538353035	IN:GET_RECIPES	cómo se hace la salsa de tomate	recipes	62
+39343538343332	IN:GET_RECIPES	¿Cómo preparo un bistec húmedo?	recipes	62
+39343538323936	IN:GET_RECIPES	Ayúdame a hacer una quiche	recipes	62
+39343538323634	IN:GET_RECIPES	Necesito una receta para el espagueti	recipes	62
+39343538303732	IN:GET_RECIPES	recetas de pizza de masa plana	recipes	62
+39343538303638	IN:GET_RECIPES	Buscar receta de sopa de pollo con fideos	recipes	62
+39343537393432	IN:GET_RECIPES	cómo hacer espaguetis con pollo	recipes	62
+39343537373435	IN:GET_RECIPES	Cómo cocinar comidas fáciles	recipes	62
+39343537373232	IN:GET_RECIPES	Receta para tacos de pollo	recipes	62
+39343537363237	IN:GET_RECIPES	Dime una receta de pollo a la alfredo	recipes	62
+39343537333235	IN:GET_RECIPES	Encuéntrame una receta mexicana	recipes	62
+39343537333234	IN:GET_RECIPES	¿Cuál es la receta de la sopa de Cebolla Francesa?	recipes	62
+39343537313939	IN:GET_RECIPES	Necesito una receta de pollo parmesano	recipes	62
+39343537313335	IN:GET_RECIPES	Enséñame una receta de bistec	recipes	62
+39343537313035	IN:GET_RECIPES	Dame recetas de comida india no picante	recipes	62
+39343536393231	IN:GET_RECIPES	Recetas de tacos	recipes	62
+39343536353839	IN:GET_RECIPES	Qué recetas de cenas saludables rápidas hay	recipes	62
+39343536353834	IN:GET_RECIPES	¿Cuál es la receta de una comida tradicional de México?	recipes	62
+39343536333736	IN:GET_RECIPES	¿Cuál es la receta de la tarta de Tres Leches?	recipes	62
+39343536323836	IN:GET_RECIPES	¿Cuál es la receta básica para el pollo Marsala?	recipes	62
+39343536323636	IN:GET_RECIPES	lee la receta	recipes	62
+39343536323236	IN:GET_RECIPES	Recetas para preparar costillas cortas	recipes	62
+39343536313930	IN:GET_RECIPES	Dame una  receta francesa	recipes	62
+39343536313238	IN:GET_RECIPES	Encuentra la receta de pollo vindaloo	recipes	62
+39343536313235	IN:GET_RECIPES	Cómo preparar pollo con dumplings desde cero, por favor	recipes	62
+39343536303131	IN:GET_RECIPES	¿Cuál es una buena receta para el pastel de carne?	recipes	62
+39343535393737	IN:GET_RECIPES	Cómo se hace el arroz español	recipes	62
+39343535393730	IN:GET_RECIPES	cocinar un pavo	recipes	62
+39343535373931	IN:GET_RECIPES	Receta de scampi de camarones	recipes	62
+39343535353834	IN:GET_RECIPES	¿Qué puedo hacer con huevos, harina, jamón, fideos, queso y cebollas?	recipes	62
+39343535323130	IN:GET_RECIPES	Quiero hacer «pho», qué necesito	recipes	62
+39343535323034	IN:GET_RECIPES	Cómo hago pan desde cero	recipes	62
+39343535313036	IN:GET_RECIPES	cómo hacer helado en casa	recipes	62
+39343535303738	IN:GET_RECIPES	Receta de sopa de boniato	recipes	62
+39343535303133	IN:GET_RECIPES	Búscame una receta fácil de ensalada de pasta	recipes	62
+39343534393633	IN:GET_RECIPES	¿Cómo se prepara el pollo a la Alfredo?	recipes	62
+3231373439373931	IN:GET_CATEGORY_EVENT	¿Qué tipo de evento es Dinosaur Jr.?	event	63
+3231373439383739	IN:GET_CATEGORY_EVENT	¿Qué tipo de evento es Los sueños de la bella durmiente?	event	63
+3231373439383732	IN:GET_CATEGORY_EVENT	¿De qué se trata la fiesta Trash Party?	event	63
+3231333531343430	IN:SET_UNAVAILABLE	no disponible	calling	64
+3231333530393530	IN:SET_UNAVAILABLE	Actualmente no estoy disponible	calling	64
+3231333530383137	IN:SET_UNAVAILABLE	fijar en usuario ocupado	calling	64
+3231333530363230	IN:SET_UNAVAILABLE	Cambia mi estado de disponible a no disponible en este momento.	calling	64
+3231333530333737	IN:SET_UNAVAILABLE	Actualmente no estoy disponible	calling	64
+3231333530333731	IN:SET_UNAVAILABLE	No estoy disponible ahora	calling	64
+3231333530333636	IN:SET_UNAVAILABLE	por favor hazme no disponible	calling	64
+3231333530333634	IN:SET_UNAVAILABLE	No estoy disponible	calling	64
+3231333439373034	IN:SET_UNAVAILABLE	Pon el celular en no molestar	calling	64
+3231333439323138	IN:SET_UNAVAILABLE	Configura mi disponibilidad a ocupado	calling	64
+3231333439313432	IN:SET_UNAVAILABLE	Cambia mi disponibilidad a no disponible	calling	64
+3231333438363636	IN:SET_UNAVAILABLE	Estoy muy ocupado ahora mismo.	calling	64
+3231333438323930	IN:SET_UNAVAILABLE	Establecer mi disponibilidad actual como no disponible	calling	64
+39343631323836	IN:IS_TRUE_RECIPES	¿Se puede asar una patata en el microondas?	recipes	66
+39343630373431	IN:IS_TRUE_RECIPES	¿Necesito poner tomates en los tacos?	recipes	66
+39343630353534	IN:IS_TRUE_RECIPES	¿La salchicha tiene sal?	recipes	66
+39343630353233	IN:IS_TRUE_RECIPES	¿Puedo agregar vainilla a los panqueques	recipes	66
+39343539353937	IN:IS_TRUE_RECIPES	Puedo omitir la sal en las galletas con chispas de chocolate	recipes	66
+39343538343833	IN:IS_TRUE_RECIPES	Hay cebollas en el gulash	recipes	66
+39343538333536	IN:IS_TRUE_RECIPES	¿El pollo es más suave que el pavo?	recipes	66
+39343536383734	IN:IS_TRUE_RECIPES	¿Una pizza es más nutritiva que una hamburguesa?	recipes	66
+3231353232303833	IN:CREATE_PLAYLIST_MUSIC	Crea una lista de reproducción que se llame «Canciones para cantar en el coche»	music	67
+3132353836373730	IN:CREATE_PLAYLIST_MUSIC	Crea lista de reproducción de Beyonce	music	67
+3132353830353538	IN:CREATE_PLAYLIST_MUSIC	Crear lista de reproducción de Christina Grimmie	music	67
+3132353637353531	IN:CREATE_PLAYLIST_MUSIC	crear una lista de reproducción de música pop	music	67
+3231323239303233	IN:HELP_REMINDER	¿Cómo cambio mis recordatorios de las clases de ballet?	reminder	68
+3231333437343532	IN:SWITCH_CALL	Finaliza y transfiere llamadas, por favor	calling	69
+3231333436393831	IN:SWITCH_CALL	Por favor, cámbiame a la otra llamada telefónica	calling	69
+3231333436393632	IN:SWITCH_CALL	Desvía a llamada entrante	calling	69
+3231333436333035	IN:SWITCH_CALL	Cambia invitación	calling	69
+3231333435373730	IN:SWITCH_CALL	pausar y contestar la nueva llamada	calling	69
+3231333433393636	IN:SWITCH_CALL	Desconecta y responde la otra línea.	calling	69
+39353737323138	IN:RESUME_MUSIC	Reanuda la canción.	music	71
+3231353437303832	IN:GET_CALL_TIME	A qué hora me llamó Hugo ayer	calling	73
+3231353437303539	IN:GET_CALL_TIME	¿Cuándo me llamó la abuela?	calling	73
+3231353436383733	IN:GET_CALL_TIME	¿A qué hora hizo mi marido la videollamada?	calling	73
+3231353436383130	IN:GET_CALL_TIME	Cuándo me llamó Jen	calling	73
+3232323232363730	IN:UPDATE_TIMER	actualiza mi cronómetro para Meter el pollo en la nevera	timer	74
+3232313136343431	IN:UPDATE_TIMER	Cambia el temporizador a 2 horas	timer	74
+3231393531343937	IN:UPDATE_TIMER	Por favor actualizar esos cronómetros	timer	74
+3135323934313335	IN:UPDATE_TIMER	Cambia el temporizador para las galletas a 11 minutos	timer	74
+39353830373231	IN:UPDATE_TIMER	cambia el temporizador 10 a 15	timer	74
+39353638383530	IN:UPDATE_TIMER	modificar temporizador	timer	74
+39353435393037	IN:UPDATE_TIMER	Cambia mi temporizador actual a 30 minutos restantes	timer	74
+3231303232353939	IN:IGNORE_CALL	ignorar a jane	calling	75
+3231303232343037	IN:IGNORE_CALL	No respondas llamadas de Donald o eric	calling	75
+3231303231383933	IN:IGNORE_CALL	Envía todas las llamadas de esta noche al correo de voz	calling	75
+3231303137343630	IN:IGNORE_CALL	Manda a mamá al buzón de voz	calling	75
+3231303136383432	IN:IGNORE_CALL	Ignora la llamada de Mamá.	calling	75
+3231303136373830	IN:IGNORE_CALL	Rechazar las llamadas de mis novios	calling	75
+3231303136363334	IN:IGNORE_CALL	Ignora la siguiente llamada.	calling	75
+3132353836323535	IN:GET_SUNRISE	cuántas horas faltan para el amanecer	weather	76
+3232313136333635	IN:GET_SUNRISE	¿A qué hora amanece el martes por la mañana?	weather	76
+3231373034343434	IN:GET_SUNRISE	Dime a qué hora amanece el jueves en Anaheim.	weather	76
+3231333434343634	IN:ANSWER_CALL	Contesta la nueva llamada, por favor	calling	77
+3231333339393938	IN:ANSWER_CALL	Contestar llamada de Mary	calling	77
+3231333132393330	IN:ANSWER_CALL	Coge la llamada de mis padres	calling	77
+3231333130373230	IN:ANSWER_CALL	Responde la llamada de mamá Trudy	calling	77
+3231333130333737	IN:ANSWER_CALL	contestar cualquier llamada de mi suegro	calling	77
+3231333130313336	IN:ANSWER_CALL	Por favor, acepta la videollamada de mis primos	calling	77
+3231333039323031	IN:ANSWER_CALL	¿Puedes responder la videollamada de los sobrinos?	calling	77
+39353636353936	IN:GET_STORIES_NEWS	Muéstrame las últimas noticias.	news	78
+39353636323234	IN:GET_STORIES_NEWS	léeme los titulares principales por favor	news	78
+39353635383031	IN:GET_STORIES_NEWS	Enséñame noticias de Europa	news	78
+39353635343239	IN:GET_STORIES_NEWS	¿Cuáles son las noticias actuales del momento?	news	78
+39353635333837	IN:GET_STORIES_NEWS	cuáles son los titulares de las noticias	news	78
+39353634343330	IN:GET_STORIES_NEWS	noticias de socal	news	78
+39353634333130	IN:GET_STORIES_NEWS	léeme el último titular sobre la investigación rusa	news	78
+39353633393930	IN:GET_STORIES_NEWS	¿Qué noticias hay hoy?	news	78
+39353633393636	IN:GET_STORIES_NEWS	Lee todas las noticias en magnolia, texas	news	78
+39353633363736	IN:GET_STORIES_NEWS	Mejores historias de entretenimiento	news	78
+39353632393738	IN:GET_STORIES_NEWS	¿Puedes mostrarme el artículo?	news	78
+39353632373831	IN:GET_STORIES_NEWS	¿Hay noticias sobre el mercado inmobiliario hoy?	news	78
+39353632363533	IN:GET_STORIES_NEWS	Noticias sobre Hillary Clinton	news	78
+39353632353834	IN:GET_STORIES_NEWS	Dame los últimos 10 titulares.	news	78
+39353631363333	IN:GET_STORIES_NEWS	Lee sólo lo resaltado.	news	78
+39353631333038	IN:GET_STORIES_NEWS	Dame noticias del caso Daniel Clay.	news	78
+39353630393634	IN:GET_STORIES_NEWS	qué hay en las noticias	news	78
+39353539383939	IN:GET_STORIES_NEWS	lee titulares de salud del Washington Post	news	78
+39353539363737	IN:GET_STORIES_NEWS	Buscar noticias acerca del divorcio de Angelina Jolie	news	78
+39353539333939	IN:GET_STORIES_NEWS	Léeme el titular sobre Johnny Wong	news	78
+39353538343137	IN:GET_STORIES_NEWS	¿Cuáles son los titulares de hoy?	news	78
+39353538323434	IN:GET_STORIES_NEWS	Ver noticias sobre O.J. Simpson	news	78
+39353538313837	IN:GET_STORIES_NEWS	Lee los detalles sobre Donald Trump	news	78
+39353537363838	IN:GET_STORIES_NEWS	¿Alguna historia nueva en la última hora?	news	78
+39353537333531	IN:GET_STORIES_NEWS	Muéstrame las noticias de hoy	news	78
+39353537333231	IN:GET_STORIES_NEWS	cuál es el titular para orlando florida	news	78
+39353536363338	IN:GET_STORIES_NEWS	qué está pasando en las noticias de hoy	news	78
+39353535383136	IN:GET_STORIES_NEWS	Noticias para el día de hoy	news	78
+39353535363730	IN:GET_STORIES_NEWS	Léeme los titulares recientes de deportes	news	78
+39353535343933	IN:GET_STORIES_NEWS	¿Alguna noticia de Doctor Who?	news	78
+39353535343634	IN:GET_STORIES_NEWS	Noticias de la pretemporada de fútbol	news	78
+39353535333038	IN:GET_STORIES_NEWS	¿Hay alguna noticia de última hora?	news	78
+39353535313731	IN:GET_STORIES_NEWS	Dame una actualización de noticias sobre Rusia	news	78
+39353534353039	IN:GET_STORIES_NEWS	Actualización de noticias en Charlottesville	news	78
+39353531333437	IN:GET_STORIES_NEWS	Por favor, lee los detalles sobre los bebés recién nacidos de Beyonce.	news	78
+39353530383838	IN:GET_STORIES_NEWS	Léeme los titulares de Chicago	news	78
+39353439353737	IN:GET_STORIES_NEWS	noticias actualizadas de California	news	78
+39353439343936	IN:GET_STORIES_NEWS	¿Hay nuevos titulares de Taylor Swift?	news	78
+39353439333132	IN:GET_STORIES_NEWS	Pon las noticias de Londres	news	78
+39353439303433	IN:GET_STORIES_NEWS	Léeme las últimas noticias sobre Southwest Airlines.	news	78
+39353438383237	IN:GET_STORIES_NEWS	¿Cuáles son las noticias destacadas del New York Times?	news	78
+39353438343831	IN:GET_STORIES_NEWS	Por favor, léeme titulares recientes de CNN	news	78
+39353438313933	IN:GET_STORIES_NEWS	Lea la portada del Wall Street Journal.	news	78
+39353437393931	IN:GET_STORIES_NEWS	¿Qué noticias locales hay?	news	78
+39353437333334	IN:GET_STORIES_NEWS	Cuéntame sobre las noticias en Nueva Zelanda	news	78
+39353437303134	IN:GET_STORIES_NEWS	¿hay información nueva sobre Corea del Norte?	news	78
+39353436333333	IN:GET_STORIES_NEWS	Muéstrame las mejores fotos de los titulares de hoy	news	78
+39353435333837	IN:GET_STORIES_NEWS	hay algo importante en las noticias de hoy	news	78
+39353435313735	IN:GET_STORIES_NEWS	Noticias recientes de la NFL	news	78
+39353434323233	IN:GET_STORIES_NEWS	¿Alguna noticia internacional importante?	news	78
+39353433363130	IN:GET_STORIES_NEWS	¿cuáles son los últimos titulares de MSNBC?	news	78
+39353433303533	IN:GET_STORIES_NEWS	Por favor dame noticias de CNN	news	78
+39353432373336	IN:GET_STORIES_NEWS	Muéstrame los titulares de MSNBC	news	78
+39353432323130	IN:GET_STORIES_NEWS	Quiero escuchar las noticias	news	78
+39353431333133	IN:GET_STORIES_NEWS	¿Noticias importantes en Florida?	news	78
+39353430383236	IN:GET_STORIES_NEWS	Léeme los titulares del Washington Post.	news	78
+39353339323236	IN:GET_STORIES_NEWS	Dime las noticias de Avondale, Arizona	news	78
+39353338373133	IN:GET_STORIES_NEWS	noticias sobre el isis	news	78
+39353337363832	IN:GET_STORIES_NEWS	Por favor dame un buen titular	news	78
+39353336373130	IN:GET_STORIES_NEWS	Necesito noticias actualizadas de Wichita, Ks.	news	78
+39353336363134	IN:GET_STORIES_NEWS	Actualización de noticias sobre Trump y Rusia.	news	78
+39353335333330	IN:GET_STORIES_NEWS	Léeme los titulares de hoy.	news	78
+39353335303637	IN:GET_STORIES_NEWS	Por favor, dame noticias sobre Hillary Clinton.	news	78
+39353334313533	IN:GET_STORIES_NEWS	Por favor, cuéntame las noticias de hoy.	news	78
+39353334313138	IN:GET_STORIES_NEWS	Todas las noticias de hoy	news	78
+39353333323131	IN:GET_STORIES_NEWS	Necesito las noticias, por favor.	news	78
+39353332363434	IN:GET_STORIES_NEWS	Lee las noticias del mundo.	news	78
+39353332353339	IN:GET_STORIES_NEWS	Actualiza las noticias ahora	news	78
+39353332333939	IN:GET_STORIES_NEWS	Actualización de noticias para hoy	news	78
+39353332333539	IN:GET_STORIES_NEWS	Lee los detalles de la investigación sobre Rusia	news	78
+39353332333039	IN:GET_STORIES_NEWS	¿Alguna noticia acerca de la marcha que hubo en el centro?	news	78
+39353332323935	IN:GET_STORIES_NEWS	Noticias sobre brutalidad policial	news	78
+39353331373930	IN:GET_STORIES_NEWS	dame noticias de WCCO Channel 4	news	78
+39353331313532	IN:GET_STORIES_NEWS	¿Qué pasó a mi alrededor en las noticias de hoy?	news	78
+39353238303338	IN:GET_STORIES_NEWS	Necesito las noticias.	news	78
+39353236383938	IN:GET_STORIES_NEWS	Dime algunos titulares de noticias locales	news	78
+39353236373237	IN:GET_STORIES_NEWS	Titulares de noticias del Medio Oriente	news	78
+39353236353631	IN:GET_STORIES_NEWS	¿Cuál es el artículo principal en el Citizen-Times de hoy?	news	78
+39353236343837	IN:GET_STORIES_NEWS	¿Cuáles son las historias principales de Sky News??	news	78
+39353235393136	IN:GET_STORIES_NEWS	¿Están pasando algo ahora en las noticias locales?	news	78
+39353235353537	IN:GET_STORIES_NEWS	Las noticias de deportes en ESPN de anoche	news	78
+39353234353438	IN:GET_STORIES_NEWS	Titulares de política	news	78
+39353234323231	IN:GET_STORIES_NEWS	Llévame a las noticias deportivas	news	78
+39353233393833	IN:GET_STORIES_NEWS	¿Alguna nueva noticia sobre Corea del Norte?	news	78
+39353233313132	IN:GET_STORIES_NEWS	Dime las noticias locales de Nueva York.	news	78
+39353232313137	IN:GET_STORIES_NEWS	¿Cuál es el principal titular de noticias en CNN?	news	78
+39353231323933	IN:GET_STORIES_NEWS	¿Algún dato nuevo sobre el caso Taylor Swift?	news	78
+39353231313035	IN:GET_STORIES_NEWS	Titulares en CNN	news	78
+39353231303734	IN:GET_STORIES_NEWS	Dame las noticias de hoy.	news	78
+39353138393837	IN:GET_STORIES_NEWS	¿Cuáles son los encabezados en Europa hoy?	news	78
+39353138373236	IN:GET_STORIES_NEWS	¿Cuáles son las noticias de tendencia para Auburn, AL?	news	78
+39353138313037	IN:GET_STORIES_NEWS	¿Qué sale en los titulares de las noticias?	news	78
+39353135383931	IN:GET_STORIES_NEWS	alguna noticia sobre Taylor Swift	news	78
+39353135383730	IN:GET_STORIES_NEWS	¿Qué hay nuevo en las noticias nacionales?	news	78
+39353135363931	IN:GET_STORIES_NEWS	Cuál es el titular principal de hoy	news	78
+39353134383731	IN:GET_STORIES_NEWS	¿Alguna noticia sobre los incendios forestales?	news	78
+39353134333733	IN:GET_STORIES_NEWS	¿Puedes darme más detalles sobre el juicio de Taylor Swift?	news	78
+39353134323334	IN:GET_STORIES_NEWS	Muéstrame los titulares de Fox News más importantes	news	78
+39353133313733	IN:GET_STORIES_NEWS	¿Cuáles son las historias principales de Londres esta semana?	news	78
+39353132363531	IN:GET_STORIES_NEWS	Dame un resumen rápido de las principales las noticias mundiales.	news	78
+39353132353938	IN:GET_STORIES_NEWS	háblame de noticias sobre la guerra contra el terrorismo	news	78
+39353132313539	IN:GET_STORIES_NEWS	Buscarme noticias de la ciudad de Nueva York	news	78
+39353131363238	IN:GET_STORIES_NEWS	¿Hay alguna noticia que tenga que ver con Rusia?	news	78
+39353131343630	IN:GET_STORIES_NEWS	¿CUÁLES SON LOS DETALLES DE CUANDO DONALD TRUMP DESPIDE A SU PERSONAL?	news	78
+39353131313336	IN:GET_STORIES_NEWS	¿alguna nueva noticia sobre animales?	news	78
+39353130313231	IN:GET_STORIES_NEWS	¿Algún titular importante?	news	78
+39353039353537	IN:GET_STORIES_NEWS	QUÉ NOTICIAS HAY EN PARÍS	news	78
+39353039313536	IN:GET_STORIES_NEWS	¿Alguna noticia de la Casa Blanca hoy?	news	78
+39353037393137	IN:GET_STORIES_NEWS	Lee el resumen de noticias internacionales	news	78
+39353037383938	IN:GET_STORIES_NEWS	Quiero saber las noticias	news	78
+39353036353139	IN:GET_STORIES_NEWS	¿Cuáles son las noticias sobre Donald Trump?	news	78
+39353036303837	IN:GET_STORIES_NEWS	Noticias Trump Rusia	news	78
+39353034363031	IN:GET_STORIES_NEWS	¿Cuáles son los titulares de política?	news	78
+39353034353931	IN:GET_STORIES_NEWS	¿Ha habido alguna noticia últimamente sobre Barack Obama?	news	78
+39353034333136	IN:GET_STORIES_NEWS	cuáles son las noticias en Londres hoy	news	78
+39353033393635	IN:GET_STORIES_NEWS	¿Hay alguna noticia que deba saber hoy?	news	78
+39353033383738	IN:GET_STORIES_NEWS	Quiero escuchar las noticias  entretenimiento de hoy	news	78
+39353033323834	IN:GET_STORIES_NEWS	Léeme los titulares de noticias nacionales	news	78
+39353033313636	IN:GET_STORIES_NEWS	¿Hubo noticias del concierto en Portland?	news	78
+39353033303032	IN:GET_STORIES_NEWS	Dame detalles sobre la conferencia de prensa de la Casa Blanca de hoy	news	78
+39353030383838	IN:GET_STORIES_NEWS	Las mejores historias de la ciudad de Nueva York	news	78
+39353030373234	IN:GET_STORIES_NEWS	¿Cuáles son las últimas noticias de la Reina Elizabeth este mes?	news	78
+39353030343530	IN:GET_STORIES_NEWS	Lee los titulares de Fox News	news	78
+39343939393735	IN:GET_STORIES_NEWS	Noticias de Fort Lauderdale	news	78
+39343938373436	IN:GET_STORIES_NEWS	¿Puedes darme más detalles sobre la crisis de inmigración?	news	78
+39343938353734	IN:GET_STORIES_NEWS	Noticias sobre el tiroteo en Grand Rapids	news	78
+3231333534323836	IN:UPDATE_CALL	Incluye al director en la llamada	calling	79
+3231333533363838	IN:UPDATE_CALL	Agrega a Nick a la llamada	calling	79
+3231333533363632	IN:UPDATE_CALL	Agrega a Alexander a la llamada	calling	79
+3231333533353636	IN:UPDATE_CALL	Agregar a la llamada por mí	calling	79
+3231333533353536	IN:UPDATE_CALL	Envía una invitación a Bob para esta llamada	calling	79
+3231333531353237	IN:UPDATE_CALL	Por favor agrega a Francine a la llamada.	calling	79
+3231333531333533	IN:UPDATE_CALL	por favor añade a Sharon a la llamada ahora	calling	79
+3231333531333532	IN:UPDATE_CALL	Agregar a Erica a la llamada	calling	79
+3231333531333037	IN:UPDATE_CALL	conectar a un amigo en mi llamada	calling	79
+3231333530353239	IN:UPDATE_CALL	añade a Betty a la llamada ahora	calling	79
+3231333530353236	IN:UPDATE_CALL	Invita a Jean y a Bill a esta llamada	calling	79
+3231333436333033	IN:UPDATE_CALL	Conecta a Madeline a esta llamada	calling	79
+3231333435333634	IN:UPDATE_CALL	Necesito agregar a alguien a esta llamada	calling	79
+3231333431393638	IN:UPDATE_CALL	Agrega a Sarah a la llamada	calling	79
+3231333431393035	IN:UPDATE_CALL	Llama a Susie también	calling	79
+3231333431383839	IN:UPDATE_CALL	añade a John a la siguiente llamada	calling	79
+3231333431373634	IN:UPDATE_CALL	Agregar a Paul en la llamada	calling	79
+3231333431373336	IN:UPDATE_CALL	Agregar a Kelly a la llamada en curso	calling	79
+3231333431373034	IN:UPDATE_CALL	Añade a Will a la llamada	calling	79
+3231333431323933	IN:UPDATE_CALL	Invitemos a mi madre a la llamada	calling	79
+3231333431323839	IN:UPDATE_CALL	añade a mi padre a la llamada	calling	79
+3231333430393830	IN:UPDATE_CALL	unir a nicole a esta llamada	calling	79
+3231333430393130	IN:UPDATE_CALL	Agregar a David a la llamada con Toni	calling	79
+3231333430393036	IN:UPDATE_CALL	Trae a Jesse a esta llamada	calling	79
+3231333430383631	IN:UPDATE_CALL	Trae a mamá a esta llamada	calling	79
+3231333430363530	IN:UPDATE_CALL	Necesito agregar a Mamá a la llamada	calling	79
+3231333430353832	IN:UPDATE_CALL	Quiero vincular a Brady a esta llamada	calling	79
+3231333430353435	IN:UPDATE_CALL	Por favor, permite que Mary entre en esta llamada	calling	79
+3231333430343231	IN:UPDATE_CALL	¿Puedes agregar a Nikki a esta llamada?	calling	79
+3231333430343130	IN:UPDATE_CALL	Quiero invitar a Nikki a mi llamada actual	calling	79
+3231333430333932	IN:UPDATE_CALL	Invita a mamá a esta llamada.	calling	79
+3231333430333930	IN:UPDATE_CALL	Invita a mamá y papá a la llamada	calling	79
+3231333430313033	IN:UPDATE_CALL	invita a Paul a la llamada	calling	79
+3231333430303131	IN:UPDATE_CALL	Me gustaría enviarle una invitación a una llamada a Joey	calling	79
+3231333339373133	IN:UPDATE_CALL	Por favor, invita a Sara a participar en la llamada	calling	79
+3231333339363839	IN:UPDATE_CALL	Por favor, invita a Dan a mi llamada grupal	calling	79
+3231333339363435	IN:UPDATE_CALL	Agrega a Elle a esta llamada por favor	calling	79
+3231333339363433	IN:UPDATE_CALL	Pon a Glenda en esta llamada	calling	79
+3231333339363333	IN:UPDATE_CALL	Agrega a mamá a esta llamada, por favor	calling	79
+3132353833323432	IN:PREVIOUS_TRACK_MUSIC	Ve a la canción anterior	music	81
+3132353634363333	IN:PREVIOUS_TRACK_MUSIC	por favor, repite la última canción	music	81
+39353531313332	IN:PREVIOUS_TRACK_MUSIC	Repite esa última canción.	music	81
+39353331313237	IN:PREVIOUS_TRACK_MUSIC	Quiero volver a reproducir la pista anterior	music	81
+39353236373130	IN:PREVIOUS_TRACK_MUSIC	última canción de nuevo, por favor	music	81
+39353037363839	IN:PREVIOUS_TRACK_MUSIC	Retrocede una o dos canciones	music	81
+39353638333132	IN:SUBTRACT_TIME_TIMER	Quita 5 minutos del temporizador.	timer	82
+39353138383135	IN:SUBTRACT_TIME_TIMER	Por favor quita 1 hora de mi temporizador	timer	82
+39353134373735	IN:SUBTRACT_TIME_TIMER	Toma 15 mins del temporizador	timer	82
+39353134353835	IN:SUBTRACT_TIME_TIMER	Reduce en 15 segundos el tiempo en mi cronómetro.	timer	82
+39343935323936	IN:SUBTRACT_TIME_TIMER	Resta diez minutos del temporizador actual.	timer	82
+39343839393834	IN:SUBTRACT_TIME_TIMER	Resta 15 minutos	timer	82
+39343832383931	IN:SUBTRACT_TIME_TIMER	Quitar 11 minutos al temporizador	timer	82
+39343736313736	IN:SUBTRACT_TIME_TIMER	Cambia el temporizador para sonar en 10 minutos	timer	82
+39353831373135	IN:QUESTION_MUSIC	¿Cuántos álbumes hay de The Judds?	music	83
+39353737323631	IN:QUESTION_MUSIC	Cómo se llama el último álbum de Pink.	music	83
+39353735303632	IN:QUESTION_MUSIC	Quién cantó No problem	music	83
+3231353938383034	IN:SILENCE_ALARM	Apaga la alarma que había programado	alarm	85
+3231353535373236	IN:SILENCE_ALARM	Detén la alarma	alarm	85
+3231353535363930	IN:SILENCE_ALARM	Necesito que apagues la alarma	alarm	85
+3231353535363834	IN:SILENCE_ALARM	silencia la alarma	alarm	85
+3231353535363139	IN:SILENCE_ALARM	Apaga la alarma	alarm	85
+3231353535353736	IN:SILENCE_ALARM	Silencio, por favor	alarm	85
+3231353535343337	IN:SILENCE_ALARM	Silencia mi alarma	alarm	85
+3231353439333839	IN:SILENCE_ALARM	Detén mis alarmas.	alarm	85
+39353631313035	IN:SILENCE_ALARM	Apaga mi alarma	alarm	85
+39353539303639	IN:SILENCE_ALARM	Apaga mi alarma.	alarm	85
+39353439303239	IN:SILENCE_ALARM	finaliza la alarma	alarm	85
+3231363030323537	IN:CREATE_ALARM	Crear una alarma para ir a dormir	alarm	87
+3231363030323332	IN:CREATE_ALARM	Crear una alarma para el anticonceptivo a las 9:30 p. m.	alarm	87
+3231363030313938	IN:CREATE_ALARM	Crea una alarma despertador.	alarm	87
+3231363030303236	IN:CREATE_ALARM	Quisiera una alarma a las 8 am para el lunes, martes y jueves por los siguientes 3 meses	alarm	87
+3231353939383635	IN:CREATE_ALARM	¿Podrías poner una alarma a las 7 de la mañana para los días laborables, por favor?	alarm	87
+3231353939373833	IN:CREATE_ALARM	Repetir mi alarma a las 07:00 y a las 07:15	alarm	87
+3231353939373433	IN:CREATE_ALARM	Pon una alerta para mi cita médica el lunes a las 8 AM y a las 8:30 AM	alarm	87
+3231353939373333	IN:CREATE_ALARM	Prepara alarmas para las 9 p. m. y las 10 a. m.	alarm	87
+3231353939363530	IN:CREATE_ALARM	Pon dos alarmas a las 6am y a las 9am todos los días por dos semanas	alarm	87
+3231353535333833	IN:CREATE_ALARM	Pon una alarma nueva para las 8:00 horas	alarm	87
+3231353535333732	IN:CREATE_ALARM	Necesito una alarma mañana al mediodía	alarm	87
+3231353535333032	IN:CREATE_ALARM	Necesito una alarma a las 2 p. m.	alarm	87
+3231353535323935	IN:CREATE_ALARM	Nueva alarma a las 8 a.m.	alarm	87
+3231353535323837	IN:CREATE_ALARM	Quiero despertarme a las 8 de la mañana	alarm	87
+3231353535323237	IN:CREATE_ALARM	¿Puedes poner una alarma para las 7 a.m. por favor?	alarm	87
+3231353535323130	IN:CREATE_ALARM	Crea una alarma para las 9 PM, por favor.	alarm	87
+3231353535323032	IN:CREATE_ALARM	Pon una alarma para las 8.30 am	alarm	87
+3231353535313231	IN:CREATE_ALARM	Necesito la nueva alarma para las 7 AM	alarm	87
+3231353535303632	IN:CREATE_ALARM	Crea una alarma para las 6 AM.	alarm	87
+3231353535303031	IN:CREATE_ALARM	Pon una alarma para el jueves por la mañana	alarm	87
+3231353534393839	IN:CREATE_ALARM	Inicia la alarma el viernes a las 3:30 p. m.	alarm	87
+3231353534393835	IN:CREATE_ALARM	Pon una alarma de lunes a viernes a las 7 a.m.	alarm	87
+3231353534393633	IN:CREATE_ALARM	Crea una alarma para el sábado a las 11 PM	alarm	87
+3231353534393631	IN:CREATE_ALARM	programa la alarma para el domingo por la mañana a las 9am	alarm	87
+3231353534393534	IN:CREATE_ALARM	Por favor pon la alarma para mañana a las 7	alarm	87
+3231353534383236	IN:CREATE_ALARM	Pon una nueva alarma para el miércoles a las 8 am	alarm	87
+3231353534383232	IN:CREATE_ALARM	Programa una nueva alarma para el sábado	alarm	87
+3231353534373734	IN:CREATE_ALARM	Pon una nueva alarma para las 7 de la mañana del martes	alarm	87
+3231353534373032	IN:CREATE_ALARM	Crea una alarma nueva para el viernes a las 9 p. m.	alarm	87
+3231353534363934	IN:CREATE_ALARM	puedes establecer una alarma para el viernes a las 9am	alarm	87
+3231353534363531	IN:CREATE_ALARM	Activa alarma para mañana por la mañana	alarm	87
+3231353534363530	IN:CREATE_ALARM	Establece una alarma para el viernes a las 5	alarm	87
+3231353534363437	IN:CREATE_ALARM	Crear una alarma para las 10 de la mañana, por favor	alarm	87
+3231353534363030	IN:CREATE_ALARM	Pon una alarma nueva para el 15 de julio a las 6:00 AM	alarm	87
+3231353534353838	IN:CREATE_ALARM	Programa una alarma para el 4 de julio	alarm	87
+3231353534353832	IN:CREATE_ALARM	Fija la alarma para que suene a las 9 p. m. del 26 de marzo de 2019.	alarm	87
+3231353534353335	IN:CREATE_ALARM	Pon una alarma a las 20:00 horas el día 18	alarm	87
+3231353534343033	IN:CREATE_ALARM	Por favor pon una alarma para el 20 de mayo	alarm	87
+3231353534333032	IN:CREATE_ALARM	Quiero que la alarma suene a las 10 el 15 de Mayo	alarm	87
+3231353534323831	IN:CREATE_ALARM	Por favor, despiértame a las 9 de la mañana del jueves 16 de mayo.	alarm	87
+3231353534323736	IN:CREATE_ALARM	Crea una alarma para el 25 de mayo al mediodía	alarm	87
+3231353534323733	IN:CREATE_ALARM	Crea una nueva alarma para el día 4 a las 6 de la mañana	alarm	87
+3231353533373837	IN:CREATE_ALARM	Haz que mi alarma suene todos los días	alarm	87
+3231353533373731	IN:CREATE_ALARM	Pon una alarma para las 7 y las 8 de la mañana	alarm	87
+3231353533373036	IN:CREATE_ALARM	Crea dos alarmas para mañana por la mañana a las 5 y a las 8	alarm	87
+3231353533353738	IN:CREATE_ALARM	Crea alarmas para los lunes a las 7:15 y 7:30 en la mañana.	alarm	87
+3231353533353030	IN:CREATE_ALARM	Pon una alarma para las 8:00 am y 9:00 am	alarm	87
+3231353533343937	IN:CREATE_ALARM	Comienza las alarmas mensuales para los martes a las 6 a. m. y 6 p. m.	alarm	87
+3231353533343930	IN:CREATE_ALARM	Pon alarmas para las 9 am y para las 10 pm.	alarm	87
+3231353533343733	IN:CREATE_ALARM	Pon alarmas a las 12:00 pm y 6 am	alarm	87
+3231353533343530	IN:CREATE_ALARM	Pon una alarma a las 8 y 9 am	alarm	87
+3231353533343336	IN:CREATE_ALARM	Pon una alarma para el martes a las 3 a. m. y 4 a. m. que se repita	alarm	87
+3231353533323435	IN:CREATE_ALARM	El viernes crea una alarma para las 11am y luego 11pm.	alarm	87
+3231353533313832	IN:CREATE_ALARM	Pon una alarma para las 8 a. m. de mañana y las 10 a. m. del viernes	alarm	87
+3231353533313430	IN:CREATE_ALARM	Cada semana durante el próximo mes quiero una alarma a las 6 a.m. y a las 7 a.m. los viernes.	alarm	87
+3231353532343035	IN:CREATE_ALARM	Fija una alarma periódica para que suene a las 3 de la tarde los jueves para las próximas 6 semanas	alarm	87
+3231353532333933	IN:CREATE_ALARM	Crea alarmas para los miércoles a las 6 a. m.	alarm	87
+3231353532333731	IN:CREATE_ALARM	Programa una alarma a las 3.30 todos los lunes	alarm	87
+3231353532333133	IN:CREATE_ALARM	Configura una alarma de repetición para los días entre semana a las 7 a. m.	alarm	87
+3231353532323934	IN:CREATE_ALARM	Despiértame a las 7 a.m. todas las mañanas	alarm	87
+3231353532323634	IN:CREATE_ALARM	Crea una alarma diaria a las 6 p. m.	alarm	87
+3231353532313535	IN:CREATE_ALARM	Ponme una alarma repetida para todos los jueves a las 6.	alarm	87
+3231353532313031	IN:CREATE_ALARM	Pon un alarma que se repita cada viernes a las 11 de la mañana.	alarm	87
+3231353532303739	IN:CREATE_ALARM	Configura una alarma recurrente cada viernes a las 3 p. m. durante 4 semanas.	alarm	87
+3231353532303636	IN:CREATE_ALARM	Empecemos una alarma habitual los lunes a las 7 pm	alarm	87
+3231353531393934	IN:CREATE_ALARM	Crea una alarma que suene indefinidamente los martes a las 9 a. m.	alarm	87
+3231353531393635	IN:CREATE_ALARM	Establece una alarma para las próximas 7 semanas para los jueves a las 6 p. m.	alarm	87
+3231353531393235	IN:CREATE_ALARM	Por favor, crea una alarma a las 10 a. m. todos los domingos	alarm	87
+3231353531393037	IN:CREATE_ALARM	Por favor agrega una alarma para que se active todos los días a mediodía	alarm	87
+3231353531393031	IN:CREATE_ALARM	Fija una alarma todos los jueves en la mañana	alarm	87
+3231353531373339	IN:CREATE_ALARM	Crea una alarma para los viernes a las 2:30 am	alarm	87
+3231353531363931	IN:CREATE_ALARM	Nueva alarma para los jueves a las 6 a.m. por los próximos 2 meses	alarm	87
+3231353531363537	IN:CREATE_ALARM	Pon una alarma todos los lunes a las 10 de la mañana	alarm	87
+3231353531363235	IN:CREATE_ALARM	Pon una alarma diaria a las 10 a. m. durante seis semanas	alarm	87
+3231353531363234	IN:CREATE_ALARM	Pon una alarma semanal a las 17:00 de los miércoles	alarm	87
+3231353531353732	IN:CREATE_ALARM	Establece una alarma para despertarme a las 7 que se llame Trabajo	alarm	87
+3231353531353136	IN:CREATE_ALARM	Quiero una llamada para despertarme mañana en la mañana	alarm	87
+3231353531343933	IN:CREATE_ALARM	Asegúrate de que hay una alarma este jueves a las 6 de la mañana	alarm	87
+3231353531343732	IN:CREATE_ALARM	Pon una alarma para la siesta a las 3 PM	alarm	87
+3231353531333638	IN:CREATE_ALARM	Configura una alarma para ir a la escuela para las 3:15 pm	alarm	87
+3231353531323733	IN:CREATE_ALARM	Por favor, configura una alarma para hacer la tarea el domingo a las 3 p. m.	alarm	87
+3231353531323331	IN:CREATE_ALARM	Fija una alarma de hora de dormir a las 7 pm	alarm	87
+3231353531323239	IN:CREATE_ALARM	Pon una alarma a las 9 a.m. para sacar la basura	alarm	87
+3231353531313039	IN:CREATE_ALARM	Alarma llamada 'alarma de gimnasio' para mañana a las 4 PM	alarm	87
+3231353530393939	IN:CREATE_ALARM	Pon una alarma temprana para mañana por la mañana a las seis.	alarm	87
+3231353438393139	IN:CREATE_ALARM	Prográmame una alarma para el viernes en la mañana	alarm	87
+3231353438383835	IN:CREATE_ALARM	Pon una alarma para esta tarde	alarm	87
+3231353438383831	IN:CREATE_ALARM	¿Me ayudas a poner una alarma?	alarm	87
+3231353438383635	IN:CREATE_ALARM	Coloca una alarma.	alarm	87
+3231353438373938	IN:CREATE_ALARM	Necesito una alarma que se active mañana en la tarde	alarm	87
+3231353438363639	IN:CREATE_ALARM	¿puedo poner una alarma para esta noche?	alarm	87
+3231353438363533	IN:CREATE_ALARM	Por favor, créame una alarma.	alarm	87
+3231353438363233	IN:CREATE_ALARM	Ponme una alarma para esta tarde	alarm	87
+3230303431393037	IN:CREATE_ALARM	establece una alarma para julio	alarm	87
+3230303431383730	IN:CREATE_ALARM	Configura una alarma por 4 años	alarm	87
+3138383937323131	IN:CREATE_ALARM	Por favor, pon una alarma para las 4:30 AM mañana	alarm	87
+3136363730363433	IN:CREATE_ALARM	Comienza la alarma a las 5:30 p. m.	alarm	87
+3136363730333836	IN:CREATE_ALARM	crea una alarma para el domingo a las 8	alarm	87
+3136353036333230	IN:CREATE_ALARM	Configura la alarma de repetición para dentro de 1 hora	alarm	87
+3136353036313038	IN:CREATE_ALARM	Nueva alarma para las 6	alarm	87
+3136353036303437	IN:CREATE_ALARM	Fija la alarma cada 10 minutos durante una hora	alarm	87
+3136353035393239	IN:CREATE_ALARM	activa la alarma	alarm	87
+3135333032353433	IN:CREATE_ALARM	por favor, establece la alarma para dentro de 1 hora	alarm	87
+3135333031303931	IN:CREATE_ALARM	Pon mi alarma de control de la natalidad	alarm	87
+3135333030363337	IN:CREATE_ALARM	Pon una alarma para que me despierte mañana a las 5 AM	alarm	87
+3135323939343330	IN:CREATE_ALARM	Necesito poner una alarma para dentro de 5 horas	alarm	87
+3135323939303939	IN:CREATE_ALARM	Configura una alarma  en 1 hora a partir de ahora	alarm	87
+3135323939303938	IN:CREATE_ALARM	Coloca una alarma los jueves a las 5pm	alarm	87
+3135323938333631	IN:CREATE_ALARM	Enciende la alarma para que suene en dos horas	alarm	87
+3135323937303633	IN:CREATE_ALARM	Pon una alarma a la 1 p.m. todos los días de esta semana	alarm	87
+3135323935383733	IN:CREATE_ALARM	Fija una alarma de siesta para las 4:00 p. m.	alarm	87
+3135323935353534	IN:CREATE_ALARM	Pon una alarma para dentro de 30 minutos	alarm	87
+3135323934363036	IN:CREATE_ALARM	despiértame después de 2 horas	alarm	87
+3135323934313934	IN:CREATE_ALARM	Establece mi alarma para cada media hora	alarm	87
+3135323934303739	IN:CREATE_ALARM	Activa una alarma recurrente desde la 1 PM todos los días	alarm	87
+3135323932323436	IN:CREATE_ALARM	Continúa y pon la alarma de la mañana para las 5 am	alarm	87
+3135323932303434	IN:CREATE_ALARM	Programa una alarma cada cinco minutos entre las 6 y las 6:30	alarm	87
+3135323931303031	IN:CREATE_ALARM	PON LA ALARMA PARA 15 MINUTOS	alarm	87
+3135323930313130	IN:CREATE_ALARM	Pon una alarma para mañana a las 10 am	alarm	87
+3135323839353032	IN:CREATE_ALARM	Configura alarma para que suene cada 10 minutos durante una hora	alarm	87
+3135323839343439	IN:CREATE_ALARM	pon la alarma para las 9 de mañana por la mañana	alarm	87
+3135323839333038	IN:CREATE_ALARM	crea una alarma cada hora durante 12 horas	alarm	87
+3132363137383335	IN:CREATE_ALARM	activa mi alarma	alarm	87
+39353832333030	IN:CREATE_ALARM	Por una alarma para las 8 de la mañana	alarm	87
+39353830353536	IN:CREATE_ALARM	Reinicia la alarma mañana	alarm	87
+39353738393337	IN:CREATE_ALARM	establece una alarma cada 5 horas	alarm	87
+39353738353232	IN:CREATE_ALARM	Programa mi alarma a las 4:30 de la mañana de mañana	alarm	87
+39353737383131	IN:CREATE_ALARM	activa la alarma	alarm	87
+39353737353437	IN:CREATE_ALARM	Pon la alarma para que suene cada cuatro horas	alarm	87
+39353736393039	IN:CREATE_ALARM	Coloca una alarma para las 7:30	alarm	87
+39353736363031	IN:CREATE_ALARM	Pon una alarma a las 4:30 a. m. para todos los días de la semana	alarm	87
+39353735343030	IN:CREATE_ALARM	Pon la alarma para las 2:30 pm mañana	alarm	87
+39353735313638	IN:CREATE_ALARM	Reanuda la alarma	alarm	87
+39353734363230	IN:CREATE_ALARM	Pon la alarma para dentro de 30 minutos	alarm	87
+39353734313432	IN:CREATE_ALARM	Programa mi alarma para mañana a las 6 a. m.	alarm	87
+39353732343237	IN:CREATE_ALARM	Pon mi alarma para las 10 am.	alarm	87
+39353731363835	IN:CREATE_ALARM	Pon una alarma para el martes a las 3 de la mañana	alarm	87
+39353731323333	IN:CREATE_ALARM	fija una alarma durante 30 minutos	alarm	87
+39353731313538	IN:CREATE_ALARM	Pon alarmas para las 7 AM y las 7:30 AM de mañana.	alarm	87
+39353731313432	IN:CREATE_ALARM	programa la alarma para 20 minutos.	alarm	87
+39353730393232	IN:CREATE_ALARM	Fija mi alarma por 30 minutos	alarm	87
+39353730323534	IN:CREATE_ALARM	Pon mi alarma para uno	alarm	87
+39353639363231	IN:CREATE_ALARM	alarma fijada para las 7 am	alarm	87
+39353639333934	IN:CREATE_ALARM	programa una alarma cada media hora	alarm	87
+39353639313930	IN:CREATE_ALARM	Pon dos alarmas para mañana.	alarm	87
+39353635363939	IN:CREATE_ALARM	establece una alarma a las 5 a.m. llamada levántate	alarm	87
+39353635313938	IN:CREATE_ALARM	pon la alarma para las 10:00 horas	alarm	87
+39353635313830	IN:CREATE_ALARM	Crea una alarma para las 4:00 a. m., 5:00 a. m. y 6:00 a. m.	alarm	87
+39353634323132	IN:CREATE_ALARM	Pon una alarma cada minuto por 15 minutos	alarm	87
+39353634313839	IN:CREATE_ALARM	programa mi alarma cada 6 minutos	alarm	87
+39353633383133	IN:CREATE_ALARM	Pon alarma para las 5 am mañana	alarm	87
+39353633343135	IN:CREATE_ALARM	Programa la alarma durante una hora a partir de ahora.	alarm	87
+39353632323039	IN:CREATE_ALARM	Dame una alarma en 25 segundos	alarm	87
+39353631393932	IN:CREATE_ALARM	Configura una alarma para mañana a las 5 a. m.	alarm	87
+39353631333737	IN:CREATE_ALARM	Programa una alarma para las 12:00 pm Martes y Viernes.	alarm	87
+39353539343535	IN:CREATE_ALARM	pon una alarma cada cinco minutos durante las próximas 2 horas	alarm	87
+39353539343433	IN:CREATE_ALARM	Pon la alarma a las 4 am	alarm	87
+39353537313730	IN:CREATE_ALARM	Pon una alarma cada 5 minutos por 25 minutos	alarm	87
+39353536393035	IN:CREATE_ALARM	pon la alarma para las 6 a. m.	alarm	87
+39353535323530	IN:CREATE_ALARM	Pon alarmas para las 7 am todos los días laborables	alarm	87
+39353534343832	IN:CREATE_ALARM	pon la alarma para despertarme a las 6 a.m.	alarm	87
+39353532333237	IN:CREATE_ALARM	¿Puedes poner una alarma para el mediodía?	alarm	87
+39353532323732	IN:CREATE_ALARM	programa la alarma para las 3 p. m. de hoy	alarm	87
+39353530373332	IN:CREATE_ALARM	Fija una alarma para las 7 a. m. de mañana.	alarm	87
+39353438323538	IN:CREATE_ALARM	Crea una alarma a las 7:30 de la mañana todos los días de la próxima semana	alarm	87
+39353433363336	IN:CREATE_ALARM	Activar alarma por 30 minutos	alarm	87
+39353430303939	IN:CREATE_ALARM	ajusta la alarma para las siete de mañana	alarm	87
+39353339353536	IN:CREATE_ALARM	Pon una alarma en 3 minutos	alarm	87
+39353336393239	IN:CREATE_ALARM	Pon una alarma para las 7 pm hoy	alarm	87
+39353336343039	IN:CREATE_ALARM	Pon la alarma a las 6 am	alarm	87
+39353335393238	IN:CREATE_ALARM	Pon mi alarma para que suene todos los días.	alarm	87
+39353333323932	IN:CREATE_ALARM	Pon una alarma que suene todos los días a las 9:15	alarm	87
+39353331393231	IN:CREATE_ALARM	Por la alarma para las 7 AM del martes por la mañana	alarm	87
+3231353436393730	IN:GET_CALL_CONTACT	¿Quién me llamó al mediodía?	calling	90
+3231303231323530	IN:GET_CALL_CONTACT	Dime el nombre de la persona que está llamando ahora mismo.	calling	90
+39353137333838	IN:RESTART_TIMER	Vuelve a iniciar este temporizador	timer	91
+39353134393937	IN:RESTART_TIMER	Restablecer el temporizador de la cena.	timer	91
+39343839363837	IN:RESTART_TIMER	Resetea el último temporizador	timer	91
+39343838303834	IN:RESTART_TIMER	Reinicia este temporizador	timer	91
+39343837373133	IN:RESTART_TIMER	Reiniciar el temporizador actual.	timer	91
+39343738393234	IN:RESTART_TIMER	Reanuda anuda el temporizador para correr	timer	91
+39343730363432	IN:RESTART_TIMER	Reiniciar temporizador de entrenamiento.	timer	91
+39343637323539	IN:RESTART_TIMER	Reiniciar mi tiempo	timer	91
+3138393932323935	IN:GET_EMPLOYER	¿Chris todavía trabaja para el Departamento de Conservación del Estado de Nueva York?	people	92
+3138393932323933	IN:GET_EMPLOYER	¿Dónde queda el trabajo de Chris?	people	92
+3138393932323837	IN:GET_EMPLOYER	¿Quién es el empleador de David?	people	92
+3138393932323239	IN:GET_EMPLOYER	¿UPS todavía es el empleador de Andrew?	people	92
+3138393932303939	IN:GET_EMPLOYER	¿Liz trabaja en Verizon?	people	92
+3138393932303635	IN:GET_EMPLOYER	¿Para quién trabaja Matt?	people	92
+3138393931393938	IN:GET_EMPLOYER	¿Jeff trabaja en Wells Fargo?	people	92
+3138393931393038	IN:GET_EMPLOYER	¿Para quién trabaja Pam ahora?	people	92
+3138393931383236	IN:GET_EMPLOYER	Judy trabaja en Google	people	92
+3138393931383232	IN:GET_EMPLOYER	Cómo se llama la empresa donde trabaja Raquel	people	92
+3138393931383138	IN:GET_EMPLOYER	¿Con quién trabaja Bob?	people	92
+3138393931373739	IN:GET_EMPLOYER	¿Walter es trabajador independiente ahora?	people	92
+3138393931373530	IN:GET_EMPLOYER	¿El Estado de Washington es el actual empleador de Phil?	people	92
+3138393931373439	IN:GET_EMPLOYER	Dónde trabaja Phil actualmente	people	92
+3138393931373433	IN:GET_EMPLOYER	¿Dónde trabaja James?	people	92
+3138393931373333	IN:GET_EMPLOYER	¿Karen trabajaba en Barnes and Noble?	people	92
+3138393931363235	IN:GET_EMPLOYER	Para quién trabaja John	people	92
+3138393931353131	IN:GET_EMPLOYER	¿Dónde trabaja Doug?	people	92
+3231323239393533	IN:GET_REMINDER	¿Puedes leer el recordatorio de Krissy?	reminder	93
+3231323239333830	IN:GET_REMINDER	Muestra los recordatorios de eventos de este fin de semana.	reminder	93
+3231323239313837	IN:GET_REMINDER	Toma todos mis recordatorios para citas veterinarias	reminder	93
+3231323238383137	IN:GET_REMINDER	¿Qué recordatorios están fijados en septiembre después del 15?	reminder	93
+3231323238363331	IN:GET_REMINDER	Enumera todos los recordatorios para la semana que viene.	reminder	93
+3231323237393337	IN:GET_REMINDER	¿Hay recordatorios para el concierto este año?	reminder	93
+3231323237383036	IN:GET_REMINDER	¿Qué recordatorios tengo yo para este viernes?	reminder	93
+3231323237363134	IN:GET_REMINDER	¿Qué recordatorios tengo para el sábado en la tarde?	reminder	93
+3231323237333837	IN:GET_REMINDER	Muéstrame qué recordatorios hay desde hoy	reminder	93
+3231323236373232	IN:GET_REMINDER	Muestra todos los recordatorios que incluyan a Belinda.	reminder	93
+3231323236363239	IN:GET_REMINDER	¿Cuáles son mis recordatorios de trabajo?	reminder	93
+3231323235373831	IN:GET_REMINDER	Leerme mis recordatorios para recoger a mis hijos para actividades post escolares.	reminder	93
+3231323235353537	IN:GET_REMINDER	Esos recordatorios de cumpleaños son para este mes	reminder	93
+3231323235323032	IN:GET_REMINDER	Busca mis recordatorios para pagar todas mis facturas de este mes.	reminder	93
+3231323234383935	IN:GET_REMINDER	Tomar todos nuestros recordatorios para la compra de la próxima semana	reminder	93
+3231323234353233	IN:GET_REMINDER	Enumera mis recordatorios para el próximo lunes	reminder	93
+3231323234303536	IN:GET_REMINDER	Lee mi recordatorio de béisbol para hoy.	reminder	93
+3231323233393936	IN:GET_REMINDER	Muestra todas las alertas de nuestras reuniones de descubrimiento.	reminder	93
+3231323233373830	IN:GET_REMINDER	Enséñame todos los recordatorios que tengo fijados para proyectos de fútbol fantasía	reminder	93
+3231323233333639	IN:GET_REMINDER	Encuentra cualquier recordatorio que tenga yo de mi papá	reminder	93
+3231323233333133	IN:GET_REMINDER	Recuérdame qué recordatorio me va a recordar de algo próximo	reminder	93
+3231323233313439	IN:GET_REMINDER	Muestra todos los recordatorios de las sesiones de grabación de la banda este próximo fin de semana, ordenados según la hora.	reminder	93
+3231313535343130	IN:GET_REMINDER	¿Cuáles son los recordatorios para el próximo miércoles?	reminder	93
+3231313534333533	IN:GET_REMINDER	¿Hay algún recordatorio para el martes que viene?	reminder	93
+3231313532393338	IN:GET_REMINDER	¿Yo tengo un recordatorio programado para el 31 de julio para el aniversario de Mamá y Papá?	reminder	93
+3231313532363939	IN:GET_REMINDER	¿Cuáles son los recordatorios para mañana?	reminder	93
+3231313531373830	IN:GET_REMINDER	cuáles son mis recordatorios para esta noche	reminder	93
+3231313531353738	IN:GET_REMINDER	qué recordatorios tengo yo para acción de gracias	reminder	93
+3231313530393537	IN:GET_REMINDER	¿Hay recordatorios de reuniones con los funcionarios escolares esta semana?	reminder	93
+3231313439323332	IN:GET_REMINDER	¿Cuáles son mis recordatorios para el mes de agosto?	reminder	93
+3231313438393234	IN:GET_REMINDER	Enumera todos mis recordatorios para hoy	reminder	93
+3231313438343831	IN:GET_REMINDER	¿Qué recordatorios tengo para el sábado	reminder	93
+3231313438333130	IN:GET_REMINDER	¿Cuáles son mis recordatorios para el lunes?	reminder	93
+39353532313735	IN:REWIND_MUSIC	Rebobinar la canción	music	97
+3136303030313332	IN:QUESTION_NEWS	¿Alguna celebridad ha muerto hoy?	news	98
+3135393637353031	IN:QUESTION_NEWS	¿Qué hizo hoy el presidente Trump?	news	98
+3135383731353032	IN:QUESTION_NEWS	¿Por qué hizo eso Trump?	news	98
+3135383731343736	IN:QUESTION_NEWS	¿Sigue vivo Steve Bannon?	news	98
+3135333031333835	IN:QUESTION_NEWS	Ha amenazado a alguien Corea del Norte hoy	news	98
+3135333031333435	IN:QUESTION_NEWS	¿quién es candidato a presidente?	news	98
+3135333030353234	IN:QUESTION_NEWS	¿Quién ganó los millones de Mega?	news	98
+3135323933383238	IN:QUESTION_NEWS	¿Quién murió en los disturbios de Charlottesville?	news	98
+3135323932303738	IN:QUESTION_NEWS	¿Todavía está inundado Nepal?	news	98
+3135323839383639	IN:QUESTION_NEWS	Quién va a ir contra Trump en 2020	news	98
+3135323839343333	IN:QUESTION_NEWS	Qué sucedió en el juicio de OJ Simpson	news	98
+3135323839313330	IN:QUESTION_NEWS	¿En qué año fue Pearl Harbor?	news	98
+39353831333335	IN:QUESTION_NEWS	¿Encontraron a la niña perdida en Jacksonville?	news	98
+39353733323036	IN:QUESTION_NEWS	¿Dónde está el presidente Trump hoy?	news	98
+39353732303937	IN:QUESTION_NEWS	¿cuáles son las leyes aprobadas este año hasta la fecha?	news	98
+39353634323032	IN:QUESTION_NEWS	¿Ya tuvo Beyoncé sus mellizos?	news	98
+39353633363332	IN:QUESTION_NEWS	¿Brad Pitt y Angelina Jolie cancelarán el divorcio?	news	98
+39353338313536	IN:QUESTION_NEWS	¿Acaso Trump despidió al director del FBI?	news	98
+39353238343435	IN:QUESTION_NEWS	¿Cuántas personas fueron heridas en Virginia este fin de semana?	news	98
+39353236393630	IN:QUESTION_NEWS	¿Hubo algún anuncio del Congreso hoy sobre la Reforma Impositiva?	news	98
+3132353733333130	IN:PAUSE_TIMER	Pausa la actividad.	timer	99
+3132353636303136	IN:PAUSE_TIMER	Pausa el tiempo, por favor	timer	99
+39353831323838	IN:PAUSE_TIMER	detén el cronómetro	timer	99
+39353736393339	IN:PAUSE_TIMER	Apaga la alarma, por favor.	timer	99
+39353732353236	IN:PAUSE_TIMER	Pausa el temporizador.	timer	99
+39353731363335	IN:PAUSE_TIMER	parada de temporizador	timer	99
+39353631333839	IN:PAUSE_TIMER	Pausa el temporizador, por favor	timer	99
+39353631323739	IN:PAUSE_TIMER	Detén el cronómetro, por favor.	timer	99
+39353537393436	IN:PAUSE_TIMER	pausa el tiempo mientras atiendo esta llamada	timer	99
+39353537383838	IN:PAUSE_TIMER	Pon pausa al temporizador.	timer	99
+39353337343438	IN:PAUSE_TIMER	Pausa el temporizador por ahora.	timer	99
+39353336363130	IN:PAUSE_TIMER	Para el temporizador. Para	timer	99
+39353332353938	IN:PAUSE_TIMER	Pausa el temporizador para que pueda tomar un descanso.	timer	99
+3136333337373632	IN:GET_DETAILS_NEWS	Actualización del caso de Scott Peterson.	news	100
+3231323237343533	IN:UPDATE_REMINDER_TODO	Actualizar mi alerta para comprar gasolina después del trabajo	reminder	101
+3231323236333935	IN:UPDATE_REMINDER_TODO	Agrega mantequilla a mi recordatorio de compras.	reminder	101
+3231323231343736	IN:UPDATE_REMINDER_TODO	Añade podar el patio trasero a mi recordatorio de tareas domésticas la semana que viene.	reminder	101
+3231313432343832	IN:UPDATE_REMINDER_TODO	Ajusta el recordatorio de hornear un pastel de vainilla este sábado a hornear un pastel de chocolate.	reminder	101
+3231353439373433	IN:GET_ALARM	muéstrame todas las alarmas	alarm	102
+3231353232333332	IN:GET_ALARM	¿A qué hora suena la alarma?	alarm	102
+3136363730363730	IN:GET_ALARM	Cuánto tiempo tengo hasta que suene la alarma	alarm	102
+3136363730313437	IN:GET_ALARM	¿Cuándo comenzará mi siguiente alarma	alarm	102
+3136353036323636	IN:GET_ALARM	¿Cuál es mi siguiente alarma?	alarm	102
+3136353035393331	IN:GET_ALARM	¿Cuánto tiempo queda para mi alarma?	alarm	102
+3135323932303635	IN:GET_ALARM	Muestra el recordatorio de alarma actual	alarm	102
+39353736323936	IN:GET_ALARM	¿Cuánto tiempo le queda a la alarma que fijé?	alarm	102
+39353735333239	IN:GET_ALARM	Muéstrame mis alarmas	alarm	102
+39353732353733	IN:GET_ALARM	¿Cuánto tiempo más puedo dormir antes de que suene la alarma?	alarm	102
+39353636363635	IN:GET_ALARM	¿cuáles son mis alarmas programas en este momento?	alarm	102
+39353434353832	IN:GET_ALARM	Cuánto tiempo en alarma	alarm	102
+39353432323734	IN:GET_ALARM	¿Cuánto falta para que suene la alarma?	alarm	102
+39353338303034	IN:GET_ALARM	¿A qué hora es mi alarma más temprana?	alarm	102
+39353236373034	IN:GET_ALARM	muestra todas las alarmas configuradas	alarm	102
+39353234343030	IN:GET_ALARM	¿Cuándo es mi siguiente alarma?	alarm	102
+39353231323731	IN:GET_ALARM	¿Cuánto falta para que suene la alarma?	alarm	102
+39353131333132	IN:GET_ALARM	¿Cuánto falta para que suene mi alarma?	alarm	102
+39353130343533	IN:GET_ALARM	muéstrame mi alarma	alarm	102
+3135323939323635	IN:ADD_TIME_TIMER	agrégale treinta segundos a mi temporizador	timer	103
+3135323938313932	IN:ADD_TIME_TIMER	Agrega 8 minutos al temporizador	timer	103
+3135323937323833	IN:ADD_TIME_TIMER	agregar 2 minutos más a este temporizador	timer	103
+3135323937313438	IN:ADD_TIME_TIMER	Modifica el temporizador añadiendo 15 minutos	timer	103
+3135323934353739	IN:ADD_TIME_TIMER	¿Puedes añadirle 30 segundos al temporizador actual?	timer	103
+3135323932353630	IN:ADD_TIME_TIMER	Añade una hora a mi alarma	timer	103
+3135323931343331	IN:ADD_TIME_TIMER	Agregar 1 minuto más al temporizador	timer	103
+3135323931313836	IN:ADD_TIME_TIMER	Agrega 30 minutos más a mi cronómetro	timer	103
+3135323931313336	IN:ADD_TIME_TIMER	Añade dos minutos a mi temporizador	timer	103
+3135323931313230	IN:ADD_TIME_TIMER	Añadir 30 segundos más	timer	103
+3135323930373135	IN:ADD_TIME_TIMER	Agrega 5 minutos	timer	103
+3135323930323733	IN:ADD_TIME_TIMER	Ponle 5 minutos más al temporizador	timer	103
+3135323839323330	IN:ADD_TIME_TIMER	Agrega 5 minutos más a mi temporizador actual.	timer	103
+39353832343130	IN:ADD_TIME_TIMER	agrega 16 minutos a mi temporizador	timer	103
+39353831393738	IN:ADD_TIME_TIMER	Agregar 10 segundos al temporizador	timer	103
+39353830323639	IN:ADD_TIME_TIMER	Agrega 7 minutos a mi temporizador.	timer	103
+39353737363030	IN:ADD_TIME_TIMER	Agrega 10 minutos al temporizador finalizado	timer	103
+39353631353431	IN:ADD_TIME_TIMER	Añade 10 minutos adicionales al temporizador.	timer	103
+39353635333937	IN:GET_TIMER	¿Cuánto tiempo queda en el temporizador actual?	timer	104
+39353633353232	IN:GET_TIMER	Déjame saber cuánto tiempo queda en el temporizador	timer	104
+39353633323031	IN:GET_TIMER	¿Cuál es el estado de mi temporizador?	timer	104
+39353632383430	IN:GET_TIMER	¿Cuánto tiempo queda para que se termine el cronómetro?	timer	104
+39353630363932	IN:GET_TIMER	¿Cuántos minutos me quedan antes de que suene mi temporizador?	timer	104
+39353630363831	IN:GET_TIMER	¿Cuánto falta para que suene la alarma?	timer	104
+39353537313137	IN:GET_TIMER	¿Cuánto tiempo le queda a mi cronómetro?	timer	104
+39353530343935	IN:GET_TIMER	¿Qué pasa con mi temporizador?	timer	104
+39353530313031	IN:GET_TIMER	Cuántos segundos me quedan en mi temporizador	timer	104
+39353437333335	IN:GET_TIMER	¿Cuánto falta para el final del temporizador?	timer	104
+39353435313336	IN:GET_TIMER	¿Cuánto tiempo queda en mi temporizador de sueño?	timer	104
+39353434343031	IN:GET_TIMER	¿Me puedes dar el estado de mi temporizador?	timer	104
+39353431313535	IN:GET_TIMER	¿Cuántos segundos quedan en mi temporizador?	timer	104
+39353430303639	IN:GET_TIMER	¿Cuándo terminará el temporizador?	timer	104
+39353332383333	IN:GET_TIMER	¿Cuánto tiempo queda en total en mi temporizador?	timer	104
+39353236373334	IN:GET_TIMER	¿cuánto tiempo queda en el temporizador?	timer	104
+39353233343130	IN:GET_TIMER	¿Por cuánto tiempo está puesto el temporizador?	timer	104
+39353232313534	IN:GET_TIMER	¿Cuánto tiempo queda en mi temporizador?	timer	104
+39353230363032	IN:GET_TIMER	¿Cuánto tiempo lleva el temporizador?	timer	104
+39353137343437	IN:GET_TIMER	¿Cuando finaliza el temporizador?	timer	104
+39353134373637	IN:GET_TIMER	¿Queda algo de tiempo en el temporizador?	timer	104
+39353132353038	IN:GET_TIMER	¿Cuántos minutos hay en el temporizador?	timer	104
+39353131343337	IN:GET_TIMER	¿Cuánto tiempo me queda ahora?	timer	104
+39353037323732	IN:GET_TIMER	¿Cuántos minutos quedan en mi temporizador?	timer	104
+39343939363939	IN:GET_TIMER	¿Tiempo que queda en el temporizador?	timer	104
+39343938303732	IN:GET_TIMER	¿cuánto tiempo queda en el cronómetro?	timer	104
+39343934333138	IN:GET_TIMER	¿Cuánto falta en el temporizador actual?	timer	104
+39343930363038	IN:GET_TIMER	Dime el tiempo en mi temporizador actual.	timer	104
+39343838393335	IN:GET_TIMER	¿Terminará pronto el temporizador?	timer	104
+39343838303536	IN:GET_TIMER	¿Cuándo va a sonar el temporizador?	timer	104
+3232323731353638	IN:SET_DEFAULT_PROVIDER_MUSIC	Por favor, establece Spotify como mi opción predeterminada	music	106
+3232323731353133	IN:SET_DEFAULT_PROVIDER_MUSIC	Usar solo apple como mi aplicación de música	music	106
+3232323731343938	IN:SET_DEFAULT_PROVIDER_MUSIC	Configuremos google play music como mi aplicación de música	music	106
+3232323731343533	IN:SET_DEFAULT_PROVIDER_MUSIC	Por favor, configura amazon music como mi aplicación de música	music	106
+3232323731333933	IN:SET_DEFAULT_PROVIDER_MUSIC	siempre usa Apple para reproducir música	music	106
+3232323731333630	IN:SET_DEFAULT_PROVIDER_MUSIC	para la música usa google play	music	106
+3232323731333533	IN:SET_DEFAULT_PROVIDER_MUSIC	Usa solo Pandora como aplicación para música	music	106
+3138393735373431	IN:GET_MUTUAL_FRIENDS	Amigos en común con Michelle	people	107
+3231333533313431	IN:GET_AVAILABILITY	Dime quién de mis contactos está en línea	calling	110
+3231333533313232	IN:GET_AVAILABILITY	¿Mi mamá está disponible para hablar en línea?	calling	110
+3231333533313130	IN:GET_AVAILABILITY	¿quién está en línea?	calling	110
+3231333533313039	IN:GET_AVAILABILITY	Por favor informa a cualquiera que esté en línea	calling	110
+3231333533313037	IN:GET_AVAILABILITY	Dime quién está en línea	calling	110
+3231333533303839	IN:GET_AVAILABILITY	¿Está Levi en línea?	calling	110
+3231333533303137	IN:GET_AVAILABILITY	¿Hay alguien en línea ahora?	calling	110
+3231333533303034	IN:GET_AVAILABILITY	¿Algún amigo en línea?	calling	110
+3231333532393734	IN:GET_AVAILABILITY	¿Shelby está en línea?	calling	110
+3231333532393632	IN:GET_AVAILABILITY	¿Está Terry en línea?	calling	110
+3231333532393338	IN:GET_AVAILABILITY	De mi familia, ¿Quién está en línea ahora?	calling	110
+3231333532393134	IN:GET_AVAILABILITY	Dime por favor quién está conectado ahora.	calling	110
+3231333532383531	IN:GET_AVAILABILITY	¿Dime qué amigos están en línea ahora mismo?	calling	110
+3231333532383232	IN:GET_AVAILABILITY	¿Quiénes de todos están en línea ahora?	calling	110
+3231333532373938	IN:GET_AVAILABILITY	Dime quién de mis contactos están en línea	calling	110
+3231333532373931	IN:GET_AVAILABILITY	Dime a quién conozco que pudiera estar en línea	calling	110
+3231333532373332	IN:GET_AVAILABILITY	Dime quién está en línea	calling	110
+3231333532373034	IN:GET_AVAILABILITY	Está Bob en línea?	calling	110
+3231333532363331	IN:GET_AVAILABILITY	¿Me dices quién está conectado ahora?	calling	110
+3231333532363030	IN:GET_AVAILABILITY	¿Quién de mi familia está en línea?	calling	110
+3231333532353932	IN:GET_AVAILABILITY	¿Alguien en línea? ¿Quién?	calling	110
+3231333532353338	IN:GET_AVAILABILITY	Dime cuál de mis amigos está en línea ahora	calling	110
+3231333532353239	IN:GET_AVAILABILITY	¿Está Tina en línea ahora?	calling	110
+3231333532343336	IN:GET_AVAILABILITY	veamos quién está disponible	calling	110
+3231333532343135	IN:GET_AVAILABILITY	¿Alguien en línea?	calling	110
+3231333532343131	IN:GET_AVAILABILITY	¿Alguien de mi familia está conectado?	calling	110
+3231333532303931	IN:GET_AVAILABILITY	Dime quién está conectado que conozca.	calling	110
+3231333532303535	IN:GET_AVAILABILITY	¿Algún conocido mío de Carolina del Sur está en línea?	calling	110
+3231333532303131	IN:GET_AVAILABILITY	¿Hay alguien de Nueva Jersey conectado?	calling	110
+3231333531383636	IN:GET_AVAILABILITY	¿Quién está activo o en línea en la sala de chat?	calling	110
+3231333531373331	IN:GET_AVAILABILITY	Personas disponibles	calling	110
+3231333531373132	IN:GET_AVAILABILITY	¿Quién esta activo/a ahora mismo?	calling	110
+3231333531373036	IN:GET_AVAILABILITY	¿Cuáles de mis amigos están conectados?	calling	110
+3231333531363734	IN:GET_AVAILABILITY	Dime mis contactos que están en línea.	calling	110
+3231333531313435	IN:GET_AVAILABILITY	quién está libre	calling	110
+3231333439343937	IN:GET_AVAILABILITY	¿Quién está ahí?	calling	110
+3137303533333239	IN:STOP_MUSIC	apaga la música	music	111
+39353133383131	IN:STOP_MUSIC	Para esta canción	music	111
+3231373233363234	IN:SEND_MESSAGE	¿Le enviarías un mensaje de video a Jaden?	messaging	112
+3231373233353933	IN:SEND_MESSAGE	Manda un video mensaje a Michaela	messaging	112
+3231373233353731	IN:SEND_MESSAGE	envía un video a Chase	messaging	112
+3231373233353132	IN:SEND_MESSAGE	mensaje de video a Mariah	messaging	112
+3231373233343734	IN:SEND_MESSAGE	Quiero que mandes un mensaje de video a C Scott	messaging	112
+3231373233343231	IN:SEND_MESSAGE	Enviar video por mensaje a Dylan	messaging	112
+3231373233343230	IN:SEND_MESSAGE	responde a Jessica con un video	messaging	112
+3231373233343131	IN:SEND_MESSAGE	Envía un mensaje de video a Leilani	messaging	112
+3231373233333638	IN:SEND_MESSAGE	Responde a Leonardo con un mensaje de video	messaging	112
+3231373233333634	IN:SEND_MESSAGE	Responde a Laura Mcintosh Evans con un mensaje de video	messaging	112
+3231373233333538	IN:SEND_MESSAGE	envía un mensaje de video a Jonas	messaging	112
+3231373233323736	IN:SEND_MESSAGE	Quiero mandarle un mensaje de video a Hayden	messaging	112
+3231373233323635	IN:SEND_MESSAGE	Quisiera enviarle el video por mensaje a Max.	messaging	112
+3231373233323238	IN:SEND_MESSAGE	Sí, enviar este video a Jimbob	messaging	112
+3231373233323136	IN:SEND_MESSAGE	Convierte esto en un mensaje de video.	messaging	112
+3231373233323131	IN:SEND_MESSAGE	Por favor, envía un mensaje de video a mi papá.	messaging	112
+3231373233313631	IN:SEND_MESSAGE	Enviar un mensaje por video a mis amigos	messaging	112
+3231373233313630	IN:SEND_MESSAGE	¿Puedes mandarles un mensaje en video a mis amigos?	messaging	112
+3231373233313438	IN:SEND_MESSAGE	Crea un mensaje en video para Victoria con las opciones de planes para la cena familiar de la próxima semana	messaging	112
+3231373233313435	IN:SEND_MESSAGE	Necesito que le mandes a mi hijo Talon un video mensaje por favor	messaging	112
+3231373233313331	IN:SEND_MESSAGE	Comenzar un mensaje en video para Bryan.	messaging	112
+3231373233313234	IN:SEND_MESSAGE	Empieza mensaje de video	messaging	112
+3231373233303839	IN:SEND_MESSAGE	Graba mensaje de video.	messaging	112
+3231373233303236	IN:SEND_MESSAGE	Por favor configura el mensaje de video y después envíalo a Bella.	messaging	112
+3231373233303234	IN:SEND_MESSAGE	Por favor, grábame un mensaje en video y luego envíalo a Justin.	messaging	112
+3231373233303131	IN:SEND_MESSAGE	Mensajes en video, por favor, graba un video para Sue con las indicaciones	messaging	112
+3231373232393634	IN:SEND_MESSAGE	Queremos contactar a Begonia por video mensaje.	messaging	112
+3231373232393436	IN:SEND_MESSAGE	El último video mensaje que hice necesito mandarlo a Joe.	messaging	112
+3231373232393332	IN:SEND_MESSAGE	¿Puedes enviar un mensaje de video a Johnny hoy?	messaging	112
+3231373232393237	IN:SEND_MESSAGE	Necesito que lances un nuevo mensaje de video para mi mamá	messaging	112
+3231373232393137	IN:SEND_MESSAGE	Mensaje de video a Christopher.	messaging	112
+3231373232383937	IN:SEND_MESSAGE	Por favor envía el siguiente mensaje de video a Ronnie y Brian	messaging	112
+3231373232383731	IN:SEND_MESSAGE	envía un mensaje de video, por favor	messaging	112
+3231373232383631	IN:SEND_MESSAGE	Mandémosle a mi marido una respuesta con mensaje de video	messaging	112
+3231373232383534	IN:SEND_MESSAGE	Quisiera grabar y enviarle un mensaje en video a June	messaging	112
+3231373232383431	IN:SEND_MESSAGE	Enviar un videomensaje a Liam Howlett	messaging	112
+3231363039373335	IN:SEND_MESSAGE	¿puedes enviar un mensaje a Brianna y decirle: ¿puedes publicar esto cuando sea senador?	messaging	112
+3231363039373139	IN:SEND_MESSAGE	Mándale por mensaje de texto a Lukas Sí, no puedo esperar para verlos, chicos :D	messaging	112
+3231363039363934	IN:SEND_MESSAGE	Nuevo mensaje Ah está bien	messaging	112
+3231363039363632	IN:SEND_MESSAGE	Quiero enviarle un mensaje a Julianna y decirle que estamos despiertos y que estamos aquí para ayudar	messaging	112
+3231363039363138	IN:SEND_MESSAGE	Mándale un mensaje a Diana diciendo que él es literalmente un traje lleno de pollos que se vuelven en su contra	messaging	112
+3231363039343938	IN:SEND_MESSAGE	Mándale un mensaje genial a Derek	messaging	112
+3231363039343933	IN:SEND_MESSAGE	envía un texto a Dylan diciendo Está bien querido	messaging	112
+3231363039343232	IN:SEND_MESSAGE	Puedo mandar un mensaje a Chance y decirle Hola amigo Qué haces hoy	messaging	112
+3231363039333730	IN:SEND_MESSAGE	Enviar mensaje a Ember que diga Revisando unas computadoras viejísimas, interviniendo los archivos y tirándolos	messaging	112
+3231363039333637	IN:SEND_MESSAGE	envíale un mensaje a Andrea que diga: yo te aviso cuándo estaremos libres para que nos veamos	messaging	112
+3231343435303432	IN:SEND_MESSAGE	Quiero enviarle un mensaje a Kirsten Levi	messaging	112
+3231343435303331	IN:SEND_MESSAGE	Quiero mensajear a Carmen	messaging	112
+3231343433303336	IN:SEND_MESSAGE	Mándale un mensaje a Austin Mayers	messaging	112
+3231343031313830	IN:SEND_MESSAGE	El mensaje para mi familia es que mi graduación comienza a las 3 p. m., pero debo llegar media hora antes. Gracias.	messaging	112
+3231333938303435	IN:SEND_MESSAGE	Enviar un mensaje a Paul preguntándole si piensa ir a la cena de exalumnos de CK este año.	messaging	112
+3231333937363436	IN:SEND_MESSAGE	Pregunta a Lauren si necesita que la lleven al partido.	messaging	112
+3231333937343737	IN:SEND_MESSAGE	Envíale mensaje a Kevin si irá conmigo a la fiesta	messaging	112
+3231333937343038	IN:SEND_MESSAGE	Enviar un mensaje a Shirley para que espere 10 minutos a que lleguemos	messaging	112
+3231333937303235	IN:SEND_MESSAGE	enviar un mensaje a la masseria y preguntar si encontraron el anillo que perdí	messaging	112
+3231333936373632	IN:SEND_MESSAGE	Envíale un mensaje a Hal y dile que voy a llegar tarde y pregúntale si quiere reprogramar la cita	messaging	112
+3231333936353034	IN:SEND_MESSAGE	Dile a Belinda que cuidaré a los niños el viernes en la noche	messaging	112
+3231333935383939	IN:SEND_MESSAGE	Enviar mensaje a papá y decirle que llegaré 5 minutos tarde.	messaging	112
+3231333935373439	IN:SEND_MESSAGE	Envía un mensaje a Jackie para ver cuándo regresan de su viaje a México	messaging	112
+3231333933343237	IN:SEND_MESSAGE	Manda un mensaje a Eric y pregúntale cuando será la próxima vez que vaya al gimnasio Catalyst	messaging	112
+3231333933303338	IN:SEND_MESSAGE	Lo siento, voy a repetirlo. Pregúntale a Rebecca cómo está.	messaging	112
+3231323932373938	IN:SEND_MESSAGE	Envíale un mensaje a Billy diciéndole que voy a llegar tarde	messaging	112
+3231323932373832	IN:SEND_MESSAGE	Enviar un mensaje a Chrissy para decirle que no podremos ir a su fiesta de aniversario el 20, envía nuestras disculpas.	messaging	112
+3231323932353832	IN:SEND_MESSAGE	Por favor, mándale un mensaje a Richard para decirle que estimo llegar en 30 minutos.	messaging	112
+3231323932333836	IN:SEND_MESSAGE	Envíale un mensaje a Clarissa para preguntarle si puede ir a la Iglesia hoy	messaging	112
+3231323932323737	IN:SEND_MESSAGE	Mándale un mensaje a la señora de la limpieza de la oficina para decirle que no tiene que venir mañana por la mañana	messaging	112
+3231323932323638	IN:SEND_MESSAGE	Manda un mensaje a Kari preguntándole cuál es su ubicación actual	messaging	112
+3231323932323532	IN:SEND_MESSAGE	ENVIAR UN MENSAJE A DONALD Y DEJARLE SABER QUE LLEGARÉ AL AEROPUERTO EN 3 HORAS.	messaging	112
+3231323931353934	IN:SEND_MESSAGE	envíale un mensaje a mi madre de que estoy en 1099 crescent lane en kent ohio 44240	messaging	112
+3231323931333937	IN:SEND_MESSAGE	Por favor, envía un mensaje a Julie preguntándole dónde es el festival este fin de semana.	messaging	112
+3231323931333834	IN:SEND_MESSAGE	Envía un mensaje a Sue y dile que estoy a la vuelta de la esquina.	messaging	112
+3231323931303739	IN:SEND_MESSAGE	Dile a Mike que el partido de fútbol se ha aplazado	messaging	112
+3231323930393638	IN:SEND_MESSAGE	Dile a Kallies que el puente está en construcción y que no puede pasar	messaging	112
+3231323930383434	IN:SEND_MESSAGE	Por favor, envía un mensaje a John, Sydney y Jill y diles que la dirección es 123 Main St. en el centro de Clarkston.	messaging	112
+3231323930373532	IN:SEND_MESSAGE	Enviar un mensaje a Andy de que no vamos a ir esta noche	messaging	112
+3231323930333131	IN:SEND_MESSAGE	Manda un mensaje a Lisa, dile que evite la I-50. Ha habido un accidente.	messaging	112
+3231323930313830	IN:SEND_MESSAGE	Envía un mensaje a mi sobrino para que le diga a mi madre sobre el tiempo de Toronto mañana.	messaging	112
+3231323930313631	IN:SEND_MESSAGE	Envía mensaje a Andrea y dile que me envíe su ubicación así puedo buscarla.	messaging	112
+3231323930313130	IN:SEND_MESSAGE	Envía un mensaje a Carlos diciéndole que es peligroso el puente a Jersey debido al viento fuerte. Quédate en la planta baja.	messaging	112
+3231323839383334	IN:SEND_MESSAGE	Dile a Kait que llegaré tarde por el tráfico en la ruta 18	messaging	112
+3231323839373035	IN:SEND_MESSAGE	Enviar un mensaje a Mark y decirle que el paquete que necesita se retrasará por el huracán que pasará por la Costa del Pacífico.	messaging	112
+3231323839363537	IN:SEND_MESSAGE	Recordar a Jackie que necesitamos tazas y north house	messaging	112
+3231323839313036	IN:SEND_MESSAGE	Hazle saber a Jeff que el Amtrak va con retraso.	messaging	112
+3231323839303434	IN:SEND_MESSAGE	manda correo electrónico a mis amigos	messaging	112
+3231323839303238	IN:SEND_MESSAGE	Enviarle un mensaje a mamá diciendo que la veré en el centro comercial después del trabajo.	messaging	112
+3231323838383534	IN:SEND_MESSAGE	Enviar un mensaje a mi hermana Brenda de que estaré en casa a las 10 pm esta noche	messaging	112
+3231323838373034	IN:SEND_MESSAGE	El drive-in de Sonic más cercano está a 5 kilómetros de mi casa, y quiero que le informes de esto a Robert.	messaging	112
+3231323838363134	IN:SEND_MESSAGE	Envíale un mensaje a mamá diciéndole que el tráfico está pesado	messaging	112
+3231323838353839	IN:SEND_MESSAGE	Envía un mensaje a Tony para pedirle direcciones para llegar a su casa.	messaging	112
+3231323838323036	IN:SEND_MESSAGE	Enviar un mensaje a mi hermano diciendo que tenemos que llegar temprano al show mañana.	messaging	112
+3231323838313733	IN:SEND_MESSAGE	Por favor, asegúrate de que Mónica sepa que la taberna no abre hasta las 5 PM.	messaging	112
+3231323838303936	IN:SEND_MESSAGE	Dile a todos que ya terminé la maratón de Walt Disney World	messaging	112
+3231323838303238	IN:SEND_MESSAGE	Envíale un mensaje a Lynne y pregúntale cuando termina el Chili Cook este año	messaging	112
+3231323837393732	IN:SEND_MESSAGE	Enviar un mensaje grupal a mis amigos para saber si quieren que nos reunamos a ver una película y cenar este fin de semana.	messaging	112
+3231323837373930	IN:SEND_MESSAGE	¿Puedes decirles a mamá y papá que quiero llevarlos al concierto el viernes?	messaging	112
+3231323837373434	IN:SEND_MESSAGE	Envía un mensaje a mis empleados que la oficina va a cerrar una hora más temprano debido a ahorros de energía	messaging	112
+3231323837373036	IN:SEND_MESSAGE	Pregúntale a Melanie si puedo venir el 5 de septiembre	messaging	112
+3231323837353132	IN:SEND_MESSAGE	Mándale un mensaje a Sue para que me diga a qué hora estima llegar al mercado de granjeros.	messaging	112
+3231323837343433	IN:SEND_MESSAGE	Manda un mensaje a mi hija, pregúntale si va a ir a Disney este año	messaging	112
+3231323837323935	IN:SEND_MESSAGE	Mándale un mensaje a Gina y confirma la excursión para visitar los cañones en Colorado	messaging	112
+3231323837313836	IN:SEND_MESSAGE	Pregúntale a Sara si va al evento de trabajo mañana	messaging	112
+3231323837313834	IN:SEND_MESSAGE	Envíale un mensaje a Ruth y dile que estoy en camino desde mi ubicación actual.	messaging	112
+3231323837313637	IN:SEND_MESSAGE	Envía un mensaje a Denise diciendo que nos mudemos a la biblioteca de okc village	messaging	112
+3231323837313332	IN:SEND_MESSAGE	Envía un mensaje a Ashley para avisarle que mi talla de vestido es 8.	messaging	112
+3231323837303432	IN:SEND_MESSAGE	Manda un mensaje a Ron y dile que saldré en 5 minutos	messaging	112
+3231323837303431	IN:SEND_MESSAGE	¿Le enviarías un mensaje a Sean para preguntarle dónde va a ser la fiesta mañana por la noche?	messaging	112
+3231323836393633	IN:SEND_MESSAGE	Necesito que le preguntes a Kat si todavía habrá clase de yoga mañana.	messaging	112
+3231323836393536	IN:SEND_MESSAGE	mandar mensaje a trent y preguntarle a qué hora se supone que todo va a empezar	messaging	112
+3231323836393532	IN:SEND_MESSAGE	Preguntar a Robin si Darren y ella aún piensan ir al concierto.	messaging	112
+3231323836393233	IN:SEND_MESSAGE	enviar un mensaje a papá de que mi fiesta de cumpleaños será el viernes a las 18:00 en Pizza Hut	messaging	112
+3231323836393132	IN:SEND_MESSAGE	Envíale un DM a mi esposo y dile que estaré en el Concert in the Park en Orangecrest hasta las 8:30 p. m. más o menos	messaging	112
+3231323836363936	IN:SEND_MESSAGE	Envía un mensaje a Sue para ver si su esposo consiguió boletos para el juego de los Giants para el jueves a la noche.	messaging	112
+3231323836363035	IN:SEND_MESSAGE	Enviar un mensaje a Jim para cancelar nuestros planes	messaging	112
+3231323836353534	IN:SEND_MESSAGE	Enviar un mensaje a Fred para ver si va a seguir siendo un bailarín exótico en Canadá	messaging	112
+3231323836353531	IN:SEND_MESSAGE	Envíale un mensaje a Mabel y pídele que ordeñe las vacas antes de que llegue a casa	messaging	112
+3231323836353034	IN:SEND_MESSAGE	Enviar un mensaje a Jesse y preguntar en qué hotel se van a hospedar en Panamá City Beach el próximo mes	messaging	112
+3231323836343830	IN:SEND_MESSAGE	Manda un mensaje a Ruth y pregúntale si tiene planes para el 4 de julio.	messaging	112
+3231323836343538	IN:SEND_MESSAGE	Pregunta a Azure si el grupo STEM aún irá a Rochester	messaging	112
+3231323836343331	IN:SEND_MESSAGE	dile a Julie que no puedo encontrar los detalles sobre su evento de reunión de café en ningún lado	messaging	112
+3231323836323935	IN:SEND_MESSAGE	Contacta a Kylie y pregúntale si tiene los detalles de la competencia de poesía del 30 de junio.	messaging	112
+3231323836323631	IN:SEND_MESSAGE	Mándale un mensaje a Marisol para decirle que mi tía Abril viene con nosotros a cenar a lo de Denny.	messaging	112
+3231323836303638	IN:SEND_MESSAGE	Envía un mensaje a Brain diciéndole que se necesita el papeleo para la casa de Smith.	messaging	112
+3231323835393638	IN:SEND_MESSAGE	Envíale un mensaje a Amy para decirle que la liquidación en Marshall's es del 10 al 15 de julio.	messaging	112
+3231323835393135	IN:SEND_MESSAGE	Pregúntale a Shaney qué servicios quiere que se hagan, y qué día está disponible para una cita.	messaging	112
+3231323835393032	IN:SEND_MESSAGE	Envía un mensaje a Helena para recordarle que los conciertos de la playa son el miércoles en el Parque de la Playa	messaging	112
+3231323835363033	IN:SEND_MESSAGE	Dile a Brianna que el final de la fiesta escolar es en la casa de Ashley el 12 de junio	messaging	112
+3231323835353638	IN:SEND_MESSAGE	envía un mensaje a sean para decirle que la fiesta empieza a las 2 el domingo	messaging	112
+3231323835323930	IN:SEND_MESSAGE	envía un mensaje a James y dile que nos encantará reunirnos la próxima vez que visitemos San José	messaging	112
+3231323835313437	IN:SEND_MESSAGE	Enviar un mensaje a mi hermana que puedo verla en la cena familiar mañana	messaging	112
+3231323835303638	IN:SEND_MESSAGE	Mándale un mensaje a Mark para que confirme asistencia para 2 a su fiesta de graduación el sábado.	messaging	112
+3231323835303537	IN:SEND_MESSAGE	Manda un mensaje a amigos y diles que tengo gripe.	messaging	112
+3231323834393432	IN:SEND_MESSAGE	Avísale a Chris que debe pasar por el pastel antes de la fiesta de esta noche.	messaging	112
+3231323834383538	IN:SEND_MESSAGE	Dile a mis primos que no puedo llegar al concierto mañana.	messaging	112
+3231323834373934	IN:SEND_MESSAGE	Mándale un mensaje a Kam y pide una cita en la peluquería el 1 de julio	messaging	112
+3231323834373634	IN:SEND_MESSAGE	Enviar un mensaje a mi hermana Debbie diciendo que las entradas para los Yankees salen a la venta esta semana.	messaging	112
+3231323834363239	IN:SEND_MESSAGE	Enviarle un mensaje a Reggie para preguntarle a qué hora llegará.	messaging	112
+3231323834363234	IN:SEND_MESSAGE	Voy a ir esta noche a la Hora de la Comedia, envía un mensaje a mis amigos	messaging	112
+3231323834353531	IN:SEND_MESSAGE	Envíale un mensaje a Natalie, la veremos en la puerta C para el juego de los indios.	messaging	112
+3231323834353035	IN:SEND_MESSAGE	Envíale un mensaje a Trevor y dile que estaremos en Ohio el martes 19.	messaging	112
+3231323834333835	IN:SEND_MESSAGE	Dile a Bud que tendrá que salir para el concierto a las 4 para evitar la hora punta	messaging	112
+3231323834333132	IN:SEND_MESSAGE	Envíale un mensaje de texto a Ollie para preguntar si sabe dónde queda mi fiesta de cumpleaños	messaging	112
+3231323834323637	IN:SEND_MESSAGE	Enviar un mensaje a Lisa y preguntarle a qué hora quiere salir para el concierto el domingo	messaging	112
+3231323834323037	IN:SEND_MESSAGE	Envía un mensaje a mi familia para preguntarles en qué restaurante comemos o cenamos hoy	messaging	112
+3231323834313938	IN:SEND_MESSAGE	Mándale un mensaje a Reggie y dile que venga a mi casa	messaging	112
+3231323834313435	IN:SEND_MESSAGE	Decir por mensaje a los amigos de Morgan que le haremos una fiesta sorpresa el 5 de septiembre a las 8 p. m.	messaging	112
+3231323833393738	IN:SEND_MESSAGE	Enviar mensaje a Donald para saber cuándo irá a la tienda Pond en Brownstown, MI a comprar más peces para la pecera.	messaging	112
+3231323833393437	IN:SEND_MESSAGE	Enviar un mensaje a Carol de que el baile termina a las 11 p. m.	messaging	112
+3231323833363735	IN:SEND_MESSAGE	envía un mensaje a mi hermana diciendo que vuelo el 24 de julio a las 8 de la tarde	messaging	112
+3231323833363730	IN:SEND_MESSAGE	Dile a Linda que el espectáculo comienza a las 6pm el lunes	messaging	112
+3231323833353035	IN:SEND_MESSAGE	Dile a Dirk que la lectura de poesía en la cafetería es el miércoles.	messaging	112
+3231323833343237	IN:SEND_MESSAGE	Avísale a Jax que sigue en pie lo de cocinar en casa de mi mamá el viernes	messaging	112
+3231323833333738	IN:SEND_MESSAGE	Dile por mensaje a Familia que el evento de caridad contra el cáncer Swim Across America Denver es en el embalse Chatfield.	messaging	112
+3231323833333731	IN:SEND_MESSAGE	Mándale un mensaje a Ben diciéndole que no iremos al concierto como habíamos planificado originalmente	messaging	112
+3231323833333630	IN:SEND_MESSAGE	Envía un correo a Eric para decirle que vamos a visitar el Gran Cañón este agosto y nos encantaría verlo a él y a su familia.	messaging	112
+3231323833333038	IN:SEND_MESSAGE	Mensajea a Ben para ver si él puede venir a mi fiesta de cumpleaños	messaging	112

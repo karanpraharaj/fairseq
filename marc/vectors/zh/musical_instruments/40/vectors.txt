@@ -1,0 +1,6 @@
+threadId=50000	segmentId=50000	!@#NEXLP_DOCVECTOR_SEPARATOR#@!差评！. 收到的就是坏的，一侧没声音！退货回去还要自己付邮费 !#nexlpEOL#!
+threadId=50001	segmentId=50001	!@#NEXLP_DOCVECTOR_SEPARATOR#@!京东的比这个实惠多了送的东西多。. 亚马逊是抄京东的价格，但是人家京东价格是一样，但是人家送的架子凳子啥的，啥都不要说了，亚马逊就当是个参考价。买东西去京东准没错。 !#nexlpEOL#!
+threadId=50002	segmentId=50002	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般. 不要再说定制了，真的配不上我的吉他！看在速度上，好评吧 !#nexlpEOL#!
+threadId=50003	segmentId=50003	!@#NEXLP_DOCVECTOR_SEPARATOR#@!声音很清脆，感觉很不错，学起来很快很容易. 声音很清脆，感觉很不错，学起来很快很容易 !#nexlpEOL#!
+threadId=50004	segmentId=50004	!@#NEXLP_DOCVECTOR_SEPARATOR#@!及格. 对于一把一百多的尤克里里来说，做工和声音都还不错了 !#nexlpEOL#!
+threadId=50005	segmentId=50005	!@#NEXLP_DOCVECTOR_SEPARATOR#@!亚马逊越来越好. 售后真的没得说，完美。之前弹了个把礼拜发现面板不平，申请换货第二天货就来了 !#nexlpEOL#!

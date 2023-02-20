@@ -1,0 +1,186 @@
+threadId=50000	segmentId=50000	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常差的商品！. 用精美的包装和低廉的价格吸引顾客，商品做的非常粗糙，绝对是黑心商家。这次评论给大家提醒，切勿购买。 !#nexlpEOL#!
+threadId=50001	segmentId=50001	!@#NEXLP_DOCVECTOR_SEPARATOR#@!当你拆开洗的时候就知道了。. 当你拆开洗的时候就会发现内部做工一塌糊涂。 !#nexlpEOL#!
+threadId=50002	segmentId=50002	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不推荐. 去污能力一般，且比京东、苏宁都要贵，这个价位一点都不划算 !#nexlpEOL#!
+threadId=50003	segmentId=50003	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买了两个，居然不一样，第二次发来的是去非洲游晒黑的吗？. 看图片吧，哪个是真的呢？这个居然没有无理由退货。。。，不给星星怎么还发不了， !#nexlpEOL#!
+threadId=50004	segmentId=50004	!@#NEXLP_DOCVECTOR_SEPARATOR#@!名不副实的东西，30的东西都比这好，图片是宜家不锈钢的. 首先这东西不知道为什么值这个价，中间的架子扣上去摇摇晃晃，而且是白色油漆的，使用的时候漆肯定会碰坏。油漆的水平也就国内蚊帐的杆子的水平。宜家的一个比这颜值高的才几十块，如果能退货的话一定退。不想使用。这个东西只值30,不能再多了，连个不锈钢都舍不得用。 !#nexlpEOL#!
+threadId=50005	segmentId=50005	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很薄. 很薄很薄的那种，要不是秒杀价买的，一定把它推掉的 !#nexlpEOL#!
+threadId=50006	segmentId=50006	!@#NEXLP_DOCVECTOR_SEPARATOR#@!内部大接缝，粗旷做工. 远渡重洋折腾一趟回来发现made in china，外观还不错，但是内侧这么大的接缝，我从日本买回来的膳魔师内部可没有 !#nexlpEOL#!
+threadId=50007	segmentId=50007	!@#NEXLP_DOCVECTOR_SEPARATOR#@!指针不牢固. 指针有颤抖，可能是固定不牢固，而且也不准。 !#nexlpEOL#!
+threadId=50008	segmentId=50008	!@#NEXLP_DOCVECTOR_SEPARATOR#@!感应不灵敏. 在使用中，人体感应十分迟钝，有时近到20公分内才会反映，有时在门口还是能感应到的。质量不好评价。 !#nexlpEOL#!
+threadId=50009	segmentId=50009	!@#NEXLP_DOCVECTOR_SEPARATOR#@!设计有缺陷. 刚买，发现接水口与杯座的距离太短，家里的保温杯没一个能放进去的，得用手拿着接。而且机子太矮，人接水都弯着腰。退货。 !#nexlpEOL#!
+threadId=50010	segmentId=50010	!@#NEXLP_DOCVECTOR_SEPARATOR#@!物有所值. 带书架的置物功能还是强大的，放了不少书和小零碎，还能放，书桌装好后平稳，外观也耐看，出租屋小房间必备，总体好评。 !#nexlpEOL#!
+threadId=50011	segmentId=50011	!@#NEXLP_DOCVECTOR_SEPARATOR#@!橡胶一样的手感. 薄薄一片，小不丁点，太贵太贵。买时找的不够，再搜索时已枉然！ !#nexlpEOL#!
+threadId=50012	segmentId=50012	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺好看的,但是用了半个月有些变形. 收到商品颜色很好看,只是用了半个月之后感觉会变形走样 !#nexlpEOL#!
+threadId=50013	segmentId=50013	!@#NEXLP_DOCVECTOR_SEPARATOR#@!感觉不错，舒服的. 感觉不错，硬度适中，略微有点大，靠着感觉很舒服。 !#nexlpEOL#!
+threadId=50014	segmentId=50014	!@#NEXLP_DOCVECTOR_SEPARATOR#@!丢了. 用了一个多月，结果今天忘在了高铁上。 再来买一个，结果发现便宜了100块，心伤透了 !#nexlpEOL#!
+threadId=50015	segmentId=50015	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量可靠性价比高. 实惠大品牌，第二次买了，值得信赖，可惜不是最底价买的 !#nexlpEOL#!
+threadId=50016	segmentId=50016	!@#NEXLP_DOCVECTOR_SEPARATOR#@!喜欢. 这款被子好喜欢松松的，适合春季时候盖，我女儿好喜欢， !#nexlpEOL#!
+threadId=50017	segmentId=50017	!@#NEXLP_DOCVECTOR_SEPARATOR#@!魔术贴是最短的那块木扳. 用了1个半月，魔术贴就失效了，没办法只好再买了一个，希望这个寿命能长点。 !#nexlpEOL#!
+threadId=50018	segmentId=50018	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很好. 比某品牌十来块一盒的好太多。带上只能听见室友说话，其他声音全部听不到 !#nexlpEOL#!
+threadId=50019	segmentId=50019	!@#NEXLP_DOCVECTOR_SEPARATOR#@!真不错，很漂亮. 我自己安装起来的，是有技巧的哦！总之，产品真不错，很漂亮，娘家妈妈特喜欢！很惊喜！ !#nexlpEOL#!
+threadId=50020	segmentId=50020	!@#NEXLP_DOCVECTOR_SEPARATOR#@!物流服务态度不好. 东西还可以，就是物流服务太差了让他送货非要自己去取 !#nexlpEOL#!
+threadId=50021	segmentId=50021	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量差！塑料断裂！掉塑料！. 4月底买的壳子，说有膜也真是没见着，不送就别打广告，没膜就算了，可是壳子质量之差！至今一个半月，没摔没撞没磕着过，家里拿着看看书而已，塑料已经裂得一块块掉下来了！！！断裂处还划手！是处理的次品吧！ !#nexlpEOL#!
+threadId=50022	segmentId=50022	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不满意. 快递慢！！东西太硬了，不太合适，装上就把手机左下角给磨坏了！还挺严重！建议别买！ !#nexlpEOL#!
+threadId=50023	segmentId=50023	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太失望. 用了1个月啊不到，还不是天天用的，就坏了，质量真差 !#nexlpEOL#!
+threadId=50024	segmentId=50024	!@#NEXLP_DOCVECTOR_SEPARATOR#@!是否是二次处理的？. 屏幕触摸 间歇性失灵· 接电话划不动 虽然不频繁... !#nexlpEOL#!
+threadId=50025	segmentId=50025	!@#NEXLP_DOCVECTOR_SEPARATOR#@!送货速度慢. 发货速度 还好 物流态度很差 到了还不给打电话说得18号到今天21号才拿到，没人通知 还是自己打电话询问的！ !#nexlpEOL#!
+threadId=50026	segmentId=50026	!@#NEXLP_DOCVECTOR_SEPARATOR#@!充不进去电. 我的iPad完全没有电，充了一个晚上，早上起来还是没有电。这个很有问题。并且插口那个led灯也挺烦的，拿着手机玩儿的时候，晃眼睛 !#nexlpEOL#!
+threadId=50027	segmentId=50027	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般. 感觉像素没有1300万，拍照很模糊，没有预期的好 !#nexlpEOL#!
+threadId=50028	segmentId=50028	!@#NEXLP_DOCVECTOR_SEPARATOR#@!送货不及时. 说好了今天到货的，还说什么送货上门，还得我明天中午亲自去取，十分不满意送货服务！ !#nexlpEOL#!
+threadId=50029	segmentId=50029	!@#NEXLP_DOCVECTOR_SEPARATOR#@!信号问题. 用了半个月了，除了信号，其他都还好，信号特别恶心，wifi也是，打电话老是断断续续的，无语了，唉，换又麻烦！ !#nexlpEOL#!
+threadId=50030	segmentId=50030	!@#NEXLP_DOCVECTOR_SEPARATOR#@!评论. 东东收到了，可惜没有充电器，只有一根数据线 !#nexlpEOL#!
+threadId=50031	segmentId=50031	!@#NEXLP_DOCVECTOR_SEPARATOR#@!手机便宜. 手机便宜，挺好用，就是不是亚马孙直营的，还好 !#nexlpEOL#!
+threadId=50032	segmentId=50032	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还行吧. 还行，用了个把月还没出现什么问题吧。如果有降价，还会再买一个。 !#nexlpEOL#!
+threadId=50033	segmentId=50033	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很不错. 性价比高，有小问题，亚马逊客服换货也及时 !#nexlpEOL#!
+threadId=50034	segmentId=50034	!@#NEXLP_DOCVECTOR_SEPARATOR#@!产品还是不错. 用上去流畅 自己也不玩什么游戏！ 下载些APP够用 流畅 外观喜欢 !#nexlpEOL#!
+threadId=50035	segmentId=50035	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还是更喜欢6P. 真心想买6P的，6sP 这价格降的速度堪比光速了 !#nexlpEOL#!
+threadId=50036	segmentId=50036	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常满意. 非常满意，与手机贴合紧密，保护后摄像头，做工不错 !#nexlpEOL#!
+threadId=50037	segmentId=50037	!@#NEXLP_DOCVECTOR_SEPARATOR#@!亚马逊品质有保证. 用了快一个月，没什么问题，挺满意的。买的时候是台风天但还是及时送到了！就怕翻新机什么的，上官网查询是正品，2015年产的。亚马逊果然信得过！ !#nexlpEOL#!
+threadId=50038	segmentId=50038	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很好. 找了很久这种保护套了，花了不少冤枉钱，这个最满意 !#nexlpEOL#!
+threadId=50039	segmentId=50039	!@#NEXLP_DOCVECTOR_SEPARATOR#@!优评. 外观漂亮简洁,贴合度还不错,自动休眠也完全无问题,物流也给力. !#nexlpEOL#!
+threadId=50040	segmentId=50040	!@#NEXLP_DOCVECTOR_SEPARATOR#@!商品存在虚假宣传，品牌商标属于国产. 我想确定的是，这个品牌是否是日本品牌。上海质监局回复我，说该品牌注册商标属于中国，产地也是中国，我想，这算不算挂羊头卖狗肉，虚假宣传。希望亚马逊不要成为无良商家的平台 !#nexlpEOL#!
+threadId=50041	segmentId=50041	!@#NEXLP_DOCVECTOR_SEPARATOR#@!烂哭，aca一生黑. 用了一年多送修了两次, 且温差奇大, 门关不拢, 刚发了一堆面, 预热时才发现下发热管已双双驾鹤西去,心累 !#nexlpEOL#!
+threadId=50042	segmentId=50042	!@#NEXLP_DOCVECTOR_SEPARATOR#@!无法使用的杯子. 电商购物这么多年来第一次差评给了亚马逊，杯子收到时不在家，小孩打开包装弄坏了盒子，几天后我使用，发现不是费雪产品，忍了；发现奶嘴和鸭嘴小孩根本吸不上奶，也忍了；发现少了跟吸管，和商家沟通，因为不确认是少寄还是小孩丢了，愿意自己出钱购买，商家表示帮忙解决，结果这么久了没有任何音讯，发信息也不回复。一百多块买个没法使用的杯子，简直是坑了爹！忍无可忍！不会第二次亚马逊购物！！！ !#nexlpEOL#!
+threadId=50043	segmentId=50043	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不是进口的. 包装和杯身上的都是中文，不是原装进口，差评 !#nexlpEOL#!
+threadId=50044	segmentId=50044	!@#NEXLP_DOCVECTOR_SEPARATOR#@!残次品根本充不进去电. 送过来时包装又坏又旧，充电充了几个小时就充不进去了，看了一下评论，很多人买到充不进去点的牙刷，明明是把残次品拿来卖，建议考虑买的不要买了。 !#nexlpEOL#!
+threadId=50045	segmentId=50045	!@#NEXLP_DOCVECTOR_SEPARATOR#@!心情太差，商品有缺口！. 收到包裹几个小时后，即现在才打开看，有一只碟子有一个小缺口！真让人遗憾！一共两只碟子加其他六件用品，包装已经扔掉，退换太麻烦！提醒各位，对于这种易碎品，一定要检查为好！它盒子里面是礼品包装这种，防震比较不好，外面套了一个亚马逊的盒子，高度怀疑运输过程它没有得到用心呵护！毕竟是康宁的品牌由亚马逊来送，这一次心情太糟糕！ !#nexlpEOL#!
+threadId=50046	segmentId=50046	!@#NEXLP_DOCVECTOR_SEPARATOR#@!第二次买要送人的，杯子上却无标签，很不满意！. 第一次买时搞活动特价，杯子包装很完好，第二次买时几乎按照正常价买的，杯子包装却很差劲，杯子上也没有标签，着急要送人，却出现这样个产品，非常不满意！ !#nexlpEOL#!
+threadId=50047	segmentId=50047	!@#NEXLP_DOCVECTOR_SEPARATOR#@!货不错，支付及运输方式差评. 东西挺好的，但是我要吐槽一下付款，我明明选的是货到付款（pos机刷卡），结果送货时电话通知我不能刷卡，只能现金，我家，公司附近压根没有atm你让我很尴尬啊。亚马逊如果你达不到货到付款上门刷pos就不要让我们选到，让我们选到了又不按照约定去执行，这个算是违约么？ !#nexlpEOL#!
+threadId=50048	segmentId=50048	!@#NEXLP_DOCVECTOR_SEPARATOR#@!性价比不高，使用1次就坏了. 第一次使用的时候可以打奶泡，过了1周使用第2次，同样的操作，同样的牛奶，居然打不出泡了。只能加热。一看退换货日期，刚过1天。郁闷。只能加热的话，用微波炉即可。我的几百块就这样打水漂了？！！！ !#nexlpEOL#!
+threadId=50049	segmentId=50049	!@#NEXLP_DOCVECTOR_SEPARATOR#@!坏了. 用了几个月半年不到，那个冰敷功能就坏了，果然国内买质量都不行 !#nexlpEOL#!
+threadId=50050	segmentId=50050	!@#NEXLP_DOCVECTOR_SEPARATOR#@!用了九个月才评论. 总的来说比较满意：用起来的手感、弹跳声音都很舒服。 不足有两点：1、八个月的时候，壶嘴焊接处有轻微渗水。2、电线太短，用个1米多好啊，节约那一点，降低了使用体验好感。 !#nexlpEOL#!
+threadId=50051	segmentId=50051	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还好. 有点大 数字显示不够清晰 制作工艺需要改良 !#nexlpEOL#!
+threadId=50052	segmentId=50052	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好用。. 挺好用，只是不知我们这里加液化气的地方是否方便。 !#nexlpEOL#!
+threadId=50053	segmentId=50053	!@#NEXLP_DOCVECTOR_SEPARATOR#@!配送不及时，东西不错. 东西是正品，保温效果非常的好，我特意选了特快，为了送人，预计2～4天送达，客服电话也表示最晚12月29号也到了。结果呢？？足足等到1月6号才收到，一个元旦礼物就这么拖废了。而且ups快递到我这了，还不给配送，非要转其他快递，又拖延了一天。 !#nexlpEOL#!
+threadId=50054	segmentId=50054	!@#NEXLP_DOCVECTOR_SEPARATOR#@!仅供参考. 保温效果比保温杯差多了，闷烧功能一般，晚上倒的开水，第二天是温的。外出带饭真不错，好久都是热的。 !#nexlpEOL#!
+threadId=50055	segmentId=50055	!@#NEXLP_DOCVECTOR_SEPARATOR#@!可爱风. 好，东西特别好。家里人都很喜欢。很不错。 !#nexlpEOL#!
+threadId=50056	segmentId=50056	!@#NEXLP_DOCVECTOR_SEPARATOR#@!购买第二个了。. 高科技尽显，都可以定时开关机，已经进入远程控制电器时代了，希望除雾霾效果好。 !#nexlpEOL#!
+threadId=50057	segmentId=50057	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好评，大大的好评. 是正品，外观好看，物流很快，客服和物流人员服务好，下次买东东首选亚马逊！ !#nexlpEOL#!
+threadId=50058	segmentId=50058	!@#NEXLP_DOCVECTOR_SEPARATOR#@!设计感超强. 德国🔌就是国标，机器颜值高。附赠14颗胶囊，日期很新鲜，十月份产的。噪音在办公室也能接受，一面电磁壶烧水一面做咖啡听不出来的。浓烈的喝完我喜欢再接着做一个清淡的大杯。说明书无中文差评 !#nexlpEOL#!
+threadId=50059	segmentId=50059	!@#NEXLP_DOCVECTOR_SEPARATOR#@!超值的套装. 除了质量问题，对评论真是无语，三四百三口锅，还要啥自行车 !#nexlpEOL#!
+threadId=50060	segmentId=50060	!@#NEXLP_DOCVECTOR_SEPARATOR#@!描述不详细，. 刚收到货，觉得还不错，觉得买了好东西，试穿了一下，稍微有一点点大，谁知道洗了一次后，穿上去过大，根本没法穿！！！！！！！！！！！已经洗了，也没法退货。觉得亚马逊最好设置一个在线客服，或者商品描述更详细一些，方便客户购买！！！！！！！！ !#nexlpEOL#!
+threadId=50061	segmentId=50061	!@#NEXLP_DOCVECTOR_SEPARATOR#@!失望. 不是真丝，色彩也差，整体差，自营也骗人吗？ !#nexlpEOL#!
+threadId=50062	segmentId=50062	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常失望. 货品的颜色，面料和图片上差别太大了，退货又退不了。非常失望！ !#nexlpEOL#!
+threadId=50063	segmentId=50063	!@#NEXLP_DOCVECTOR_SEPARATOR#@!照片和实物差距有点接受不了. 色差大的要命，不想评论，很失望的购物经历，以后不敢在亚马逊买衣服了。 !#nexlpEOL#!
+threadId=50064	segmentId=50064	!@#NEXLP_DOCVECTOR_SEPARATOR#@!超级硬. 板型好，很合身，但是超级硬，第一次穿的时候感觉是铁皮一样。洗了两次后好了些，还是比较硬。不推荐 !#nexlpEOL#!
+threadId=50065	segmentId=50065	!@#NEXLP_DOCVECTOR_SEPARATOR#@!衣服还行吧，就是毛领很掉档次，根本不是图片上的样子，上当了. 衣服还行吧，就是毛领很掉档次，根本不是图片上的样子，上当了 !#nexlpEOL#!
+threadId=50066	segmentId=50066	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尺码. 身高187cm，体重105kg，买的17/34 35码，长短和大小都不合适，最起码要大一码 !#nexlpEOL#!
+threadId=50067	segmentId=50067	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有问题. 不太透气。本人容易出汗，此衣服不吸汗，导致穿过一次就得洗，而在洗过几次后，领口标签处发生明显破损 !#nexlpEOL#!
+threadId=50068	segmentId=50068	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有质量问题. 打算穿的时候才发现左腿后侧有个小洞，也没法退了。下次还得多检查 !#nexlpEOL#!
+threadId=50069	segmentId=50069	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没有预期的好. 质量没有预期的好，很薄。亚马逊的衣服真的很少碰到质量好的，价格也合理的。 !#nexlpEOL#!
+threadId=50070	segmentId=50070	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以。. 洗了几次，手感略显差了些。大小比正常略大一小点儿，但整体合身。 !#nexlpEOL#!
+threadId=50071	segmentId=50071	!@#NEXLP_DOCVECTOR_SEPARATOR#@!对的起价格. 手感不柔滑，绒感觉不细腻，松散。对的价格，180 75公斤，修身，有点紧致。 !#nexlpEOL#!
+threadId=50072	segmentId=50072	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以. 质量没的说，只是蓝色和图片有出入，颜色太浅了。 !#nexlpEOL#!
+threadId=50073	segmentId=50073	!@#NEXLP_DOCVECTOR_SEPARATOR#@!今天穿了不错没有起球，保暖效果好。很是满意. 和图片一样没有色差，物流真快，包装非常仔细，质量非常好,真出乎我的意料，做工精致，版型正，很和我的心意，很厚实暖和，很喜欢，朋友都觉得很好看！而且卖家服务态度非常好，下次还会再来的， !#nexlpEOL#!
+threadId=50074	segmentId=50074	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还不错. 看看专柜价格，就觉得还是在这里划算些。当然，其实也只是普通T恤而已 !#nexlpEOL#!
+threadId=50075	segmentId=50075	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尺寸正. 收到了，颜色很漂亮 ，尺寸正，穿上非常不错 !#nexlpEOL#!
+threadId=50076	segmentId=50076	!@#NEXLP_DOCVECTOR_SEPARATOR#@!品质很棒，尺码偏大. 品质还是不错的，非常舒服，尺码偏大，本人身高182，78公斤，穿L偏大，M正好 !#nexlpEOL#!
+threadId=50077	segmentId=50077	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺好的. 衣服质量挺不错的，夏天单穿短裤，到了冬天可以在里面套一条打底裤，挺好的。 !#nexlpEOL#!
+threadId=50078	segmentId=50078	!@#NEXLP_DOCVECTOR_SEPARATOR#@!正品，质量好，好看. 囤货，这个价格真是挺出乎意料，很好，正品 !#nexlpEOL#!
+threadId=50079	segmentId=50079	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很好很满意. 宝贝和商家描述的一样，无色差，质量做工没得挑，料子柔和舒服，保暖性不错，非常满意！ !#nexlpEOL#!
+threadId=50080	segmentId=50080	!@#NEXLP_DOCVECTOR_SEPARATOR#@!我只能说别买. 东西拿到后盒子明显是旧的，绝对不是全新，打开发现机器包装纸都是被拆过的，镜头花的，tf卡无法识别，充电后无法关机知道电池耗尽 希望亚马逊多注意这样的商家台布负责了，浪费我时间 !#nexlpEOL#!
+threadId=50081	segmentId=50081	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太差劲了，实在受不了了。. 底座和车根本粘不住，总是整个从车上掉下来。 !#nexlpEOL#!
+threadId=50082	segmentId=50082	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不配套. 质量还可以就是不知道是不是客服型号搞错了前面两个太小，后排又太大，没有寄来之前打了几个电话给客服就是怕搞错都是始终没人接，结果寄来后还是不配套。 !#nexlpEOL#!
+threadId=50083	segmentId=50083	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没有内盖. 没有什么味啊，保养师傅讲有问题啊，内盖都没有 !#nexlpEOL#!
+threadId=50084	segmentId=50084	!@#NEXLP_DOCVECTOR_SEPARATOR#@!我的包裹去哪了. 我想知道我的包裹去哪了？28号订单，现在还没到。 !#nexlpEOL#!
+threadId=50085	segmentId=50085	!@#NEXLP_DOCVECTOR_SEPARATOR#@!东西不错，给两星的原因是第一送的是二手货. 第一次送来的里面竟然还有尘土，外表还有指纹和划痕，在亚马逊买过这么多东西，头一次遇到这种情况。 还好换货后基本是全新的，使用上没有啥问题，在手持设备中吸力算不错的，额定功率20W，锂电池相对充电速度也能接受。顺便发现百得国外官网有新款20V锂电的，额定功率35W，吸力更大，可惜目前还没有国行产品，海淘还需要买110V转220V，也没保修。 !#nexlpEOL#!
+threadId=50086	segmentId=50086	!@#NEXLP_DOCVECTOR_SEPARATOR#@!兴奋的同时感到失望. 快递还是比较快，货物出现质量问题退货了！ !#nexlpEOL#!
+threadId=50087	segmentId=50087	!@#NEXLP_DOCVECTOR_SEPARATOR#@!实物有差异. 收到的东西和图片有差异，实物图上有别的厂家的品名，不知道是不是挂羊头卖狗肉。 !#nexlpEOL#!
+threadId=50088	segmentId=50088	!@#NEXLP_DOCVECTOR_SEPARATOR#@!？. 昨天收到货了，外包装有点破破的，也不知道是不是正品 !#nexlpEOL#!
+threadId=50089	segmentId=50089	!@#NEXLP_DOCVECTOR_SEPARATOR#@!镜片扣子次. 镜片还行，就是装镜片的扣子不怎么样，有点次，盔还行，扣子应该是质量问题吧！我买的没动几下就坏了， !#nexlpEOL#!
+threadId=50090	segmentId=50090	!@#NEXLP_DOCVECTOR_SEPARATOR#@!东西还行吧. 东西还行吧，只是没有说明中的那么清晰，而且广视角也不是那么的光，只能说一分钱一分货吧 !#nexlpEOL#!
+threadId=50091	segmentId=50091	!@#NEXLP_DOCVECTOR_SEPARATOR#@!3M是国际大品牌. 颜色很迷幻，两瓶开着放车里，挥发速度很快，很快就没了，具体效果未知，需要专业仪器测试，买个心理安慰吧。 !#nexlpEOL#!
+threadId=50092	segmentId=50092	!@#NEXLP_DOCVECTOR_SEPARATOR#@!做工精细. 做工很精细，就是这种眼镜确实只适合欧美人的脸型，脸长的人戴着好看。 !#nexlpEOL#!
+threadId=50093	segmentId=50093	!@#NEXLP_DOCVECTOR_SEPARATOR#@!比4s店的强多了。. 用了一阵子，感觉发动机安静多了，提速也灵敏了。喜欢！ !#nexlpEOL#!
+threadId=50094	segmentId=50094	!@#NEXLP_DOCVECTOR_SEPARATOR#@!新膜. 东西一般吧，因为贴膜的师傅说上面的胶很多，最让我怕的是这个膜反光，最怕年检过不了，但这个膜的透光性还是不错的。因为刚贴才三天，有待观察。 !#nexlpEOL#!
+threadId=50095	segmentId=50095	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量挺好的，物流发货非常及时，包装很精美。价格蛮实惠的。. 质量挺好的，物流发货非常及时，包装很精美。价格蛮实惠的。 !#nexlpEOL#!
+threadId=50096	segmentId=50096	!@#NEXLP_DOCVECTOR_SEPARATOR#@!产品很不错的. 首先是3M的正品的，产品用起来还是很不错的。 其次，客服服务还是很好。强调的是专车专用的，贴合度也不错，脚感也很好。丝圈的柔软是我比较喜欢的。 再次就是打开的时候有点塑料味，不过不难闻，在车里放了下，一会就散了，不知道是怎么回事。 !#nexlpEOL#!
+threadId=50097	segmentId=50097	!@#NEXLP_DOCVECTOR_SEPARATOR#@!说好的浴巾呢. 床还没有装，不过这个价钱还是不算便宜了，想给宝宝一个大点的空间。 !#nexlpEOL#!
+threadId=50098	segmentId=50098	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量不错. 这款宝贝质量没的说，颜色也漂亮，很实用的！ !#nexlpEOL#!
+threadId=50099	segmentId=50099	!@#NEXLP_DOCVECTOR_SEPARATOR#@!CHEMAS 车玛仕 智能云电子狗雷达测速仪 安全预警仪 流动固定一体机. 收货后，意使用了几天，使用过程中，遇到问题，客户的耐心讲解，让我把问题解决了，服务还是不错的！ !#nexlpEOL#!
+threadId=50100	segmentId=50100	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很劣质，挤都挤不出来。. 挤都挤不出来，劣质，已经扔了。好不容易弄出一点，擦在皮肤上，闷皮肤发痒 !#nexlpEOL#!
+threadId=50101	segmentId=50101	!@#NEXLP_DOCVECTOR_SEPARATOR#@!敏感肌不可买. 不是很好，用了一片，过敏很严重，本来是冲着敏感肌用买的，结果还是过敏的一塌糊涂，脸上都是小红疙瘩，很痒，被骗啦。 !#nexlpEOL#!
+threadId=50102	segmentId=50102	!@#NEXLP_DOCVECTOR_SEPARATOR#@!假货，强烈抵制假货. 太差劲了，是假的，味道不对，瓶子的图案也不对，一直很相信亚马逊的，这回太失望了，不要再买亚马逊的东西了。 !#nexlpEOL#!
+threadId=50103	segmentId=50103	!@#NEXLP_DOCVECTOR_SEPARATOR#@!会不会是假货呢？. 如果相信网页上的产品介绍那我就坚信买到的是假货，如果相信买到的是真货那网页上的介绍就是虚假宣传。味道有点刺鼻，不小心弄到手上的染发剂无法清除掉。 !#nexlpEOL#!
+threadId=50104	segmentId=50104	!@#NEXLP_DOCVECTOR_SEPARATOR#@!棒棒哒. 终于入手了，卡通图案好可爱，用了两天感觉明显头发掉的少了，减少毛躁倒是没看出来，物流也真是快 !#nexlpEOL#!
+threadId=50105	segmentId=50105	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不好用. 一点都不好用，有苍蝇脚，涂上去的时候结在一起，睫毛分不开 !#nexlpEOL#!
+threadId=50106	segmentId=50106	!@#NEXLP_DOCVECTOR_SEPARATOR#@!包装被拆过，盒子盖不上. 之前听说亚马逊的都是真货，想买海外的东西，于是跑来了N就没用的亚马逊。 结果令我很失望，上面的透明封条明显是被拆过的，盒子也盖不上。 至于真假，我看不出来，就这样。 希望是真的 !#nexlpEOL#!
+threadId=50107	segmentId=50107	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太油腻,不适合夏天使用. 用了三四次就不用了,, 我是油性皮肤,,这个对我来说太油腻了, 冬天的时候在看看把 !#nexlpEOL#!
+threadId=50108	segmentId=50108	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不是很好. 以前在商场买过3瓶了 第一次在网上购香水 便宜的没话说 也只能当空气清新剂了 !#nexlpEOL#!
+threadId=50109	segmentId=50109	!@#NEXLP_DOCVECTOR_SEPARATOR#@!暴力快递. 一瓶被挤压的比较厉害了在日旅游买过 换了包装这瓶外壳相当薄 没破勉强用吧 唉 现在外包越来越那啥了 !#nexlpEOL#!
+threadId=50110	segmentId=50110	!@#NEXLP_DOCVECTOR_SEPARATOR#@!马油，四瓶装，够用了. 还行吧，这个比较稀薄，但涂上的感觉比较清爽。 !#nexlpEOL#!
+threadId=50111	segmentId=50111	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以. 还好 有颗粒感 味道清新 但是感觉没有美白效果 !#nexlpEOL#!
+threadId=50112	segmentId=50112	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没包装. 没有包装盒不说以前收到的都有一层薄膜，这次的啥都没有感觉咋个不对呢 !#nexlpEOL#!
+threadId=50113	segmentId=50113	!@#NEXLP_DOCVECTOR_SEPARATOR#@!味道一般. 干皮，敏感肌必备，补水效果好，薰衣草那个味道更好，这个闻起来一般 !#nexlpEOL#!
+threadId=50114	segmentId=50114	!@#NEXLP_DOCVECTOR_SEPARATOR#@!怎么不是会员产品了？？？. 还不错，只是之前明明是会员产品，怎么现在过了1个月再想来买的时候就不是'会员产品了呢？？！ !#nexlpEOL#!
+threadId=50115	segmentId=50115	!@#NEXLP_DOCVECTOR_SEPARATOR#@!护手霜. 小蜜蜂的这款是没有水份的，适合晚上睡觉前擦在手上当手膜。 !#nexlpEOL#!
+threadId=50116	segmentId=50116	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常合适. 非常合适。比店里的好~价格低，下次接着买哈。谢谢您。 !#nexlpEOL#!
+threadId=50117	segmentId=50117	!@#NEXLP_DOCVECTOR_SEPARATOR#@!蛮好的. 蛮好的，大家注意这个是200g，不是通常100+g !#nexlpEOL#!
+threadId=50118	segmentId=50118	!@#NEXLP_DOCVECTOR_SEPARATOR#@!惊喜 美丽. 很快就收到了，很漂亮精致，感觉很舒服。平时忙起来总是忘记保养，有了这个摆在那里，就一直提醒着我，无论再忙，面子最重要。效果也超好。 !#nexlpEOL#!
+threadId=50119	segmentId=50119	!@#NEXLP_DOCVECTOR_SEPARATOR#@!里面东西好全. 好精致，好漂亮。我这次出差就带着了，非常实用，同事们还问我哪买的，我推荐了。本身就带个透明的包包，一应俱全，全都搞定。大爱。 !#nexlpEOL#!
+threadId=50120	segmentId=50120	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没收到货. 收到货，一个盒子是漏的，然后快递说帮我退回去。可是再也没收到货了。 !#nexlpEOL#!
+threadId=50121	segmentId=50121	!@#NEXLP_DOCVECTOR_SEPARATOR#@!淡奶一样，无感，不知道真假，用美国优恩的感觉还行，喝了不觉累，这个用后嘴粘，像豆奶，. 今天开罐品尝一般，淡奶一样，无感，不知道真假，用美国优恩的感觉还行，喝了不觉累，这个用后嘴粘，像豆奶，运动累不如优恩 !#nexlpEOL#!
+threadId=50122	segmentId=50122	!@#NEXLP_DOCVECTOR_SEPARATOR#@!是假的. 一直很信任亚马逊的，结果太让人失望了，跟家里没吃完的一对比，假的太明显。说实话，卖的也不便宜，还买到假货，真的是很失望。 !#nexlpEOL#!
+threadId=50123	segmentId=50123	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买来半个月，用了不到3回。破了. 12月23号到达， 1月8日破损。 才半个月左右啊， 总共才三回啊。 这质量我真是 !#nexlpEOL#!
+threadId=50124	segmentId=50124	!@#NEXLP_DOCVECTOR_SEPARATOR#@!30w，没有加热功能. 30w，完全没有加热功能，大概只能让温水不凉吧，振动的声音太大，好担心楼下上来敲门，实用性不强不建议购买，中国制造 !#nexlpEOL#!
+threadId=50125	segmentId=50125	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买完就降价... .... 第二次买的不好！刚买完就降价八十块！而且里面的药丸都粘在一起了！唉……真无语！也不知道药丸坏了没有！ !#nexlpEOL#!
+threadId=50126	segmentId=50126	!@#NEXLP_DOCVECTOR_SEPARATOR#@!境外物流十分差. 境外快递垃圾，6罐，砸坏两罐，两罐变形，境内顺丰小哥都看懵了，一个劲的解释不关他们事。 !#nexlpEOL#!
+threadId=50127	segmentId=50127	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还行，一般般. 条码扫不出来，不知道是不是正品，磨砂不是很潮，应该买丝绒的 !#nexlpEOL#!
+threadId=50128	segmentId=50128	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有些桑心……. 味道有些粉粉的感觉，而且极容易就会熄灭，真心不很爽的样子…… !#nexlpEOL#!
+threadId=50129	segmentId=50129	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太软了，材料差。头部弧线太大，放进嘴里困难。比预期差. 太软了，材料差。头部弧线太大，放进嘴里困难。比预期差 !#nexlpEOL#!
+threadId=50130	segmentId=50130	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很不错. 刚收到货就试了一下，还是很准的，不错，外观也好看 !#nexlpEOL#!
+threadId=50131	segmentId=50131	!@#NEXLP_DOCVECTOR_SEPARATOR#@!建议. 建议商家今后发货时，最好把一份订单的宝贝，用一个包装发出来，分开包装发货，容易引起买家的误会与投诉。 !#nexlpEOL#!
+threadId=50132	segmentId=50132	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺好的. 给家里买的，当时有病人每天都要换洗大量衣物。以后应该不会买了。TAT !#nexlpEOL#!
+threadId=50133	segmentId=50133	!@#NEXLP_DOCVECTOR_SEPARATOR#@!看着不错. 香草味的还是比较受孩子欢迎，送货够快。在孩子运动后补充一下，期待有效果。就是到货看着像是半罐。。 !#nexlpEOL#!
+threadId=50134	segmentId=50134	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量没问题. 充气的时候声音有点大，不习惯，热敷能调高点温度就好了 !#nexlpEOL#!
+threadId=50135	segmentId=50135	!@#NEXLP_DOCVECTOR_SEPARATOR#@!效果很满意. 颗粒可以，成团满意。灰尘也不多，几乎没有 !#nexlpEOL#!
+threadId=50136	segmentId=50136	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺好. 看起来不错，但愿猫猫喜欢！快递师傅特别好，我收货时间不好凑，师傅来了三趟！！ !#nexlpEOL#!
+threadId=50137	segmentId=50137	!@#NEXLP_DOCVECTOR_SEPARATOR#@!口味很棒的多元维生素！. 之前有吃胶囊品种的多元维生素，但听说胶囊吃多不好。然后朋友推荐了这款无糖的软糖，味道很不错之余，维生素含量不比胶囊的差呢！推荐！！ !#nexlpEOL#!
+threadId=50138	segmentId=50138	!@#NEXLP_DOCVECTOR_SEPARATOR#@!康力源电孑烟油，薄荷味. 货收到了，物流很快，味道很不错，满意的购物。 !#nexlpEOL#!
+threadId=50139	segmentId=50139	!@#NEXLP_DOCVECTOR_SEPARATOR#@!最爱亚马逊. 亚马逊的东西真的是我的最爱！无论小家电还是狗粮，或者生活用品，都喜欢在亚马逊自营买！只可惜近几年亚马逊明显把重心转向海淘，都有点放弃国内的商品市场了，好伤心！！！！！！！！其他某宝某东，假货二手货得要命，根本买不到放心的东西啊！亚马逊啊！！你回来吧！！我们需要你！亚马逊的服务简直没得说！有一次不知道怎么，帮邻居买狗粮不小心订购到十包了，邻居老爷爷收货时候只要了一包，亚马逊配送员二话没说就给他了一包，并且自己把剩下的运送回去了，没半句怨言！退款也是杠杠的快！从此亚马逊在我心中的地位更高大了！就是比国内有些网购公司好一万倍啊！ !#nexlpEOL#!
+threadId=50140	segmentId=50140	!@#NEXLP_DOCVECTOR_SEPARATOR#@!第一次差评. 大概买到一件退货品！皱巴巴满是灰尘的塑料袋，袋口的胶已完全不粘，衣服里子上有白色羽绒，外有灰尘！第一次给中亚自营差评，希望以后不再有！ !#nexlpEOL#!
+threadId=50141	segmentId=50141	!@#NEXLP_DOCVECTOR_SEPARATOR#@!用了不到一个月就坏了，等了一个月才有回复. 4月份买了，5月份绳子就坏了。卖家沟通了一个月后才把绳子寄过来。结果他们公司售后服务人员过来后发现绳子居然不合适。 还有就是我在5月份就就给了差评，结果找不到了。呵呵。 !#nexlpEOL#!
+threadId=50142	segmentId=50142	!@#NEXLP_DOCVECTOR_SEPARATOR#@!要发票却不给发票. 网页订单上写了说要发票结果却没有给我发票，也不留个联系电话，什么意思啊 !#nexlpEOL#!
+threadId=50143	segmentId=50143	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一个礼拜左右的上门退货办理？. 13号提交的退货申请，今天20好了为什么没有上门来办理退货?? !#nexlpEOL#!
+threadId=50144	segmentId=50144	!@#NEXLP_DOCVECTOR_SEPARATOR#@!送货要用三天，而且很不准时，亚马逊应该退出中国. 送货要用三天，而且很不准时，亚马逊应该退出中国 !#nexlpEOL#!
+threadId=50145	segmentId=50145	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尺寸太大. 我180买的XL 大的像风衣一样。懒得退 !#nexlpEOL#!
+threadId=50146	segmentId=50146	!@#NEXLP_DOCVECTOR_SEPARATOR#@!都是我腿太粗了！. 感觉很一般，不如直接去迪卡依店里试了再买！徒步百公里磨了好多个水泡！ !#nexlpEOL#!
+threadId=50147	segmentId=50147	!@#NEXLP_DOCVECTOR_SEPARATOR#@!配送有问题. 亚马逊把我的星皇寄成星驰了，太马虎了，而且机油还泄漏了，估计是物流出了问题 !#nexlpEOL#!
+threadId=50148	segmentId=50148	!@#NEXLP_DOCVECTOR_SEPARATOR#@!总体满意的帐篷. 没看到货前一直很犹豫商品的质量，见到货后还是挺满意的，空间挺大。不过感觉价钱还是有些贵。 !#nexlpEOL#!
+threadId=50149	segmentId=50149	!@#NEXLP_DOCVECTOR_SEPARATOR#@!商品很好5星，物流和客服太差劲，给0分。物流快递小哥撒谎。. 商品，一如既往的好，这是我买的第二件，商品给5分。但物流太差和客服，给物流和客服的分0分，但这次购物的快递小哥和客服太差劲了，撒谎，让人真不能接受。商品明明显示派送状态，但我们下班早，大热天的，我怕他白跑一趟，于是我根据系统给他打电话，打了三个他就是不接。于是我联系客服，让客服帮忙联系，问是否送，如果送我就等，如果不送，那就明天送，然后跟我反馈结果。我这是出于好心，出于善良体谅他的角度考虑的，但一个半小时过后，客服才给我打电话问我是否接到快递小哥电话，我回答没有收到一个电话。我多亏没继续等，否则我干等一个半小时。客服还狡辩说给我打了两个电话，我没接。我当时回复是“我手机没有未接来电，我一直在手里拿着手机，等你的电话，怎么能没接任何电话呢？你要是说忘记打了，我倒不生气，你要是说打了，我反而生气了，因为我没有接到任何一个电话，也没错过任何一个电话。”然后客服人员说她可能打错了。晚上21:30，快递小哥用另外一个号码给我打了三个电话，由于陌生号码，所以我没接，然后给我发了信息说次日10点左右送。可是第二天午饭的时候才送到。然后上午给我发了条短信，内容是由于未联系到我，所以明日在配送。我想问的是，客服人员，还有快递小哥，你们为了规避责任，撒谎来撒谎去，不感觉昧着良心吗？我作为一个顾客，都从你们角度考虑，大热天怕你们白跑，不投诉你们怕你们扣工资，你们竟然撒谎骗人？最基本的人性都不存在了。太让人失望。这次购物体验，真得太差了。 !#nexlpEOL#!
+threadId=50150	segmentId=50150	!@#NEXLP_DOCVECTOR_SEPARATOR#@!中规中矩的商品. 120入的价格比较高，实用性给4星。做工中规中矩，比那些几十块的耐用；对于5寸的手机来说就比较吃力；跑步的时候比较舒适，不考虑价格的话值得入。 !#nexlpEOL#!
+threadId=50151	segmentId=50151	!@#NEXLP_DOCVECTOR_SEPARATOR#@!希望不要自作主张打开别人的快递。. 不喜欢送货人员代开包裹。非常的不开心。拿来就就只剩一个包了。对换货速度很满意。 !#nexlpEOL#!
+threadId=50152	segmentId=50152	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错. 挺好的。。。。。。。。。。。。。。。。。。。。 !#nexlpEOL#!
+threadId=50153	segmentId=50153	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不同花色的厚薄不一样这款裤子. 嗯，比较薄，比去年买的要薄，但还是好穿呢。 !#nexlpEOL#!
+threadId=50154	segmentId=50154	!@#NEXLP_DOCVECTOR_SEPARATOR#@!按自己的尺码选择. 其实土拨鼠的服装裁剪是标准的，完全可以按照自己的实际尺寸进行选择，裤腿稍长没有那些人说得严重。我买时选了小一号的，结果就紧了，只好退货，非常遗憾，很好的裤子，做工很好 !#nexlpEOL#!
+threadId=50155	segmentId=50155	!@#NEXLP_DOCVECTOR_SEPARATOR#@!宝贝很不错. 这个瑜伽垫真的很不错，第一是完全没有色差，是我喜欢的颜色，而且而且垫子的质量非常好，打开包裹时也没有难闻的气味。买到了一个好东西，谢谢卖家！ !#nexlpEOL#!
+threadId=50156	segmentId=50156	!@#NEXLP_DOCVECTOR_SEPARATOR#@!合身. 透气面料，适合运动。身高182，体重70公斤，宽松。 !#nexlpEOL#!
+threadId=50157	segmentId=50157	!@#NEXLP_DOCVECTOR_SEPARATOR#@!薄！物美价廉！挡太阳光！有点不透气！. 简直太薄了！非常棒！喜欢！有太阳的情况下，穿上或者不穿的体感温差非常明显，只是少许不透气，因为在无风的情况下，会出汗。 !#nexlpEOL#!
+threadId=50158	segmentId=50158	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺棒. 很棒的一次购物体验。 发货速度挺快，产品有保证。 !#nexlpEOL#!
+threadId=50159	segmentId=50159	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买家评论. 送货跟安装的不是一批师傅，不过也很好，送货前师傅给我电话，我就联系安装的师傅过来安装，基本上都是一起的。质量不多说，大品牌减震可以，跑起来有感觉。 !#nexlpEOL#!
+threadId=50160	segmentId=50160	!@#NEXLP_DOCVECTOR_SEPARATOR#@!盒子都压坏了. 应该是从工厂直接快递的，用的是圆通快递。盒子全部碎了，巧克力也压到了。 一星是给圆通快递的。 !#nexlpEOL#!
+threadId=50161	segmentId=50161	!@#NEXLP_DOCVECTOR_SEPARATOR#@!恶心. 虚假活动骗钱 还有脸吗？ 两包搞活动付完钱就发一包然后把活动取消 厉害👍🏻 学到了 !#nexlpEOL#!
+threadId=50162	segmentId=50162	!@#NEXLP_DOCVECTOR_SEPARATOR#@!数量不足！！邮寄过来只有8只！！以在网站投诉！不晓得会不会有回应！重量不足！！. 数量不足！！邮寄过来只有8只！！以在网站投诉！不晓得会不会有回应！重量不足！！ !#nexlpEOL#!
+threadId=50163	segmentId=50163	!@#NEXLP_DOCVECTOR_SEPARATOR#@!烂！！！！！！！！烂！！！!. 被人打开过，秒杀价19.9，第二天正常卖 还是19.9元 太坑了。感觉不是正品 !#nexlpEOL#!
+threadId=50164	segmentId=50164	!@#NEXLP_DOCVECTOR_SEPARATOR#@!慢 慢递 差. 鸡蛋 ... 6、7天了，都收不到！！！慢递 中间环节太慢，还有，圆通的两个电话 要么没人接 要么关机，运输实在太差，慢慢慢，这鸡蛋 光路上就5、6天，再加上出库时间 真不知 是否还新鲜... !#nexlpEOL#!
+threadId=50165	segmentId=50165	!@#NEXLP_DOCVECTOR_SEPARATOR#@!萌萌哒. 没打开前 看到托马斯的快递盒子 超喜欢 超有爱 赞赞哒 萌萌哒 不错 亚马逊加油！ !#nexlpEOL#!
+threadId=50166	segmentId=50166	!@#NEXLP_DOCVECTOR_SEPARATOR#@!果子成色差. 包装很好，果子很大，但成色差，不足一成能达到图片效果，其他的成色及口感差很多，不值这个价，比水果店5块零卖价的果子都差得多 !#nexlpEOL#!
+threadId=50167	segmentId=50167	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太青了，不值. 全部是青的，好硬的，都不知道等到何时才能吃。放了三天了。 !#nexlpEOL#!
+threadId=50168	segmentId=50168	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常一般. 跟特级两个字不太沾边。 我宁愿价格高一点，但是茶好一点。 也不要买回来如此失望。 !#nexlpEOL#!
+threadId=50169	segmentId=50169	!@#NEXLP_DOCVECTOR_SEPARATOR#@!配送很慢很不方便. 东西还行 但物流和配送很慢 再也不会在亚马逊上买东西了 分全扣在配送上了 !#nexlpEOL#!
+threadId=50170	segmentId=50170	!@#NEXLP_DOCVECTOR_SEPARATOR#@!泰国方便面. 面没啥特别，料包跟国产的不太一样，味道比较丰富。可以尝尝看啦 !#nexlpEOL#!
+threadId=50171	segmentId=50171	!@#NEXLP_DOCVECTOR_SEPARATOR#@!感觉一般，没有蜜糖的香味，也没有桉树的香味. 感觉一般，没有蜜糖的香味，也没有桉树的香味 !#nexlpEOL#!
+threadId=50172	segmentId=50172	!@#NEXLP_DOCVECTOR_SEPARATOR#@!喜欢. 喜欢五谷的面，好吃。价格优惠但临近失效期。卖家要是在商品介绍上注明日期就好了。 !#nexlpEOL#!
+threadId=50173	segmentId=50173	!@#NEXLP_DOCVECTOR_SEPARATOR#@!希望. 最好有与卖家的聊天软件，像淘宝的阿里旺旺那样的。 !#nexlpEOL#!
+threadId=50174	segmentId=50174	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般. 比较新鲜，但不是5A级的，特别小。而且有几个坏果。 !#nexlpEOL#!
+threadId=50175	segmentId=50175	!@#NEXLP_DOCVECTOR_SEPARATOR#@!快递太差. 亚马逊的快递越来越不好了，现在还得要自己下楼取快件～ !#nexlpEOL#!
+threadId=50176	segmentId=50176	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好吃不贵. 比泰国进口的要好吃，搭配自制无糖酸奶甜度正好，不需要额外加蜂蜜 。 !#nexlpEOL#!
+threadId=50177	segmentId=50177	!@#NEXLP_DOCVECTOR_SEPARATOR#@!喜欢凤梨酥. 味道不是很甜，口感细腻松软，给5份好评。 !#nexlpEOL#!
+threadId=50178	segmentId=50178	!@#NEXLP_DOCVECTOR_SEPARATOR#@!喜欢. 东东口感还行，发货速度也快，我 下单后一般第三天就到了。 !#nexlpEOL#!
+threadId=50179	segmentId=50179	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一直在买. 很不错，拿冷水泡个20分钟也可。很软很糯。 !#nexlpEOL#!
+threadId=50180	segmentId=50180	!@#NEXLP_DOCVECTOR_SEPARATOR#@!差评！. 收到的就是坏的，一侧没声音！退货回去还要自己付邮费 !#nexlpEOL#!
+threadId=50181	segmentId=50181	!@#NEXLP_DOCVECTOR_SEPARATOR#@!京东的比这个实惠多了送的东西多。. 亚马逊是抄京东的价格，但是人家京东价格是一样，但是人家送的架子凳子啥的，啥都不要说了，亚马逊就当是个参考价。买东西去京东准没错。 !#nexlpEOL#!
+threadId=50182	segmentId=50182	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般. 不要再说定制了，真的配不上我的吉他！看在速度上，好评吧 !#nexlpEOL#!
+threadId=50183	segmentId=50183	!@#NEXLP_DOCVECTOR_SEPARATOR#@!声音很清脆，感觉很不错，学起来很快很容易. 声音很清脆，感觉很不错，学起来很快很容易 !#nexlpEOL#!
+threadId=50184	segmentId=50184	!@#NEXLP_DOCVECTOR_SEPARATOR#@!及格. 对于一把一百多的尤克里里来说，做工和声音都还不错了 !#nexlpEOL#!
+threadId=50185	segmentId=50185	!@#NEXLP_DOCVECTOR_SEPARATOR#@!亚马逊越来越好. 售后真的没得说，完美。之前弹了个把礼拜发现面板不平，申请换货第二天货就来了 !#nexlpEOL#!

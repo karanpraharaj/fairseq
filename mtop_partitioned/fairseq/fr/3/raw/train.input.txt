@@ -1,0 +1,2320 @@
+Fais passer mon statut à Interessé pour le troisième événement
+réponds que je suis intéressé par la Conférence sur les urbanismes numériques
+marque-moi comme intéressé par cet évènement
+réponds peut-être au second événement
+réponds intéressé pour le second événement
+règle mon statut en tant qu'intéressé pour le lancement du livre Insurgent Empire
+change mon statut peut-être pour Hocus Pocus
+souhaite aller à L'occupation d'Alcatraz
+Combien de rappels pour l'épicerie ai-je ce mois-ci ?
+Combien de rappels sur le chien j’ai aujourd’hui ?
+Mon rappel pour déjeuner avec Tesha, c’est pour quand ?
+À quel heure est mon rappel pour le déjeuner avec mes amis demain ?
+Quand est mon rappel de réparation pour le camion ?
+mon rappel pour le café avec Alex, c’est pour quand
+Le rappel pour le concert est réglé pour quand ?
+Quel jour la semaine prochaine est prévu le renouvellement de ma carte de crédit ?
+Combien de temps est-ce que Bob a travaillé chez Fox ?
+Depuis quand Sam travaille-t-il pour ABC Tech ?
+Depuis combien de temps Joe travaille-t-il pour Appen ?
+Depuis combien de temps Rachel est-elle au Hilton ?
+en quelle année Debbie a-t-elle commencé à travailler chez Bath and Body ?
+Combien de temps Jeff a-t-il été employé par Amazon ?
+Depuis quand Abigail est infirmière ?
+Quand est-ce que Caesar a fini sa carrière d’architecture ?
+Ajoutez une chanson à répéter.
+Joue Despacito en boucle
+C'est quoi le numéro de Steven ?
+S'il est dans l'annuaire, est-ce que je peux avoir le numéro de portable de Mariah Jenner ?
+Saute deux morceaux
+change pour le morceau suivant
+Je veux entendre le prochain morceau
+Passe au prochain artiste.
+joue un autre morceau
+passe cette musique s'il te plaît
+passe le morceau
+Veuillez passer à la chanson suivante
+Mets un signet sur le morceau actuel
+comment s'appelle la dernière chanson
+Qui est l'artiste
+Quand est sortie cette chanson
+affiche le nom de l'artiste de chaque chanson
+Quel est le nom de cette chanson ?
+Comment s'appelle la chanson
+qui chante It Just Comes Natural
+quel est le nom de ce groupe ?
+Parle-moi de cette chanson.
+Qui est cet artiste
+Qui joue cette chanson ?
+QUI chante cette chanson ?
+Quel est ke nom de l'artiste de cette chanson ?
+rappelle-moi de prendre du café après le travail
+Rappelle-moi d'amener une paire de chaussures en plus à la rivière.
+Programme un rappel
+Rappelle-moi de consulter la liste bébé Cible pour les cadeaux du bébé de Cassie et Jake demain.
+Rappelle-moi d'envoyer les cartes de remerciement lundi à 8 h.
+Rappelle-moi les concerts prévus le mois prochain
+Rappelle-moi d'appeler Mark, à 15h, heure de l'est
+L'association des condos se réunit le mardi, définir un rappel  pour mardi matin 10h.
+Rappelle-moi d’envoyer un texto à Maddie mercredi à 15 h au sujet de la récupération du gâteau.
+crée un nouveau rappel pour appeler mon coiffeur vendredi
+Rappelle-moi que tout est beau
+mets un rappel pour envoyer le test d'ADN ce soir
+Programme un rappel pour envoyer un message à Mike à sept heures ce soir.
+Rappelle-moi la réunion de la Famille Martin trois mois avant le 17 octobre.
+définis un rappel pour apporter un plat d'accompagnement pour la fête d'anniversaire de Peter
+crée un rappel d'anniversaire pour la fête de Chey à 18 h
+Règle un rappel pour l’anniversaire de John.
+Fais-moi penser que je n'ai pas d'argent pour voyager
+rappelle-moi de nourrir le chien aujourd’hui à 17 h
+Définis un rappel pour commander les produits de Luau le 1er septembre.
+Rappelle-moi de répondre à l'e-mail de John ce soir à 19h00.
+Rappelle-moi d'acheter de la nourriture pour volaille aujourd'hui.
+Rappelle-moi d'annuler mon rendez-vous pour les yeux et de reprogrammer
+Rappelle-moi d’appeler le dentiste
+rappelle-moi de changer le filtre de la climatisation en avril
+Rappelle à Brady et Jackson que nous devons partir à trois heures, envoie-leur une alerte une heure avant.
+rappele-moi de faire de l'essence vendredi
+Programme un rappel pour faire un appel vidéo avec mon mari ce soir à 22 h
+Rappelle-moi l'heure du concert.
+Rappelle-moi d'acheter de l'ail aujourd'hui à 17 h.
+Rappelle-moi la réunion de lundi.
+Rappelle-moi de trouver tous les iPods avant le coucher afin qu’ils puissent être chargés pour le lendemain.
+crée un rappel pour appeler ma mère pour son anniversaire
+Rappelle à Sarah que nous nous voyons à midi et demi le trois.
+rappelle-moi de prendre les piles aujourd'hui
+Fais-moi penser d'aller au cours de yoga à 15 h vendredi.
+Crée un rappel pour mon rendez-vous chez le dentiste demain à 13 h
+Rappelle à Ray de prendre ses médicaments à midi.
+Programme un rappel pour envoyer un cadeau d'Edible Arrangements à Sammie et Wiff le 4 août à 8 h.
+rappelle-moi d'appeler ma mère demain à 8 h 30
+rappelle-moi de faire une liste de courses pour la rentrée scolaire
+Rappele-moi d'aller chercher de la nourriture chinoise aujourd'hui
+Rappelle-moi d'appeler ma mère ce soir à 20 h.
+Rappelle-moi deux heures plus tôt la fête de la rentrée des classes le samedi 4 août à 10 h
+Mets un rappel d'aller faire les courses samedi.
+Rappelle-moi de prendre le petit-déjeuner le matin.
+Rappelle-moi d'aller chercher une pizza et du coca pour le dîner.
+Rappelle-moi de dire à l'équipe quand les clients vont arriver lundi prochain.
+Rappelle-moi de remercier John pour le cadeau à 19 h demain.
+Rappelle-moi d'envoyer mardi le colis de soins à Ramon.
+Rappelle-moi de récupérer mon linge au pressing
+crée un rappel pour appeler mon mari et lui rappeler nos réservations
+Rappelle-moi de consulter l'agent de terrain demain matin.
+Rappele-moi de faire le ménage ce soir à 18 h.
+peux-tu me rappeler de nettoyer le filtre de la piscine jeudi prochain
+n'oublie pas d'appeler pour annuler l'abonnement à XM Radio
+rappelle-moi de prendre mes médicaments à midi aujourd'hui
+Rappelle-moi de changer l'huile de ma voiture dans 6 semaines.
+Rappelle-moi de récupérer la voiture chez Stan jeudi à 7h15.
+Rappelle-moi d'envoyer une carte de félicitations à ma fille
+Rappelle-moi d'envoyer son cadeau à Alex mercredi.
+Configure un rappel pour l'anniversaire de Camryn le 7 septembre.
+Je dois Rappelle-moi de retirer le tracteur du chargeur ce soir.
+Rappelle-moi de laver le chien cette semaine
+peux-tu me rappeler d'appeler la pâtisserie et de leur demander de faire un gâteau
+Crée un rappel pour appeler mon opérateur téléphonique dans dix minutes.
+rappelle-moi jeudi à 14 h de rappeler à mon mari la réunion de guilde à 19 h
+Programme un rappel pour lorsque je dois rendre mes devoirs.
+Rappelle-moi de demander à Josh d’appeler la compagnie d’électricité le jeudi avant 15 h.
+Peux-tu me créer un rappel pour que j'appelle Jonathan le 23 septembre ?
+Envoie un rappel à Joe pour notre rendez-vous à dîner de jeudi.
+Rappelle-moi d'appeler ma maman vendredi soir
+rappelle-moi d'acheter de la nourriture et des friandises supplémentaires pour les chiens
+Rappelle-moi mon rendez-vous médical demain matin à 9 h 00.
+Rappelle-moi d'envoyer par e-mail des cartes de vœux le 12 décembre.
+Rappelle-moi de payer la facture du câble le 16 août 2018 avant 17 h.
+Rappelle-moi d'appeler oncle Anthony demain à 19 heures
+Rappelle-moi d'appeler mon grand-père demain soir à 19 h.
+Rappelle-moi de vérifier les devoirs du petit dans une heure.
+Prévois un rappel pour demain pour emballer les pansements et les stylos à adrénaline pour le voyage.
+S'il te plaît rappelle-moi que je dois bouillir le rutabaga.
+Rappelle-moi d'appeler mamie
+Programme un rappel pour le Sprint Agile en cours pour le finir d'ici au jeudi à 17 h
+programme un rappel pour appeler papa ce soir à 17 h
+rappelle-moi d’acheter du lait en rentrant.
+Rappelle-moi d'aller chez l'ophtalmologue demain à 13 h
+rappelle-moi d'appeler ma femme lorsque je quitte le travail
+rappelle-moi de joindre le rendez-vous téléphonique à 9 heures aujourd'hui
+rappelle-moi d'aller aux portes ouvertes de l'école jeudi
+nouveau rappel : appelle le médecin aujourd'hui à midi.
+Fixe un rappel pour mon rendez-vous de 10 h 30 le lundi à une heure d'avance
+Rappelle-moi de laver les draps ce soir
+Rappelle-moi de regarder Big Brother à 20 heures dimanche
+Rappelle-moi d'acheter du lait ce soir
+Rappelle-moi d'aller chercher des fleurs pour l'anniversaire de mariage de mes parents
+crée un rappel pour dimanche
+je ne veux pas oublier de déjeuner
+Rappelle-moi de sortir le gâteau dans 21 minutes.
+Rappelle-moi d'annuler le rendez-vous
+Rappelle-moi de regarder l'éclipse cette semaine
+Rappelle-moi l'heure à laquelle je commence.
+programmer un rappel pour la fête du quatre juillet
+Fais-moi un rappel demain soir à 20 h pour le dîner
+peux-tu me rappeler de souhaiter un bon anniversaire à mon frère le 21 septembre ?
+Rappelle-moi le rendez-vous à 15 h
+Rappelle-moi d'acheter des casseroles et des poêles aujourd'hui
+Rappelle-moi d'acheter de la nourriture pour chat demain
+Rappelle-moi l'anniversaire d'Alekss un jour à l'avance
+rappelle-moi d'acheter des pastilles de chlore pour la piscine demain matin à 8 h
+Programme deux rappels pour ça. Un dans la matinée et un dans la soirée.
+rappelle-moi mon rendez-vous de vendredi soir
+Je ne veux pas oublier de regarder la dernière conférence de presse
+Rappelle-moi ce que j'ai prévu cette semaine
+Rappelle-moi de prendre rendez-vous demain en début d'après-midi
+Mets un rappel pour promener le chien à 18h
+Est-ce que tu peux me rappeler d'étendre le linge des enfants ce soir ?
+Ajoute un nouveau rappel pour récupérer le chien chez le toiletteur
+Rappelle-moi de faire de l'essence demain matin
+rappelle-moi d’appeler Mary ce soir après le boulot
+Rappelle-moi d'envoyer un mail à mon docteur avant demain
+rappelle-moi de rendre le DVD
+Programme un rappel pour le dentiste à 16 h lundi
+Crée un rappel pour demain à 6 h 30
+Rappelle-moi combien de temps il reste dans 10 minutes
+Crée un nouveau rappel pour ce soir.
+METS UN RAPPEL POUR MON RENDEZ-VOUS AVEC SUE CE LUNDI À 7 H 15
+Rappelle-moi que j'ai un examen médical lundi à 7 h.
+Rappelle-moi d’acheter du lait.
+Fais-moi penser à mon rendez-vous de 10 h chez le médecin
+fais-moi penser à ma série télévisée qui commence le 20 août s'il te plaît
+Rappelle-moi que la saison 2 de Stranger Things démarre ce week-end
+Bot, peux-tu me rappeler de consulter la boîte de réception à 14 heures.
+crée un rappel pour la pièce de théâtre de mes filles ce soir s'il te plaît
+rappelle-moi d'aller acheter les fournitures scolaires avec les enfants
+Règle un rappel pour acheter du lait
+rappelle-moi d'acheter de la nourriture pour animaux
+Mets un rappel pour soumettre mes heures
+rappelle-moi d'acheter de la nourriture pour chien, des os à mâcher et de la pizza aujourd'hui à 16 h
+rappelle-moi de rendre les livres à la bibliothèque
+Rappelle à Elizabeth quelle doit préparer toutes ses affaires scolaires pour demain.
+Peux-tu rappeler à Bamby de promener le chien dès qu'il rentre à la maison.
+Créé un rappel pour le film avec Alex ce vendredi.
+crée un rappel pour le dîner avec mon mari ce soir à 18h
+J'ai besoin d'un rappel pour faire la vidange d'huile de la voiture aujourd'hui.
+aappelle-moi de prendre de l'essence en rentrant du boulot
+Rappelle-moi d'acheter un cadeau pour la fête de Cheryl.
+N'oublie pas de rencontrer ma sœur pour dîner mardi à 19h.
+rappelle-moi d'aller à la réunion des parents d'élèves mercredi
+Rappelle-moi que je dois envoyer mon RIB à Mary Duke avant ce week-end.
+peux-tu rappeler à ma sœur de passer voir maman vendredi prochain à 16h ?
+crée un rappel pour sortir les poubelles
+Crée-moi un rappel pour mardi à midi que j'aille voir John dès que possible
+Je veux créer un rappel de groupe pour le barbecue pour tous ceux qui sont dans le quartier.
+rappelle à Jack que c'est mon anniversaire la semaine prochaine
+Rappelle-moi que je dois être gentil
+Merci de me rappeler à 20 h que je dois sortir ma mallette pour demain
+Crée un rappel d'événement pour la fête de départ à la retraite vendredi.
+Je veux régler un rappel pour aller chercher à Lisa un carnet de croquis et des écouteurs demain.
+Rappelle-moi l'anniversaire de Camryn vendredi soir.
+rappelle d'acheter quelque chose pour la fête d'anniversaire de peter
+Règle le rappel de retour de location de film.
+crée un rappel de payer les cartes de crédit la semaine prochaine
+Mets moi un rappel la veille du repas d'anniversaire de Judy.
+Crée un rappel de travail par courriel pour le lundi à 8 h.
+Ajoute un rappel pour les courses à la liste de demain
+Rappelle-moi de téléphoner à papa pour lui rappeler le rendez-vous avec Va
+Rappelle-moi d’envoyer le courriel dans 15 minutes.
+Rappelle-moi de fixer fixer les horaires des raids dans la guilde.
+Rappele-moi de déposer la paperasse Mercredi à 16 h.
+mets en place un rappel pour l'école demain
+Crée un rappel pour que j'aille faire permuter les pneus de ma voiture le mardi après-midi.
+Rappelle-moi du retour de courrier demain matin.
+Rappelle à Marques et à moi-même d'acheter des abonnements aux Cavs le 20 mars prochain.
+Rappelle-moi de balayer les marches ce week-end.
+Crée un rappel d'appeler le plombier demain matin à 8 h
+Programme un rappel pour aller chercher la composition florale vendredi.
+rappelle-moi à 8 h mardi matin d'aller chercher les ballons
+Programme un rappel pour que je m'occupe de la location de voiture pour les vacances avant la fin de la semaine.
+Rappelle-moi essence pour la tondeuse sur le chemin de la maison ce soir
+Rappelle-moi de programmer le DVR pour enregistrer Big Brother ce soir
+Rappelle-moi de prendre de l'eau pour les enfants à 15h.
+Envoie un rappel pour réserver le traiteur demain
+Rappelle-moi la réunion de lundi à 5 h
+Programme un rappel pour les répétitions de chorale d'octobre et de novembre.
+Crée un rappel de faire la fête avec mes amis ce vendredi
+rappelle-moi de fixer un rendez-vous d'une heure avec une masseuse
+Crée-moi un rappel de prendre un rendez-vous chez l'opthalmo la semaine prochaine
+Rappelle-moi de noter les devoirs demain après-midi.
+Rappele-moi de partir pour le déjeuner des nécessiteux au Ranch Fairbanks à le 6 septembre à 11 h 30 PT
+Rappelle à Mike de finir tous les papiers un jour avant samedi à 19 h.
+Rappelle-moi de prendre mes coordonnées de dépôt direct avant de partir.
+Rappelle-moi de venir chercher les semences à 10 heures jeudi.
+rappelle-moi d’acheter des céréales demain
+peux-tu maintenir l'alarme
+mets l’alarme en sommeil
+Reporte le réveil de 15 minutes
+Mets un rappel sur l'alarme.
+Interromps le réveil s'il te plaît
+suspends l’alarme pendant 5 minutes
+Suspends l'alarme pour 10
+laisse-moi dormir encore 10 minutes
+Répète l'alarme jusqu'à 8h.
+Dors pendant 5 minutes
+Désactive le rappel d'alarme
+Retarde l'alarme.
+Je me réveillerai dans 10 minutes active la répétition
+ouvre iheartradio et joue Today sur le shuffle
+ouvre iHeartRadio et écouter The First Five en mode aléatoire
+ouvre iHeartRadio et jouez des classiques de l'album original au hasard
+Choisis aléatoirement toutes mes stations de radio
+Passe en mode aléatoire
+Mets en pause ce morceau maintenant
+Mets ma musique sur pause.
+Mets le morceau en pause
+continue avec ma minuterie de fin de méditation
+reprends la minuterie de planches
+continue avec la minuterie
+redémarre le temps
+Remets la minuterie en marche
+Continue la minuterie pour la cuisson
+Passe une nouvelle musique de Justin Timberlake
+Joue de la musique populaire pour les enfants
+ouvre Pandora et lance ma station
+Joue les chansons les plus populaires du moment.
+joue d'autres chansons de cet album
+Joue quelques vieilles chansons de Janet Jackson
+Joue du reggae
+Joue-moi les plus grands succès de Jimmy Buffett
+Ne joue que du rock pour l'instant.
+Mets moi la nouvelle chanson de Rihanna, s'il te plaît.
+Écoutons du Selena Gomez.
+S’il te plaît joue-moi les plus grands succès de musique country.
+lance baby einstein sur Spotify
+Joue l’album d’Alicia Keys
+J'ai envie d'écouter des chansons des années 50
+Joues ma liste de lecture spotify
+Montre-moi des résultats pour « rock classique »
+Lance mes pistes école à la maison
+joue la liste de lecture des plus grands tubes de lana del ray
+Passe des tubes de rock
+joue la bande originale de Purple Rain
+Je veux écouter tout l’album de Christina Perri.
+Fais-moi écouter le nouvel album de Lecrae.
+Mets mes chansons relaxantes
+Joue Sexy Back de Justin Timberlake !
+Ouvre ma liste de lecture Spotify
+joue Guns N Roses sur Pandora
+Joue plus de musique comme ça.
+Joue la chanson country la plus populaire.
+Je veux de la musique new age
+Joue de la musique rock classique
+passe des chansons de Michael Jackson
+Passe à la musique salsa.
+Joue les meilleurs hits de Madonna
+Je voudrais écouter Aaliyah s'il te plaît.
+Joue une autre chanson du même artiste
+Joue Steely Dan.
+Joue Carrie Underwood
+joue les frères Doobie
+joue du kendrick lamar
+Joue du Kanye West.
+joue du  Kanye
+joue du Jeezy
+Joue quelque chose des beatles
+Joue Brett Young
+Joue Nevermind de Nirvana.
+Joue du Glen Campbell.
+joue les plus grands succès des Eagles
+joue highway to hell
+Joue du Janis Joplin
+joue, le rappeur Lil Uzi Vert
+Joue idontwannabeyouanymore
+Joue un peu de Thomas Rhett s'il te plaît.
+Je veux écouter Jeremih sur Google Play Music
+joue Luke Combs sur Google Play Music
+ouvre Spotify et joue Face the sun
+ouvre spotify et joue Sandstorm
+joue le titre Firestorm
+joue la chanson Sweet Child O'Mine
+joue la chanson Love Yourself
+joue le titre This Is What You Came For
+mets Queen 40 Limited Edition Collector's Box Set Volume 3 de H.E.R.
+ouvre Spotify et joue In The Lonely Hour (édition Deluxe)
+ouvre Pandora et jour Graduation (version limitée française)
+mets International Superhits! sur Spotify
+joue Nothing But The Beat
+lance le coffret collector en édition limitée sur Pandora
+joue Soul Manifesto : 1964-1970 sur OMI
+ouvre iheartradio et joue WHTZ.
+joue King of Pop sur iHeartRadio
+lance Free Fallin' sur iHeartRadio
+passe A Day To Remember sur iheartradio
+lis Formation sur iHeartRadio
+joue Trippie Redd sur iHeartRadio
+joue Wind Of Change sur iHeartRadio
+joue I Love It sur iHeartRadio
+Joue Girls' Generation sur iHeartRADIO
+joue l'album True sur iheartradio
+joue It Wasn't Me sur iHeartRadio
+Passe-moi No Money sur la radio iHeart
+passe TLC sur iheartradio
+passe Duran Duran sur iheartradio
+passer la chanson Without Me
+Mets « don't stop me now » de Tee Grizzley
+Je veux écouter Dua Lipa
+S'il te plaît, joue de la musique Filter House
+Peux-tu jouer n'importe quelle chanson de BTS ?
+joue de la musique pop polonaise
+Mets le nouvel album d'Eminem
+joue des chansons d'Eric Church
+joue l'album Until Death Call My Name Reloaded
+passe de la musique latine
+peux-tu jouer la fréquence 105.1 sur iheartradio
+mets la station WSVO sur iheartradio
+branche-toi sur 106.1
+joue-moi de la musique indy rap, death metal underground.
+joue la bande sonore de Cendrillon
+joue les plus grands succès de Boston sur Pandora
+Joue la station IDFC sur Pandora
+C'est la bonne chanson.
+Joue la bande originale de Moana
+joue la chanson
+J’ai besoin d’entendre des berceuses
+Joue la musique de Rihanna
+Joue la chanson ABC
+JOUER DE LA MUSIQUE ROCK'N'ROLL
+Joue de la musique punk classique
+Joue les vieux tubes de Stevie Wonder s'il te plaît
+joue la chanson Happy
+METS DE LA COUNTRY
+mets la dernier titre de Talking to the Taxman
+peux-tu mettre de la  musique de Radiohead sur Spotify
+commencer l'album au début
+joue toutes les chansons de Jimmy Ray des années 90 s'il te plaît
+joue fort
+Joue le nouveau single de Jeremy Camp
+Je voudrais de la musique instrumentale pour guitare
+Joue la chanson
+Joue-moi de la musique instrumentale
+S'il te plaît joue de la musique des années 80.
+joue de la musique pour enfants sympa aujourd'hui pour la fête de l'enfant
+Passe une autre liste de lecture
+mets-moi de la country
+Mets une musique douce et relaxante
+Joue de la musique qui endormira un bébé
+Puis-je entendre la version acoustique de cette chanson ?
+J'ai une envie de R&B
+mets ma station de radio la plus écoutée sur Pandora
+Je veux écouter ABBA.
+ouvre Pandora et recherche de la musique latine
+Merci de passer à la station Queen maintenant
+des pistes de John Lennon
+je veux écouter de la musique rock
+s’il te plaît, joue les chansons de Vybz Kartel
+Met à jour tous les rappels de natation de cette semaine.
+Où est le rappel pour la fête de Tanya le dimanche ?
+affiche l'emplacement du rappel de la fête du 50e anniversaire des grands-parents
+désactive la répétition de toute la musique
+Arrête l'appel vidéo avec tyrion
+S'il te plaît raccroche l'appel en cours avec Lily.
+J'aimerais mettre fin à cette conversation.
+Termine cet appel
+mets fin à l'appel s'il te plaît
+Termine l'appel avec Mary.
+Déconnecte cet appel.
+Termine cet appel vidéo
+Raccroche l'appel
+Merci d'interrompre l'appel
+Attends, n'appelle pas
+raccroche l'appel avec Leonel Pam Cantrell
+raccroche avec Chauncey Filburn
+raccroche Cassey
+raccroche avec Mathias.
+raccroche Gunnar
+Raccroche l'appel de maman.
+Arrête l’appel vidéo en cours
+Raccroche cet appel en cours.
+terminer l'appel actuel
+Termine l'appel
+Arrête d'appeler papa
+arrête d'appeler Ng Baird
+modifie l'heure du rappel pour le mettre à 10 heures
+Change tous les rappels des événements de demain pour midi.
+Déplace le rappel d'événement à dimanche.
+Supprime mes rappels pour le week-end et transfère-les au week-end prochain
+Je dois modifier le rappel pour la réunion de lundi prochain de 20 h à 21 h
+Mets à jour le rappel : rendez-vous avec Monica pour le déjeuner de 12h à 13h.
+Actualiser mes mémos pour appeler Rose vendredi à 16 h HAR.
+Modifie l'alerte d'aujourd'hui à mardi
+Basculer mon rappel pour la lessive samedi
+Décale le rappel de Carla de lundi à mardi.
+modifie l'alerte pour rappeler le paiement par carte de crédit de zéro à 1 jour avant la date limite
+actualise mon rappel de leçons de piano à mercredi
+Modifie mes rappels pour qu'ils affichent l'heure GMT plutôt que l'heure EST.
+J’ai besoin que tu changes mon rappel de réunion du jeudi à 16 h au vendredi à 17 h pour cette semaine.
+je suis disponible
+je suis libre pour parler
+rends-moi disponible pour John
+Règle mon réglage à disponible s'il te plaît
+Indique que je suis disponible
+Mon statut est disponible
+Affiche la disponibilité
+disponibilité ouverte
+Je disponible maintenant
+montre-moi qui m'a envoyé des messages vidéo
+Envoie Grand Prix des fromages grillés à Lukas
+Envoie cet événement de jeux à Matthias
+Partage le quatrième événement avec Jordan
+Est-ce que je connais quelqu'un qui va à Brexit: What's Next??
+Certains de mes amis ont-ils répondu à la question Qui entre dans l'histoire ? L'histoire des monuments et des statues ?
+quelle est la meilleure température pour cuire un poulet au four
+Quel est l’ingrédient principal dans les lasagnes
+Comment est-ce que je sais si un poulet est cuit ou non
+Que contiennent les hot-dogs casher
+Comment puis-je tresser la pâte
+comment cuire des haricots
+Combien de calories y a-t-il dans une portion de vrai beurre
+Quels sont les ingrédients d'un pot-au-feu
+quelle température pour cuire le pain de viande
+quelles sont les épices dans une tarte aux pêches
+quels sont les ingrédients contenus dans les quesadillas
+combien de calories dans les funnel cakes
+Quelle quantité de fibres y a-t-il dans les épinards ?
+Quelle est la meilleure façon de cuire les escalopes de poulet pour être sûr qu'elles ne seront pas sèches
+Quels sont les ingrédients d'une sauce à la pêche et à la mangue
+de quoi ai-je besoin pour faire de la sauce verte
+de quels ingrédients a-t-on besoin pour faire des gâteaux de crabe
+ingrédients dans la crème glacée
+Combien de temps dois-je faire cuire un poulet entier
+quels sont les ingrédients de la pâte à pizza
+De quoi est fait le sucre brun
+Quels sont les ingrédients d'un latte
+Combien de morceaux à découper
+Combien de temps faut-il laisser reposer un steak avant de le manger
+À quelle température doit-on cuire un rôti de bœuf
+à quelle température est un steak à point
+Quelle quantité d'eau dois-je ajouter à un rôti dans la mijoteuse
+Quelle est la température idéale pour cuire du bœuf saignant ?
+Quels sont les ingrédients pour le pho vietnamien
+Combien de calories y a-t-il dans un morceau de steak
+Combien de calories y a-t-il dans une livre de blanc de poulet
+Meilleure façon de cuire un steak
+Ingrédients pour faire un risotto aux champignons
+quels sont les ingrédients du canard laqué
+comment faire cuire du riz au micro-ondes
+Entre la pizza au pepperoni et la pizza aux saucisses, laquelle est la moins calorique
+Les ingrédients de la pâte à pizza
+De quelles épices j'ai besoin pour faire des tacos
+Quels ingrédients faut-il pour faire un quatre-quarts ?
+À quelle température doit-on réchauffer la pizza
+Quels ingrédients composent la sauce rouge pour les enchiladas ?
+Il y a quoi dans le pho ?
+comment faire une sauce alfredo
+Quels sont les ingrédients de la sauce pesto
+qu'est-ce qu'il y a dans le curry
+Combien y a-t-il de grammes de lipides dans un cheeseburger
+Quel est le temps de cuisson d'un pain à la viande ?
+De quoi ai-je besoin pour faire de la sauce Alfredo
+Qu'est-ce qu'il faut comme ingrédients pour faire un ragoût de haricots verts
+Combien de temps faut-il pour préparer des lasagnes ?
+quels sont les ingrédients d'une tarte aux pommes ?
+Où est mort Michael Jackson ?
+J'aime pas cette chanson et je ne veux plus l'entendre
+Annule tous les alarmes.
+Supprime les alarmes pour les deux prochains mois
+Annule l'alarme pour l'heure du coucher
+annule cette alarme en fait
+Annule mon alarme.
+Supprime toutes les alarmes
+Annule cette alarme.
+Annule toutes mes alarmes pour
+Je veux aller à TEDxSeattle
+réponds Oui pour Fly 5K au musée de l'aviation
+réponds oui pour Bands on the Bayfront
+réponds oui au troisième événement
+aller à la Fête de la pomme et du cidre de la péninsule olympique
+marque-moi comme allant à la convention Sea-Meow
+Sauvegarde la liste de morceaux qui vient de jouer
+Ajoute ce titre à la liste de lecture des enfants
+Est-ce que Nevada Ownbey m'a envoyé un message vidéo ?
+Est-ce que Dahlia m'a envoyé un message aujourd'hui ?
+Est-ce que Lorenzo m'a envoyé un message ?
+ai-je reçu des messages de la part de mon épouse cette semaine ?
+J'ai perdu le message envoyé hier par mon père, peux-tu le retrouver ?
+Lis tous les messages non lus
+Ma famille m'a-t-elle envoyé un texto
+Le groupe de travail m'a-t-il envoyé un message au cours de la  semaine passée
+Récupère mes textos de Sigourney, Dianne et Lindsie
+récupérer les messages de maman Harvey
+montre-moi les messages de ma petite-fille Malaysia
+me présenter des messages vidéo à partir de mon papa Saylor
+affiche mes messages de Calvin
+quels sont les textos de ma femme Finley
+je veux voir les messages de ma sœur
+montre-moi mes messages de la part de Henry
+récupère les messages de ma petite amie Adriel
+affiche mes messages de Bella
+fais-moi voir les textos de mon fils Angel
+récupère les messages de Nyla
+montre-moi les messages vidéo de mon grand-père Gunner
+quels sont les messages de grand-père Viviana
+afficher les messages vidéo de mon cousin Fernando
+montre-moi des messages vidéo de cousin Devin
+rrouve-moi les messages de ma mamie
+montre moi les messages de mon grand-père Mateo
+Les meilleures choses à faire ce week-end
+y a-t-il un concert ce week-end
+Y a-t-il quelque chose à faire vendredi
+Des activités amusantes à faire pendant le week-end
+Je voudrais voir d'autres événements qui sont adaptés aux familles
+recommande-moi des événements adaptés aux chiens
+Peux-tu récupérer mes événements passés s'il te plaît ?
+As-tu d'autres salons de l'automobile
+pourrais-tu me montrer d'autres événements
+Recommande des matchs de hockey sur glace à Joplin pour vendredi
+Recommande-moi quelques événements pour ce mois-ci
+Y aura-t-il un match de tennis demain soir
+Y a-t-il un match sportif en mai
+Y a-t-il des matchs de volley-ball, samedi, à L. A.
+Y aura-t-il bientôt des matchs de tennis
+Quelles rencontres de volley-ball sont programmées en septembre
+Tout match de football à venir
+Quels sont les matchs de basketball en cours
+Y a-t-il un match de sport en novembre
+Tout match de rugby à venir
+Dis-moi quels sont les matchs de basket qui se déroulent en octobre
+Les spectacles de broadway à New-York en mars
+Des films ce week-end à Érié
+Choses à faire à Montgomery en Alabama
+Choses à faire ce week-end à Miami
+Concerts à Burbank ce week-end
+Sorties à Atlantic City demain soir
+Il y a quelque chose de sympa à faire ce week-end à New Hope
+Événement musical à Phoenix le mois prochain
+Où s'amuser à Syracuse
+comédies musicales à Windham ce week-end
+Choses à faire à Chicago pour Thanksgiving
+la semaine prochaine à Phoenix
+Quels sont les événements à Hollywood demain
+événements à Oak Glen pour la semaine prochaine
+Que va-t-il se passer à Miami ce week-end
+y a-t-il un concert à Wilmington ce soir ?
+quoi faire ce soir dans le centre-ville d'Orlando
+Que faire à Boulder ce week-end ?
+Ce qui se passe à New York samedi soir
+Événements en cours à New York cette semaine
+Que se passe-t-il à Athènes dans deux semaines
+Que pourrai-je faire demain à Fairfax
+Quels concerts ont lieu à Austin samedi
+Les films qui sortent ce week-end dans le Dakota du Sud
+Que se passe-t-il à Philadelphie ce week-end
+demain à columbus
+qu'est-ce qui se passe cette semaine
+Quels sont les événements musicaux prévus ce weekend à Basking Ridge
+Quels événements ont lieu demain soir
+Quel est le plus grand événement prévu à Seattle le mois prochain
+Que devrais-je faire aujourd'hui
+Que se passe-t-il à Las Vegas le réveillon du Jour de l'an à 23 h
+Il y a des parades ce soir
+Événement musical ce weekend à Kirkland
+Choses à faire à Atlanta demain
+que faire a boston a noël
+Les concerts à New York
+Évènements musicaux à Sioux Falls ce week-end
+Événements sportifs à Memphis ce vendredi
+ce qui se passe à Philadelphie ce soir
+Donne-moi la liste des salons de l'automobile prévus à Atlanta le week-end prochain
+Films à 21 h ce soir dans la région de Pittsburgh
+Foire du comté de Pierce
+événements à honolulu
+Qu'y a-t-il à faire à New York samedi soir
+Quels spectacles sont programmés ce week-end
+De la musique en direct ce soir
+L'actualité à New York
+Concerts de musique à Dallas
+fêtes ce soir
+qu'est-ce qu'il se passe à Denver jeudi soir
+Est-ce qu'il y a des concerts de prévu à Fargo, dans le Dakota du Nord
+qu’est-ce qu’il y a d’amusant à faire ce week-end
+Choses à faire à Hawaï ce soir
+est-ce que cet événement est annulé à cause des incendies
+Que peut-on faire à Honolulu le vendredi soir
+choses à faire à hattiesburg ce week-end
+foires se tenant à ann arbor la semaine prochaine
+Que se passe-t-il à la Nouvelle-Orléans ce soir ?
+Tout ce qui se passe d'amusant demain
+Tout ce qui se passera demain
+Meilleures choses à faire à Orlando la semaine prochaine
+quelles sont les fêtes prévues à new york ce soir
+Trucs à faire à Los Angeles ce week-end
+choses à faire à Orlando la semaine prochaine
+Que se passe-t-il jeudi
+Quels événements sportifs ont lieu ce week-end
+Choses à faire par moi-même
+Pièces de théâtre à Atlanta le mois prochain
+Y a-t-il des événements samedi après minuit
+Tout événement se déroulant dans le centre-ville de Hardy
+quel genre de concerts auront lieu ce week-end à nashville
+Les fêtes qui ont lieu ce week-end
+Les choses à faire à Santa Cruz samedi
+Trucs à faire vendredi prochain
+Quels événements recommandes-tu
+Quel est l'événement le plus populaire qui se déroule à Chicago
+Quels événements ont lieu ce soir à Toronto
+que se passe-t-il à Los Angeles ce soir
+je n'ai rien à faire, tout ce qui se passe de bien
+Donne-moi les horaires des films à venir
+Il y a des trucs sympa de prévus aujourd'hui
+Donne-moi une liste de choses sympa à faire à Schertz samedi
+Quels sont les événements qui se déroulent à Troutdale ce soir
+Événements à Seattle ce vendredi
+Que se passe-t-il demain soir
+Qu'est-ce qui se passe à Vegas ce soir
+Quels films sont diffusés
+Qu'y a-t-il de prévu demain
+Qu'est-ce qui se passe ce soir
+Qui est en concert cette semaine à Atlanta
+Fêtes à Los Angeles pour le nouvel an
+y a-t-il des choses sympas prévues ce soir
+Quels concerts arrivent à Sacramento
+y a-t-il quelque chose de cool qui se passe à Bayside la semaine prochaine
+Événements qui ont lieu à la fin du mois à Atlanta
+dis-moi ce qui se passe à Atlanta ce soir
+qu'est-ce qu'il y a comme concerts à Denver en avril
+Événements humoristiques en Californie
+Choses à faire à Atlanta Georgie ce week-end
+Se passe-t-il quelque chose à San Jose ce soir
+mets cet appel en attente.
+En quelle année Theresa a-t-elle obtenu son diplôme du lycée ?
+Quand est-ce que Nina a commencé chez Purdue ?
+Quand est-ce qu'Anna rentre de l'école ?
+Quand est-ce que David a commencé à fréquenter l’Université de Boston ?
+quelles sont les températures maximales et minimales prévues aujourd'hui ?
+Pour quand est prévue la prochaine tempête ?
+Quelle va être la température minimale ce soir ?
+Quel temps fait-il à Brooklyn
+météo à Elizabeth, New Jersey maintenant
+quelle va être la force du vent demain
+À quelle distance est l'orage le plus proche ?
+quand va-t-il pleuvoir
+Quelle quantité de pluie est prévue à la Nouvelle Orléans ?
+des tempêtes aujourd'hui ?
+Comment est la météo à Santa Ana en Californie ?
+ai-je besoin de pneus spéciaux pour aller à Idyllwild
+La météo du week-end à Seattle ?
+Quel temps fait-il à Myrtle Beach à 15 heures ?
+Quel temps fera-t-il à Big Sur ce week-end ?
+Temps typique pour l'Ohio
+Pour quand la prochaine grande tempête de neige est-elle prévue la semaine prochaine ?
+Quel temps fait-il à Kingston
+Est-ce que peux rouler en décapotable demain ? Quelle est la météo ?
+Quelle est la température extérieure en ce moment ?
+Est-ce que j'aurai besoin d'un parapluie demain à Seattle ?
+Quel temps fera-t-il demain ?
+degrés dehors
+Fait-il très chaud en Australie ?
+dois-je porter une chemise à manches courtes aujourd'hui
+quel est le point culminant aujourd'hui
+Combien de temps est-ce qu'il va pleuvoir aujourd’hui ?
+Comment est la météo à Toronto ?
+Il est censé pleuvoir à Norcross aujourd'hui, non ?
+la météo de demain à phœnix
+quel temps est prévu en Floride les cinq prochains jours
+Va-t-il faire assez froid pour un manteau ce soir ?
+Va-t-il grêler mardi
+Dis-moi quel temps il fera à Daphne, AL demain, s'il te plaît.
+basse température vendredi
+Est-ce qu'il y aura de la grêle demain ?
+Montre-moi des prévisions à cinq jours
+Y aura-t-il de la neige à Boston la semaine prochaine ?
+Quel temps fera-t-il ce matin à 7 heures
+donne-moi la météo pour toute la semaine
+Je dois voir la météo pour toute la semaine
+prévision pour Wells-next-the-Sea
+J'ai besoin de la météo pour Shipston on Stour
+affiche la météo pour Wells-next-the-Sea
+Quelle température va-t-il faire ce soir
+est-ce qu'un gilet est recommandé
+écoutons la météo de la Russie
+Quelle est la température en degrés Celsius
+Donne-moi la météo en degrés Celsius
+Dis-moi le temps qu'il fera à 9h30 s'il te plaît.
+Quelle est la météo pour la soirée ?
+Dis-moi quel temps il fera à 19 h 30.
+Est-ce qu'il fera froid à 5 h ?
+Quel temps fera-t-il à 10 h s'il te plaît ?
+Quel temps fera-t-il tard dans la soirée ?
+Donne-moi la météo de ce week-end
+Donne-moi des informations sur la météo
+prévision
+Quel temps fait-il dehors ?
+Donne-moi la météo
+Quel temps fait-il ?
+Quelle va être la température.
+Quel temps fait-il en ce moment ?
+aurai-je besoin de vêtements chauds pour le dîner ?
+Il faut que je mette de la crème solaire aujourd’hui ?
+Est-ce que je devrais prendre une veste épaisse ?
+Quelle est la météo demain à Perth ?
+Quelles sont les prévisions pour ce lundi ?
+Est-ce qu'il va neiger sur le mont Fuji, demain à midi pile ?
+Le temps sera-t-il beau ce week-end à Cowes
+Temps prévu dans les îles Galápagos demain matin.
+Quelle est la météo de mardi après-midi ?
+dis-moi la météo de ce weekend en Tasmanie
+S'il te plaît, donne-moi les prévisions météo pour la Gold Coast
+Pourrais-tu trouver le temps qu'il fait en Australie-Méridionale ?
+Donne-moi la météo à Belfast
+Tu peux me donner la météo du Colorado?
+Quelles sont les prévisions météo pour le Queensland ?
+Météo au Texas, s'il te plaît.
+Donne-moi la météo de Victoria
+J'aimerais connaître la météo sur une période de 7 jours s'il te plaît
+quelle est la météo de lundi
+Montre-moi le temps prévu pour la semaine prochaine
+Quel temps fera-t-il lundi ?
+Pleuvra-t-il samedi ?
+Donne-moi la météo pour lundi prochain.
+Quel temps fait-il en Tanzanie ?
+Fidji, quel temps fait-il
+Donne-moi les prévisions météo pour la Nouvelle-Zélande.
+Météo en Argentine, merci
+quel temps fait-il à Melbourne
+Dis-moi quelle est la météo à Paris, France
+La météo de Dunedin ?
+La météo en Angleterre !
+Comment est la météo à Adélaïde ?
+La température en degrés Celsius dehors maintenant.
+Regarde le temps qu'il fait en Ontario en ce moment, s'il te plaît.
+Nécessaire ; prévision sur 5 jours.
+Donne-moi les prévisions météo pour Pâques
+Samedi après-midi, quel temps fait-il ?
+Indique-moi la météo en France
+Consulte la météo en France
+Quelles sont les conditions météo au Mexique ?
+Porte des bottes hautes aujourd'hui.
+Montre-moi la météo de ce midi
+Il va faire quel temps mardi ?
+Quelles sont les prévisions météo pour la Turquie ?
+Quel temps fera-t-il à 23 h ?
+Météo à Paris, Ontario.
+Dois-je emmener un parapluie ce soir ?
+Est-ce que je dois prendre mon parapluie aujourd'hui ?
+QU'EST-CE QU'IL SE PASSE AVEC LE TEMPS
+Quelle est la température en ce moment ?
+Quel temps fait-il dehors en ce moment même?
+quel temps fait-il aujourd'hui ?
+Est-ce que j'ai besoin de sous-vêtements thermiques aujourd'hui ?
+Est-ce qu'il va pleuvoir dimanche après-midi à 15 h ?
+à 7 heures du soir, à quoi puis-je m’attendre de la météo en Australie
+Conditions météorologiques du 4 juillet aux États-Unis
+Quel temps fera-t-il ce mercredi soir ?
+Dis-moi la météo pour le matin du 18 mai.
+Quelle sera la météo dans le Yorkshire mardi soir ?
+Donne-moi des informations sur le temps qu'il fera à New York le week-end prochain
+Donne-moi une mise à jour sur la météo de 15 h
+va-t-il pleuvoir dans la matinée ?
+Vérifie la météo prévue à 18h.
+comment sera le temps dans une heure
+Hé bot est-ce que le temps sera correct à 17 h
+Prévisions météo pour cet après-midi
+Je veux connaître la météo à midi
+Dis-moi quel temps il fera cette après-midi
+Quel temps fait-il à East Anglia?
+quelles sont les prévisions météo pour le week-end prolongé ?
+Je dois savoir quel temps il fera ce week-end.
+Quel temps fera-t-il la semaine prochaine ?
+Quel temps fera-t-il pour Noël ?
+Quelle est la météo ce week-end ?
+quelles sont les prévisions météo pour cette semaine ?
+Dis-moi quel temps il fera demain
+Le temps sera-t-il clément lundi, jour férié ?
+Donne-moi les prévisions météo pour samedi.
+quel temps fera-t-il ce week-end ?
+Quelle sera la météo entre le 30 avril et le 5 mai ?
+Comment se porte l'ouragan à Hawaii ?
+Renseigne-moi sur la météo espagnole
+Quelle est la température en Afghanistan ?
+Quelles sont les prévisions météo pour le Kenya ?
+dis-moi le temps qu'il fait à Londres
+Quelle température fait-il en Allemagne ?
+Donne-moi les détails météo pour Faro aujourd'hui.
+Hé bot, quel temps est-ce qu'il va faire à Manchester ?
+Quel temps fait-il en Floride ?
+J'ai besoin de savoir quelle sera la météo à Londres mardi
+Merci de me dire le temps qu'il fait à Milan
+À quel point fait-il chaud à Brighton ?
+Y a-t-il une chance pour qu'il y ait du tonnerre ce soir ?
+Y aura-t-il de la neige aujourd’hui ?
+Y aura-t-il de la neige en novembre ?
+fera-t-il chaud demain ?
+est-ce qu'il va y avoir du soleil dimanche ?
+peux-tu me donner les prévisions météo pour demain à Half Moon Bay ?
+ouvre la météo à Vancouver
+quel temps va-t-il faire demain
+Température aujourd'hui, en degrés Celsius
+Température à Houston la semaine prochaine en °F
+Le thermomètre monte à combien près de Dublin ce soir en degrés celcius
+À quel point fera-t-il froid à Seattle ce week-end en Fahrenheit
+Quelle température fait-il ce soir à Paris en degrés Celsius
+Fera-t-il chaud à Palo Alto demain matin, en degrés Fahrenheit
+Quel froid fait-il à Shanghai en degrés Fahrenheit
+Est-ce qu'il va faire environ 25 degrés Fahrenheit à Tokyo aujourd'hui
+Quelles sont les conditions météo à Chicago mardi ?
+quel temps fait-il à brooklyn en ce moment
+est-ce que la météo prévoit des orages ce week-end
+Quelle température fera-t-il cet été
+Quelles sont les prévisions météo pour l’état du Texas aujourd’hui
+Quelle était l'alerte météo
+il va pleuvoir longtemps, demain
+Quel temps fera-t-il demain soir à Richfield MN
+Peut-il faire trop froid pour neiger
+va-t-il pleuvoir ce soir
+Doit-il y avoir un orage ce soir
+Quand est-il censé s'arrêter de pleuvoir
+Quand est-ce que la saison des neiges comment à Truckee
+Est-ce que la température atteindra les trois chiffres cette semaine
+Donne-moi le temps pour mardi soir
+Peux-tu ramener des vestes légères pour nos vacances à Nashville dans le Tennessee la semaine prochaine
+est-ce qu'il pleut en ce moment
+Quand est-ce qu'il va commencer à pleuvoir
+Quels sont les hauts et les bas vendredi
+Comment est la météo vendredi prochain à Idaho Falls
+Est-ce qu'il y aura du brouillard ce soir à Santa Monica
+est-ce qu'il y aura du brouillard le matin
+Il va pleuvoir à Fort Lauderdale dimanche
+Quelle est la ville des États-Unis qui a le climat le plus agréable toute l'année
+comment est septembre en Géorgie
+quand devrait-il neiger prochainement
+Fera-t-il glacé
+Est-ce que j'ai besoin d'un parapluie aujourd'hui ?
+Quelle sera la température demain à 9 h
+aurai-je besoin de déblayer la neige dans la matinée
+À quel point est-il censé faire chaud ce week-end ?
+Quel est le minimum nocturne ?
+Quelle sera l'humidité aujourd'hui ?
+Va-t-il pleuvoir la semaine prochaine ?
+Va-t-il pleuvoir à Westlake aujourd'hui ?
+Est-ce qu'il va neiger ?
+Fait-il chaud à Cancun
+Quelle est la température en ce moment même à Taipei?
+Dois-je porter un pantalon ou un short pour ce soir ?
+quelle est la température actuellement à Denver
+Je dois savoir s'il va pleuvoir
+Est-ce qu'il va faire froid cette semaine ?
+Est-ce un temps pour pique-niquer ?
+quel est le niveau d'humidité aujourd'hui ?
+Est-ce que je dois amener un parapluie au match ce soir ?
+est-ce que j'ai besoin d'un imperméable ce week-end
+Consultez la météo.
+Quelle épaisseur de neige y a-t-il dehors ?
+combien de jours cette semaine y a-t-il de la pluie dans les prévisions
+est-ce que j'ai besoin d'une veste ce soir
+Les enfants ont-ils besoin de leurs imperméables aujourd'hui ?
+aurai-je besoin d'un manteau demain ?
+Le temps va-t-il se refroidir demain ?
+Quel temps fera-t-il ce week-end ?
+Est-ce qu'il va faire chaud à New York mercredi prochain ?
+quel temps fait-il à Denver aujourd'hui
+Faire la liste des jours où la température est supérieure à 50 degrés cette semaine
+dois-je apporter un parapluie aujourd'hui ?
+Quelle sera la météo à Atlanta demain matin ?
+Va-t-il neiger ce week-end ?
+De la pluie est-elle prévue ce week-end ?
+Quelle température fait-il à Mexico ?
+Quel dégré de froid va-t-il faire cette semaine ?
+Quel est le taux d'humidité pour aujourd'hui ?
+À quelle vitesse se déplace la tempête actuelle à Daytona ?
+quel est le temps prévu pour demain
+tu peux me faire un point météo pour ce soir
+Quel temps fait-il à Fort Wayne ce week-end
+Me rends à un match de base-ball samedi, quelle est la météo pour ce jour-là ?
+quelle est la température à Phoenix maintenant
+Va-t-il pleuvoir dans les deux prochaines heures ?
+pluie à chandler
+Va-t-il faire chaud aujourd'hui ?
+Y a-t-il des alertes ou des avertissements de tornade dans la région de Dyersburg en ce moment ?
+Avance mon alarme de 20 minutes
+Modifie le nom de l'alarme pour cuire du gâteau
+Change mon alarme « Bouger la voiture » à 13h
+Mets à jour mon alarme à 7 h
+règle mon alarme sur 9 h
+Change mon alarme « se préparer » à 11 h
+Change mon réveil de départ à 14 h
+Change mon alarme de rappel.
+Je veux réécouter ce morceau
+Règle la liste de lecture sur jouer en boucle.
+Repasse la chanson s'il te plaît
+Je veux réécouter ce morceau.
+Reviens à la chanson numéro un de la piste
+Repasse la chanson depuis le début.
+J'adore cette chanson, rejoue-la
+Rejoue le morceau que j'ai le plus écouté hier.
+rejoue la chanson
+Dis-moi quand commence la Fête de la Lune
+Dis-moi quand commence le marché de l'Artisanat et du Recyclage
+ma sœur apppelle-là s'il te plaît
+appelle la mère de Megan
+appelle le neveu de Lawanna Tafiti
+appelle le mari d'Earlean Staine
+appelle l'amie de Cecilia
+appelle la mère de Kindlimann Maribeth
+appelle la petite amie de Staci Okeke
+appelle l'ami de Roderick Peth
+appelle le petit ami d'Isabelle
+appelle mon neveu Kortney Houghland
+appelle mon grand-père Yung Marois
+appelle le commis au classement
+J'aimerais faire un appel vidéo avec Cindy Ash
+passe un appel avec Nancy Ng
+appelle Kerry avec la vidéo
+Peux-tu essayer d'appeler Nick ?
+téléphone à jackson Brandon
+Appele mon grand frère à la maison
+Appelle la mariée
+Nouvel appel, appeler Kyle
+Contacte Michelle.
+Appelle le groupe
+crée un appel de groupe
+Organise un appel avec ma famille
+Appelle maman
+appelle maman
+passe un appel collectif pour la famille
+Contact, Jim, commence l'appel
+Démarre un appel avec Cyndy
+Je dois appeler mon père
+Commence à composer le numéro de Mary
+Appelle Susan Tim et Beverly ensemble
+s’il te plaît appelle tous les parents
+appelle le portable de mon petit-enfant
+passe un appel au groupe de ma femme
+S'il te plaît, appelle mes parents maintenant
+Appelle les mamies
+s'il te plaît, appelle mes frères et sœurs
+Appelle ma mère en vidéo
+appelle mon grand-père meg
+téléphone aux sœurs
+appelle mes belles-sœurs s’il te plaît
+appelle mon beau-père
+appelle papi
+Appelle mes neveux à Tuscon
+connecte-toi à ma mère
+Appelle ma maman.
+appel vidéo du groupe familial
+Passe un appel vidéo avec mes parents.
+lance un appel vidéo avec Anne
+Appelle Key.
+Passe un appel avec Rob
+appelle mon père s'il te plaît
+Appel vidéo à mon amie Julie maintenant
+Chat vidéo avec mon mari.
+Commence un chat vidéo avec maman
+appelle Grant Potter
+appelle Terry Murray
+appelle Whitney Sutton
+appelle Maurice Chevalier
+appelle Regina George
+appelle Judy Collins
+je veux appeler le 4085556205 sur Skype
+appelle le 555-1918 sur Messenger
+peux-tu appeler le 555-5248
+appelle le 555-7775 sur WhatsApp
+appelle 676-555-5608
+s'il te plaît, appelle le 5558546 sur Skype
+appelle le 3675553669
+contacte Clara Lambert
+téléphone à Max
+je veux prendre des nouvelles de Timothy
+J'aimerais appeler mes cousins Alberto, Claire, Kiera et Lukas sur Messenger
+Démarre un appel avec mes amis Marissa, Jakob, Rachel et Ross sur Discord
+Pourrais-tu s’il te plaît lancer un appel avec Kira, Edward et Ramon Barber
+Démarre l’appel vidéo avec Hugo Guzman, Dominic Dillard, et Shelby Wall
+Lance un appel vidéo Kaleb Crane et Orlando Haney
+appelle Audrey Banks, Francis Christensen, Shannon Vaughn et Dorian Rhodes
+Appelle Logan et Brandi
+Lance un appel vidéo avec Trinity, Mya, Kendall et Uriel
+Démarre un appel avec Jared, Jaime, Fernando et Brooklyn sur Wechat
+appelle Kaila, Jessica, Tyler et Ashlynn
+Lance l'appel vidéo avec mon conjoint Bryan, mon épouse Tiara, ma petite amie Bridget et mon père Wesley sur Discord
+Lance un appel vidéo avec Productivity
+appelle le groupe Spectacles musicaux sur WhatsApp
+Lance un appel avec votre communauté sur Hangouts.
+Lance un appel Spoken Word
+Passe un appel avec mon groupe d'amis du travail sur Hangouts
+Peux-tu appeler le groupe de Los Angeles
+Lance un appel audio avec mon groupe de collègues sur Messenger
+Est-ce qu'on peut lancer un appel Wechat avec le groupe des Amoureux du vin ?
+Peux-tu appeler Xavier, Kevin et Ryan
+localise Carlos
+passe un coup de fil au papa de Noelle Derek
+appelle la maman de Weston Abbott
+appelle le papi de Luke Burgess
+appelle le grand-père de Justin
+appelle Cayden la sœur d'Ashton
+appelle la mamie d'Aaron
+appelle Jeremiah la grand-mère de Jesus Leonard
+peux-tu appeler l'ami de Catherine
+s'il te plaît appelle la nièce de Melissa Maldonado
+appelle Javon Nicholson sur WhatsApp
+appelle Karter sur whatsapp
+appelle Nikolai via WhatsApp
+passe un appel whatsapp à Raegan
+sur whatsapp appelle Hayden Gardner
+appelle Mackenzie sur WhatsApp
+appelle le portable de Lincoln Hines sur Whatsapp
+appelle Declan Peck sur le chat vidéo Whatsapp
+appelle Piper Chavez sur Whatsapp
+appelle Claire Lucas et appelle Alayna Moore via Whatsapp
+appelle Rylan Mcgee et Reagan Sawyer sur WhatsApp
+appelle mon contact Whatsapp Ayden Padilla
+appelle mon contact Whatsapp Amaya Trujillo
+appelle mon contact Whatsapp Nolan
+Appelle Stephanie depuis mes contacts Whatsapp
+appelle Isaac Barnett via Whatsapp
+appelle Whatsapp Selah
+appelle Lena sur Whatsapp
+appelle Ayden Padilla en vidéo sur WhatsApp
+appelle Amaya en vidéo sur WhatsApp
+nous allons appeler Amanda
+peux-tu appeler Briana via Messenger
+peux-tu appeler Mila sur WhatsApp
+peux-tu appeler Elisa sur WhatsApp
+appelle Lydia sur WhatsApp
+peux-tu écrire à Leila sur Messenger
+contacte Rebecca Randall sur Messenger
+peux-tu utiliser WhatsApp pour appeler Elise Bernard
+peux-tu utiliser Messenger pour appeler Justin Acosta
+peux-tu appeler Hudson Garza en utilisant WhatsApp
+je voudrais appeler Kali Fox sur WhatsApp
+essaie d'appeler Jennifer Curry avec WhatsApp
+appelle Susan WhatsApp
+appelle Dennis par WhatsApp
+appelle Michael et Bridges
+appelle Carson et Hansen
+appelle Camila et Kai
+appelle Ezekiel et Dylan
+appelle Victor et Sara
+appelle Kai et Ava
+appelle Young et Rivera
+appelle Kim maintenant
+appelle Morgan Morgan tout de suite s'il te plaît
+compose immédiatement le numéro d'Addisyn Paul
+s'il te plait appelle Ryan Small tout de suite
+s'il te plaît, compose le numéro de Danielle tout de suite
+s'il te plaît, compose immédiatement le numéro d'Edward
+appelle George numéro un
+Appelle Elizabeth numéro deux
+appelle Carolyn numéro un
+appelle Alissa numéro trois
+appelle Santiago numéro quatre
+appelle Corbin numéro deux
+Appel WhatsApp à Karen
+appelle plutôt Timothée
+J'aimerais appeler Anna
+Appelle Philip pour moi
+Appelle mon cousin sur WhatsApp pour moi
+Appelle-les s'il-te-plaît
+lance un appel avec elle
+appelle ma femme Brianna Anderson via WhatsApp
+appelle ma femme Carolyn sur WhatsApp
+Je veux appeler Savion sur WhatsApp
+appelle Uriel via WhatsApp
+Je veux appeler Brayden Devin Kelly
+Je souhaite appeler Andrew Rowland Spencer
+Appelle Catherine Ewing Gibson pour moi
+je veux appeler Laura Ray Donaldson
+Peux-tu appeler Larry Powell Sweeney
+appelle Emily Frazier Sims
+appelle RA Larsen
+J'aimerais appeler I Carney
+Tu peux appeler S Holt ?
+J'aimerais appeler George J Rios
+Appelle Kendall Paislee Jimenez pour moi
+Rappelle le numéro de maman
+Appelle Stéphane
+Appelle mon frère
+appelle papa
+appelle papa
+S’il te plaît, appelle Grand-mère.
+peux-tu appeler papa s'il-te-plaît
+Appelle Ted s'il te plaît.
+Je veux que tu appelles mon frère.
+appelle mon cousin mark
+appelle mon manager
+Appelle Josh
+appelle mamie
+lance une conférence téléphonique entre moi, Shelly et Ronald
+Appelle ma mère
+vas-y, appelle Song Mital
+appelle Tessa
+appelle Sarah U
+appelle Élise O
+appelle mon père Leonardo
+Peux-tu appeler papa
+Appelle ma mère s'il te plaît
+Appelle mon père.
+Appelle Kyle pour moi.
+Téléphone à Jo.
+appelle John
+S'il te plaît, appelle Sophie
+Appelle Steven
+Appelle maman sur son portable s'il te plaît
+Appelle l'apôtre Buameh
+Appelle Jack pour moi.
+Appelle maman
+Le soleil se couche quand ?
+à quelle heure le soleil se couche-t-il à la Nouvelle-Orléans
+À quelle heure le soleil se couche demain ?
+Ai-je l'adresse personnelle de Scott ?
+Où est-ce que Will habite ?
+Est-ce que John travaille à Wayne
+où habite Mable ?
+Liam habite-t-il à brandon park
+Où est situé le lieu de travail de Li ?
+L’adresse du domicile de Li
+J'ai besoin que tu me dises où se déroule cet événement.
+J'ai besoin que tu me dises le lieu de cet événement
+Dis-moi le lieu du dernier événement
+Dis-moi où a lieu le dernier événement
+Où a grandi Halle Berry ?
+Quelle est l'adresse de l'employeur actuel de Mike ?
+où dans le Nebraska est-ce que Leslie habite ?
+Vérifie si Paul habite toujours dans le Cheshire.
+emily vis-tu en Pennsylvanie
+je voudrais l'adresse de claire s'il te plaît
+Chris habite-t-il à Cleveland
+donne-moi l'adresse du boulot de Jason
+Où est-ce que Sam habite
+L'entreprise de Kris est à quel adresse ?
+Jack vit-il à Ithaca ?
+L'adresse professionnelle de Matt
+Où habite Liam ?
+Quelle est l'adresse postale de Mélanie ?
+Donne-moi l'adresse actuelle de Mary
+La maison de Lily est-elle à Seattle ?
+Elizabeth travaille-t-elle dans le Queens ou à Manhattan ?
+Où suis-je en ce moment
+Quelle est l'adresse la plus récente du domicile de Bruce ?
+Quelle est l'adresse d'Alan ?
+Quel est le numéro de la maison où Leah habite
+Réponds Non à Planet Home
+je ne vais pas au quatrième
+change mon statut en « ne participe pas » pour cet événement
+réponds non à la croisière d'une journée à Blake Island
+change mon statut et indique que je ne vais pas au cinquième évènement
+Je ne veux pas aller à Katja Petrowskaja: A Family Story Between Memory and Forgetting
+réponds Non au troisième événement
+définis mon statut comme Ne participe pas pour le troisième événement
+Supprime le rappel pour finir le houmous dans le frigo
+Supprime les rappels de travail.
+supprime mon rappel pour l'église pour les trois prochaines semaines
+Supprime le rappel pour appeler mon mari à 19 h.
+Annule le rappel pour appeler le bureau de Eastern Zone
+Supprime le rappel concernant l'achat de nourriture pour chien car mon mari l'a déjà achetée.
+supprime le rappel concernant le rendez-vous de Jessica, car elle n'a plus besoin d'y aller
+Supprime le rappel pour reprogrammer la réunion de travail.
+annule toutes les alertes fixées pour le 20 octobre
+Supprime les rappels pour la réunion vidéo de l'équipe de tennis, qui était prévue demain à 17 h.
+Annule tous les rappels que j'ai avant 9 heures du matin dimanche.
+Supprime le rappel de réinitialisation de l'horloge
+Efface le rappel gym pour le restant de cette semaine
+Supprime mon rappel de déjeuner du mardi.
+supprime tous mes rappels pour la semaine prochaine
+Je ne peux plus aller au concert, annule cette alerte.
+Supprime le rappel pour le dîner du samedi avec Rob
+Supprime le rappel concernant le club de lecture
+Supprime le rappel d'acheter de la nourriture pour chiens
+Supprime tous les rappels concernant le travail
+Désactive le rappel que j'ai créé pour aller voir mamie
+Annule le rappel pour la visite de l'école
+supprime mon rappel d'appeler le docteur pour prendre rendez-vous
+Supprime le rappel pour le dîner de Jay
+Annule mon rappel de jeudi
+fini mon rappel s'il te plaît efface
+supprime mon rappel pour avant d'aller me coucher
+Supprime tous les rappels pour dimanche
+supprime le rappel d'aller chercher le lait
+Annule le rappel de mon rendez-vous chez le dentiste
+efface tous mes rappels
+Supprime le rappel
+Supprime le rappel pour le rendez-vous d'Émilie samedi.
+Supprime l'alerte du rappel pour le spectacle de demain soir.
+Supprime le rappel pour une visite médicale.
+supprime tous les rappels sur mes séances de jeux avec maman pour le reste du mois d'août.
+s'il te plaît, supprime le rappel de la réunion d'aujourd'hui
+annuler le rappel pour la pièce du 23 août
+Efface tous les rappels concernant ma petite amie
+supprime les rappels concernant la fête du club de lecture en octobre
+Supprime le rappel du conseil d'école de demain
+Supprime mon rappel sur le contrôle technique de ma voiture en août.
+Supprime le rappel pour la fête d'Andrea
+Supprime mon rappel pour le mariage de Natalie
+Efface tous les rappels créés pour mener à bien le projet scolaire
+Supprime le rappel pour faire changer l'huile dans le Saturn s'il te plaît.
+retire le rappel de rendre l'équipement de bureau mercredi
+Annule tous mes rappels du mois d'août s'il te plaît.
+Le docteur a annulé. Supprime le rappel pour le rendez-vous chez le docteur.
+supprime mon rappel pour l'anniversaire de tata Lisa
+Comme mon ami doit se rendre d'urgence à l'antenne, est-ce que tu peux supprimer le rappel pour le déjeuner de ce dimanche ?
+Supprime le rappel de fête d'anniversaire.
+Sélectionne tous mes rappels d’évènements pour octobre et supprime-les tous
+Annule le rappel pour envoyer un mail à l'école de mon fils.
+lance le chronomètre maintenant pour 4 minutes
+Programme une minuterie pour deux heures
+j'ai besoin d'une minuterie de 12 minutes
+Lance une nouvelle minuterie de 20 minutes.
+lance ma minuterie d’entraînement quotidien
+Règle ma minuterie à 2h du matin
+Règle une minuterie pour 40 minutes
+Minuterie d'une minute s'il te plaît
+mets une minuterie pour six minutes
+RÈGLE UNE MINUTERIE DE 8 HEURES
+Règle la minuterie pour une demi-heure ?
+Règle la minuterie pour 2 heures.
+règle une minuterie sur 11 minutes
+Remets la minuterie 15 minutes.
+crée un chronomètre pour les squats
+mets une minuterie pour 60 minutes
+tu peux programmer la minuterie sur 60 minutes ?
+définis une minuterie de sept secondes
+crée une minuterie de 19 minutes et une seconde de deux heures et trois quarts
+règle une première minuterie sur 17 minutes, une deuxième sur 1628 secondes et une troisième sur 8 minutes
+J'ai besoin d'une minuterie de 11 minutes pour les pâtes
+Crée des minuteries pour une heure et pour 10 minutes
+crée une minuterie pour les œufs
+peux-tu programmer une minuterie
+Règle la minuterie sur 30 min. Je ne veux pas laisser la teinte pour cheveux trop longtemps
+Durée 1 heure
+règle une minuterie sur 15 minutes et lance-la maintenant
+règle la minuterie à vingt secondes
+Règle la minuterie sur 10 minutes
+Mets une minuterie dans une heure
+Mets une minuterie pour 4 minutes s'il te plaît
+Je cuisine et j'ai besoin d'une minuterie de 45 minutes
+règle la minuterie à deux minutes
+règle la minuterie sur 15 minutes
+peux-tu définir une minuterie pour moi
+Démarre le chronomètre
+Démarre le chronomètre
+Enregistre un nouveau tour sur le chronomètre
+Règle une minuterie sur 55 minutes s'il te plaît
+DÉMARRER MON MINUTEUR
+Lance la minuterie pour 10 minutes
+Règle le temps d'entraînement à 20 minutes.
+mets la minuterie pour 2 minutes 30 secondes
+Démarre ma minuterie de gym.
+démarre le chrono
+Fixe la minuterie, s'il te plaît.
+Règle la minuterie de sommeil
+Crée une nouvelle alerte
+la pause midi est dans 15 minutes, règle la minuterie
+La dinde est en train de cuire, règle la minuterie pour 3 heures
+S’IL TE PLAÎT, RÈGLE UNE MINUTERIE DE 3 HEURES
+programmer la minuterie pour 2 heures et 6 minutes
+règle la minuterie sur 20 minutes
+s'il te plaît, règle la minuterie à 12 minutes
+crée une nouvelle minuterie
+Règle une minuterie sur 24 minutes
+Règle la minuterie sur une minute
+J'aimerais activer l'appel vidéo maintenant
+Bascule vers un appel vidéo
+Poursuis l'appel vidéo avec Papa en chat Audio.
+plus de vidéo avec jess
+convertis cet appel audio en vidéo
+Transforme cet appel avec maman en appel vidéo.
+passe de l’appel téléphonique à l’appel vidéo
+Efface la chanson actuelle s'il te plaît
+supprime toutes les chansons de rap.
+Efface les cinq premiers morceaux, je te prie.
+Peux-tu me dire, parmi mes amis, qui est allé à la fac de San Diego ?
+Qui est-ce que je connais qui a fait une école de conduite de camion ?
+Un membre de ma famille est-il diplômé de Yale ?
+Un de mes amis est-il allé à A & M ?
+Combien de mes amis sont allés à l'ERAU ?
+Les gens que je connais qui sont allés à la FSU
+Est-ce que certains de mes amis ont suivi une formation de l’UW-Waukesha ?
+Liste des personnes que je connais et qui ont étudié à Tacoma Community College
+De quels amis l'alma mater est KU ?
+Combien de mes amis sont allés à l'université de Columbia
+Est-ce que je connais quelqu'un qui est allé à WSU
+Lesquels de mes amis sont diplômés de l'ONU ?
+trouve mes amis qui ont un master
+Est-ce que je connais quelqu'un qui est diplômé de l'université du Caire ?
+Connaissez-vous quelqu'un en France ?
+Est-ce que l'un de mes amis a fréquenté Baylor ?
+Ai-je des amis qui vivent au Canada ?
+Lequel de mes amis habite à Pensacola ?
+certains de mes amis sont-ils de Chicago ?
+est-ce que je connais quelqu'un dans le Michigan ?
+Est-ce que quelqu'un de ma famille vit à Oklahoma City ?
+Mon chiropracteur vit-il à Tigard
+Qui vit à SF ?
+Est-ce que je connais des gens qui vivent en Australie ?
+Certains de mes amis habitent-ils à Miami ?
+qui habite à Boulder
+Combien je connais de personnes à Philadelphie ?
+est-ce que je connais quelqu'un en Californie
+nomme ceux qui sont les amis de mini.
+Les amis de Molly.
+J'ai besoin de connaître les amis de George
+Les amis de Margaret
+Les amis de david
+Est-ce que Gloria Garcia a des amis du nom d’Emmanuel sur sa page Facebook ?
+Amis de Nate
+montre-moi les amis de Juan
+Qui sont les amis de Xander ?
+Qui est ami avec Tina ?
+Les amis d'Amber.
+peux-tu trouver Hailee Dyer
+trouve Roberto
+pourrais-tu trouver Porter
+affiche mon ami sur l'écran
+Je veux s'il te plaît afficher les amis sur l'écran
+affiche la liste d’amis
+Affiche l'anniversaire des maris siân
+Qui a un anniversaire le 5 mai 1941 ?
+Qui est-ce que Mr Teagle connait qui est né le 14 octobre ?
+Qui fête son anniversaire le 29 septembre ?
+Combien y a-t-il d'anniversaires le 30 mai 1944 ?
+Affiche les anniversaires des beaux-fils
+Combien d'anniversaires y a-t-il le 21 ?
+Lequel des pères de Cheryll Russnak est né le 18 janvier 1967
+Fais voir les anniversaires de mes cousins germains
+Lesquelles des demi-sœurs Windsheimer ont un anniversaire à venir ?
+Astrid Arrick a-t-elle des potes nés en mai ?
+Combien d'anniversaires sont en août ?
+Qui fête son anniversaire bientôt ?
+Quels sont les membres de ma famille qui ont un anniversaire en décembre ?
+Est-ce que l'un de mes amis a son anniversaire aujourd'hui ?
+montre-moi la mère de Ben Harper
+Montre-moi la sœur d'Isabella
+Trouve le fils de Danika
+Comment s'appellent les enfants de Jay Z ?
+Michelle Obama a des frères et sœurs ?
+Comment s'appelait le père de Miles Davis ?
+Mari de Neil Patrick Harris
+Quels gens connus sont allés à Yale ?
+qui travaille dans les ouvrages hydrauliques
+Qui travaille chez Hulu ?
+Dis-moi qui travaille à Burger King
+dis-moi qui travaille chez Arlington Toyota
+Y a-t-il quelqu'un que je connaisse qui travaille chez Arby ?
+Dis-moi qui travaille chez Lush
+Trouve qui travaille à Banco Bradesco
+Qui travaille chez SpaceX ?
+cherche des gens qui travaillent pour Rolls Royce.
+Qui travaille à Amazon
+qui travaille chez forever 21
+qui travaille chez Farmer's Insurance
+liste des gens qui travaillent actuellement chez Lacey Medical Clinic
+Noms des personnes qui travaillent chez Clarus
+qui travaille pour l'hôpital ?
+Est-ce que je connais quelqu'un qui est allé à Stanford ?
+Dis moi qui travaille chez expressions
+dis-moi qui était employé chez Microsoft
+Employé actuel de Burger King
+L'un de mes amis travaille-t-il chez Starbucks ?
+Dis moi qui est diplômé de Princeton
+qui est diplômé du Michigan
+Qui est allé à l'université de Boston ?
+Est-ce que j'ai des amis qui vont à la BYU ?
+Est-ce que quelqu'un est diplômé de Florida Agricultural and Mechanical University
+qui est diplômé de l’université du Connecticut
+Est-ce que l'un de mes amis est diplômé de OU ?
+Les membres de la famille qui sont partis dans l'État du Texas
+ouvre mon historique d'appel d'hier avec kelly
+fais-moi voir les appels réussis de cette semaine
+trouve-moi certains des appels que j'ai émis aujourd'hui
+dis-moi quels appels j'ai manqués.
+affiche mon historique d'appels à partir d'aujourd'hui
+Est-ce que je me suis souvenu de passer un appel vidéo à John aujourd'hui ?
+Y a-t-il eu un appel d'Eva ?
+Ai-je appelé papa aujourd'hui ?
+Quels appels manqués ai-je cette semaine ?
+supprime ma liste de lecture des années 80
+Je veux en savoir le plus possible sur Mike.
+Qui est George ?
+Donne-moi des informations sur Ahmed
+qui est amelia
+Qui est James
+Qui est Jack
+Dis-moi qui est Anna
+Qui est Vilda ?
+Qui est Phil ?
+est-ce que Clint Eastwood a des enfants
+peux-tu m'en dire plus sur la bruyère ?
+Qui est l'ami d'Art, Sean ?
+Parle-moi d'Alex
+J'aimerais en savoir plus sur Andrew.
+que sais-tu sur katy
+qui est David
+Annule la minuterie pour les pommes de terre
+mets fin à la minuterie
+Supprime le chronomètre
+arrête la minuterie
+Supprime toutes les minuteries.
+supprime la minuterie en cours
+Enlèver la minuterie
+Supprime cette minuterie.
+Ne l’envoie pas à Braylen
+Trouve les 30 recettes complètes
+connais-tu une recette saine de houmous
+Je suis allergique aux noix. Trouve-moi une recette de dessert
+trouve-moi une recette d'enchiladas au poulet authentiques
+Trouve-moi une recette coréenne
+recette de gâteaux secs sans gluten
+J'ai besoin de recettes de poulet au parmesan Alfredo
+Quelle est la meilleure recette de sandwich au porc effiloché
+Comment faire de la croûte de pizza
+recettes de lasagnes sur food.com
+J'ai besoin d'une recette chinoise avec du poulet.
+Comment est-ce qu'on fait de l'houmous
+comment préparer une sauce pour pâtes
+est-ce que je peux avoir la recette du poulet masala
+trouver des recettes de tourte
+Comment faire des côtelettes au barbecue
+Il me faut une recette de pain à la banane sans noix
+J'ai besoin d'une recette de tarte aux pommes
+trouve une recette de pain de blé
+Recettes au poulet faciles à faire
+trouve-moi des recettes de poitrine de poulet désossée
+J'ai besoin d'un super accompagnement végétalien
+Montre-moi des recettes à base de poisson.
+Je cherche une recette de pesto
+comment préparer un poulet à la mijoteuse
+Je voudrais une bonne recette pour un régime cétogène
+Comment cuisiner les spaghetti
+comment faire des pâtes
+Comment gordon ramsay prépare-t-il les œufs brouillés
+Je veux une recette de pizza au poulet à la poêle
+explique-moi comment préparer un rosbif
+comment cuisiner des twice baked potatoes
+trouve des recettes de soul food
+comment préparer ma première pâte de A à Z
+Je veux faire une pizza
+Comment faire de la purée de chou-fleur
+comment faire une quiche ?
+Trouve-moi une recette grecque
+Recette de pain
+Quelles sont les idées de desserts sans cuisson ?
+Dis-moi comment cuisiner du spaghetti
+J'ai besoin d'une recette d'enchiladas au poulet
+J'ai besoin d'une recette facile de gâteau à la banane
+Qu'est-ce qu'une recette de dessert saine
+Trouve une recette de pizza paléo
+J'ai besoin d'une recette qui utilise des concombres
+Comment faire des biscuits aux pépites de chocolat faits maison
+Peux-tu me dire comment faire des wontons au fromage à tartiner
+comment faire des crêpes végétaliennes
+Trouve des idées de repas du soir rapide
+Comment préparer une pizza suprême
+comment cuire du riz frit
+Trouve-moi une recette de porc tocino
+Recettes de sushi japonais
+Comment préparer un steak bien juteux ?
+Trouve-moi des recettes de longe de porc
+Recettes de pizzas à pâte fine
+comment faire des spaghettis au poulet
+La recette pour des tacos au poulet
+Trouve-moi une recette mexicaine
+Montre-moi une recette de steak
+Quelle est la meilleure recette de purée de pommes de terre
+Quelles sont les recettes rapides pour un dîner sain
+S'il te plaît recette du gâteau au chocolat sans farine
+Trouve-moi une recette grecque
+Quelle est la recette de base du poulet au Marsala
+Trouve la recette du poulet vindaloo
+Comment faire du poulet et des ravioles à partir de zéro, s'il te plaît
+Comment fait-on le riz à l'espagnole
+Cuisiner une dinde
+Comment faire des brownies meilleurs pour la santé
+comment faire du pain en partant de zéro
+comment faire de la crème glacée à la maison
+que puis-je faire avec un ananas
+Je veux faire un rôti
+Quel type d'évènement est l'Autumn Moon Festival ?
+Burning Man, c'est quel genre d'événement ?
+Mets le statut de présence sur dehors
+Indique que je ne suis pas disponible sur Internet
+Règle ma disponibilité sur indisponible
+Mets moi en statut Inactif
+Paramètrer la disponibilité comme indisponible
+Mets mon statut comme indisponible.
+Merci de me mettre en statut Indisponible
+Je ne suis pas disponible pour le moment
+je ne suis pas disponible pour le moment
+Je suis indisponible maintenant
+Je ne suis pas disponible
+active le mode silencieux du téléphone
+je suis vraiment occupé en ce moment
+Statut : indisponible
+mets mon statut sur occupé.
+je ne suis pas disponible en ce moment.
+réponds aux appels sur Skype par défaut
+Le Pad thaï contient-il du beurre d'arachide ?
+Me faut-il de la vanille pour faire un cake à la banane
+Est-ce grave s'il y a un peu de rose sur le porc
+Est-ce que le bicarbonate de soude et la levure, c'est la même chose
+EST-CE QUE LA RATATOUILLE CONTIENT DE LA VIANDE
+le lait de soja est-il vegan
+Le briyani a-t-il besoin de pâte d'ail au gingembre
+Est-ce que le pain bruschetta est grillé
+Est-ce qu'on peut cuire une pomme de terre dans un micro-ondes
+Puis-je faire des raviolis maisons
+Y a-t-il du gluten dans la soupe miso
+Ce n'est pas dangereux de manger la farce avec laquelle on a farci la dinde ?
+crée une liste de lecture de musique pop
+Définis une station pour la chanson qui vient de finir.
+Lance l'appel switch
+merci de quitter et d'échanger les appels
+Change d'appels s'il te plaît
+Bascule vers l'appel entrant
+passe à un autre appel, raccroche celui en cours
+Quitte et change d'appel
+bascule vers l'appel de Jackson Brandon
+quitte cet appel pour changer
+Dans quelle école technique de l'Illinois Jody va-t-elle ?
+Dans quelle université Sarah a-t-elle étudié
+reprend la lecture du morceau
+En quelle année Carol a-t-elle été promue manager ?
+À quelle heure mon patron m'a-t-il appelé ?
+À quelle heure est-ce que j'ai appelé maman hier ?
+Quand est-ce que Jane m'a appelé en visio ?
+À quelle heure Sam a-t-il discuté avec moi en vidéo hier ?
+Quand est-ce que grand-mère m’a appelé ?
+Tous les appels manqués de Tony étaient à quelle heure dimanche ?
+change la minuterie de maintenant à plus tard
+Règle la minuterie.
+change la minuterie et règle-le sur 5 minutes
+règle la minuterie de la semoule
+actualise ma minuterie « réveiller ma femme »
+Ignore les appels de ma nièce Ria
+Jane, tu l'ignores
+Ne réponds à aucun appel de Donald ou d'Éric
+Envoie tous les appels ce soir à la boîte vocale
+Ignore les appels de Contenta
+Envoie un message vocal à maman
+Rejeter l'appel de mes petits amis
+Ignore le prochain appel.
+Ne prends pas celui-là
+À quelle heure est le lever du soleil demain matin
+dis-moi quand est le lever de soleil
+À quelle heure se lève le soleil ?
+répondre à l'appel vidéo de kelly
+accepte l'appel entrant
+répondre à cet appel maintenant
+Réponds à l'appel
+réponds à tous les appels de mon beau-père
+s'il te plaît, accepte l'appel vidéo de mes cousins
+réponds aux appels de ma copine
+dernières actualités sur les célébrités
+Quelle est la dernière actualité de CNN ?
+une nouvelle importante
+peux-tu montrer le journal local
+USA Today en direct
+va sur Fox News
+Lis les détails du meurtre de Charlotte
+Quels sont les grands titres de la rubrique Divertissement
+Peux-tu me lire les détails de l'article sur Jennifer Aniston
+Peux-tu me faire une mise à jour sur la Maison Blanche
+est-ce que le président a donné des informations actualisées aujourd'hui
+quels sont les détails des élections
+Lis-moi les titres des sports
+lis-moi les détails à propos de Trump lançant une enquête en Chine
+nouvelles infos sur l'alerte Amber
+donne-moi les actualités internationales en fonction de mes likes
+Y a-t-il des histoires locales sur l'élection
+Des nouvelles sur la Corée du Nord ce soir
+Merci de lire les détails des menaces de Donald Trump à la Corée du Nord sur Twitter
+y a-t-il de nouveaux titres sur CNN
+Quels évènements ont eu lieu récemment
+Je veux plus de détails sur ce qui se passe à Charlottesville
+Me lire les articles les plus récents
+nouvelles les plus récentes à seattle
+Lis-moi les gros titres de ce soir
+Lis-moi les titres des sports de la nuit dernière
+quels sont les détails de l'incendie
+Quels sont les derniers titres dans The Economist
+donne moi les infos urgentes
+Donne-moi les détails sur les récents problèmes avec la Corée du Nord
+y a-t-il des nouvelles à propos de l’accident
+grands titres internationaux récents
+Quelle est la principale nouvelle de cette heure ?
+Quelles sont les principaux sujets d'actualité dans les sciences
+Quels sont les gros titres en économie aujourd'hui
+Les nouvelles locales de la semaine dernière
+lis-moi les gros titres d'aujourd'hui
+nouvelles d’Asie
+Quels sont les gros titres des informations pour Elizabethtown
+Donne-moi une mise à jour financière de Wall Street
+Quelle est la principale nouvelle chez Fox News
+Ouvre l'article le plus récent de Vice
+Quels sont les grands titres de l'actualité
+Toute nouvelle intéressante sur la météo
+derniers titres sportifs
+Quelles sont les dernières infos politiques
+Lis-moi les principaux gros titres
+Quelles sont les nouvelles de la situation en Corée du Nord
+lis-moi les plus belles histoires de la planète
+les gros titres les plus récents
+quels sont les gros titres du New York Times
+Dis-moi les gros titres sur CNN
+Les trois principaux titres locaux, s’il te plaît
+J'aimerais connaître l'actualité de la criminalité dans ma région.
+Lis-moi les nouvelles de l’actualité locale
+Mise à jour des actualités sportives, s'il te plaît
+Donne-moi une mise à jour sur les dernières nouvelles météorologiques.
+merci de lire mes gros titres
+Des informations concernant les manifestations en Virginie.
+qu'est-ce qui fait les gros titres ?
+Les nouvelles histoires de l'Huffington Post s'il-te-plaît.
+Quels sont les grands titres des actualités internationales ?
+Quelles sont les dernières actualités sur CNN ?
+dernières nouvelles dans la culture pop
+Donne-moi les dernières nouvelles mondiales.
+Quel est le dernier article sur Yahoo News?
+Il y a quoi aux infos aujourd'hui ?
+quelles sont les gros titres d'actualités sur ABC ?
+Qu'est-ce qui fait l'actualité aujourd'hui ?
+lis les titres sur la santé pour washington post
+Y a-t-il des flashs infos récents sur l'Iran ?
+Lis les détails au sujet de Donald Trump
+Les plus récentes informations du jour
+Lis les informations sur les nouveaux-nés de Beyonce.
+Dernières nouvelles, s’il te plaît ?
+Raconte-moi les derniers potins
+Quels sont les principaux titres selon Google ?
+Lis la une de Wall Street Journal
+quelle est l'actualité locale?
+Quelles sont les dernières nouvelles à Chicago ?
+Montre-moi les principales photos des titres des nouvelles d'aujourd'hui
+Quelles sont les actualités sur l'incident avec les protestataires des heurts en voiture qui ont lieu en Virginie récemment ?
+Des nouvelles importantes du monde ?
+quels sont les derniers titres de MSNBC
+Montre-moi les titres de MSNBC
+Donne-moi les nouvelles à Avondale, Arizona
+les grands titres sportifs de la NBA merci
+actualités en cours
+Quelle est l'information la plus populaire aujourd'hui ?
+Quel est le gros titre dans le Citizen-Times d'aujourd'hui ?
+actualités sur les films récents
+De nouvelles actualités sur la Corée du Nord ?
+Donne-moi les nouvelles locales pour New York.
+Quel est le plus gros titre de CNN
+La une de CNN s'il te plaît
+Les dernières nouvelles du Mexique
+nouvelles de potins de célébrités s'il te plaît
+des nouvelles de dernière minute présentement ?
+Quels sont les gros titres aujourd'hui ?
+Dis-moi quelles sont les principales actualités qui font le buzz sur CNN ce matin.
+Les 4 informations principales aux USA
+QUELLES SONT LES INFOS À PARIS
+lis les informations du monde.
+Actualités sur la nourriture
+lis moi les titres des infos à la une
+Je veux entendre les informations culturelles du jour
+donne-moi les dernières informations sur le basket-ball féminin
+Lis les titres de Fox News
+quelles sont les infos locales ?
+Lis-moi un gros titre
+Demande à Vincent Roberts de décrocher l'appel de groupe
+Retire Samuel de cet appel
+ajoute maman à mon appel
+Ajoute Marion à l'appel de groupe.
+Ajoute maman maintenant, s'il te plaît
+Retire Bill de cet appel maintenant.
+Peux-tu ajouter Reva Radomski ?
+Ajoute Margareta Hufty
+Ajoute Margy Burtschi
+S'il te plaît, ajoute Joaquin Kukauskas
+Laisse John rejoindre cet appel
+Ajoute mon père et ma sœur à ce chat vidéo.
+Puis-je enlever Vicky de cet appel vidéo ?
+retire mon mari de l'appel
+ajoute Mackenzie
+Reste sur cet appel et rajoute mon frère.
+ajoute Papa à l'appel
+Je veux que tu inclues le manager dans cet appel
+ajoute Nick à l'appel
+ajoute à l'appel pour moi
+envoie une invitation à Bob pour cet appel
+appelle Sharon maintenant
+Ajoute Erica à l'appel
+invite Jean et Bill à rejoindre cet appel
+ajoute kelly à l'appel actuel
+invitons maman à l'appel
+ajoute mon père à l'appel
+Ajoute maman à cet appel
+Merci de laisser Mary rejoindre cet appel
+invite Paul à rejoindre l'appel
+s'il te plaît, invite sara à l'appel
+Ajoute Elle à cet appel s'il te plaît
+Ajoute Glenda à cet appel
+Appelle Dave et ajoute-le à cet appel
+invite le gamin à cet appel
+ajoute mes grand-mères à l'appel
+ajoute mon beau-père à cet appel
+Rajoute papy à cet appel
+invite mon beau-frère à rejoindre l'appel
+Quel âge a Melinda ?
+Quel âge a Kus ?
+Donne-moi l'âge de Nancy
+Quel âge a Liz ?
+Est-ce que Marius a 82 ans
+Quel âge aura Liam en février
+Quel âge va avoir Sue
+Jean a 21 ans ou plus ?
+puis-je réécouter la dernière chanson
+s'il te plaît, mets le morceau joué avant celui-ci
+Peux-tu rejouer la dernière chanson
+Rejouer la dernière chanson
+Puis-je réécouter la dernière chanson ?
+Retire 15 min du chronomètre
+retire 11 minutes de la minuterie
+diminue de 11 minutes ma minuterie Tu n’as pas fini de courir tant que ça n'a pas explosé
+retire une heure de ma minuterie
+Efface quelques minutes de mon temps de course.
+enlève 5 minutes à la minuterie
+Réduis le temps sur mon chronomètre de 15 secondes.
+Ajuste la minuterie pour qu'elle se déclenche dans 10 minutes.
+Combien d'albums les Judds ont-ils sortis ?
+Quel est le nom du dernier album de Pink ?
+Quelle est la dernière chanson de Selena Gomez
+Qui est-ce qui chante sur la chanson du générique de Frasier?
+éteindre
+arrête la sonnerie
+plus d’alarme
+coupe le son, s'il te plaît
+arrête l'alarme
+Éteins mon réveil s'il te plaît.
+J'ai besoin que tu éteignes l'alarme
+coupe le son de l’alarme
+Chut, s'il te plaît
+Arrête l'alarme, s'il te plaît.
+Alarme silence
+Programme une alarme pour le 25 mai à midi
+Programme des alarmes pour demain 7 h 30 et 17 h 30.
+Programme les alarmes pour 9 h et 22 h.
+Programme des alarmes à minuit et 6 h
+Programme une alarme récurrente pour qu'elle se déclenche à 15 h tous les jeudis pendant 6 semaines
+Programme une alarme qui retentira tous les jeudis matin à 6 h
+Programme des alarmes pour mercredi à 6 h
+Réveille-moi à 7 heures tous les matins
+Programmons un réveil régulier le lundi à 19 h.
+Programme un réveil pour 10h chaque dimanche s'il te plaît
+Programme une alarme tous les lundis à 10h00 du matin
+Programme une alarme pour me réveiller à 7 h nommée Travail
+Programme une alarme qui s'appelle « Réveille-toi maintenant !» à six heures
+Veille à ce qu'il y ait une alarme ce jeudi à 6 heures
+Règle-moi une alarme pour vendredi matin
+Programme une alarme pour ce soir
+Peux-tu m'aider à régler une alarme ?
+Programme une alarme pour dans la matinée.
+peux-tu programmer une alarme pour ce soir s'il te plaît
+Programme-moi une alarme pour ce soir
+programme une alarme pour dimanche à 8 h
+réveille-nous dans 7 heures
+Fixe l'alarme toutes les 10 minutes pendant une heure
+s'il te plaît, règle l'alarme pour 1 heure
+J'ai besoin d'une alarme pour cinq heures à partir de maintenant
+Règle une alarme répétitive à partir de 13 h chaque jour
+Vas-y définis l'alarme pour 5 h du matin
+FIXE L'ALARME POUR 15 MINUTES
+Prévois une alarme pour demain matin à 10 h
+programme une alarme toutes les 5 heures
+règle mon réveil pour 4h30 demain matin
+active l'alarme
+Programme une alarme à 14 h 30 demain
+Réinitialise l’alarme
+règle mon réveil pour sonner tous les dimanches à 8 heures
+Règle une alarme pour mardi à trois heures
+fixe une alarme pour 30 minutes
+Règle mon alarme pendant 30 minutes.
+alarme fixée pour 7 h du matin
+Programme-moi une alarme à 25 secondes
+Règle l'alarme sur 4 heures du matin
+règle une alarme à six heures
+mets l'alarme pour un réveil à 6 h
+règle une alarme récurrente
+réinitialise l'alarme à six heures quarante-cinq
+Mets une alarme pour me réveiller dans une heure.
+règle une alarme pour 3 minutes
+Mets une alerte pour 19 h aujourd'hui
+Fixe l'alarme à 7 h du matin mardi
+Peux-tu programmer un réveil pour le 2 décembre à 4 heures ?
+mets une alarme toutes les 3 minutes
+Mets une alarme dans 30 minutes.
+mets une alarme à 7 heures du matin tous les jours
+programme une alarme pour samedi à 8h00
+mettre l'alarme à 16 h 45
+règle l'alarme de 6 h
+Programme une alarme pour lundi à 5h30.
+Règle une alarme pour le mercredi 15 à 12h
+Règle un réveil pour 8 heures jeudi
+Mets une alarme demain matin à 5 h.
+s'il te plaît, règle mon alarme à 6:30 du matin
+Règle une alarme pour moi à midi
+règle l'alarme sur 12h20
+s'il te plaît, mets une alarme à trois heures du matin
+Alarme dans cinq minutes.
+Règle l’alarme pour demain à 22 h
+Mets une alarme tous les samedis à 19 h
+programme une alarme pour 9h
+Mets une alarme pour dans une heure
+Règle une alarme toutes les minutes pendant 24 minutes
+Crée une alarme pour toutes les dix minutes pendant 90 minutes.
+Active les alarmes comme d'habitude.
+Programme une alarme pour 5h.
+Mets une alarme à 7h30 du matin demain.
+crée une alarme pour tous les lundis à 7 h
+règle une alarme pour 7 h 15
+peux-tu programmer un réveil dans une heure et demie
+crée une alarme pour les jours de la semaine
+peux-tu faire sonner une alarme dans une minute à partir de maintenant
+active mes alarmes pour demain matin
+merci de faire sonner mon alarme
+Je veux une nouvelle alarme
+Programme une alarme maintenant
+Je ne dois pas être en retard à ma réunion demain
+S'il te plaît règle une alarme
+Crée une nouvelle entrée d'alarme
+Ajoute une nouvelle alarme
+Crée une alarme pour demain matin
+Réveille-moi à 13 h
+Je veux aller me coucher à 22 h.
+Nouveau réveil à 11 h
+mets l'alarme à 23 h 30
+Crée une alarme pour demain matin
+J'ai besoin d'une alarme pour lundi à 15 h
+Mets l'alarme vendredi à 8 h
+fais sonner mon réveil du lundi au vendredi à 7 h
+Programme une alerte pour demain soir
+Programme une alarme pour le vendredi à 16 h
+Je veux une alarme sonore pour le 4 juin à 20h
+Alarme pour le 14 février à 10 h
+Mets une alarme à 5 h 10 le 23
+Active mon alarme du vendredi 5 mai
+prévois une alarme toute la semaine à 16 h
+J'ai besoin d'une alarme à 14 h tous les dimanches appelée promener le chien
+Peux-tu t'éteindre tous les jeudis à 9 h pendant deux mois ?
+Ajoute une alarme tous les soirs à 19 h
+Règle le réveil pour 7 h du matin en semaine.
+Commence l'alarme à 9 heures chaque dimanche par quinzaine
+Nouveau réveil à 16h45 les mardis
+Programme-moi une alarme pour mercredi à 17 h appelée « squash »
+Programme une alarme pour le verre après le travail tous les vendredis à 17 h
+Mets une alarme pour le 1er jour du mois pendant 6 mois
+Crée une alarme courses à 18 h aujourd'hui
+Fais sonner mon réveil à 17h
+Crée des alarmes pour 6h, 7h et 8h
+Programme une alarme lundi à 14 h, samedi à 9 h et dimanche à midi.
+Active des alarmes pour mardi et samedi à minuit
+programme des alarmes à 15 heures et 23 heures tous les jeudis pendant les 8 prochaines semaines
+Crée une alarme pour 16 h et 18 h
+Se lever à 11 heures et prendre le médicament
+crée une alarme pour 430 h
+programme une nouvelle alarme pour 06h40
+programme une alarme pour 8 h 30
+mets une alarme pour 06 h 50
+crée une alarme pour 6 h 35
+fais sonner l'alarme à 6 h 10
+crée une alarme pour 24 h 15
+crée une alarme pour 03 h 50
+Peux-tu me réveiller à 7h du matin
+S'il te plaît, règle l'alarme pour 7 heures du matin
+Programme une alarme pour lundi 8 h
+Mets une alarme aujourd'hui à 18h.
+Crée une alarme pour jeudi à minuit.
+Crée une alarme pour vendredi
+Crée une alarme pour jeudi prochain
+S'il te plaît crée une alarme pour aller à la patinoire le 2 juin à 10 h du matin.
+Réveille-moi à 10 h le samedi
+Règle une alarme qui doit se déclencher tous les lundis à huit heures
+Ajoute une alarme à 9h le mardi
+Crée une alarme « partir travailler »
+Crée l'alarme « Funérailles » pour le 2 juin à 15 h
+Lance un réveil pour étudier dans 30 minutes.
+Mets une alarme pour vendredi matin afin que je commence mes recherches.
+Programme un réveil pour me réveiller
+Règle une alarme pour 8 heures, appelle-la « appelle lucy ».
+Mets une alarme pour la contraception à 21 h 30.
+Crée une alarme de réveil.
+Réveille-moi le matin
+Crée une nouvelle alarme à 8 h
+Il me faut une alarme pour demain à midi
+J'ai besoin d'une alarme pour 14 h
+Je veux me réveiller à 8 h
+Mets une alarme pour 21 h s'il te plaît.
+J'ai besoin d'une alarme pour 8 h 30 du matin
+J'ai besoin d'une nouvelle alarme à sept heures
+Crée une alarme pour 6 h du matin.
+Règle une nouvelle alarme pour 7 heures mardi matin
+Merci de mettre une alarme à 10 heures du matin
+Programme un réveil le 20 mai s'il te plaît
+Réveille-moi à 9 h le jeudi 16 mai.
+Débrouille-toi pour que mon alarme sonne tous les jours
+Crée deux alarmes pour demain matin à 5 h et 8 h
+crée des alarmes pour cet après-midi à 18 h et 20 h
+Programme une alarme se répétant à 7 h du matin chaque lundi.
+As-tu terminé ton cursus à l'UNCW ?
+Quel diplôme a obtenu Megan à l'université ?
+Qui a appelé plus tôt ?
+Qui m'a appelé hier soir ?
+Réinitialise le chronomètre de jogging maintenant
+redémarre la minuterie pour le dîner
+Fais redémarrer ma minuterie
+Relance ma minuterie précédent
+redémarre la minuterie s'il te plaît
+Redémarre la minuterie que j'ai fixé
+Redémarre la dernière minuterie.
+Qui est l'employeur de Denise ?
+Pour qui Jessica travaille-t-elle ?
+est-ce que Noah travaille encore à lax
+est-ce que Valorie a un employeur
+est-ce vrai que Gail travaille chez Microsoft ?
+Sais-tu où travaille mon ami Jerry ?
+Dis-moi où travaille Jerry, s'il te plaît
+Où travaille Lisa ?
+Où travaille Chris ?
+Andrews travaille-t-il toujours pour UPS
+Pour qui Pam travaille-t-elle à présent ?
+Est-ce que Judy travaille chez Google
+Comment s'appelle l'entreprise pour laquelle Rachel travaille
+Walter est-il maintenant à son compte ?
+Est-ce que Phil travaille actuellement pour l'État de Washington
+Où Phil travaille-t-il en ce moment
+Où James travaille-t-il
+Dis-moi quels sont mes rappels pour récupérer les enfants pour les activités périscolaires.
+Y a-t-il un rappel prévu pour repeindre notre maison ?
+Qu'est-ce que j'ai programmé comme rappels pour le boulot cette semaine ?
+Montre-moi les rappels de maman pour samedi prochain
+Lis mon rappel de baseball d'aujourd'hui.
+Montre-moi tous les rappels pour travaille cette semaine.
+Dresse une liste de mes rappels de recharge de prescriptions pour le mois.
+affiche les rappels de la commission scolaire dans les 6 mois à venir
+Quels sont mes rappels pour jeudi après-midi ?
+Montre-moi tous les rappels de réunions des AA.
+quels rappels ai-je pour Thanksgiving
+y a-t-il des rappels cette semaine pour des réunions avec les responsables de l'école
+Est-ce que j'ai des rappels ce matin ?
+quels sont mes rappels pour samedi
+Quels rappels ai-je pour la première semaine de septembre ?
+Y-a-t-il des rappels pour lundi prochain à 15 h ?
+Affiche-moi mes rappels.
+ai-je des rappels aujourd'hui ?
+quels sont les rappels d'aujourd'hui
+montre mes rappels de cette semaine
+Affiche tous mes rappels pour les deux prochains jours
+Montre-moi la liste des rappels que j'ai
+quelque chose sur ma liste de rappels
+Quels sont mes rappels pour ce matin ?
+ai-je des rappels ?
+Quels rappels j'ai pour vendredi
+Montre-moi tous les rappels pour aujourd'hui
+Liste mes rappels de la journée
+Est-ce que j'ai des rappels prévus pour le vendredi
+Montre mes rappels pour demain
+peux-tu me rappeler mes rendez-vous chez le médecin. semaine prochaine
+Montre-moi les rappels que j'avais créés pour la semaine dernière.
+ai-je créé un mémo pour mardi ?
+lis-moi mes rappels d'aujourd'hui, s'il te plaît
+Donne-moi mes rappels pour Nick
+Quels rappels y a-t-il pour le week-end entre filles ?
+Montre-moi les rappels pour 17 h jeudi
+Quels sont les rappels de mon mari Mark de ce mois
+Dis-moi quels sont les rappels que j'ai prévus pour les deux dernières semaines de décembre ?
+trouve-moi tous les rappels concernant l'assureur
+Quels sont mes rappels pour la fête d'anniversaire de Peter la semaine prochaine ?
+Affiche les mémos avec John aujourd'hui à 5 h
+Lis-moi les rappels programmés la semaine dernière.
+Montre-moi mes rappels pour le samedi 25.
+Affiche-moi les rappels des dîners avec mes enfants cette semaine
+Lance des rappels pour les rendez-vous chez le médecin de la semaine prochaine
+Affiche les rappels de ce que j'ai besoin de rapporter à l'avocat la semaine prochaine.
+ai-je un rappel de prévu demain matin pour la réunion de l'après-midi
+Je pensais avoir déjà créé un rappel pour l'appel téléphonique de 15h, mais peux-tu vérifier ?
+Est-ce que j’ai des rappels d’anniversaires pour ce week-end ?
+dis-moi mes rappels de covoiturage de cette semaine
+Est-ce que Taylor et Ava ont des rappels pour le cheerleading la semaine prochaine ?
+Ai-je des rappels pour la semaine prochaine pour le chiropracteur ?
+Peux-tu rembobiner la chanson ?
+En quelle année a eu lieu Pearl Harbor
+Qui est en tête des élections
+Est-ce qu'ils ont trouvé la fille portée disparue à Jacksonville ?
+Est-ce que Trump a renvoyé le directeur du FBI ?
+Quelles zones ont eu les pires inondations hier ?
+qui est le nouveau maire
+Quelles lois sont révisées aujourd'hui ?
+les protestations se poursuivent t-elles à charlottesville
+Est-ce que l'ouragan est télévisé
+y a t-il un risque de guerre nucléaire
+Combien de pays sont touchés par l'interdiction de voyage ?
+Quelle est notre situation économique
+Comment est mort Glen Miller
+Quel a été le résultat de The Bachelorette cette saison
+Quel était le verdict du procès pour meurtre d'OJ Simpson
+Toutes les célébrités mortes aujourd'hui
+Est-ce que le Népal est encore inondé
+qui est mort pendant le rally
+Où est le président Trump aujourd'hui ?
+quelles lois ont été adoptées jusqu'à présent cette année ?
+compte à rebours silencieux
+Pause de la minuterie pour œufs
+Mets ce minuterie de devoirs en pause
+mets en pause ma minuterie pour le trempage de linge
+mets en pause la minuterie appelé Mouton
+pause, s'il te plaît
+arrête le chronomètre
+Mets la minuterie en pause
+arrête la minuterie s'il te plaît
+Mets la minuterie en pause. S'il te plaît
+Désactive la minuterie, s'il te plaît.
+Arrête le nouveà la minuterie
+Lis les détails sur le président Zuma d'Afrique du Sud
+Lis la description de l'émission de Rachel Maddow d'hier soir, s'il te plaît
+Ajoute "œufs" à mon rappel "acheter du café"
+Ajoute une visite à l'église dans mon rappel de dimanche
+Remplace sur mon rappel de liste de courses les œufs et le beurre par des pancakes et du savon.
+Quelles sont mes prochaines alarmes ?
+Combien d'alarmes ai-je ?
+Pour quand sont programmées mes alarmes ?
+Fais la liste de mes alarmes aujourd'hui
+Fais-moi voir toutes les alarmes répétitives
+donne-moi la liste des alarmes que j'ai configurées
+quand l’alarme est-elle réglée pour s’éteindre
+Quelle est ma prochaine alarme
+Combien de temps reste-t-il sur mon alarme
+Montre-moi mes alarmes
+à quelles heures sont réglées mes alarmes actuelles
+quelle est la durée de l'alarme
+Quelle est l'heure de ma première alarme ?
+Ma prochaine alarme est prévue pour quand ?
+Je veux savoir quelles alarmes j’ai définies.
+combien de temps avant ma prochaine alarme
+quand mon alarme sonne-t-elle la prochaine fois
+Je veux ajouter cinq minutes à mon chronomètre de teinture au nœud.
+ajoute 24 minutes à la minuterie Faire tremper le linge s'il te plaît
+ajoute à la minuterie masque facial 5 heures et 15 minutes
+ajoute 15 minutes à la minuterie Réveille ma femme
+ajoute trente secondes à ma minuterie
+Rajoute 30 minutes de plus à ma minuterie
+Ajoute 5 minutes à ma minuterie
+Ajoute 10 secondes à la minuterie
+ajoute 12 minutes au chronomètre en cours
+Ajoute 5 minutes au chronomètre
+Est-ce que vous pouvez ajouter plus de temps à ma minuterie ?
+Ajoute 99 minutes à ma minuterie
+Je veux ajouter 10 minutes à la minuterie
+rajoute 15 secondes à ma minuterie
+Fais-moi connaître l'heure affichée sur ma montre actuelle
+Quand est-ce que la minuterie va se déclencher ?
+affiche le temps restant sur la minuterie
+Sur combien j'ai réglé la minuterie
+Ça fait combien de temps que la minuterie marche ?
+Combien de temps reste-t-il sur le second minuterie ?
+peux-tu afficher ma minuterie à l'écran
+Combien de temps d'entraînement me reste-t-il
+active une minuterie
+il reste combien de temps sur la minuterie de Ta sieste est terminée
+affiche la minuterie de trempage de mon linge
+montre-moi la minuterie des macaronis
+où est la limite de temps
+combien il me reste sur mon dernier minuterie
+Combien de temps me reste-t-il
+Ça fait combien de temps jusqu'ici
+Depuis combien de temps est-ce que je cours
+Combien de temps me reste-t-il
+est-ce que ma minuterie va sonner bientôt ?
+ma minuterie est réglé pour combien de temps ?
+Où en est ma minuterie ?
+Combien de temps reste-t-il à la minuterie ?
+que se passe-t-il avec ma minuterie
+Il reste encore combien de temps sur la minuterie ?
+Combien de secondes reste-t-il sur ma minuterie ?
+Combien de temps reste-t-il au total sur ma minuterie ?
+combien de temps reste-t-il sur la minuterie
+Passe à deux minutes de cette chanson.
+utilise amazon par défaut
+change le fournisseur de musique par défaut
+change de fournisseur de musique pour iheartradio
+utilise google play music comme mon fournisseur de musique
+utilise l'application apple music par défaut
+programme spotify par défaut, s'il te plaît
+mets Google Play Musique en mode par défaut
+affiche mes amis qui sont aussi amis avec Kelly
+deux de mes amis sont en ligne ?
+voyons qui est disponible
+Est-ce que des membres de ma famille sont en ligne ?
+Est-ce qu'il y a quelqu'un de Caroline du Sud que je connais et qui est en ligne
+Est-ce que quelqu'un du New Jersey est en ligne
+Les personnes disponibles s'il te plaît
+Lesquels de mes amis sont en ligne ?
+Qui est là
+Qui est en ligne
+Montre-moi les contacts disponibles s'il-te-plaît
+Qui n'est pas occupé
+est-ce que mon frère est connecté
+Jack est-il actuellement disponible pour un appel ?
+Vérifie si ma sœur est en ligne en ce moment
+Qui est disponible pour appeler tout de suite ?
+Ma maman est-elle disponible en ce moment ?
+Est-ce que Kim est en ligne ?
+ma sœur est-elle disponible en ligne
+John est-il indiqué comme disponible pour un appel ?
+Montre-moi qui est en ligne maintenant.
+qui vient de se connecter
+dis-moi qui est en ligne que je connais
+Est-ce que l'une de mes connaissances est en ligne en ce moment ?
+Y a-t-il quelqu'un que je connais en ligne
+Dis-moi qui est en ligne en ce moment.
+Dis moi qui sont mes amis en ligne
+Peux-tu me dire qui est en ligne ?
+y a-t-il un ami en ligne
+Y a-t-il quelqu'un en ligne en ce moment ?
+Shelby est-il en ligne ?
+Est-ce que Terry est en ligne ?
+Qui, dans ma famille, est actuellement en ligne ?
+Peux-tu s'il te plaît me dire qui est en ligne maintenant.
+Qui est en ligne en ce moment ?
+Bob est en ligne ?
+est-ce que j'ai des amis en ligne à cette heure-ci ?
+Est-ce que Tina est en ligne maintenant ?
+Dis-moi qui est en ligne que je connais.
+Mes amis sont-ils en ligne
+donne-moi la liste de mes amis en ligne en ce moment.
+arrête la liste de lecture
+Je veux arrêter Spotify maintenant
+Envoie un message à Julie pour lui demander où se passe le festival ce week-end, s'il te plaît
+Envoie un message à Sue et dis-lui que je suis au coin de la rue.
+envoie un courriel à mes ami(e)s
+Envoie un message à Lynne et demande-lui quand le Chili Cook off aura lieu cette année
+Envoie un message à Sue pour me donner son heure prévue d'arrivée actuelle au marché fermier.
+Envoie un message à Ashley pour lui indiquer que je porte des robes de taille 8.
+Peux-tu envoyer un message à Sean pour lui demander l'adresse de la fête demain soir ?
+Envoie un SMS à mon mari et fait lui savoir que je serai au concert dans le parc à Orangecrest jusqu'à environ 20h30.
+Envoie un SMS à Fred pour savoir s’il va toujours être danseur exotique au Canada
+Demande à Mary la date et l'heure du feu de joie
+Envoie un message à Helena pour lui rappeler que les Beach Concert Series ont lieu les mercredis à Beach Park
+Envoie un message à Mark pour qu'il réponde Oui pour deux personnes à sa fête de fin d'études samedi.
+Dis à mes cousins que je ne pourrai pas venir au concert demain.
+Envoie un message à Kam et rappelle-la de son rendez-vous chez le coiffeur le 1er juillet
+Envoie un message à ma sœur Debbie indiquant que les billets des Yankee seront en vente cette semaine.
+Demande à Jordan quand aura lieu le mariage
+Envoie un message à Darrell pour lui dire que je le retrouverai au 5k près du parc
+Écris à Lisa et demande-lui à quelle heure elle veut partir pour le concert ce dimanche
+envoie un message à Reggie pour lui demander de venir chez moi
+Envoie un message à Donald pour savoir quand il ira au Pond Shop à Brownstown dans le Michigan acheter d'autres poissons pour l'aquarium.
+fais savoir à Jax que le barbecue chez ma mère vendredi est maintenu
+envoie un texto à Bob et Diana pour dire que j'apporte du vin
+Demande à ma tante quel jour ouvre la ferme des fraises.
+envoie un message à Ronnie pour lui dire que je suis en retard, et joyeux anniversaire
+Demande par message à Lyndsie pourquoi elle a tant de retard.
+envoie un message à Dave disant que j'aurai 15 minutes de retard
+Envoie un message à Nicholas pour lui demander s'il se sent bien.
+Envoie un message à Dick et dis-lui de baisser la musique.
+Demande à ma mère à quelle heure je dois venir
+Envoie un message à Tobey pour lui demander s'il a mon portefeuille.
+envoie un message à ryan pour lui dire de me retrouver chez sam
+Envoie un message à Jason, oui, merci.
+Envoie un message à Ian pour lui demander s'il a fermé la porte à clé.
+Demande à Liam de me retirer du New Jersey blues
+Envoie un message à Paul pour lui demander ce qu'il veut pour le dîner
+Envoie un message à mon professeur d’Algèbre et dis-lui que j’ai besoin d’aide avec mes devoirs.
+Envoie un message à Mary et demande-lui si elle va à la baby shower de Lynda
+Envoie les photos à Lynn.
+Envoie un message à GrayCee et dis-lui que Mack vient aussi.
+Envoie un message à mes amis de l'université pour leur demander s'ils peuvent me rencontrer à la salle de banquet le mardi
+Envoie un message de rappel à Brad pour qu'il verrouille la maison
+dis à Joy que je ne viens pas à sa fête aujourd'hui
+Envoie un SMS à Bobbie pour lui dire que je ne peux pas venir
+Je veux que tu envoies un message à Ana pour lui dire que j'ai bien aimé sa dernière publication sur les jardins.
+Envoie un message à maman pour lui dire que j'arrive dans une heure
+Envoie un message à Mme Davis pour lui dire que Joey sera en retard
+Envoie un message à Ben et demande lui s'il a vu mon portefeuille.
+demande à Matt s'il se souvient de notre premier rendez-vous
+Envoi un message un Andy pour lui demander s'il va mieux
+réponds à ma famille par message
+J’ai besoin que tu envoies un message vidéo à Jenny
+envoie un texto On se parle plus tard à Kylie Davis et Sam
+Peux-tu envoyer un message au groupe de dessins d'animation
+envoie un message à mes parents
+peux-tu envoyer le fil des amis de travail
+merci d'envoyer ce message à Paul et Steven
+envoyer Beth et Paul
+je voudrais envoyer cette vidéo à Eric, Sarah et Sarah
+peux-tu envoyer un message à mes grands-parents
+envoie un message à Mini Mouse et Everett pour leur souhaiter une bonne année
+peux-tu envoyer un message à Brieanna et Matthew
+Peux-tu envoyer le message de mes parents
+envoie un message à mes grands-parents qui dit bon anniversaire
+je voudrais envoyer un message vidéo à Sheila sur Messenger
+peux-tu envoyer un message vidéo à Franklin sur WhatsApp
+J'aimerais envoyer un message sur Messenger
+envoie le message sur WhatsApp
+réponds avec le message du Messenger
+peux-tu l'envoyer à Josh sur Messenger
+réponds par sms via Facebook
+envoie ce message Facebook
+peux-tu envoyer à Joe sur Facebook un message disant que je suis en route
+J'aimerai envoyer ce message Messenger
+envoie ce sms à Liang par WhatsApp
+envoie le message Facebook à Lauren
+Je veux envoyer un texto via Messenger
+envoie un message sur WhatsApp à John disant On se parle plus tard
+je veux laisser un enregistrement vidéo à Samuel
+je veux laisser un enregistrement vidéo à Emily
+Enregistre un message vidéo pour votre conjoint.
+enregistre un message vidéo pour Ricardo
+enregistrons un message vidéo pour l'anniversaire de Helen
+enregistre un message vidéo pour Rosalina Vannice s'il te plaît
+Je dois enregistrer un message vidéo pour Blakely
+peux-tu enregistrer un message vidéo pour Vesta Imhof
+peux-tu enregistrer un message vidéo pour Ronna Grew
+Enregistrons un message vidéo pour l'anniversaire de Finn
+peux-tu enregistrer un message vidéo pour Heerdt Albertina
+commençons a enregistrer un message vidéo pour Sean
+Enregistre un message vidéo pour mon mari
+envoie-le à Melissa Peters Higgins
+envoie-le à Merilyn Lesniak
+envoie-le à Ryan Bennett Watson
+peux-tu envoyer un message vidéo à Michael
+lance un message vidéo s’il te plaît
+je veux que tu enregistres un message vidéo pour Amy, car elle n'est pas disponible en ce moment
+démarre le message vidéo à Deb
+laissons un enregistrement vidéo maintenant
+réponds à Enzo avec un message vidéo
+réponds à Thiago par une vidéo
+envoie une vidéo à Samuel Fowler Mcguire
+Je voudrais envoyer un message vidéo
+envoie un message vidéo à Charles Price Cook
+est-ce que je peux envoyer un message vidéo à Patrick Perez Aguilar
+envoyons un message vidéo à Samantha
+envoie un message vidéo à Hayes
+réponds à Jeffrey S Ball avec un message vidéo
+envoie une vidéo à Chase
+Je veux que tu envoies un message vidéo à C Scott
+réponds à Jessica avec une vidéo
+envoie un message vidéo à Leilani
+réponds à Leonardo par message vidéo
+réponds à Laura Mcintosh Evans via un message vidéo
+appel vidéo avec Jonas
+Je veux lancer un appel vidéo avec Hayden
+Envoie un message vidéo à mes amis
+Envoie un message vidéo à Christopher.
+s'il te plaît envoie un message vidéo
+Nouveau message Ah ok
+Je veux envoyer un message à Julianna pour lui dire que je suis réveillé et disponible pour aider
+envoie un message à Andrea disant je te ferai savoir quand nous serons disponibles pour nous voir
+Je veux envoyer un message à Kirsten Levi
+Je veux envoyer un message à Carmen
+Dis à Belinda que je garderai ses enfants vendredi soir
+envoie un message à Éric et demande-lui quand est-ce qu'il ira à Catalyst Gym la prochaine fois
+Envoie un message à la femme de ménage du bureau pour lui dire qu'elle n'a pas besoin de venir demain matin.
+envoie un message à Cris pour lui faire savoir qu'il y a exactement 80 kilomètres entre Barre et White River Junction
+Fais savoir à Mike que le match de football a été reporté
+Fais savoir à Kallies que le pont est en construction et qu'elle ne peut pas passer
+S'il te plaît, envoie un message à John, Sydney et Jill et dis-leur que l'adresse est 123 Main St. dans le centre-ville de Clarkston.
+Envoie un message à Lisa et dis-lui d'éviter I-50. Il y a eu un accident.
+Envoie un message à mon neveu pour qu'il dise à ma mère quelle sera la météo de demain à Toronto.
+Envoie un message Carlos pour lui dire que le vent fort sur le pont vers Jersey est dangereux. Reste au niveau inférieur.
+Préviens Kait que j'aurai du retard à cause de la circulation sur la route 18
+Envoie un message à Mark pour lui dire que le colis dont il a besoin doit être repoussé à cause de l'ouragan qui balaie la côte pacifique.
+Rappelle à Jackie que nous avons besoin de tasses et de la maison du nord
+Avertis Jeff que l'Amtrak a du retard.
+Envoie un message à ma sœur Brenda pour lui dire que je rentrerai à la maison à 22 heures ce soir
+Le drive-in Sonic le plus proche est à trois miles de chez moi. Je voudrais que tu le dises à Robert.
+Envoie un message à Ricky pour lui dire que les feux de circulation ne fonctionnent pas à Cleveland, et que donc je ne sais pas si je vais pouvoir aller travailler ce matin.
+Envoie un message à mon frère pour lui dire que nous devons être au spectacle tôt demain.
+Envoie un message de groupe à mes amis pour leur demander s'ils veulent que nous allions voir un film et dîner et ensemble ce week-end.
+Peux-tu faire savoir à maman et papa que je veux les emmener au concert vendredi.

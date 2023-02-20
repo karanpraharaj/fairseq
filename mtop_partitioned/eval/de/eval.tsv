@@ -1,0 +1,1805 @@
+ID	intent	text	domain	label
+3232353833393435	IN:GET_MESSAGE	Haben mir Ben und Leroy heute geschrieben	messaging	34
+3232353833383434	IN:SEND_MESSAGE	Kannst du bitte eine Nachricht an Garrett und Jennifer schicken	messaging	112
+3232353833353337	IN:SEND_MESSAGE	Schreibe Jordan, Dan und Dana Thompson etwas das sagt, dass ich auf dem Weg bin	messaging	112
+3232353833323733	IN:SEND_MESSAGE	Kannst du den Text bitte zum Wanderklub senden	messaging	112
+3232353832363539	IN:GET_MESSAGE	Haben Robert und Lindsie mir heute geschrieben	messaging	34
+3232353831393338	IN:GET_MESSAGE	Welche Texte sind von meiner Tante	messaging	34
+3232353734353934	IN:SEND_MESSAGE	Schicke Giles über Whatsapp eine Nachricht mit Happy Birthday	messaging	112
+3232353734343634	IN:SEND_MESSAGE	Schicke Judith diese Messenger-Nachricht	messaging	112
+3232353332333938	IN:CREATE_CALL	Rufe Lance Bass an	calling	42
+3232353331343337	IN:CREATE_CALL	Kannst du im Messenger 555-4831 anrufen	calling	42
+3232353138343338	IN:CREATE_CALL	Rufe Isiah King und Bryant Erickson per Videoanruf für mich an	calling	42
+3232353138313837	IN:CREATE_CALL	Ruf Adrianna und Giovanni auf Slack an	calling	42
+3232353138303834	IN:CREATE_CALL	Ich möchte bitte die Hunting-Party per Videoanruf anrufen	calling	42
+3232353137383834	IN:CREATE_CALL	Rufe meine Haustier-Adoptions-Gruppe auf Whatsapp an	calling	42
+3232343533343030	IN:SET_RSVP_INTERESTED	Stelle mein Status auf vielleicht für die dritte Veranstaltung	event	0
+3232343532383132	IN:SET_RSVP_NO	Markiere mich als gehe nicht zum Boston Cup	event	45
+3232343436343936	IN:GET_MESSAGE	Hat Alma Rho mir heute geschrieben?	messaging	34
+3232343330363830	IN:CREATE_TIMER	Erstelle einen Timer für 23 Minuten und einen anderen für zwölf Minuten und noch einen anderen für einen Tag	timer	49
+3232333635343330	IN:CREATE_CALL	Rufe meinen Whatsapp Kontakt Colette an	calling	42
+3232333635313837	IN:CREATE_CALL	Rufe Knox Cantrell per Video über Whatsapp an	calling	42
+3232333635313635	IN:CREATE_CALL	Verwende Whatsapp, um Abigail über Video anzurufen	calling	42
+3232333633373035	IN:GET_TIMER	Wie lange ist der Tee-Timer	timer	104
+3232333239333434	IN:CREATE_CALL	Wir werden jetzt Charlie Hill anrufen	calling	42
+3232333238363130	IN:CREATE_ALARM	Wecker für in 30 Minuten ab jetzt	alarm	87
+3232323831303537	IN:PLAY_MUSIC	Spiele John Mayer.	music	17
+3232323739323438	IN:PLAY_MUSIC	Spiele Hozier	music	17
+3232323731333934	IN:SET_DEFAULT_PROVIDER_MUSIC	Nutze für Musik bitte Google Play	music	106
+3232323232313639	IN:SET_RSVP_NO	Ändere meinen Status zu, kann nicht zu der dritten Veranstaltung gehen	event	45
+3232313536353830	IN:CREATE_CALL	Rufe Kyleigh Alvarado über WhatsApp an	calling	42
+3232313432313930	IN:UPDATE_TIMER	Richte den Timer ein	timer	74
+3232313136323533	IN:GET_ALARM	Habe ich einen Wecker gestellt	alarm	102
+3231373538373533	IN:CREATE_CALL	Bitte rufe sofort Deborah an	calling	42
+3231373537393638	IN:CREATE_CALL	Ruf Melissa Nummer drei an	calling	42
+3231373530373336	IN:GET_EVENT	Zeige mir ein paar mehr Musicals	event	35
+3231373530313230	IN:GET_EVENT	Empfiehl mir einige Broadway-Shows in Anchorage für Donnerstagabend	event	35
+3231373439373930	IN:GET_CATEGORY_EVENT	Welche Art von Event ist Bon Iver im Gorge Amphitheater?	event	63
+3231373033393938	IN:GET_CONTACT	Sind diesen Montag irgendwelche Geburtstage	people	54
+3231363736303731	IN:HOLD_CALL	Setze den Anruf auf Halten	calling	36
+3231363733393930	IN:IGNORE_CALL	Lehne den Anruf ab	calling	75
+3231363733383230	IN:CREATE_CALL	Rufe meinen Bruder an	calling	42
+3231363430373139	IN:GET_WEATHER	Das Wetter für nächste Woche bitte	weather	38
+3231363339373036	IN:GET_WEATHER	Gib mir die Vorhersage für Darwin für nächstes Wochenende	weather	38
+3231363337313238	IN:CREATE_ALARM	Benachrichtige mich diesen Nachmittag	alarm	87
+3231363335373433	IN:CREATE_ALARM	Du sollst für mich am Samstag um 17:00 Uhr einen Wecker stellen. Bitte und danke.	alarm	87
+3231363335353038	IN:CREATE_ALARM	Stelle den Wecker auf 15:00 Uhr am 21. März	alarm	87
+3231363332383431	IN:CREATE_ALARM	Erstelle sich wiederholende Wecker für Montag 6:00 und 7:00 Uhr für einen Monat	alarm	87
+3231363038343631	IN:CREATE_ALARM	Stelle einen Wecker auf 1760 Stunden	alarm	87
+3231363038333930	IN:CREATE_ALARM	Lauter Wecker um 0910	alarm	87
+3231363031353539	IN:CREATE_ALARM	Stelle den Wecker so ein, dass er mich morgen um 9:00 Uhr weckt	alarm	87
+3231363031333738	IN:CREATE_ALARM	Stelle einen Wecker für Weihnachten	alarm	87
+3231363030383137	IN:CREATE_ALARM	Stelle einen Wecker auf Mittwoch 15:33.	alarm	87
+3231363030373631	IN:CREATE_ALARM	Füge einen Wecker für montags um 7:00 Uhr hinzu	alarm	87
+3231363030343031	IN:CREATE_ALARM	Ich brauchen einen Wecker für das Abendessen morgen	alarm	87
+3231363030303339	IN:UPDATE_ALARM	Setze meinen täglichen Medikamente-Wecker auf 18:00 Uhr zurück	alarm	39
+3231353939363036	IN:CREATE_ALARM	Erstelle einen zweiwöchentlichen Wecker für Samstag 16:00 Uhr.	alarm	87
+3231353937323035	IN:GET_WEATHER	Gib mir das Wetter für den 13. März	weather	38
+3231353835393536	IN:PLAY_MUSIC	Spiele NPR über iheartradio	music	17
+3231353835303936	IN:CREATE_CALL	Verbinde mich mit meiner Oma	calling	42
+3231353538363835	IN:GET_WEATHER	Was ist die Vorhersage in Paris, Frankreich	weather	38
+3231353537333938	IN:GET_WEATHER	Sag mir das Wetter für nächsten Mittwoch.	weather	38
+3231353536303031	IN:GET_WEATHER	Wird es heute Abend heiß?	weather	38
+3231353535393630	IN:GET_WEATHER	Wie hoch ist die Wahrscheinlichkeit, dass es diesen Nachmittag regnen wird?	weather	38
+3231353533373030	IN:CREATE_ALARM	Stelle Wecker für Montag um 8:00 und 9:00 Uhr ein	alarm	87
+3231353533353835	IN:CREATE_ALARM	Erstelle wiederholende Wecker für Donnerstag und Freitag um 15:00 und 16:00 Uhr	alarm	87
+3231353533313534	IN:CREATE_ALARM	Stelle Wecker für 15:00 Uhr und 16:00 Uhr diesen Nachmittag.	alarm	87
+3231353439303936	IN:DELETE_ALARM	Lösche meinen Wecker	alarm	31
+3231353439303930	IN:DELETE_ALARM	Lösche bitte alle gestellten Wecker	alarm	31
+3231353438393331	IN:CREATE_ALARM	Stelle mir einen Wecker	alarm	87
+3231353437383532	IN:UPDATE_CALL	Füge James zu diesem Anruf hinzu	calling	79
+3231353436323034	IN:CREATE_CALL	Bitte rufe meinen Sohn an.	calling	42
+3231353336343332	IN:UPDATE_CALL	Entferne meine Großeltern von dem Anruf	calling	79
+3231353334343432	IN:PLAY_MUSIC	Spiele The Reason auf iHeartRadio	music	17
+3231353334333439	IN:PLAY_MUSIC	Spiele Axwell auf iheartradio	music	17
+3231353232323032	IN:CREATE_PLAYLIST_MUSIC	Erstelle eine Playlist mit dem Namen: Das ist: Nipsey Hussle	music	67
+3231353232313230	IN:CREATE_PLAYLIST_MUSIC	Erstelle eine Playlist mit dem Namen Die Sonne aufsaugen	music	67
+3231353231393233	IN:CREATE_CALL	Rufe mich selbst an	calling	42
+3231353230313333	IN:GET_TIMER	Kehre bitte zu dem aktuellen Timer zurück	timer	104
+3231353138343131	IN:CREATE_CALL	Rufe sofort Charlie an	calling	42
+3231353036353931	IN:CREATE_CALL	Rufe Adalyns Frau an	calling	42
+3231353036353332	IN:CREATE_CALL	Ruf Francesco Meuniers Großmutter an	calling	42
+3231353036333930	IN:CREATE_CALL	Rufe Tandra Kleis Nichte an	calling	42
+3231353036313534	IN:CREATE_CALL	Rufe Ward Greissers Nichte an	calling	42
+3231343937343434	IN:GET_EVENT	Gibt es im März ein Fußballspiel	event	35
+3231343631333636	IN:GET_CONTACT	Wessen Geburtstag ist am 6. November 1969?	people	54
+3231343630383735	IN:GET_CONTACT	Wie viele Geburtstage gibt es am 13. September 1973?	people	54
+3231333932383336	IN:CREATE_REMINDER	Erinnere mich bitte daran, meine Mama heute anzurufen	reminder	11
+3231333534383431	IN:CREATE_CALL	Versuche Espinosa Angelica anzurufen	calling	42
+3231333534303936	IN:GET_AVAILABILITY	Habe ich irgendwelche Freunde, die gerade online sind	calling	110
+3231333533353635	IN:UPDATE_CALL	Füge diesem Anruf bitte jemanden hinzu	calling	79
+3231333532313036	IN:SET_AVAILABLE	Mein aktueller Status ist verfügbar	calling	23
+3231333531393736	IN:SWITCH_CALL	Beende Anruf und wechsle zu neuem Anrufer, wenn es klingelt	calling	69
+3231333531353839	IN:SET_AVAILABLE	ICH BIN NICHT BESCHÄFTIGT	calling	23
+3231333531353336	IN:SWITCH_CALL	Halte ersten Anruf beantworte zweiten Anruf	calling	69
+3231333531313531	IN:END_CALL	Bitte beende den Anruf jetzt	calling	21
+3231333530383532	IN:CREATE_CALL	Rufe Marks Mama an	calling	42
+3231333438313834	IN:GET_AVAILABILITY	Ich möchte wissen wer verfügbar ist	calling	110
+3231333436363236	IN:GET_AVAILABILITY	Zeig mir wer jetzt verfügbar ist	calling	110
+3231333436353735	IN:GET_AVAILABILITY	Kann ich irgendwen erreichen	calling	110
+3231333433393339	IN:SWITCH_CALL	Schalte Anruf um	calling	69
+3231333431383835	IN:UPDATE_CALL	Bitte Alec, dem Anruf beizutreten	calling	79
+3231333431313739	IN:CREATE_CALL	Initiiere einen Anruf mit John	calling	42
+3231333430363837	IN:UPDATE_CALL	Füge einen weiteren Freund zum aktuellen Anruf hinzu	calling	79
+3231333339393830	IN:UPDATE_CALL	Lade jetzt Andrew zu dem Anruf ein	calling	79
+3231333339393234	IN:UPDATE_CALL	Füge John dem Anruf hinzu	calling	79
+3231333339343432	IN:UPDATE_CALL	Füge Camille zum Anruf hinzu	calling	79
+3231333130393330	IN:UPDATE_CALL	Füge die Enkelsöhne zu dem Anruf hinzu	calling	79
+3231333130333433	IN:IGNORE_CALL	Ignoriere die Anrufe meiner inländischen Partner	calling	75
+3231333039363939	IN:UPDATE_CALL	Verbinde meinen Cousin zu dem aktuell aktiven Anruf	calling	79
+3231323838353637	IN:SEND_MESSAGE	Schreibe John und sage ihm, da ist ein großes Wrack auf seinem Rückweg und dass er eine alternative Route wählen soll.	messaging	112
+3231323836323038	IN:SEND_MESSAGE	Schicke eine Nachricht an Ralph, dass Waldo in Mississippi auf der Grand Street nahe dem Taco Haus ist	messaging	112
+3231323834393232	IN:SEND_MESSAGE	Schicke Klayton eine Erinnerung, am 3. Juli an der Vorlesung in der Bibliothek teilzunehmen	messaging	112
+3231323831373331	IN:GET_MESSAGE	Lies mir die letzte Nachricht, die ich letzte Nacht bekommen habe vor	messaging	34
+3231323739323734	IN:SEND_MESSAGE	Schreibe Ed, dass er die Wasserflaschen zum Picknick mitbringt	messaging	112
+3231323431353830	IN:CREATE_REMINDER	Erinnere mich, Mama mittags anzurufen.	reminder	11
+3231323430363536	IN:GET_REMINDER	Zeig Erinnerungen an.	reminder	93
+3231323430333934	IN:CREATE_REMINDER	Erstelle eine Erinnerung für Europaflug	reminder	11
+3231323339383832	IN:CREATE_REMINDER	Erinnere mich, mein Auto zu tunen	reminder	11
+3231323339343335	IN:DELETE_REMINDER	Lösche alle meine Erinnerungen für heute	reminder	48
+3231323338323231	IN:CREATE_REMINDER	Erstelle eine Erinnerung für den Trip zu packen.	reminder	11
+3231323338323130	IN:CREATE_REMINDER	Füge eine Erinnerung an die Abholung der Kleider von der Reinigung am Freitag hinzu	reminder	11
+3231323337333139	IN:CREATE_REMINDER	Stelle eine Erinnerung ein, um 17:00 Uhr das Giants-Spiel zu schauen	reminder	11
+3231323336393832	IN:CREATE_REMINDER	Vergiss nicht, mich daran zu erinnern, nach der Arbeit Essen zu kaufen	reminder	11
+3231323336343037	IN:GET_REMINDER	Meine Erinnerung.	reminder	93
+3231323336333933	IN:GET_REMINDER	Lies alle Erinnerungen	reminder	93
+3231323336303131	IN:CREATE_REMINDER	Stelle die Erinnerung für den Anfang der Schule ein	reminder	11
+3231323334363633	IN:GET_REMINDER_DATE_TIME	Auf welchen Tag ist meine Erinnerung für die Müllabfuhr eingestellt?	reminder	4
+3231323334353633	IN:CREATE_REMINDER	Erinnere mich in 2 Stunden	reminder	11
+3231323334343439	IN:CREATE_REMINDER	Erinnere mich morgen um 16:00 Uhr daran, die Klink anzurufen, um einen Termin zu vereinbaren	reminder	11
+3231323334303836	IN:CREATE_REMINDER	Erinnere mich 30 Minuten vor meinem geplanten Anruf am Nachmittag.	reminder	11
+3231323333343838	IN:CREATE_REMINDER	Erinnere mich und Paul daran, im November die Geschenke zum Familienurlaub zu verschicken.	reminder	11
+3231323333323833	IN:DELETE_REMINDER	Lösche alle Erinnerungen für Dates mit John	reminder	48
+3231323332373639	IN:CREATE_REMINDER	Ich muss eine Erinnerung erstellen, meine Mutter morgen um 14:00 Uhr anzurufen	reminder	11
+3231323332323034	IN:GET_REMINDER_LOCATION	Welcher Ort steht in der Erinnerung für das Abendessen des Schachclubs?	reminder	19
+3231323332303033	IN:GET_REMINDER_LOCATION	Auf welche Straßenadresse ist meine wiederkehrende Erinnerung für Massage eingestellt?	reminder	19
+3231323331363732	IN:CREATE_REMINDER	Erstelle eine Erinnerung.	reminder	11
+3231323330353137	IN:CREATE_REMINDER	Erinnere mich, Hazel auf MeTV aufzunehmen.	reminder	11
+3231323330343332	IN:UPDATE_REMINDER_DATE_TIME	Ändere die Alarmzeit von 2 auf 3 in der Erinnerung für mein Arbeits-Meeting	reminder	22
+3231323237343937	IN:GET_REMINDER	Zeig mir alle Erinnerungen, die ich nächste Woche mit Tina habe	reminder	93
+3231323233333134	IN:CREATE_REMINDER	Erinnere mich, Ella um 8:00 Uhr PST anzurufen	reminder	11
+3231323232323730	IN:UPDATE_REMINDER_DATE_TIME	Ändere den Freitagabend-Wecker von 19:00 Uhr auf 7:00 Uhr.	reminder	22
+3231323232303630	IN:UPDATE_REMINDER_DATE_TIME	Stelle die Erinnerung, Valerie anzurufen, auf nächsten Monat ein.	reminder	22
+3231313536313134	IN:CREATE_REMINDER	Erinnere mich daran, dass ich am Montag einen Ölwechsel an meinem Auto vornehmen lasse.	reminder	11
+3231313535393331	IN:GET_REMINDER	Habe ich irgendwelche Erinnerungen für Freitagabend gegen 19:00 Uhr?	reminder	93
+3231313532313738	IN:CREATE_REMINDER	Erinnerung für Hochzeitsplanungs-Meeting einen Monat ab heute.	reminder	11
+3231313530393531	IN:CREATE_REMINDER	Erinnere mich, Konzertkarten zu kaufen, sobald sie am Donnerstag zum Verkauf stehen	reminder	11
+3231313530373039	IN:CREATE_REMINDER	Füge morgen um 13:00 Uhr eine Erinnerung für mein neues Klienten Meeting hinzu	reminder	11
+3231313435383839	IN:CREATE_REMINDER	Erinnere mich, heute Abend um 21:00 Uhr eine neue Kopie meines Lebenslaufs an die Schule zu schicken	reminder	11
+3231313435373234	IN:CREATE_REMINDER	Erinnere mich den Ofen in 70 Minuten auszuschalten.	reminder	11
+3231313435363233	IN:CREATE_REMINDER	Erinnere Johnny daran, beim Zahnarzt anzurufen und einen Termin für nächste Woche zu machen.	reminder	11
+3231313432393538	IN:CREATE_REMINDER	Ich brauche eine Erinnerung, um für morgen 6:00 Uhr ein Workout zu bekommen	reminder	11
+3231303230323734	IN:CREATE_CALL	Starte einen Gruppen-Anruf mit Mama, Papa und Alysha.	calling	42
+3231303135343237	IN:CREATE_CALL	Starte einen Videoanruf mit meinem Mann	calling	42
+3139393838363830	IN:GET_EVENT	Konzerte in Portland im Dezember	event	35
+3139393837393434	IN:GET_EVENT	Hilf mir, heute Abend ein Konzert in Birmingham zu finden	event	35
+3139393837373931	IN:GET_EVENT	Savannah Georgia Veranstaltungen für nächstes Wochenende	event	35
+3139393836373335	IN:GET_EVENT	Berichte mir über Veranstaltungen, die dieses Wochenende in Crandon stattfinden	event	35
+3139393835363537	IN:GET_EVENT	Bitte nenne Events, die in PA stattfinden	event	35
+3139393833303133	IN:GET_EVENT	Was passiert heute Abend um 20:00 Uhr in Pittsburgh	event	35
+3139393832373831	IN:GET_EVENT	Was passiert dieses Wochenende in Buffalo, NY	event	35
+3139393832323631	IN:GET_EVENT	Was sollen wir am Samstag in Paris unternehmen	event	35
+3139393738343435	IN:GET_EVENT	Veranstaltungen heute Abend in Peoria	event	35
+3139393736363031	IN:GET_EVENT	Ich brauche die Zeit und den Ort des Marathons dieses Wochenende	event	35
+3139343332373338	IN:GET_AGE	Wie alt ist Micheal Douglas?	people	80
+3138393935333631	IN:GET_INFO_CONTACT	Wer ist Celeste?	people	58
+3138393933393938	IN:GET_INFO_CONTACT	Wer ist Shuri?	people	58
+3138393933383939	IN:GET_INFO_CONTACT	Was kannst du mir über Michelle erzählen?	people	58
+3138393933333633	IN:GET_EMPLOYMENT_TIME	Vor wie vielen Jahren begann Gail bei der Bank of America zu arbeiten?	people	5
+3138393839303833	IN:GET_EDUCATION_TIME	Wann begann Ali am Gymnasium?	people	37
+3138393834323630	IN:GET_CONTACT	Freunde, die bei Disney arbeiten?	people	54
+3138393834303533	IN:GET_CONTACT	Kenne ich irgendwen, der bei JC Penney arbeitet?	people	54
+3138393833323035	IN:GET_CONTACT	Wer arbeitet bei Apple?	people	54
+3138393832313936	IN:GET_CONTACT	Hat jemand gerade seinen Abschluss an der CU Denver gemacht?	people	54
+3138393831343737	IN:GET_CONTACT	Geht irgendwer, den ich kenne, zur OSU?	people	54
+3138393831333238	IN:GET_CONTACT	Kenne ich jemanden der UC Berkeley besuchte?	people	54
+3138393831313333	IN:GET_CONTACT	Ging irgendwer meiner Freunde zu UGA?	people	54
+3138393830383432	IN:GET_CONTACT	Wer hat einen Abschluss von der Georgia Tech	people	54
+3138393830343835	IN:GET_CONTACT	Suche irgendwen, den ich kenne in Sacramento	people	54
+3138393739303638	IN:GET_CONTACT	Kenne ich Leute, die in Kendall wohnen?	people	54
+3138393738383838	IN:GET_CONTACT	Lebt einer meiner Freunde in Mansoura?	people	54
+3138393736313337	IN:GET_CONTACT	Sag mir, wer Freunde von mir sind	people	54
+3138393734393237	IN:GET_CONTACT	Freunde von Tina	people	54
+3138393734363032	IN:GET_CONTACT	Freunde von Jaymes	people	54
+3138393734333630	IN:GET_CONTACT	Freunde von Ali	people	54
+3138393734303433	IN:GET_CONTACT	Freunde von ihr	people	54
+3138383936373437	IN:GET_STORIES_NEWS	Liste die neuesten Überschriften auf ABC News auf	news	78
+3138383934363936	IN:GET_INFO_RECIPES	Welche Zutaten brauche ich für eine Pute	recipes	28
+3138383932323936	IN:GET_RECIPES	Suche mir ein Rezept für eine Marinade	recipes	62
+3138383932323531	IN:IS_TRUE_RECIPES	Kommt Mayo in Krautsalat	recipes	66
+3138383932303131	IN:IS_TRUE_RECIPES	Kann ich Käsekuchen in einem Schongarer backen	recipes	66
+3138383931353931	IN:GET_RECIPES	Zeige meine vegetarischen Rezepte	recipes	62
+3136343339303839	IN:PAUSE_TIMER	Bitte beende den Timer	timer	99
+3136343034383432	IN:GET_STORIES_NEWS	Ich muss die Nachrichten lesen	news	78
+3136303030313536	IN:QUESTION_NEWS	Wird die USA in den Krieg gegen Nord-Korea gehen	news	98
+3135333035363737	IN:GET_STORIES_NEWS	LETZTE NACHRICHTEN FÜR DIE BRAUEREIEN	news	78
+3135323939313039	IN:GET_DETAILS_NEWS	Welche sind die wichtigsten lokalen Schlagzeilen	news	100
+3135323937303632	IN:GET_STORIES_NEWS	Lies mir die besten lokalen Schlagzeilen vor	news	78
+3135323839313734	IN:CREATE_ALARM	Kannst du einen Wecker für 7:00 Uhr stellen	alarm	87
+3134313630323838	IN:GET_WEATHER	Werden es um die 84 Grad Celsius in Dehli heute	weather	38
+3134313539373530	IN:GET_WEATHER	Wie heiß ist es dieses Wochenende hier in F	weather	38
+3133343635313633	IN:IS_TRUE_RECIPES	Ist in schwarzem Tee Koffein	recipes	66
+3133343635303531	IN:GET_RECIPES	Suche mir ein günstiges Ziti-Rezept	recipes	62
+3133343634343833	IN:IS_TRUE_RECIPES	Ist Parmesankäse vegetarisch	recipes	66
+3133343138373238	IN:GET_INFO_RECIPES	Woher weiß ich, dass Nudeln fertig sind	recipes	28
+3133343138353635	IN:GET_INFO_RECIPES	Wie lange dauert es, Reis zu kochen	recipes	28
+3133343130313136	IN:GET_INFO_RECIPES	Zutaten in Tres Leche	recipes	28
+3133323737373134	IN:GET_INFO_RECIPES	Wie viele Kalorien hat ein gebratenes Hühnchen	recipes	28
+3133323735333335	IN:GET_INFO_RECIPES	Wie viele Kalorien sind in einem Big Mac von McDonald´s	recipes	28
+3133303534323439	IN:GET_INFO_RECIPES	Was ist der Unterschied zwischen Grillen und Braten	recipes	28
+3132363338343236	IN:GET_WEATHER	Wie hoch ist die aktuelle Temperatur?	weather	38
+3132363139343538	IN:PLAY_MUSIC	Spiele Pilates-Playlist	music	17
+3132363130363337	IN:PLAY_MUSIC	Suche eine Playlist zum Lernen	music	17
+3132363130333938	IN:PLAY_MUSIC	Starte Musik	music	17
+3132363038303735	IN:UPDATE_ALARM	Aktualisiere die Weckerzeit	alarm	39
+3132363037313733	IN:REMOVE_FROM_PLAYLIST_MUSIC	Entferne dieses Lied aus meinen Favoriten	music	53
+3132363031353131	IN:REMOVE_FROM_PLAYLIST_MUSIC	Spiele dieses Lied nicht nochmal	music	53
+3132353936373138	IN:GET_SUNRISE	Um wie viel Uhr soll heute die Sonne aufgehen	weather	76
+3132353935303534	IN:PLAY_MUSIC	Spiele Thumbprint Station	music	17
+3132353635383233	IN:GET_TIMER	Wie viel mehr Sekunden bis zum Ende	timer	104
+39353737353133	IN:PLAY_MUSIC	Ich möchte mehr Michael Jackson bitte.	music	17
+39353732383034	IN:GET_WEATHER	Wie ist die aktuelle Temperatur am Nordpol?	weather	38
+39353731313830	IN:CREATE_ALARM	Stelle einen Wecker für 6:00 Uhr von Montag bis Freitag	alarm	87
+39353639343937	IN:GET_WEATHER	Wird es zur Überflutung kommen	weather	38
+39353639323239	IN:GET_WEATHER	Wie ist das Wetter heute in London	weather	38
+39353638303035	IN:GET_WEATHER	Wann wird es das nächste Mal regnen?	weather	38
+39353637363032	IN:ADD_TIME_TIMER	Füge Kellys Auszeit-Timer weitere 5 Minuten hinzu.	timer	103
+39353632383938	IN:CREATE_ALARM	Stelle einen Wecker für 16:45 Uhr	alarm	87
+39353630343037	IN:GET_WEATHER	Wie ist das Wetter in Florida	weather	38
+39353537383435	IN:GET_WEATHER	Wird es dieses Wochenende viel Regen geben	weather	38
+39353537313532	IN:ADD_TIME_TIMER	Füge meinem Workout-Timer acht Minuten hinzu.	timer	103
+39353536323631	IN:PLAY_MUSIC	Spiele alle Lieder von Nicki Minaj	music	17
+39353533363437	IN:GET_STORIES_NEWS	Irgendwelche Nachrichten über Nordkorea heute	news	78
+39353532393636	IN:GET_WEATHER	Wird es den ganzen Tag sonnig	weather	38
+39353530353033	IN:PLAY_MUSIC	Ich möchte den RENT Soundtrack hören	music	17
+39353436343631	IN:ADD_TIME_TIMER	Füge dem Timer weitere 30 Minuten hinzu	timer	103
+39353435323838	IN:GET_WEATHER	Wann wird es regnen?	weather	38
+39353435313433	IN:GET_TRACK_INFO_MUSIC	Wer ist der aktuelle Artist?	music	10
+39353433363737	IN:GET_WEATHER	Wird es diese Woche überhaupt schneien?	weather	38
+39353433343835	IN:PLAY_MUSIC	Suche 80er Musik.	music	17
+39353433333738	IN:PLAY_MUSIC	Spiel Musik von Mercy Me	music	17
+39353432323236	IN:CREATE_TIMER	Starte einen Timer für 1 Stunde	timer	49
+39353431363832	IN:CREATE_TIMER	Stelle jetzt einen Timer für mein Workout	timer	49
+39353339333436	IN:GET_WEATHER	Wie sieht das Wetter diese Woche aus?	weather	38
+39353333363337	IN:GET_WEATHER	Wie ist das Wetter diese Woche?	weather	38
+39353332323733	IN:GET_STORIES_NEWS	Was gibt es Neues in den lokalen Nachrichten?	news	78
+39353239373531	IN:LIKE_MUSIC	Mache diesen Song zu einem meiner Favoriten.	music	9
+39353239323038	IN:GET_STORIES_NEWS	Was sind die Nachrichten in Alabama	news	78
+39353237343335	IN:REPLAY_MUSIC	Können wir das Lied Yeah von Usher nochmal spielen?	music	40
+39353234353431	IN:ADD_TIME_TIMER	Füge weitere 5 Minuten hinzu	timer	103
+39353231373736	IN:GET_STORIES_NEWS	Lies mir die internationalen Schlagzeilen vor	news	78
+39353139363933	IN:GET_WEATHER	Sollte ich einen Wintermantel tragen?	weather	38
+39353138363533	IN:CREATE_TIMER	Starte einen Timer von 45 Minuten	timer	49
+39353137393331	IN:GET_STORIES_NEWS	Was sind die neuesten Nachrichten über den Polizeieinsatz	news	78
+39353137363834	IN:PAUSE_TIMER	Pausiere bitte den aktuellen Timer	timer	99
+39353135353931	IN:GET_TIMER	Wie lange bis der Timer piepen wird?	timer	104
+39353133353933	IN:GET_TIMER	Wie viel Zeit ist von meinem Lauf noch übrig	timer	104
+39353130383535	IN:CREATE_TIMER	Stelle einen Timer für 1 Stunde 20 Minuten	timer	49
+39353036333537	IN:GET_TRACK_INFO_MUSIC	Welche Musik wird gespielt	music	10
+39353035333137	IN:GET_WEATHER	Wird es diese Woche in San Diego regnen	weather	38
+39353030393532	IN:GET_STORIES_NEWS	Aktualisierte Neuigkeiten?	news	78
+39353030353638	IN:GET_RECIPES	Kann ich irgendetwas mit Ei und Reis in weniger als 5 Minuten machen?	recipes	62
+39343939363636	IN:PLAY_MUSIC	Ich möchte ein bisschen Rock-Musik	music	17
+39343937323236	IN:CREATE_ALARM	Stelle den Wecker für 4:00 Uhr aber auf Vibration	alarm	87
+39343936363238	IN:PLAY_MUSIC	Kann ich ein bisschen Rock-Musik hören	music	17
+39343934383638	IN:SUBTRACT_TIME_TIMER	Nimm 5 Minuten vom Fitnessstudio-Timer	timer	82
+39343931313734	IN:GET_TIMER	Wie viel Zeit ist jetzt auf meinem Timer	timer	104
+39343930383236	IN:CREATE_TIMER	Stelle einen Countdown auf 10 Minuten	timer	49
+39343930383136	IN:GET_STORIES_NEWS	Was sind die lokalen Schlagzeilen diesen Morgen	news	78
+39343839383936	IN:PLAY_MUSIC	irgendwas in Richtung Adult Contemporary bitte	music	17
+39343834383134	IN:CREATE_TIMER	Stelle einen Timer für eine Stunde	timer	49
+39343833323130	IN:GET_WEATHER	Wie ist das Wetter in Chicago heute um 17:00 Uhr?	weather	38
+39343739383035	IN:CREATE_ALARM	Wecker um 5:00 Uhr morgen	alarm	87
+39343735373638	IN:DELETE_TIMER	Lösche alle meine Timer, bitte.	timer	59
+39343735303836	IN:GET_STORIES_NEWS	Was sind die neuesten Nachrichten von ABC?	news	78
+39343732323030	IN:GET_STORIES_NEWS	Was sind die Top-Nachrichten aus Buffalo?	news	78
+39343731323535	IN:REPLAY_MUSIC	Bitte spiele dieses Lied erneut.	music	40
+39343632373330	IN:GET_RECIPES	Wie mache ich vegane Lasagne	recipes	62
+39343632343138	IN:GET_INFO_RECIPES	Wie lange braucht man, um eine Pizza zuzubereiten, inklusive Vorbereitungs- und Backzeit	recipes	28
+39343631363133	IN:GET_RECIPES	Zeig mir ein chinesisches Rezept	recipes	62
+39343630393835	IN:GET_RECIPES	Wie mache ich zu Hause Brot	recipes	62
+39343630353636	IN:GET_INFO_RECIPES	Welche Temperatur, um Brot aufzuwärmen	recipes	28
+39343539373236	IN:GET_INFO_RECIPES	Wie lange kocht man 5 Pfund gefrorenes Lachsfilet	recipes	28
+39343539323930	IN:IS_TRUE_RECIPES	Beinhaltet Haferbrei Gluten	recipes	66
+39343537393233	IN:GET_INFO_RECIPES	Wie viele Kalorien sind in einem Stück Blaubeerkuchen	recipes	28
+39343536333932	IN:GET_INFO_RECIPES	Wie viele Kalorien sind in Kokosnussöl	recipes	28
+39343536323435	IN:GET_INFO_RECIPES	Wie lange sollte ich ein Ei kochen	recipes	28
+39343536313733	IN:GET_INFO_RECIPES	Wie misst man Zucker für Eis ab	recipes	28
+39343535343033	IN:GET_INFO_RECIPES	Woher weiß ich, ob eine Avocado reif ist	recipes	28
+39343535303936	IN:GET_INFO_RECIPES	Wie wiegt man am besten Mehl für einen Kuchen	recipes	28
+39343534303032	IN:GET_INFO_RECIPES	Wie lange braucht man, um Zuckerkekse zu backen	recipes	28
+39343532353339	IN:GET_INFO_RECIPES	Wie soll ich meinen Ofen für den Rinderbraten einstellen	recipes	28
+39343531393335	IN:GET_RECIPES	Finde ein Rezept für Spinat	recipes	62
+39343531353435	IN:GET_RECIPES	Suche nach Zitronen-Hühnchen-Rezepten	recipes	62
+39343531343739	IN:GET_RECIPES	Was ist das Rezept für Chocolate Chip Cookies	recipes	62
+39343531303439	IN:GET_RECIPES	Finde bitte ein einfaches italienisches Rezept für mich	recipes	62
+39343530393139	IN:GET_INFO_RECIPES	Wie viel Olivenöl brauche ich für Lasagne	recipes	28
+3232353833393233	IN:SEND_MESSAGE	Sag meiner Mutter und meinem Vater, dass ich mich verspäten werde	messaging	112
+3232353833353131	IN:SEND_MESSAGE	Schick Josh und Harold eine Nachricht	messaging	112
+3232353831393834	IN:GET_MESSAGE	Zeige mir meine Texte von Kian an	messaging	34
+3232353735323738	IN:GET_MESSAGE	Zeig mir Textnachrichten von Liz über Facebook	messaging	34
+3232353735323537	IN:GET_MESSAGE	Hat Damien mir irgendwas über WhatsApp geschickt	messaging	34
+3232353734363235	IN:SEND_MESSAGE	Bitte schicke Paul diesen Text über Facebook	messaging	112
+3232353734353338	IN:SEND_MESSAGE	Schicke Jeff auf Facebook eine Nachricht mit Happy Birthday	messaging	112
+3232353332303930	IN:CREATE_CALL	Ruf Frankie an	calling	42
+3232353138343532	IN:CREATE_CALL	Beginne einen Videoanruf mit Peyton Noble und Clarissa Avery	calling	42
+3232353138313535	IN:CREATE_CALL	Kannst du einen Audioanruf mit meiner Udacity-Gruppe starten	calling	42
+3232343533343733	IN:SET_RSVP_INTERESTED	interessiert, zum Fourth-Event zu gehen	event	0
+3232343532383234	IN:SET_RSVP_YES	Stelle meinen Status auf gehe zu Roxanne Dunbar-Ortiz mit Nikkita Oliver	event	32
+3232343436343832	IN:GET_MESSAGE	Hat Katie mir geschrieben?	messaging	34
+3232333730363233	IN:CREATE_CALL	Rufe Xander Browns Mama an	calling	42
+3232333636313237	IN:CREATE_CALL	Rufe Isabella Saunders über WhatsApp an	calling	42
+3232333635383936	IN:CREATE_CALL	Rufe in WhatsApp Zachary Adkins an	calling	42
+3232333633363530	IN:GET_TIMER	Zeige mir meinen Timer für den Ofen	timer	104
+3232323830363632	IN:PLAY_MUSIC	Spiele Rick Ross	music	17
+3232323731333936	IN:SET_DEFAULT_PROVIDER_MUSIC	Benutze immer Pandora für Musik	music	106
+3232323232313836	IN:SET_RSVP_NO	Ich bin nicht mehr an dem vierten Event interessiert	event	45
+3232313933393139	IN:CREATE_CALL	WhatsApp-Anruf an Emilia	calling	42
+3232313933383639	IN:CREATE_CALL	Rufe Solomon über WhatsApp an	calling	42
+3232313332323732	IN:CREATE_CALL	Ruf Destiny Collins und Leilani Morris an	calling	42
+3231393232373537	IN:GET_CONTACT	Ich muss meine Freunde auf dem Bildschirm anzeigen, bitte	people	54
+3231393232343932	IN:GET_CONTACT	Lasse mich bitte meine Freunde sehen	people	54
+3231373538313236	IN:CREATE_CALL	Rufe Timothy vier an	calling	42
+3231373236393435	IN:CREATE_CALL	Rufe Jason für mich an	calling	42
+3231373234363532	IN:CREATE_CALL	Tritt mit ihm durch einen Anruf in Kontakt	calling	42
+3231373232323435	IN:CREATE_CALL	Ruf Javon Nicholson über Whatsapp an	calling	42
+3231373232323136	IN:CREATE_CALL	Sprich zu Zander auf WhatsApp	calling	42
+3231363431333737	IN:GET_WEATHER	Wettervorhersage für 17:00 Uhr bitte	weather	38
+3231363339343939	IN:GET_WEATHER	Wie wird das Wetter morgen in Christchurch, Neuseeland	weather	38
+3231363339313033	IN:GET_WEATHER	Wettervorhersage für Sonntag bitte	weather	38
+3231363338363537	IN:GET_WEATHER	Wie ist die Vorhersage für die Schweiz	weather	38
+3231363338323530	IN:GET_WEATHER	Kannst du mir sagen, wie das Wetter momentan in Perth ist	weather	38
+3231363336373731	IN:DELETE_ALARM	Wecker deaktivieren	alarm	31
+3231363336353433	IN:SILENCE_ALARM	Stelle bitte den Wecker aus	alarm	85
+3231363336353031	IN:CREATE_ALARM	Kannst du einen Wecker auf 13:30 Uhr stellen?	alarm	87
+3231363335343738	IN:CREATE_ALARM	Stell einen Wecker für den 8. September um 16:00 Uhr nachmittags.	alarm	87
+3231363333373532	IN:CREATE_ALARM	Erstelle einen neuen Wecker für heute um 18:00 Uhr zum Abendessen	alarm	87
+3231363333343232	IN:CREATE_ALARM	"Stelle einen ""Aufwach""-Wecker auf Montag, Dienstag und Mittwoch 7:00 Uhr diese Woche"	alarm	87
+3231363332343334	IN:UPDATE_ALARM	Kannst du einen Wecker für mich aktualisieren	alarm	39
+3231363331343034	IN:GET_ALARM	Teile bevorstehende Alarme mit.	alarm	102
+3231363038353835	IN:CREATE_ALARM	Stelle einen Wecker auf 8:00 Uhr	alarm	87
+3231363038303636	IN:CREATE_ALARM	Erstelle einen Wecker für 12:50 Uhr	alarm	87
+3231363037323939	IN:CREATE_CALL	Rufe meinen Partner Martin an	calling	42
+3231363031373937	IN:CREATE_ALARM	Bitte starte einen Wecker um 7:00 Uhr.	alarm	87
+3231363031353938	IN:CREATE_ALARM	Erstelle für morgen um 6:00 Uhr einen Wecker	alarm	87
+3231363030313435	IN:CREATE_ALARM	Bitte stelle einen Wecker auf die ersten Dienstage des Monats für 2 Jahre	alarm	87
+3231353938333436	IN:GET_WEATHER	Was ist die Vorhersage in der Westukraine	weather	38
+3231353937353036	IN:GET_WEATHER	Sag mir die Vorhersage für Kuba?	weather	38
+3231353538313937	IN:GET_WEATHER	Kann ich bitte die Wettervorhersage für 15:00 Uhr haben	weather	38
+3231353537383037	IN:GET_WEATHER	Was ist das Wetter in Paphos	weather	38
+3231353536363537	IN:GET_WEATHER	Was ist heute die Vorhersage für Redittch.	weather	38
+3231353534393331	IN:CREATE_ALARM	Stelle einen Wecker für heute Abend um 20:00 Uhr.	alarm	87
+3231353534363834	IN:CREATE_ALARM	Stelle einen Wecker für nächsten Dienstag um 15:00 Uhr	alarm	87
+3231353534313932	IN:SNOOZE_ALARM	Bitte lass diesen Wecker schlummern	alarm	13
+3231353533373939	IN:SNOOZE_ALARM	Stell den Wecker bitte auf eine Stunde Schlummern	alarm	13
+3231353530343131	IN:UPDATE_ALARM	Stelle den Wecker für Medikamente 5 Minuten zurück.	alarm	39
+3231353438383931	IN:CREATE_ALARM	Erstelle für heute Abend einen Wecker	alarm	87
+3231353437393437	IN:UPDATE_CALL	Entferne Dad aus diesem Anruf.	calling	79
+3231353437323538	IN:GET_AVAILABILITY	Ist Papa für Anrufe verfügbar?	calling	110
+3231353436393935	IN:GET_CALL	Gab es heute irgendwelche verpassten Anrufe	calling	55
+3231353436323234	IN:CREATE_CALL	Rufe bitte meine Mutter an	calling	42
+3231353435393935	IN:CREATE_CALL	Ruf Papa an, danke.	calling	42
+3231353336353738	IN:UPDATE_METHOD_CALL	Ändere den Videoanruf zurück auf normalen Anruf	calling	51
+3231353036373836	IN:CREATE_CALL	Ruf Lloyd Jesusa Curts Ehemann an	calling	42
+3231353036313336	IN:CREATE_CALL	Rufe Dylans Sohn an	calling	42
+3231353035383232	IN:CREATE_CALL	Rufe Laci Luis' Ehepartner an	calling	42
+3231343937303539	IN:CREATE_CALL	Rufe Dat D. Proole an	calling	42
+3231343638373137	IN:GET_WEATHER	Wie warm ist es draußen in Fahrenheit	weather	38
+3231343631313937	IN:GET_CONTACT	Liste die kommenden Geburtstage von Rochkes Freunden auf	people	54
+3231343630383031	IN:GET_CONTACT	Lege den kommenden Geburtstag von Eilene Melvin Jardine Nana auf den Bildschirm	people	54
+3231333938343831	IN:UPDATE_REMINDER_DATE_TIME	Ändere meine Erinnerung, meine Steuerunterlagen zu archivieren, von Donnerstag zu Freitag	reminder	22
+3231333637373438	IN:GET_MESSAGE	Lies ungelesene Nachricht.	messaging	34
+3231333534343433	IN:CREATE_CALL	Versuche Brandon anzurufen	calling	42
+3231333533363336	IN:SET_UNAVAILABLE	Status im Moment inaktiv	calling	64
+3231333530393937	IN:GET_AVAILABILITY	Zeig mir bitte, wer verfügbar ist	calling	110
+3231333437393435	IN:SET_UNAVAILABLE	Zeige an, dass ich nicht erreichbar bin	calling	64
+3231333436373032	IN:END_CALL	Rufe Over an	calling	21
+3231333436333537	IN:CREATE_CALL	Anruf an alle	calling	42
+3231333435373836	IN:END_CALL	Alles erledigt, lege auf	calling	21
+3231333435333836	IN:SWITCH_CALL	Wechsle zum neuen eingehenden Anruf	calling	69
+3231333432333130	IN:END_CALL	Beende meinen Anruf	calling	21
+3231333430383237	IN:UPDATE_CALL	Füge Bob dem Anruf hinzu	calling	79
+3231333133303730	IN:CREATE_CALL	Ruf meine Stiefschwester an	calling	42
+3231333131393931	IN:CREATE_CALL	Kannst du mein Mädchen anrufen	calling	42
+3231333130353738	IN:UPDATE_CALL	Lade Stiefeltern zum Anruf ein	calling	79
+3231323837363334	IN:SEND_MESSAGE	Schicke eine Nachricht an Joanie, dass das Abendessen morgen um 6:00 Uhr einen Versuch wert ist	messaging	112
+3231323836343337	IN:SEND_MESSAGE	Gib Jim Bescheid, dass ich auf dem Weg bin	messaging	112
+3231323835363731	IN:SEND_MESSAGE	Sende eine Nachricht an Kristen, mich beim Jimmy Kimmel Konzert um 17:00 Uhr zu treffen	messaging	112
+3231323835353835	IN:SEND_MESSAGE	Warne Sarah, dass ich mich für Kevins Überraschungsparty verspäte.	messaging	112
+3231323832313233	IN:SEND_MESSAGE	Sage Cat, dass sie Post hat	messaging	112
+3231323738393330	IN:GET_MESSAGE	Hat meine Mama mir diese Woche eine Nachricht geschickt?	messaging	34
+3231323738363232	IN:SEND_MESSAGE	Sag Mark er soll unsere To-Go-Bestellung vom Olive Garden abholen	messaging	112
+3231323737353734	IN:GET_MESSAGE	Lies mir alle Nachrichten, die ich zwischen 00:00 Uhr und 13:30 Uhr bekommen habe	messaging	34
+3231323735373134	IN:SEND_MESSAGE	Frag Donna, ob der Link funktioniert hat oder ob ich ihn nochmal schicken soll	messaging	112
+3231323431393333	IN:CREATE_REMINDER	Erinnere mich nächsten Monat zum Zahnarzt zu gehen.	reminder	11
+3231323431303736	IN:DELETE_REMINDER	Lösch meine Erinnerung, Alyssa anzurufen	reminder	48
+3231323339373634	IN:DELETE_REMINDER	Lösch alle Erinnerungen.	reminder	48
+3231323337383431	IN:CREATE_REMINDER	Erstelle eine Erinnerung auf 15:00 Uhr am 30. Um meine Miete zu senden	reminder	11
+3231323336313136	IN:CREATE_REMINDER	Erinnere mich, mich zu rasieren, bevor ich morgen aufbreche	reminder	11
+3231323336303739	IN:GET_REMINDER	Welche Erinnerungen habe ich für morgen eingestellt?	reminder	93
+3231323335343239	IN:DELETE_REMINDER	Ich brauche kein Hundefutter, lösch die Erinnerung.	reminder	48
+3231323334363834	IN:CREATE_REMINDER	Erinnere mich die trockene Wäsche heute um 17:00 Uhr abzuholen.	reminder	11
+3231323334343035	IN:GET_REMINDER	Zeig mir meine Erinnerungen für Geburtstage	reminder	93
+3231323332343739	IN:DELETE_REMINDER	Entferne die Erinnerung dieses Wochenende meine Füße gemacht zu bekommen.	reminder	48
+3231323330303737	IN:DELETE_REMINDER	Lösche die Erinnerung an das Arbeitsmeeting am Montag	reminder	48
+3231323237353830	IN:CREATE_REMINDER	Erstelle eine Erinnerung, einen Wecker, passend zu meinem Zeitplan, zu stellen	reminder	11
+3231323236393338	IN:CREATE_REMINDER	Erinnere Rex, die Zeit für das Meeting einzurichten	reminder	11
+3231323235373837	IN:GET_REMINDER	Welche Erinnerungen habe ich für nächste Woche?	reminder	93
+3231323233333734	IN:GET_REMINDER	Zeig meine Spa-Erinnerungen mit meiner Mama nächsten Monat.	reminder	93
+3231323232393838	IN:GET_REMINDER	Zeig mir die Erinnerungen für die Geburtstage in meiner Familie im September	reminder	93
+3231323232373538	IN:UPDATE_REMINDER_DATE_TIME	aktualisiere die Erinnerung, den DVR auf Freitag um 18:00 Uhr zu stellen	reminder	22
+3231313535333333	IN:GET_REMINDER_DATE_TIME	Wann ist meine Erinnerung heute Nachmittag meine Mutter zu treffen?	reminder	4
+3231313534313234	IN:GET_REMINDER	Lass mich die Erinnerungen meines Sohnes sehen	reminder	93
+3231313533333032	IN:DELETE_REMINDER	Stelle die Erinnerung für die 14:00 Uhr Medikamente aus	reminder	48
+3231313437353832	IN:CREATE_REMINDER	Stelle eine Erinnerung am Montag mit Walmart zu chatten.	reminder	11
+3231313436393736	IN:UPDATE_REMINDER_DATE_TIME	Aktualisiere die Erinnerung des heutigen Mitarbeiter-Meetings von 13:00 Uhr auf 14:00 Uhr.	reminder	22
+3231303230303631	IN:CREATE_CALL	Ruf Shannon an und füge Sheila dem Anruf hinzu	calling	42
+3231303138383834	IN:IGNORE_CALL	Nimm keine Anrufe von Joe an	calling	75
+3230303431383633	IN:CREATE_TIMER	Stelle einen Timer auf 14 Monate	timer	49
+3230303431303738	IN:DISLIKE_MUSIC	Ich hasse den Song, der gerade auf Pandora läuft	music	30
+3139393838373731	IN:GET_EVENT	Gibt es dieses Wochenende in Tulsa große Konzerte	event	35
+3139393838363438	IN:GET_EVENT	Was passiert dieses Wochenende in Philadelphia	event	35
+3139393835353530	IN:GET_EVENT	Was findet nächstes Wochenende in Cleveland statt	event	35
+3139393833333534	IN:GET_EVENT	Festivals in Greenfield dieses Wochenende	event	35
+3139393832363131	IN:GET_EVENT	Festivals im Juni 2018 in Dayton	event	35
+3139393830373433	IN:GET_EVENT	Such lokale Konzerte in Cleveland	event	35
+3139393738393833	IN:GET_EVENT	Dinge die man in Detroit machen kann	event	35
+3139393738313733	IN:GET_EVENT	Konzerte, die morgen Abend in Austin stattfinden	event	35
+3139383539343438	IN:GET_STORIES_NEWS	Gib mir die neuesten NPR Nachrichten	news	78
+3138393935323035	IN:GET_INFO_CONTACT	Wer ist Nicole?	people	58
+3138393932383735	IN:GET_EMPLOYMENT_TIME	Wann begann Kevin für Michelin zu arbeiten?	people	5
+3138393932383032	IN:GET_EMPLOYER	Für wen arbeitet Sandy?	people	92
+3138393932363930	IN:GET_EMPLOYER	Arbeitet Walt noch immer für Boeing?	people	92
+3138393932303033	IN:GET_EMPLOYER	Wo arbeitet Jennifer	people	92
+3138393931393138	IN:GET_EMPLOYER	Arbeitet Mary noch für Google?	people	92
+3138393931373734	IN:GET_EMPLOYMENT_TIME	Wann wird Jill ihren Job bei Starbucks beenden?	people	5
+3138393839343435	IN:GET_EDUCATION_TIME	In welchem Jahr hat Amy ihren Abschluss an der Marywood gemacht?	people	37
+3138393837393339	IN:GET_AGE	Wie alt ist Steve?	people	80
+3138393837393238	IN:GET_AGE	Wird Sue 21	people	80
+3138393837373730	IN:GET_AGE	Es sieht so aus als wäre Sam 40 Jahre alt, ist er?	people	80
+3138393836393732	IN:GET_LOCATION	Wo lebt James?	people	44
+3138393834383037	IN:GET_LOCATION	Arbeitet Daniel in Tucson?	people	44
+3138393834373236	IN:GET_LOCATION	Wo lebt Austin?	people	44
+3138393834303138	IN:GET_CONTACT	Wie viele Freunde von mir arbeiten im St. Luke‘s Krankenhaus?	people	54
+3138393831383431	IN:GET_CONTACT	Welcher meiner Freunde ist zur HCC gegangen?	people	54
+3138393831303537	IN:GET_CONTACT	Besuchte irgendwer den ich kenne das Boston College?	people	54
+3138393830393332	IN:GET_CONTACT	Hat irgendeiner meiner Freunde seinen Masterabschluss an der CSU gemacht?	people	54
+3138393739323439	IN:GET_CONTACT	Lebt irgendeiner meiner Freunde in Virginia?	people	54
+3138393739303837	IN:GET_CONTACT	Lebt irgendeiner meiner Freunde in Detroit	people	54
+3138383936383830	IN:GET_INFO_RECIPES	Wie viele Kalorien in Walnuss-Brownie	recipes	28
+3138383932383836	IN:GET_INFO_RECIPES	Wie lange muss ich die Klöße kochen, bevor ich sie wende	recipes	28
+3138383932333430	IN:GET_RECIPES	Wie mache ich Snickerdoodle-Kekse	recipes	62
+3138383931333035	IN:GET_INFO_RECIPES	Wie man Sushi rollt	recipes	28
+3136363730323437	IN:GET_ALARM	Wie viel Zeit bleibt bis zu meinem nächsten Wecker	alarm	102
+3136343338393932	IN:UPDATE_TIMER	Ändere meinen Meditations-Timer auf 20 Minuten	timer	74
+3136343034343532	IN:QUESTION_NEWS	Weitere Banküberfälle heute	news	98
+3136343034313236	IN:CREATE_TIMER	Füge einen Timer für 17:00 Uhr hinzu	timer	49
+3136333731353239	IN:QUESTION_NEWS	Welches Land wird der Präsident als nächstes besuchen	news	98
+3136333730363831	IN:QUESTION_NEWS	Wo wird die amerikanische Bundeshilfe hingeschickt	news	98
+3135393637313135	IN:QUESTION_NEWS	Wie war der Stand für Nasdaq heute	news	98
+3135333032343037	IN:GET_STORIES_NEWS	Was wird momentan auf Cable News gezeigt	news	78
+3135333031323334	IN:GET_STORIES_NEWS	Lies mir die Schlagzeilen von BBC News vor	news	78
+3135323937343038	IN:CREATE_TIMER	Stelle neuen Timer für 60 Minuten	timer	49
+3135323933353231	IN:CREATE_ALARM	Stelle einen Wecker auf 7:00 Uhr von Montag bis Freitag	alarm	87
+3134313630323334	IN:GET_WEATHER	Wie kalt ist es heute in London in Grad Celsius	weather	38
+3134313539363231	IN:GET_WEATHER	Temperatur dieses Wochenende in Paris in Celsius	weather	38
+3134313539343636	IN:GET_WEATHER	Temperatur dieses Wochenende New York in Fahrenheit	weather	38
+3133343635313933	IN:GET_RECIPES	Gib mir ein fleischloses Rezept für Burger	recipes	62
+3133343634323934	IN:GET_INFO_RECIPES	WIE VIELE KALORIEN SIND IN 4 UNZEN SCHWEINEBRATEN	recipes	28
+3133343139323439	IN:GET_INFO_RECIPES	Ist eine grüne Zwiebel und eine Schalotte dasselbe	recipes	28
+3133343139313933	IN:IS_TRUE_RECIPES	Sollte ich Salz auf den Fisch tun	recipes	66
+3133343138343837	IN:GET_INFO_RECIPES	Auf welcher Temperatur sollte Fisch gebacken werden	recipes	28
+3133343130313335	IN:GET_RECIPES	Optionen für vegane Desserts	recipes	62
+3133323737313837	IN:GET_INFO_RECIPES	Wie bereite ich einen ganzen Truthahn zu	recipes	28
+3132383135353136	IN:GET_WEATHER	Gibt es eine Windberatung	weather	38
+3132363133393231	IN:SKIP_TRACK_MUSIC	Überspringe das aktuelle Lied	music	8
+3132363036313230	IN:PLAY_MUSIC	Spiele einen Country-Sender	music	17
+3132363030323239	IN:PLAY_MUSIC	Spiele meine Pop-Playlist ab	music	17
+3132353934393633	IN:GET_WEATHER	Gib mir die Wettervorhersage für 7	weather	38
+3132353839363930	IN:CREATE_TIMER	Stelle meinen Timer auf 50 Minuten und dann auf 10 Minuten	timer	49
+3132353731393036	IN:GET_WEATHER	Könnte sich das Wetter auf meinen Flug morgen Früh auswirken	weather	38
+3132353731363536	IN:SKIP_TRACK_MUSIC	Wechsle den Künstler, bitte	music	8
+3132353730383234	IN:PLAY_MUSIC	Spiel 80er Rock	music	17
+3132353534393832	IN:GET_INFO_RECIPES	Wie lang kann man ein Marshmallow in die Mikrowelle tun	recipes	28
+3132353534343230	IN:IS_TRUE_RECIPES	Ist Kochen mit Salz wirklich schlecht für einen	recipes	66
+3132353534333635	IN:GET_INFO_RECIPES	Welche Methode zu kochen ist besser	recipes	28
+39353830343831	IN:PLAY_MUSIC	Spiele etwas Rock and Roll aus den 60ern	music	17
+39353830343632	IN:GET_WEATHER	Kann ich bei diesem Wetter spazieren gehen	weather	38
+39353733323332	IN:RESUME_TIMER	Lass den Timer in 2 Minuten weiterlaufen.	timer	16
+39353733313037	IN:GET_STORIES_NEWS	Irgednwelche wichtigen Nachrichten?	news	78
+39353639373735	IN:GET_STORIES_NEWS	Lokale Nachrichten Suffolk County, NY	news	78
+39353638363832	IN:GET_STORIES_NEWS	Lies mir die Details zur wichtigsten Nachricht des Tages vor	news	78
+39353636353539	IN:PLAY_MUSIC	Spiele etwas langsames	music	17
+39353635313330	IN:QUESTION_MUSIC	Wie lang ist der Song?	music	83
+39353633343730	IN:GET_WEATHER	Wie sind die Temperaturen momentan in NYC?	weather	38
+39353632373035	IN:GET_STORIES_NEWS	Ich möchte mehr Details über Hillary Clinton	news	78
+39353535313934	IN:PLAY_MUSIC	Ich möchte das neue Album von Lady Antebellum hören	music	17
+39353533383431	IN:CREATE_TIMER	Stelle den Timer auf 10:00 Uhr ein	timer	49
+39353531313433	IN:GET_WEATHER	Wie ist die Temperatur in Deutschland im Winter?	weather	38
+39353530383435	IN:GET_WEATHER	Wie ist das Wetter in Afrika	weather	38
+39353439333837	IN:GET_STORIES_NEWS	Gibt es irgendwelche wichtigen lokalen Nachrichten-Updates?	news	78
+39353437333434	IN:GET_WEATHER	Wie ist heute die Temperatur	weather	38
+39353435313139	IN:GET_WEATHER	Werden wir diese Woche warmes Wetter haben	weather	38
+39353337363139	IN:GET_STORIES_NEWS	Aktuelle Nachrichten aus Brighton, England.	news	78
+39353332363737	IN:GET_STORIES_NEWS	Nachrichten in Italien diesen Monat?	news	78
+39353238393638	IN:RESTART_TIMER	Starte den Timer von vorne	timer	91
+39353237333134	IN:GET_WEATHER	Wie ist das Wetter in Scottsdale	weather	38
+39353235333131	IN:GET_TIMER	Wie viele Minuten verbleiben, bis mein Timer stoppt?	timer	104
+39353234373138	IN:CREATE_ALARM	STELLE EINEN WECKER ALLE 5 MINUTEN.	alarm	87
+39353232323130	IN:GET_WEATHER	Ist heute ein guter Tag, um an den Strand zu gehen?	weather	38
+39353231383832	IN:CREATE_TIMER	Stelle den Timer auf 60 Min. ein	timer	49
+39353138393134	IN:PLAY_MUSIC	Kannst du bitte etwas Bob Marley spielen?	music	17
+39353138313938	IN:GET_WEATHER	Wie ist das Wetter gerade?	weather	38
+39353133313234	IN:GET_STORIES_NEWS	Was sind die Nachrichten für heute?	news	78
+39353039333933	IN:CREATE_ALARM	Stelle einen Wecker für Montag bis Freitag 6:00 Uhr.	alarm	87
+39353032393832	IN:PLAY_MUSIC	Spiel Country-Musik für mich	music	17
+39343937343432	IN:PLAY_MUSIC	Wechsle die Playlist	music	17
+39343936323032	IN:ADD_TIME_TIMER	Füge dem Timer 5 weitere Minuten hinzu.	timer	103
+39343936313436	IN:GET_WEATHER	Wird es in 2 Wochen regnen?	weather	38
+39343931353833	IN:GET_WEATHER	Wird es heute in Buffalo Schnee geben?	weather	38
+39343930373236	IN:REPLAY_MUSIC	Wiederhol diesen Song, wenn er zu Ende ist	music	40
+39343930353532	IN:GET_WEATHER	Werde ich nächsten Freitag einen Regenschirm brauchen?	weather	38
+39343837323638	IN:QUESTION_MUSIC	Wer singt Smells Like Teen Spirit?	music	83
+39343837303232	IN:CREATE_ALARM	Stelle einen Wecker auf fünf Uhr dreißig	alarm	87
+39343739343636	IN:GET_STORIES_NEWS	Wie lauten die Einzelheiten zur Gerichtsverhandlung von Taylor Swift?	news	78
+39343734323433	IN:CREATE_ALARM	Stelle einen Wecker auf 8:50 Uhr	alarm	87
+39343733363231	IN:PLAY_MUSIC	Spiel Titel 4	music	17
+39343732313434	IN:UPDATE_TIMER	Ändere den Timer auf 1 Stunde	timer	74
+39343730373839	IN:CREATE_ALARM	Stelle einen Wecker auf 5:00 Uhr diesen Montag	alarm	87
+39343637323339	IN:PLAY_MUSIC	SPIELE FLAWLESS VON MERCY ME	music	17
+39343635393634	IN:GET_STORIES_NEWS	Was sind heute Morgen die neuesten Nachrichten auf Fox?	news	78
+39343635393332	IN:GET_STORIES_NEWS	Gib mir die Schlagzeilen bezüglich Russland heute Morgen.	news	78
+39343632393032	IN:GET_INFO_RECIPES	Wie viele Kalorien haben zwei Stücke Pizza	recipes	28
+39343630353635	IN:GET_INFO_RECIPES	Wie viele Kalorien sind in einem Thunfischsandwich	recipes	28
+39343539373935	IN:GET_INFO_RECIPES	Auf welcher Temperatur backt man Hühnchen	recipes	28
+39343539323239	IN:GET_INFO_RECIPES	Was brauche ich, um eine Hühnernudelsuppe zu machen	recipes	28
+39343538353534	IN:GET_INFO_RECIPES	Welche Zutaten werden für frittierten Reis verwendet	recipes	28
+39343537383733	IN:GET_RECIPES	Finde mir bitte ein französisches Rezept	recipes	62
+39343537343032	IN:GET_INFO_RECIPES	Welche Temperatur ist medium rare	recipes	28
+39343534343331	IN:GET_INFO_RECIPES	Wie viel Protein ist in einem Glas Sojamilch	recipes	28
+39343533353339	IN:GET_INFO_RECIPES	Wie lange soll ich Truthahn garen	recipes	28
+39343533343037	IN:GET_INFO_RECIPES	Korrekte Garzeit für Rind	recipes	28
+39343532343234	IN:GET_INFO_RECIPES	Welche Zutaten brauche ich für gebratenen Reis mit Huhn heute Abend	recipes	28
+39343531393031	IN:GET_INFO_RECIPES	Welche Zutaten braucht man um einen Kuchen zu backen	recipes	28
+39343531383831	IN:GET_INFO_RECIPES	Welche Gewürze sollte ich für gebratenes Hähnchen verwenden	recipes	28
+3232353833323033	IN:SEND_MESSAGE	Bitte schicke diese Nachricht an den Code-Blue-Thread	messaging	112
+3232353833303436	IN:SEND_MESSAGE	Kannst du einen Text an die Gruppe California Moms schicken	messaging	112
+3232353832333235	IN:GET_MESSAGE	Hol mir eine Nachricht von Angela	messaging	34
+3232353734393635	IN:SEND_MESSAGE	Antworte mit der WhatsApp Nachricht	messaging	112
+3232353734383239	IN:SEND_MESSAGE	Antworte mit einem Text über WhatsApp	messaging	112
+3232353734373332	IN:SEND_MESSAGE	Schicke diese Nachricht auf Whatsapp	messaging	112
+3232353332343135	IN:CREATE_CALL	ruf Carole King an	calling	42
+3232353332303737	IN:CREATE_CALL	Rufe Celia an	calling	42
+3232353138353538	IN:CREATE_CALL	Würdest du für mich einen Videoanruf mit Roberto Delacruz und Nikolas Stone erstellen	calling	42
+3232353138353336	IN:CREATE_CALL	Ruf India Cortez und Vivian Hamilton an	calling	42
+3232353038313832	IN:CREATE_CALL	Starte einen Anruf mit Bob, Nathan, Nick und June über WeChat	calling	42
+3232343533353436	IN:SET_RSVP_NO	sage für Primate Discovery Day ab	event	45
+3232343533303134	IN:SET_RSVP_NO	Kennzeichne mich, dass ich nicht zu Awakening You gehe	event	45
+3232343333323632	IN:UPDATE_TIMER	kannst du den Timer um die Hälfte verkürzen	timer	74
+3232343330393435	IN:CREATE_TIMER	stelle einen Timer für 13 Minuten und einen für eineinhalb Stunden	timer	49
+3232343330363336	IN:CREATE_TIMER	Stelle einen Timer für vier Minuten und einen anderen für 10 Minuten	timer	49
+3232333730373331	IN:CREATE_CALL	Starte den Anruf mit Amys Onkel Aniyah Cook	calling	42
+3232333636343231	IN:CREATE_CALL	Rufe Oma über WhatsApp an	calling	42
+3232333635383732	IN:CREATE_CALL	Mache einen Videoanruf per Whatsapp an Camilla	calling	42
+3232333635363932	IN:CREATE_CALL	Rufe Alice Howe über Whatsapp an	calling	42
+3232333635323539	IN:CREATE_CALL	rufe Gavin über WhatsApp an	calling	42
+3232333239333236	IN:CREATE_CALL	Wir werden Deborah anrufen	calling	42
+3232323930333132	IN:UPDATE_TIMER	Ändere meinen Timer namens Truthahn auftauen	timer	74
+3232323831303032	IN:PLAY_MUSIC	Spiele ein bisschen Garth Brooks	music	17
+3232323731363234	IN:SET_DEFAULT_PROVIDER_MUSIC	Stelle Tidal ein, um Musik zu streamen	music	106
+3232323530313937	IN:CREATE_TIMER	Erstelle Haarkur-Timer	timer	49
+3232313933353332	IN:CREATE_CALL	Rufe Giovanni Heath über Messenger an	calling	42
+3232313536383333	IN:CREATE_CALL	Rede mit Trevor Peck über Hangouts	calling	42
+3232313536363636	IN:CREATE_CALL	Rufe Edward Ruiz über WhatsApp an	calling	42
+3232313432313739	IN:CREATE_TIMER	Stelle dafür einen Timer	timer	49
+3231393531343838	IN:UPDATE_TIMER	Bitte aktualisiere meinen Timer	timer	74
+3231393233313039	IN:CREATE_ALARM	Bitte lass den Wecker um 6:00 Uhr klingeln	alarm	87
+3231393232343837	IN:GET_CONTACT	Ich möchte bitte meinen Freund auf dem Display sehen	people	54
+3231373538333432	IN:CREATE_CALL	Rufe den vierten Jonathan an	calling	42
+3231373530383238	IN:GET_ATTENDEE_EVENT	Wer geht zu den Giants bei den Patriots?	event	27
+3231373530333737	IN:GET_LOCATION	Kannst du mir den Ort dieses Events sagen	event	44
+3231373439383439	IN:GET_CATEGORY_EVENT	Welche Art von Veranstaltung ist Pumpkin Run?	event	63
+3231373330393031	IN:CREATE_CALL	Eigentlich wollte ich Monica Kam anrufen	calling	42
+3231373236373631	IN:CREATE_CALL	Rufe Ben an	calling	42
+3231373233353831	IN:SEND_MESSAGE	Schicke ein Video an Pamela Bradley Ruiz	messaging	112
+3231373034333832	IN:GET_SUNRISE	Wann ist die Morgendämmerung	weather	76
+3231363736303133	IN:UPDATE_METHOD_CALL	Ändere das zu einem Videoanruf.	calling	51
+3231363735303332	IN:GET_CALL	Liste heutige Videoanrufe auf	calling	55
+3231363734343139	IN:CREATE_CALL	Kontaktiere bitte Jesse	calling	42
+3231363431393231	IN:PLAY_MUSIC	Spiele 10 Bands auf iHeartRadio	music	17
+3231363339323935	IN:GET_WEATHER	Ich würde gerne das Wetter für Queensland wissen	weather	38
+3231363338353030	IN:GET_WEATHER	Wie ist das Wetter in London, England	weather	38
+3231363334323735	IN:CREATE_ALARM	Stelle für Donnerstag jede Woche einen Wecker um 7:00 Uhr	alarm	87
+3231363037343235	IN:CREATE_CALL	Rufe Ellie N an	calling	42
+3231363032393435	IN:PLAY_MUSIC	Öffne Pandora und spiel Die Rolling Stones Singles Collection: The London Years (Remastered)	music	17
+3231363031393835	IN:CREATE_ALARM	Stelle meinen Wecker auf 6:00 Uhr	alarm	87
+3231363030393631	IN:CREATE_ALARM	Ich brauche einen Wecker, der donnerstags um 17:00 Uhr, für die nächsten 12 Wochen, klingelt	alarm	87
+3231363030313137	IN:CREATE_ALARM	Stelle einen zweiwöchigen Wecker für jeden Sonntag um 7 Uhr morgens	alarm	87
+3231353939343330	IN:UPDATE_ALARM	Ändere meinen Wecker auf 13:00 Uhr	alarm	39
+3231353936383932	IN:GET_WEATHER	Wird es morgen heißer als 25 Grad Celsius?	weather	38
+3231353539323635	IN:GET_WEATHER	Wie wird das Wetter morgen in Los Angeles?	weather	38
+3231353539313535	IN:GET_WEATHER	Lass mich die Vorhersage für Whitby, UK dieses Wochenende wissen	weather	38
+3231353539303736	IN:GET_WEATHER	Kannst du mir die Wettervorhersage für morgen sagen	weather	38
+3231353534343530	IN:CREATE_ALARM	Ich brauche für den 24. um 3 einen Wecker.	alarm	87
+3231353534303838	IN:SNOOZE_ALARM	Lasse diesen Wecker für 5 Minuten schlummern	alarm	13
+3231353437303434	IN:GET_CALL_TIME	War es gestern, als Tom versuchte mich anzurufen?	calling	73
+3231353436313638	IN:CREATE_CALL	Rufe Lance an	calling	42
+3231353436303030	IN:CREATE_CALL	Rufe Gary an.	calling	42
+3231353334333536	IN:PLAY_MUSIC	Spiele The Kooks auf iheartradio	music	17
+3231353232363437	IN:PLAY_MUSIC	Ich möchte Adele hören	music	17
+3231353036353630	IN:CREATE_CALL	Ruf Milas Mutter an	calling	42
+3231353036343739	IN:CREATE_CALL	Rufe Eleni Cushways Mama an	calling	42
+3231353035393931	IN:CREATE_CALL	Ruf Jades Onkel an	calling	42
+3231343937333130	IN:GET_EVENT	Volleyballspiele im Januar	event	35
+3231333637303835	IN:GET_MESSAGE	Kannst du mir meine neuen Nachrichten bitte vorlesen	messaging	34
+3231333632373538	IN:GET_MESSAGE	Gibt es irgendwelche Nachrichten?	messaging	34
+3231333534383735	IN:CREATE_CALL	starte Anruf an Holland	calling	42
+3231333533393436	IN:GET_AVAILABILITY	Ist jetzt jemand online?	calling	110
+3231333533343431	IN:GET_AVAILABILITY	Ich möchte eine Liste sehen, wer alles online ist	calling	110
+3231333533323531	IN:GET_AVAILABILITY	Ist mein Onkel online	calling	110
+3231333533303036	IN:GET_AVAILABILITY	Aktuell online	calling	110
+3231333530343035	IN:SET_AVAILABLE	Stelle mich auf verfügbar	calling	23
+3231333439323535	IN:SET_UNAVAILABLE	Ich bin am Morgen nicht verfügbar	calling	64
+3231333430393932	IN:UPDATE_CALL	kannst du Sue zu diesem Anruf hinzufügen?	calling	79
+3231333430343830	IN:CREATE_CALL	Wähle Mary	calling	42
+3231333131353734	IN:CREATE_CALL	Rufe meine Kinder an	calling	42
+3231333131333130	IN:END_CALL	Beende den Videoanruf mit Mutter	calling	21
+3231333130393337	IN:IGNORE_CALL	Ignoriere alle Anrufe von der Liste von Jasons Sohn	calling	75
+3231333130333034	IN:UPDATE_CALL	Füge Tanten zum aktuellen Anruf hinzu	calling	79
+3231333130323530	IN:CREATE_CALL	Rufe meinen Sohn zurück.	calling	42
+3231333039383632	IN:CREATE_CALL	Rufe meine Mutter Fallon an	calling	42
+3231323932393739	IN:SEND_MESSAGE	Schreibe Mikayla, dass die Winde an offenen Stellen der Autobahn rau sein werden	messaging	112
+3231323931323436	IN:SEND_MESSAGE	Schreibe Jon, um ihn wissen zu lassen, dass das Abendessen fertig ist und wir alle auf ihn warten, wir werden nicht länger als fünf weitere Minuten warten	messaging	112
+3231323835333334	IN:SEND_MESSAGE	"Schick Jane eine Nachricht und sag ihr, dass das Meeting für „John Carter for Senate"" im Banks Meetingraum stattfinden wird."	messaging	112
+3231323831323938	IN:SEND_MESSAGE	Benachrichtige meinen Mann, haben wir keine Milch mehr?	messaging	112
+3231323831323533	IN:SEND_MESSAGE	Schreibe Robert und sage ihm, dass ich den Film, den ich ihm geliehen habe, zurück möchte	messaging	112
+3231323830353331	IN:GET_MESSAGE	Lies die Nachrichten vor	messaging	34
+3231323738393239	IN:SEND_MESSAGE	Schicke eine Nachricht an Jack und Jill und sage ihnen, dass ich auf dem Weg bin	messaging	112
+3231323431383432	IN:CREATE_REMINDER	Erinnere mich in 15 Minuten, dass es Zeit loszugehen ist	reminder	11
+3231323430353238	IN:CREATE_REMINDER	Erinnere mich, dass morgen Mamas Geburtstag ist	reminder	11
+3231323336313830	IN:GET_REMINDER	Zeige Erinnerungen an Wochenendevents	reminder	93
+3231323336303731	IN:GET_REMINDER	Was sind meine Erinnerungen für diesen Morgen?	reminder	93
+3231323334333230	IN:DELETE_REMINDER	Suche die Erinnerung an die Bowlingspendenaktion und entferne sie	reminder	48
+3231323333303930	IN:CREATE_REMINDER	Erinnere mich Wasserflaschen zu holen	reminder	11
+3231323332373431	IN:CREATE_REMINDER	Ich möchte, dass du mich daran erinnerst, Tante Saroja anzurufen und ihr zu ihrem Hochzeitstag nächsten Dienstag zu gratulieren.	reminder	11
+3231323238393338	IN:GET_REMINDER	Zeig meine Erinnerungen für Freitag bis Samstag an.	reminder	93
+3231323237383137	IN:DELETE_REMINDER	Lösche die Erinnerungen Flyer, bezüglich der kommenden Herbst-Spendenaktion an der Schule, an die Eltern zu schicken.	reminder	48
+3231323237373635	IN:GET_REMINDER	Zeig mir alle meine Erinnerungen für unser Zusammenkommen.	reminder	93
+3231323237373034	IN:GET_REMINDER	Zeige mir die Erinnerung für das Frühstückstreffen morgen	reminder	93
+3231323236373733	IN:GET_REMINDER	Bitte zeige mir alle Erinnerungen über Geburtstage	reminder	93
+3231323236363134	IN:GET_REMINDER	Zeige alle Erinnerungen	reminder	93
+3231323235363037	IN:DELETE_REMINDER	Lösche die Erinnerungen die ich ab dem 31. August eingestellt habe	reminder	48
+3231323234343335	IN:GET_REMINDER	Zeige mir alle Erinnerungen für die Autozahlungen.	reminder	93
+3231323233333034	IN:CREATE_REMINDER	Kannst du mich erinnern das Geschirr zu am Samstag zu machen, damit sie für das Get-Together das wir veranstalten, sauber sind?	reminder	11
+3231323233323433	IN:DELETE_REMINDER	Entferne die Erinnerung für meinen Zahnarzttermin am 20.	reminder	48
+3231313437303835	IN:GET_REMINDER	Habe ich Montag irgendwelche Erinnerungen?	reminder	93
+3231313436383932	IN:CREATE_REMINDER	Erstelle eine Erinnerung, das Braten des Hühnchens im Ofen in 20 Minuten ab jetzt, zu überprüfen.	reminder	11
+3231313436323238	IN:CREATE_REMINDER	Erinnere mich 15 Minuten vor meinem Frisörtermin am Mittwoch.	reminder	11
+3231313434393331	IN:CREATE_REMINDER	Erinnere mich, das Lehrertreffen für 9:00 Uhr am Mittwoch zu erstellen	reminder	11
+3231313434393038	IN:CREATE_REMINDER	Stelle einen Wecker auf zwei Stunden vor Beginn des Tennisspiels mit Ellie.	reminder	11
+3231313434303133	IN:GET_REMINDER	Habe ich eine Erinnerung erstellt, dass Sams Schulanfang am 17. August ist?	reminder	93
+3231313433333634	IN:DELETE_REMINDER	Lösch das Meeting mit Brandon um 9:00 Uhr.	reminder	48
+3231313433303830	IN:UPDATE_REMINDER_DATE_TIME	Verschiebe alle Timer morgen um 1 Stunde.	reminder	22
+3231303231383733	IN:CREATE_CALL	Setze einen Gruppenanruf an mit Julie, Linda, Chloe und Judy.	calling	42
+3231303134363934	IN:UPDATE_CALL	June muss diesem Anruf hinzugefügt werden	calling	79
+3139393838373939	IN:GET_EVENT	Schmuckherstellungs-Workshops im März in Norman	event	35
+3139393838373034	IN:GET_EVENT	Musik Events in Austin am Freitag	event	35
+3139393837383830	IN:GET_EVENT	Lustige Dinge, die man in Orlando machen kann	event	35
+3139393837343339	IN:GET_EVENT	Was geht diesen Freitag in San Jose	event	35
+3139393837303336	IN:GET_EVENT	Irgendetwas das man morgen in Lexington machen kann	event	35
+3139393835343531	IN:GET_EVENT	Was passiert in Dallas	event	35
+3139393830323133	IN:GET_EVENT	Irgendetwas Spaßiges, das nächste Woche in Kentucky stattfindet	event	35
+3139393738393939	IN:GET_EVENT	Welche Veranstaltungen sind am Samstag in Phoenix	event	35
+3139303239313836	IN:GET_STORIES_NEWS	Welche Nachrichten gibt es diese Woche über Facebook?	news	78
+3138393934383335	IN:GET_INFO_CONTACT	Erzähle mir über Nina	people	58
+3138393934323433	IN:GET_INFO_CONTACT	Kenne ich diesen Dylan von irgendwoher	people	58
+3138393933313635	IN:GET_INFO_CONTACT	Wer ist Nadia?	people	58
+3138393932313933	IN:GET_EMPLOYMENT_TIME	Wann ist Alice gekommen, um hier zu arbeiten?	people	5
+3138393931313030	IN:GET_EMPLOYER	Arbeitet Ari momentan für jemanden?	people	92
+3138393839343730	IN:GET_EDUCATION_TIME	Wann wird Lily ihren Abschluss machen?	people	37
+3138393837333532	IN:GET_AGE	Wie alt wird Andro nächstes Jahr sein?	people	80
+3138393836313830	IN:GET_LOCATION	Was ist die Arbeitsadresse mit der Postleitzahl wo James arbeitet?	people	44
+3138393835343538	IN:GET_LOCATION	Wo lebt Joan?	people	44
+3138393834383433	IN:GET_LOCATION	Lebt Rachel in Avon?	people	44
+3138393834343333	IN:GET_CONTACT	Wer arbeitet für Raytheon	people	54
+3138393834313830	IN:GET_EMPLOYER	Arbeitet Ryan irgendwo?	people	92
+3138393833383836	IN:GET_CONTACT	Wer arbeitet im Rutledge RV Park?	people	54
+3138393832363534	IN:GET_CONTACT	Wer arbeitet bei Hyster Yale?	people	54
+3138393832323830	IN:GET_CONTACT	Wen kenne ich, der auf die Duke gegangen ist?	people	54
+3138393739303034	IN:GET_CONTACT	Mein Freund der in Pekanbaru lebt	people	54
+3138393738373732	IN:GET_CONTACT	Habe ich Freunde in Boston	people	54
+3138393734393533	IN:GET_CONTACT	Freunde von Vinnie	people	54
+3138383936353836	IN:GET_WEATHER	Bitte zeige mir die Vorhersage für diese Woche	weather	38
+3136363730363134	IN:GET_ALARM	Wie viel Zeit bleibt bis zu meinem Arbeitswecker	alarm	102
+3136343035353230	IN:CREATE_TIMER	Stelle Trockner-Timer für 20 Minuten	timer	49
+3136343035303632	IN:CREATE_TIMER	Stelle einen Timer auf jede Stunde für die nächsten 5 Stunden	timer	49
+3136343034393134	IN:CREATE_TIMER	Stelle meinen Timer alle fünf Minuten der nächsten Stunde loszugehen	timer	49
+3136333731353431	IN:GET_STORIES_NEWS	Was ist die neueste Information bezüglich Justin Biebers nächstem Konzert	news	78
+3136333337373732	IN:QUESTION_NEWS	Wie schnell ändert sich das Klima	news	98
+3136333337343837	IN:QUESTION_NEWS	Welche Haltestelle ist bei der Adresse des Präsidenten	news	98
+3136303030323937	IN:GET_STORIES_NEWS	Ich brauche ein Nachrichtenupdate nach dem langen Wochenende	news	78
+3135323933363831	IN:GET_STORIES_NEWS	Lese Schlagzeilen von The Boston Globe heute	news	78
+3135323835333437	IN:QUESTION_NEWS	Wie viele Kinder wurden verhaftet	news	98
+3133323738313337	IN:IS_TRUE_RECIPES	Kann ich es braten	recipes	66
+3133323738303639	IN:GET_INFO_RECIPES	wie viele Kalorien hat 1 Burger	recipes	28
+3133323737383837	IN:GET_INFO_RECIPES	Was sind die Zutaten um Spaghetti zu machen	recipes	28
+3133323737333338	IN:IS_TRUE_RECIPES	Ich brauche ein Rezept für Hundeeis	recipes	66
+3132363332353337	IN:GET_STORIES_NEWS	Wie lauten die Nachrichten zu Indo Pak Cricket Teams	news	78
+3132363238353235	IN:GET_INFO_RECIPES	Welches Essen passt gut zu Schweinefleisch?	recipes	28
+3132363236323533	IN:IS_TRUE_RECIPES	Wie kann ich meinen eigenen Sauerteig machen	recipes	66
+3132363230323236	IN:PLAY_MUSIC	Spiele meine Snowboard-Playlist	music	17
+3132363039353834	IN:PLAY_MUSIC	Spiel das letzte Album von Ozzie	music	17
+3132353934353734	IN:PLAY_MUSIC	Schalte bitte das Radio an	music	17
+3132353932353033	IN:GET_WEATHER	Wann soll es anfangen zu regnen	weather	38
+3132353836303334	IN:START_SHUFFLE_MUSIC	Durchmische all meine Musik	music	14
+39353831333837	IN:PLAY_MUSIC	Spiele bitte Lyle Lovett	music	17
+39353830343036	IN:GET_WEATHER	Was ist der UV-Index in Manhattan	weather	38
+39353734393537	IN:GET_STORIES_NEWS	Irgendwelche neuen Nachrichten über Promis?	news	78
+39353734333132	IN:GET_WEATHER	Wie viel wird es heute regnen?	weather	38
+39353733383039	IN:GET_WEATHER	Wann ist der beste Tag, um nächste Woche golfen zu gehen	weather	38
+39353733313338	IN:CREATE_TIMER	ich brauche einen weiteren Timer für 7 Minuten	timer	49
+39353732333132	IN:GET_WEATHER	Wie hoch ist die Temperatur in London?	weather	38
+39353730353031	IN:GET_WEATHER	Sollte ich am Dienstag einen Regenmantel tragen	weather	38
+39353730343439	IN:GET_TIMER	wie viel Zeit verbleibt auf meinem Timer	timer	104
+39353637313536	IN:GET_WEATHER	Wie wird die Temperatur heute in Orlando sein	weather	38
+39353637313037	IN:UPDATE_ALARM	Ändere meinen Wecker auf 10 Minuten	alarm	39
+39353636323232	IN:CREATE_TIMER	Kannst du einen Timer für zwei Minuten und zwanzig Sekunden erstellen	timer	49
+39353634393039	IN:REPLAY_MUSIC	Wiederhole I Believe	music	40
+39353633393337	IN:GET_WEATHER	Wie wird das Wetter heute sein?	weather	38
+39353630343931	IN:GET_STORIES_NEWS	Neueste Nachrichten über veröffentlichte PC-Spiele	news	78
+39353539343830	IN:GET_WEATHER	Welche Temperatur herrscht in Las Vegas?	weather	38
+39353533353436	IN:PLAY_MUSIC	Ich möchte R&B hören	music	17
+39353531383036	IN:GET_WEATHER	Wie ist das Wetter heute in New York?	weather	38
+39353530363635	IN:GET_WEATHER	Wird es diese Woche überhaupt regnen?	weather	38
+39353530343839	IN:PLAY_MUSIC	Leg das Album Acid Rap auf	music	17
+39353438323939	IN:GET_WEATHER	Wann soll es heute am wärmsten sein?	weather	38
+39353436343534	IN:QUESTION_MUSIC	Wer ist der Frontsänger von Rush?	music	83
+39353436323236	IN:CREATE_PLAYLIST_MUSIC	Mach mir eine John Mellencamp Playlist	music	67
+39353436313634	IN:GET_STORIES_NEWS	Was sind die wichtigsten Nachrichten heute	news	78
+39353435373533	IN:GET_STORIES_NEWS	Gibt es irgendwelche Nachrichten über die Sonnenfinsternis?	news	78
+39353435333932	IN:GET_STORIES_NEWS	Lies die Top fünf Schlagzeilen von heute vor	news	78
+39353435303939	IN:GET_STORIES_NEWS	Was sind die letzten Neuigkeiten der Nordkorea-Krise?	news	78
+39353434303035	IN:CREATE_TIMER	Erstelle einen neuen Timer	timer	49
+39353433343732	IN:GET_WEATHER	Soll I heute Abend Regenstiefel tragen	weather	38
+39353430333334	IN:PLAY_MUSIC	Spiele das neueste Album von Rihanna	music	17
+39353430333132	IN:PLAY_MUSIC	Suche mir das letzte Linkin Park Album	music	17
+39353336373938	IN:GET_WEATHER	Wie ist das aktuelle Wetter heute?	weather	38
+39353238383139	IN:PLAY_MUSIC	Spiele Beatles Soundtrack	music	17
+39353237343131	IN:GET_WEATHER	Ist es schwül?	weather	38
+39353237303735	IN:GET_STORIES_NEWS	Was ist die Top-Geschichte in den lokalen Nachrichten?	news	78
+39353235333731	IN:GET_WEATHER	Wie viele Zentimeter Schnee werden für heute vorhergesagt?	weather	38
+39353235313832	IN:GET_WEATHER	Wird es am Montag sonnig sein?	weather	38
+39353233363731	IN:PLAY_MUSIC	Kann ich die Filmmusik von Hamilton hören	music	17
+39353232323538	IN:GET_TRACK_INFO_MUSIC	Zu welchem Album gehärt dieses Lied?	music	10
+39353230393939	IN:GET_WEATHER	Sollte ich einen Regenschirm für das Wochenende mitnehmen?	weather	38
+39353138383637	IN:CREATE_TIMER	Stelle einen Timer auf 20 Minuten	timer	49
+39353137353431	IN:PREVIOUS_TRACK_MUSIC	Spiel das letzte Lied nochmal	music	81
+39353134373433	IN:GET_STORIES_NEWS	Nachrichten für Südkorea	news	78
+39353134313739	IN:GET_WEATHER	Wird die Sonne heute später rauskommen	weather	38
+39353132373136	IN:GET_STORIES_NEWS	Irgendwelche Nachrichten-Updates?	news	78
+39353132353232	IN:CREATE_ALARM	Stelle einen Wecker für eine Stunde	alarm	87
+39353130303938	IN:GET_ALARM	Wie viel Zeit bis zu meinem nächsten Wecker	alarm	102
+39353038373037	IN:PLAY_MUSIC	Spiele das letzte Lied	music	17
+39353037343433	IN:DELETE_TIMER	Entferne den Timer für das Fitnessstudio	timer	59
+39353036363431	IN:CREATE_ALARM	Stelle einen Wecker auf 10:00 Uhr für jeden Tag	alarm	87
+39353032313532	IN:GET_STORIES_NEWS	Kann ich die Updates der heutigen Nachrichten haben?	news	78
+39353030333032	IN:REPLAY_MUSIC	Können wir dieses Lied nochmal hören?	music	40
+39343938343332	IN:CREATE_TIMER	Starte in einer Minute einen weiteren Timer für 5 Minuten	timer	49
+39343937343738	IN:GET_TIMER	Auf welche Zeit ist mein Timer eingestellt?	timer	104
+39343937343134	IN:GET_WEATHER	Wird Daytona Beach am Samstag um 13:00 Uhr keinen Regen haben?	weather	38
+39343933383032	IN:GET_STORIES_NEWS	Welche Nachrichten-Trends gibt es auf Facebook?	news	78
+39343931363132	IN:GET_WEATHER	gib mir die Vorhersage für heute	weather	38
+39343839363131	IN:PLAY_MUSIC	Ich möchte Will Smith hören	music	17
+39343836383939	IN:GET_STORIES_NEWS	Was ist heute die größte Schlagzeile?	news	78
+39343836303937	IN:CREATE_TIMER	KANN ICH EINEN TIMER AUF 13 MINUTEN GESTELLT HABEN?	timer	49
+39343833383435	IN:GET_WEATHER	Ist der Regen stark?	weather	38
+39343831313937	IN:GET_WEATHER	Was ist die lokale Vorhersage für diese Woche?	weather	38
+39343739393837	IN:GET_STORIES_NEWS	Bitte gib mir ein Schlagzeilen-Update.	news	78
+39343738333632	IN:DELETE_ALARM	LÖSCH DEN WECKER, BITTE.	alarm	31
+39343737353732	IN:GET_STORIES_NEWS	Was sind die Nachrichten aus Kanada	news	78
+39343736343639	IN:CREATE_TIMER	Starte den Timer um 8:30 Uhr	timer	49
+39343733363931	IN:GET_STORIES_NEWS	Welcher Sportler ist momentan in den Schlagzeilen	news	78
+39343733313730	IN:PLAY_MUSIC	Durchsuche Sender	music	17
+39343731353332	IN:PAUSE_TIMER	Beende den Timer	timer	99
+39343639363036	IN:GET_STORIES_NEWS	Gib mir eine Zusammenfassung der Nachrichten der Woche.	news	78
+39343638323530	IN:GET_STORIES_NEWS	Was sind die Nachrichten auf der Titelseite der NY Times?	news	78
+39343635353439	IN:CREATE_ALARM	Stelle meinen Wecker auf 20:00 Uhr, um nach Hause zu gehen	alarm	87
+39343632353739	IN:GET_INFO_RECIPES	Was sind die Zutaten in einem Cobb Salad	recipes	28
+39343539373534	IN:GET_RECIPES	Einfache Salat-Rezepte	recipes	62
+39343539353633	IN:IS_TRUE_RECIPES	Ist Mehl vegan	recipes	66
+39343537393633	IN:GET_RECIPES	Suche mir ein Rezept für Curry-Hühnchen	recipes	62
+39343535383233	IN:GET_RECIPES	Wie bereite ich Spaghetti zu	recipes	62
+39343535343135	IN:GET_INFO_RECIPES	Bei welcher Temperatur sollte Öl sein, um Hühnchen zu braten	recipes	28
+39343532313936	IN:GET_INFO_RECIPES	Wie ist die Temperatur von gekochtem Hühnchen	recipes	28
+39343531343438	IN:GET_INFO_RECIPES	Bei welcher Temperatur koche ich Schinken	recipes	28
+39343531343231	IN:GET_INFO_RECIPES	Auf welcher Temperatur sollte das Fleisch zubereitet werden	recipes	28
+39343531303138	IN:GET_INFO_RECIPES	Bei welcher Temperatur ist ein Steak medium rare	recipes	28
+39343530383730	IN:GET_RECIPES	Suche mir ein paar chinesische Rezepte	recipes	62
+3232353834303236	IN:SEND_MESSAGE	"schicke eine Nachricht an den Mädels-Thread mit dem Inhalt „ich melde mich später bei euch"""	messaging	112
+3232353833373235	IN:GET_MESSAGE	Haben mir Janie und Kyle Coleman heute Nachrichten geschickt?	messaging	34
+3232353832313433	IN:GET_MESSAGE	Ich möchte Nachrichten von meinem Ehepartner sehen	messaging	34
+3232353735313136	IN:GET_MESSAGE	Hat Betty mir irgendwas via Messenger geschickt?	messaging	34
+3232353735303634	IN:GET_MESSAGE	Hat Judith mir etwas über Messenger geschickt?	messaging	34
+3232353734383030	IN:GET_MESSAGE	Rufe meine WhatsApp-Nachrichten ab	messaging	34
+3232353332313135	IN:CREATE_CALL	Ruf Carole an	calling	42
+3232353331343034	IN:CREATE_CALL	ich möchte 486-555-4358 mit meinem Handy anrufen	calling	42
+3232353331323931	IN:CREATE_CALL	Ich möchte 5558255 mit dem iPhone anrufen	calling	42
+3232353138363234	IN:CREATE_CALL	Starte den Anruf mit Desiree und Carson Jordan über Whatsapp	calling	42
+3232353138303738	IN:CREATE_CALL	Anruf mit Leuten aus meinem Grundstudium	calling	42
+3232353038313132	IN:CREATE_CALL	Video-Chat Ryan und Charles	calling	42
+3232333730353836	IN:CREATE_CALL	Ruf die Schwester von Remi Vega an	calling	42
+3232333636343939	IN:CREATE_TIMER	Erstelle einen Timer auf eine Stunde und einen Timer auf 10 Minuten	timer	49
+3232333537373137	IN:CREATE_TIMER	Stelle einen Timer mit dem Namen Wäsche	timer	49
+3232333537373136	IN:CREATE_TIMER	Schalte eine Kaffee-Stoppuhr ein	timer	49
+3232323930333832	IN:UPDATE_TIMER	Ändere meinen Spaghetti-Timer	timer	74
+3232323739323930	IN:PLAY_MUSIC	Spiele Marshmello	music	17
+3232323731343933	IN:SET_DEFAULT_PROVIDER_MUSIC	Vor allem Google Play verwenden	music	106
+3232323232333534	IN:GET_EVENT	Zeige mir bitte mehr Veranstaltungen	event	35
+3232313136333831	IN:PAUSE_TIMER	halte den laufenden Timer an	timer	99
+3231393233313132	IN:CREATE_ALARM	Lass den Wecker für mich klingeln	alarm	87
+3231373538303035	IN:CREATE_CALL	Ruf Brandon Nummer zwei an	calling	42
+3231373534343638	IN:GET_STORIES_NEWS	abc Live-Wiedergabe starten	news	78
+3231373131343738	IN:CREATE_CALL	Ruf Matthew Marshall Mckee an	calling	42
+3231373131333339	IN:CREATE_CALL	Kannst du Brenda Shepard Cisneros anrufen	calling	42
+3231363735383739	IN:UPDATE_CALL	Lade Mama zum Anruf ein	calling	79
+3231363735323638	IN:GET_CALL_TIME	Wann hat meine Mama meinen Anruf verpasst?	calling	73
+3231363734353238	IN:CREATE_CALL	Starte den Videochat mit Eric	calling	42
+3231363734303434	IN:END_CALL	Beende diesen Anruf sofort	calling	21
+3231363734303135	IN:IGNORE_CALL	Kann diesen Anruf jetzt nicht entgegennehmen	calling	75
+3231363430383838	IN:GET_WEATHER	Wie sieht das Wetter für nächsten Dienstag aus?	weather	38
+3231363430343230	IN:GET_WEATHER	Gib mir bitte den Wetterbericht.	weather	38
+3231363430323935	IN:GET_WEATHER	Was macht das Wetter	weather	38
+3231363339353230	IN:GET_WEATHER	Wie sieht die Wettervorhersage für Canberra an diesem Wochenende aus?	weather	38
+3231363339343436	IN:GET_WEATHER	Gib mir Details zum Wetter in Adelaide morgen!	weather	38
+3231363338383939	IN:GET_WEATHER	Wie kalt wird es am Superbowl-Sonntag?	weather	38
+3231363337313135	IN:CREATE_ALARM	Stelle einen Alarm für heute Abend.	alarm	87
+3231363336363637	IN:SILENCE_ALARM	Schalte meinen Wecker ab	alarm	85
+3231363038373832	IN:CREATE_ALARM	Läute den Wecker um 21:00 Uhr	alarm	87
+3231363037363132	IN:GET_CALL	Kann ich die erfolgreichen Anrufe sehen, die ich getätigt habe	calling	55
+3231363037343233	IN:CREATE_CALL	Ruf Avery M. an.	calling	42
+3231363037333439	IN:CREATE_CALL	Ruf Carol Q an	calling	42
+3231363037333136	IN:CREATE_CALL	Rufe meinen Ehemann Tyler an	calling	42
+3231363032323232	IN:DELETE_ALARM	Brich den Weckruf jetzt ab	alarm	31
+3231363031373630	IN:CREATE_ALARM	Stelle den Wecker für 7:00 Uhr	alarm	87
+3231363031323435	IN:CREATE_ALARM	10. Mai Wecker auf 5:00 Uhr	alarm	87
+3231363030393237	IN:CREATE_ALARM	Richte eine wöchentliche Erinnerung für jeden Sonntag um 15:00 Uhr ein.	alarm	87
+3231353938363430	IN:DELETE_ALARM	Lösche meine Wecker für diese Woche	alarm	31
+3231353937303534	IN:GET_WEATHER	Wie ist das Wetter am 19. Mai in Boston?	weather	38
+3231353836303531	IN:PLAY_MUSIC	Gehe zu iheartradio und spiele KOST	music	17
+3231353536333733	IN:GET_WEATHER	Gib mir die Vorhersage für Paris; Frankreich.	weather	38
+3231353536333437	IN:GET_WEATHER	Halte mich über das Wetter in Norwich auf dem Laufenden.	weather	38
+3231353535323832	IN:CREATE_ALARM	Wecker heute Nachmittag um 4:00 Uhr	alarm	87
+3231353530313239	IN:GET_ALARM	Welche Alarme habe ich eingestellt?	alarm	102
+3231353437323030	IN:GET_CALL_TIME	Wann habe ich Tom angerufen?	calling	73
+3231353436343734	IN:END_CALL	Beende diesen Anruf	calling	21
+3231353436333935	IN:CREATE_CALL	Ich möchte Mama anrufen	calling	42
+3231353436313231	IN:CREATE_CALL	Amy anrufen.	calling	42
+3231353436303138	IN:CREATE_CALL	Mach bitte einen Videoanruf an meine Mama	calling	42
+3231353335303032	IN:PLAY_MUSIC	Spiele das Album Culture auf iheartradio	music	17
+3231353233353831	IN:PLAY_MUSIC	Spiele No Tears Left to Cry von Bryson Tiller	music	17
+3231353232363530	IN:PLAY_MUSIC	Kann ich bitte Never Recover von Panic! At The Disco auf Spotify hören?	music	17
+3231353232323839	IN:PLAY_MUSIC	spiel das Album My Dear Melancholy,	music	17
+3231353232313631	IN:CREATE_PLAYLIST_MUSIC	Erstelle eine Playlist: Brain Food	music	67
+3231353232313037	IN:CREATE_PLAYLIST_MUSIC	Erstelle eine Playlist mit dem Namen #ThrowbackThursday	music	67
+3231353232303237	IN:GET_EVENT	Irgendwelche Veranstaltungen dieses Wochenende	event	35
+3231353036353336	IN:CREATE_CALL	rufe den Cousin von Rima Markette an	calling	42
+3231353036333735	IN:CREATE_CALL	Ruf Nadias Sohn an	calling	42
+3231353036333331	IN:CREATE_CALL	Rufe Elisas Schwester an	calling	42
+3231353035383938	IN:CREATE_CALL	Ruf Mazie Echters Frau an	calling	42
+3231343937343039	IN:GET_EVENT	Baseballspiele am Dienstag in Houston	event	35
+3231343631343135	IN:GET_CONTACT	Zeige mir die Geburtstage von Jeanmarie Gearlds Chefs an	people	54
+3231343630393135	IN:GET_CONTACT	Welche der Vorgesetzten von Terence wurden am 13. geboren?	people	54
+3231343630383832	IN:GET_CONTACT	Wen kennt Araceli Hickory, der am 29. Dezember geboren wurde?	people	54
+3231333936303339	IN:SEND_MESSAGE	Frag Ronnie ob sie sich verspäten wird	messaging	112
+3231333637353530	IN:GET_MESSAGE	Zeige neue Nachrichten.	messaging	34
+3231333535303231	IN:END_CALL	hör auf, Kerry Brandon anzurufen	calling	21
+3231333534393431	IN:CREATE_CALL	Schicke Jackson Miranda ein paar Zeilen	calling	42
+3231333534353031	IN:ANSWER_CALL	Bitte antworte Nancy.	calling	77
+3231333533393330	IN:GET_AVAILABILITY	Wer ist online, den ich kenne?	calling	110
+3231333533303231	IN:GET_AVAILABILITY	Welche meiner Freunde sind online?	calling	110
+3231333532313332	IN:END_CALL	Beende die Verbindung	calling	21
+3231333531383635	IN:GET_AVAILABILITY	sag mir, wer alles verfügbar ist	calling	110
+3231333531343037	IN:CREATE_CALL	Ruf die Gruppe namens Familie an	calling	42
+3231333439313233	IN:END_CALL	beende diesen Anruf jetzt sofort	calling	21
+3231333433373830	IN:GET_AVAILABILITY	Sag mir, wer verfügbar ist	calling	110
+3231333431313737	IN:CREATE_CALL	Starte einen Anruf mit Michelle	calling	42
+3231333430373237	IN:CREATE_CALL	Wähle bitte John an	calling	42
+3231333430303534	IN:CREATE_CALL	Starte Anruf mit Gruppe Familie	calling	42
+3231333132383735	IN:UPDATE_CALL	Lade Stiefvater zum Gespräch ein	calling	79
+3231333131373339	IN:CREATE_CALL	Ruf die Schwiegermutter meines Freundes an.	calling	42
+3231333131303237	IN:CREATE_CALL	Videoanruf mit meinen Tanten starten.	calling	42
+3231333130363333	IN:CREATE_CALL	Papa jetzt anrufen	calling	42
+3231333130333439	IN:CREATE_CALL	Beginne Anruf mit Schwägerin	calling	42
+3231333039333538	IN:CREATE_CALL	Beginne einen Videoanruf mit Enkelin und Onkeln	calling	42
+3231323835353231	IN:SEND_MESSAGE	Frag Mary, um wie viel Uhr das Fußballspiel am Sonntag anfängt.	messaging	112
+3231323736303634	IN:SEND_MESSAGE	Schick Holly eine Nachricht und sag ihr, dass sie mich in zwei Stunden am örtlichen Supermarkt an der Central Avenue treffen soll.	messaging	112
+3231323432343030	IN:UPDATE_REMINDER_DATE_TIME	Verschiebe die Erinnerungen von morgen auf heute.	reminder	22
+3231323430353931	IN:DELETE_REMINDER	Lösche meine Erinnerung für die Autoschau	reminder	48
+3231323339343239	IN:DELETE_REMINDER	Lösche alle Erinnerungen für heute	reminder	48
+3231323337393536	IN:GET_REMINDER	Was ist die nächste Erinnerung, die ich eingestellt habe?	reminder	93
+3231323337393433	IN:DELETE_REMINDER	Bitte lösch meine Erinnerung an das Konzert.	reminder	48
+3231323337373732	IN:DELETE_REMINDER	Lösche alle Erinnerungen an mein Abendessen mit Amy	reminder	48
+3231323337373336	IN:DELETE_REMINDER	Ich will eine Erinnerung löschen	reminder	48
+3231323335303038	IN:GET_REMINDER	Kann ich die Erinnerung an Haleys Geburtstagsfeier nochmal sehen?	reminder	93
+3231323334383036	IN:GET_REMINDER_AMOUNT	Wie viele Erinnerungen haben meine Frau und ich diese Woche gemeinsam?	reminder	2
+3231323330343034	IN:CREATE_REMINDER	Stelle eine Erinnerung für morgen 17:00 Uhr ein	reminder	11
+3231323330333631	IN:CREATE_REMINDER	Erinnere mich daran, eine Kamera für die Party mitzubringen	reminder	11
+3231323239353239	IN:GET_REMINDER	Gibt es irgendwelche Erinnerungen an Arbeitstreffen diese Woche?	reminder	93
+3231323239313237	IN:GET_REMINDER	Wie lautet meine erste Erinnerung für heute?	reminder	93
+3231323238323231	IN:CREATE_REMINDER	Erinnere mich daran, nach einer Erstattung zu fragen	reminder	11
+3231323237383730	IN:GET_REMINDER	Wie viele Erinnerungen an Arzttermine habe ich?	reminder	93
+3231323236363936	IN:CREATE_REMINDER	Erstelle eine Erinnerung für den Rückgabetermin vom Büchereibuch	reminder	11
+3231323236303436	IN:GET_REMINDER	Zeig mir Erinnerungen für die Familie von letzter Woche.	reminder	93
+3231323235383331	IN:GET_REMINDER_DATE_TIME	Für welchen Tag ist die Erinnerung an meinen Therapeuten eingestellt und auf welche Uhrzeit ist die Terminerinnerung eingestellt?	reminder	4
+3231323234393434	IN:GET_REMINDER	Nenn mir die Erinnerungen, die Mama und Papa betreffen.	reminder	93
+3231323234383437	IN:DELETE_REMINDER	Ich muss die Erinnerung löschen, die ich für Montag erstellt habe.	reminder	48
+3231323234373635	IN:UPDATE_REMINDER_TODO	Füge Geschirr abwaschen zu meiner Erinnerung für Hausarbeiten hinzu.	reminder	101
+3231323233383637	IN:GET_REMINDER	Erinnerungen für Geburtstage.	reminder	93
+3231323231373333	IN:UPDATE_REMINDER_DATE_TIME	Schiebe die Erinnerung von morgen um eine Stunde nach hinten.	reminder	22
+3231313734323035	IN:GET_CONTACT	Zeig mir alle Personen mit Geburtstagen im Juli	people	54
+3231313536303031	IN:CREATE_REMINDER	Richte eine Erinnerung für Freitag ein, Pferdefutter zu bestellen	reminder	11
+3231313535323632	IN:CREATE_REMINDER	Ich habe ein Softball-Spiel am Freitagabend um 19:30 Uhr. Erinnere mich 2 Stunden vorher daran.	reminder	11
+3231313534333131	IN:GET_REMINDER	Was sind meine Erinnerungen für nächste Woche Mittwoch	reminder	93
+3231313531373638	IN:CREATE_REMINDER	Erinnere mich daran, dass heute um 17:00 Uhr mein Termin für das Personal Training ist.	reminder	11
+3231313530363239	IN:CREATE_REMINDER	Erinner mich daran, am Samstag Nancy eine Geburtstagskarte zu kaufen.	reminder	11
+3231313439383639	IN:CREATE_REMINDER	Bitte erinnere mich, den Abschlussbericht um 17:00 Uhr am Donnerstag abzugeben.	reminder	11
+3231313439373432	IN:CREATE_REMINDER	Erinner mich daran, Frank zu sagen, wann wir nächsten Samstag losfahren.	reminder	11
+3231313438363936	IN:CREATE_REMINDER	Erinnere die Bunco-Gruppe, dass ich an diesem Dienstag als Gastgeber dran bin	reminder	11
+3231313436383732	IN:DELETE_REMINDER	Lösche bitte meine aktuelle Erinnerung an die Teambesprechung diesen Freitag	reminder	48
+3231313436353936	IN:DELETE_REMINDER	Lösche die Erinnerung an die Party bei Tracy morgen.	reminder	48
+3231313435373633	IN:CREATE_REMINDER	Erinnere mich, morgen früh eine Geburtstagskarte für Marianne zu kaufen.	reminder	11
+3231313432313033	IN:GET_REMINDER	Erinnere mich daran, wann mein Abendessen mit Jeff diese Woche ist	reminder	93
+3231313432303232	IN:GET_REMINDER	Welche Erinnerungen habe ich heute nach 17:00 Uhr?	reminder	93
+3231313431393533	IN:CREATE_REMINDER	Erinnere Emily daran, Audrey diesen Freitag von der Schule abzuholen	reminder	11
+3231303232333434	IN:CREATE_CALL	Ruf Krista über Video an	calling	42
+3231303231323335	IN:GET_CALL_CONTACT	Wer ruft mich an?	calling	90
+3231303230343536	IN:CREATE_CALL	Ruf Patricia an	calling	42
+3231303135373539	IN:GET_CALL_CONTACT	Wer ruft mich an?	calling	90
+3139393930323232	IN:GET_EVENT	Konzerte, die heute in Detroit stattfinden	event	35
+3139393839323230	IN:GET_EVENT	Gibt es was zu tun in Baltimore	event	35
+3139393837323835	IN:GET_EVENT	Ereignisse heute Abend	event	35
+3139393836343935	IN:GET_EVENT	unterhaltsame Veranstaltungen in Seattle im Juni	event	35
+3139393834333336	IN:GET_EVENT	Dinge, die man an diesem Wochenende in Branson machen kann	event	35
+3139393830323230	IN:GET_EVENT	Veranstaltungen in Charleston nächstes Wochenende	event	35
+3139393739333636	IN:GET_EVENT	Was ist heute Abend los?	event	35
+3139393738333636	IN:GET_EVENT	Was kann man heute Abend in Seattle machen?	event	35
+3139393738313839	IN:GET_LOCATION	Wo ist die Veranstaltung	event	44
+3139343333393530	IN:GET_AGE	Wie alt ist Robert De Niro?	people	80
+3139343333313935	IN:GET_CONTACT	Wie heißt der Sohn von Will Smith	people	54
+3139343332383030	IN:GET_UNDERGRAD	Wo hat Barack Obama studiert?	people	70
+3138393932393438	IN:GET_EMPLOYMENT_TIME	Wann hat Lisa aufgehört, bei Publix zu arbeiten?	people	5
+3138393932343334	IN:GET_EMPLOYER	hat Patty je für das Licking-Memorial-Krankenhaus gearbeitet?	people	92
+3138393932323930	IN:GET_EMPLOYER	Ist David noch bei IBM beschäftigt?	people	92
+3138393931383339	IN:GET_EMPLOYMENT_TIME	wann hat Robert zu Apple gewechselt ?	people	5
+3138393931363034	IN:GET_EDUCATION_TIME	In welchem Jahr hat Mark die Uni abgeschlossen?	people	37
+3138393930393136	IN:GET_CONTACT	Wer von meinen Freunden war auf der Sac State?	people	54
+3138393839323632	IN:GET_EDUCATION_TIME	Wann macht Jill ihren Abschluss in Medizin an der UCF?	people	37
+3138393836343732	IN:GET_LOCATION	Wo wohnt Nyoman?	people	44
+3138393836333538	IN:GET_LOCATION	Gib mir Paulas Adresse	people	44
+3138393834363033	IN:GET_CONTACT	Kenne ich jemanden, der für Caesar Palace arbeitet?	people	54
+3138393834343135	IN:GET_CONTACT	Zeig mir Leute, die im Apple Store in Lancaster arbeiten	people	54
+3138393832333033	IN:GET_CONTACT	Wer aus meiner Kontaktliste hat mit einem Master abgeschlossen.	people	54
+3138393832303439	IN:GET_CONTACT	meine Freunde, die an der UW Madison waren	people	54
+3138393831383636	IN:GET_CONTACT	gibt es jemanden, den ich kenne und der an der UCLA einen Abschluss gemacht hat?	people	54
+3138393831313733	IN:GET_CONTACT	Habe ich Freunde in Stanford	people	54
+3138393830353038	IN:GET_CONTACT	Leben enge Freunde von mir in Alaska?	people	54
+3138393739383833	IN:GET_CONTACT	Wie viele Leute aus Las Vegas kenne ich	people	54
+3138393739373532	IN:GET_CONTACT	Kenne ich jemanden, der in Montana lebt?	people	54
+3138393739353535	IN:GET_CONTACT	Finde Leute, die in Portland wohnen.	people	54
+3138393738363337	IN:GET_CONTACT	Wen kenne ich, der in New Orleans lebt?	people	54
+3138393735393639	IN:GET_MUTUAL_FRIENDS	Liste alle Freunde von Mark und Mia auf.	people	107
+3138383936373034	IN:GET_INFO_RECIPES	Bei welcher Temperatur sollte ich Karamell kochen?	recipes	28
+3138383935303537	IN:GET_INFO_RECIPES	Wie viele Kalorien hat eine Hühnerbrust?	recipes	28
+3138383934383238	IN:GET_RECIPES	Wie kocht man Kartoffeln?	recipes	62
+3138383932343136	IN:GET_INFO_RECIPES	Welche Zutaten sind in einem Hackbällchen?	recipes	28
+3138383931353631	IN:GET_RECIPES	Wie mache ich Fish and Chips?	recipes	62
+3138383931353330	IN:IS_TRUE_RECIPES	kann man Fisch in Rapsöl frittieren	recipes	66
+3138383931323439	IN:GET_INFO_RECIPES	Was ist in einem Shepherds Pie?	recipes	28
+3137353031313636	IN:GET_INFO_RECIPES	Kalorien einer Banane	recipes	28
+3136353036333835	IN:GET_ALARM	Wie viele Alarme habe ich eingestellt	alarm	102
+3136343732383531	IN:PAUSE_TIMER	Pausiere den letzten Timer	timer	99
+3136343732333533	IN:SNOOZE_ALARM	pausiere den Wecker jetzt	alarm	13
+3136343035313237	IN:ADD_TIME_TIMER	Verlängere den Timer.	timer	103
+3136343034373831	IN:QUESTION_NEWS	Was ist die Zahl der örtlichen Verkehrstoten?	news	98
+3136333338343737	IN:GET_STORIES_NEWS	Teile alle Neuigkeiten über Lamar Odom mit	news	78
+3135333031303832	IN:CREATE_ALARM	richte einen Weckruf 15 Minuten vor meinem Treffen um 14:00 Uhr ein	alarm	87
+3135323936343339	IN:GET_STORIES_NEWS	Gibt es heute irgendwelche Nachrichten zu Neil Diamond	news	78
+3135323934363737	IN:QUESTION_NEWS	Wer führt bei der Bürgermeisterwahl in Cleveland	news	98
+3135323933313633	IN:CREATE_ALARM	stelle den Wecker für diesen Samstag auf 7:00 Uhr	alarm	87
+3135323933303234	IN:GET_STORIES_NEWS	Was ist die neueste Meldung in Seattle	news	78
+3135323932373236	IN:GET_STORIES_NEWS	Bitte zeige mir regelmäßig Nachrichten aus meiner Heimatstadt Marshalltown in Iowa	news	78
+3135323930333436	IN:CREATE_TIMER	Stelle meinen Wecker auf 20 Minuten ab jetzt	timer	49
+3135323930303931	IN:GET_STORIES_NEWS	Teile mir die heutigen Nachrichten für London mit, bitte	news	78
+3135323930303635	IN:GET_STORIES_NEWS	Gib mir die Meldungen über die örtlichen Straßenarbeiten	news	78
+3135323839373036	IN:ADD_TIME_TIMER	FÜGE DEM TIMER 5 MINUTEN HINZU	timer	103
+3134313630313231	IN:GET_WEATHER	Temperatur Peking Fahrenheit	weather	38
+3134313539393232	IN:GET_WEATHER	wird es hier mehr als 98 Grad Celsius heiß	weather	38
+3134313539373937	IN:GET_WEATHER	Temperatur dieses Wochenende in New York City	weather	38
+3134313539363233	IN:GET_WEATHER	Wird es morgen früh in Mumbai über 39 Grad Fahrenheit?	weather	38
+3133343635303538	IN:GET_RECIPES	Wie macht man überbackene Makkaroni mit Käse?	recipes	62
+3133343635303338	IN:GET_INFO_RECIPES	wie lange brät man Steak	recipes	28
+3133343635303334	IN:GET_INFO_RECIPES	Wie viel Zucker brauche ich für mein Keks-Rezept	recipes	28
+3133343634353935	IN:GET_RECIPES	wie macht man einen Veggie-Burger	recipes	62
+3133323738353137	IN:GET_INFO_RECIPES	Welche Temperatur sollte ein geräuchertes Bruststück haben?	recipes	28
+3133323738333531	IN:GET_INFO_RECIPES	Was ist die Garzeit von Schmorbraten	recipes	28
+3133323738323434	IN:IS_TRUE_RECIPES	Kann ich Brot machen, wenn ich kein Salz habe	recipes	66
+3133323735363233	IN:GET_RECIPES	Finde ein Cajun-Rezept	recipes	62
+3132363338363230	IN:GET_WEATHER	Welche Temperatur haben wir?	weather	38
+3132363230393230	IN:GET_WEATHER	Wie war das Wetter letztes Jahr an diesem Tag?	weather	38
+3132363230303736	IN:PLAY_MUSIC	empfohlene Musik für Urlaubsdinner	music	17
+3132363136343431	IN:PLAY_MUSIC	Schalte den Kanal um!	music	17
+3132363033313036	IN:GET_WEATHER	Wie sieht die Wettervorhersage für den Rest des Juli aus	weather	38
+3132353838363234	IN:SKIP_TRACK_MUSIC	Nächstes Lied bitte	music	8
+3132353835313839	IN:PLAY_MUSIC	"Ich möchte ""Red"" von Taylor Swift hören"	music	17
+3132353534343438	IN:GET_INFO_RECIPES	Welche Arten von Fleisch eignen sich zum Grillen?	recipes	28
+39353832313933	IN:GET_STORIES_NEWS	Gibt es neue CNN-Eilnachrichten?	news	78
+39353831353132	IN:CREATE_TIMER	richte einen Timer für das Stretching ein	timer	49
+39353831343032	IN:GET_WEATHER	Was ist die Wettervorhersage für Sonntag?	weather	38
+39353739333030	IN:GET_WEATHER	Soll ich eine Jacke für meinen Ausflug nach New York nächste Woche mitnehmen?	weather	38
+39353734303130	IN:GET_STORIES_NEWS	Schlagzeilen in Irland	news	78
+39353732393431	IN:GET_STORIES_NEWS	Wie lauten die lokalen Schlagzeilen für ABQ, NM?	news	78
+39353730303939	IN:PLAY_MUSIC	Spiel eine Mischung aus Country und Rock	music	17
+39353539333136	IN:GET_STORIES_NEWS	Welche Nachrichten gab es in der letzten Stunde für die U.S.A.?	news	78
+39353539323835	IN:GET_TIMER	Wie lang läuft der aktuelle Timer noch?	timer	104
+39353539323335	IN:GET_STORIES_NEWS	Nachrichten über die Börse	news	78
+39353537323938	IN:GET_WEATHER	Was ist die Tiefsttemperatur heute?	weather	38
+39353536383730	IN:GET_STORIES_NEWS	Lies mir die Schlagzeilen der New York Times vor	news	78
+39353533363338	IN:CREATE_TIMER	Stelle einen neuen Timer auf zwanzig Minuten	timer	49
+39353531333930	IN:GET_WEATHER	Wird es Nebel geben	weather	38
+39353438323530	IN:PAUSE_TIMER	Pausiere Trainings-Stoppuhr.	timer	99
+39353434373036	IN:CREATE_ALARM	Neuer Weckruf für 18:00 Uhr eingestellt.	alarm	87
+39353433343733	IN:GET_WEATHER	wird es heute schneien	weather	38
+39353431373535	IN:GET_WEATHER	Wie ist das Wetter in Paris?	weather	38
+39353431373534	IN:GET_WEATHER	Wie ist die Bewertung des Hitzeindex im Moment?	weather	38
+39353431303830	IN:GET_WEATHER	Vorhersage für 6:00 Uhr.	weather	38
+39353339373430	IN:GET_WEATHER	Gib mir die aktuellen Wetterbedingungen für morgen früh	weather	38
+39353337383932	IN:GET_WEATHER	Wetter in Las Vegas?	weather	38
+39353337373738	IN:CREATE_TIMER	Ich muss einen Timer für zwei Stunden ab jetzt einstellen.	timer	49
+39353333323437	IN:GET_WEATHER	Wie viele Zentimeter hat es in Lamar geschneit	weather	38
+39353331303837	IN:PLAY_MUSIC	Spiele meine Santana-Playliste auf Pandora ab	music	17
+39353331303432	IN:PLAY_MUSIC	Spielst du ein paar Songs von Al Green?	music	17
+39353238373532	IN:GET_STORIES_NEWS	die Schlagzeilen von gestern	news	78
+39353232393832	IN:CREATE_TIMER	Stelle einen Timer für 45 Minuten ab jetzt	timer	49
+39353139303830	IN:PLAY_MUSIC	Spiel Bank Account von 21 Savage auf Spotify ab	music	17
+39353134343234	IN:GET_WEATHER	Sag mir was über das Wetter am Samstag.	weather	38
+39353132343838	IN:GET_WEATHER	Wann trifft der Sturm auf die Stadt	weather	38
+39353132343537	IN:GET_WEATHER	Ist es heute warm	weather	38
+39353130373735	IN:GET_STORIES_NEWS	Was gibt es Neues zur Obamacare-Veränderung?	news	78
+39353130373038	IN:CREATE_TIMER	Ich brauche einen Timer für eine Stunde.	timer	49
+39353130363930	IN:GET_WEATHER	Wie heiß wird es morgen?	weather	38
+39353130303238	IN:GET_WEATHER	Ist es heute bewölkt in Ohio?	weather	38
+39353037323439	IN:GET_WEATHER	Was sind die Tiefsttemperaturen für morgen	weather	38
+39353031393534	IN:GET_WEATHER	Ist es morgen windig?	weather	38
+39353031333234	IN:CREATE_TIMER	Neuen Timer stellen	timer	49
+39343939393739	IN:GET_WEATHER	Gibt es diese Woche Frost?	weather	38
+39343937313637	IN:GET_WEATHER	Wie ist das Wetter nächstes Wochenende in Austin?	weather	38
+39343936373139	IN:GET_STORIES_NEWS	Wie lauten die weltweiten Schlagzeilen heute?	news	78
+39343936303234	IN:PLAY_MUSIC	Bitte spiel den letzten Hit von Adele.	music	17
+39343935373339	IN:CREATE_ALARM	Stelle den Wecker für Sonntag um 22:00 Uhr ein, damit ich nicht vergesse, meine Lieblingssendung anzusehen.	alarm	87
+39343933393539	IN:GET_STORIES_NEWS	Lies mir heute Abend um 22:00 Uhr die Kurznachrichten vor	news	78
+39343933383334	IN:REPLAY_MUSIC	Bitte spiel dieses Album nochmal von vorne.	music	40
+39343933323331	IN:GET_WEATHER	Gibt es einen Sturm in der Innenstadt von Houston?	weather	38
+39343931343232	IN:PLAY_MUSIC	Suche gute Trainings-Musik.	music	17
+39343839343530	IN:GET_STORIES_NEWS	Lies mir die Nachrichten über Trump und Korea vor	news	78
+39343838303033	IN:CREATE_ALARM	stell den Wecker für 4:00 Uhr	alarm	87
+39343837363034	IN:CREATE_ALARM	Wecker in 7 Stunden einstellen	alarm	87
+39343833383532	IN:GET_STORIES_NEWS	Lies den Artikel über den Irak.	news	78
+39343830383936	IN:GET_ALARM	Auf welche Uhrzeit sind alle meine Alarme gestellt?	alarm	102
+39343739313937	IN:GET_STORIES_NEWS	Gibt es Aktuelles zu den Nachrichten über den Unfall in Seattle?	news	78
+39343738323330	IN:PLAY_MUSIC	Spiel das letzte Album von Blink 182 ab	music	17
+39343737343739	IN:GET_STORIES_NEWS	Ich will die aktuellen Nachrichten für Italien.	news	78
+39343734393830	IN:GET_STORIES_NEWS	WAS SIND DIE AKTUELLSTEN NACHRICHTEN ÜBER UBER?	news	78
+39343733333436	IN:GET_STORIES_NEWS	Gib mir die neuesten Hollywood-Nachrichten	news	78
+39343732393439	IN:GET_STORIES_NEWS	Lies mir die neuesten Nachrichten über Deutschland vor.	news	78
+39343730343432	IN:QUESTION_NEWS	Wo ist Trump?	news	98
+39343639343435	IN:PLAY_MUSIC	Spiel mir einen Song, den Rihanna und Drake zusammen aufgenommen haben.	music	17
+39343639333236	IN:CREATE_TIMER	Stelle einen Timer für 8 Stunden	timer	49
+39343636363732	IN:GET_TIMER	Gib mir eine Aktualisierung für meinen Timer	timer	104
+39343636303134	IN:ADD_TIME_TIMER	Füge dem kürzesten Timer 6 Minuten hinzu	timer	103
+39343635373334	IN:GET_TRACK_INFO_MUSIC	Kannst Du mir den Titel von diesem Lied sagen?	music	10
+39343632363234	IN:GET_INFO_RECIPES	Wie lange sollte ich Hühnchen kochen?	recipes	28
+39343631323630	IN:GET_RECIPES	Finde eine Auflaufform mit der ich 5 Personen ernähren kann	recipes	62
+39343630313432	IN:GET_RECIPES	wie bereitet man ein mexikanisches Gericht zu	recipes	62
+39343539353531	IN:GET_RECIPES	Zeige mir ein Rezept für Brownies	recipes	62
+39343538393232	IN:GET_INFO_RECIPES	wie lange backt man Schwein	recipes	28
+39343536373530	IN:GET_INFO_RECIPES	Bei welcher Temperatur backe ich Kartoffeln	recipes	28
+39343536343939	IN:GET_RECIPES	Chinesische Rezepte	recipes	62
+39343536333439	IN:GET_RECIPES	Wie kocht man Butternusskürbis	recipes	62
+39343536313439	IN:GET_INFO_RECIPES	Wie würze ich Lachs?	recipes	28
+39343533393638	IN:GET_RECIPES	Wie macht man glutenfreie Pfannkuchen	recipes	62
+39343533363231	IN:GET_RECIPES	Rezept für Limonade	recipes	62
+39343532373135	IN:GET_INFO_RECIPES	Wie viel Butter brauche ich für vier Portionen Kartoffelbrei	recipes	28
+39343531333737	IN:GET_INFO_RECIPES	Wie viele Tassen Zucker muss ich in diesen Kuchen geben	recipes	28
+3232353833333232	IN:SEND_MESSAGE	Ich möchte die Nachricht an meine Großeltern schicken	messaging	112
+3232353832303632	IN:GET_MESSAGE	Zeig mir meine SMS von meiner Tante Damon	messaging	34
+3232353832303334	IN:GET_MESSAGE	zeige mir die Nachrichten von meinem Neffen an	messaging	34
+3232353735323333	IN:SEND_MESSAGE	Du musst für mich eine Nachricht über WhatsApp schicken	messaging	112
+3232353734383636	IN:GET_MESSAGE	Zeige mir Texte von Franklin auf Messenger	messaging	34
+3232353734383533	IN:SEND_MESSAGE	schick es an Mary auf WhatsApp	messaging	112
+3232353734343435	IN:GET_MESSAGE	Hat Stevie mir irgendwas über Messenger geschickt	messaging	34
+3232353332373331	IN:CREATE_CALL	Ruf Ryan Myers an	calling	42
+3232353331323734	IN:CREATE_CALL	Kannst du die Nummer 3095552714 über mein Handy anrufen?	calling	42
+3232353330333737	IN:GET_CONTACT	Du musst Alexia für mich finden	people	54
+3232353138333236	IN:CREATE_CALL	Kannst du Tyler, Alissa und Jazmin anrufen	calling	42
+3232353138333038	IN:CREATE_CALL	Ruf Nicholas und Natasha an	calling	42
+3232353138323830	IN:CREATE_CALL	Bitte ruf Bryant, Arianna, und Joanna an	calling	42
+3232353138313935	IN:CREATE_CALL	Ruf Carlie und Hayden an	calling	42
+3232343533373131	IN:SET_RSVP_INTERESTED	beantworte das zweite Event mit interessiert	event	0
+3232343533333338	IN:SET_RSVP_YES	zum ersten Event gehen	event	32
+3232343533333031	IN:SET_RSVP_NO	"Ändere meinen Status zu „Nimmt nicht am Soul Summit teil"""	event	45
+3232343533323631	IN:SET_RSVP_NO	lehne die Einladung für die zweite Veranstaltung ab	event	45
+3232343533313439	IN:SET_RSVP_NO	änder meinen Status darauf, dass ich nicht zur zweiten Veranstaltung gehe	event	45
+3232343532313830	IN:SET_RSVP_NO	Meinen Status in geht nicht zu Giants bei Patriots ändern	event	45
+3232343436333237	IN:GET_MESSAGE_CONTACT	Wer hat mir dieses Jahr Video-Nachrichten gesendet?	messaging	24
+3232343436323632	IN:GET_MESSAGE_CONTACT	wer hat mir geschrieben hab einen schönen Tag	messaging	24
+3232343331313033	IN:ADD_TIME_TIMER	Bitte verlängere diesen Timer um 11 Minuten	timer	103
+3232343330343934	IN:CREATE_ALARM	Stelle den Wecker auf 7 Uhr morgens	alarm	87
+3232333730383537	IN:CREATE_TIMER	Starte einen Timer mit 3 Minuten für den Kaffee	timer	49
+3232333635393733	IN:CREATE_CALL	ruf Bennett über WhatsApp an	calling	42
+3232333635323639	IN:CREATE_CALL	ruf Erik per WhatsApp an	calling	42
+3232333537373335	IN:GET_TIMER	Wie viel Zeit istt noch auf meinem Spaghetti-Timer?	timer	104
+3232323930323630	IN:UPDATE_TIMER	Änder die Zeit auf dem Ausatmen-Timer	timer	74
+3232323930313434	IN:CREATE_TIMER	starte einen Timer für das Software-Update	timer	49
+3232323831373633	IN:PLAY_MUSIC	spiele Danza Kuduro noch einmal	music	17
+3232323830373234	IN:PLAY_MUSIC	"Spiele „One Word"""	music	17
+3232323830373132	IN:PLAY_MUSIC	Spiel Blackbear	music	17
+3232323830363535	IN:PLAY_MUSIC	spiel Thomas Rhett	music	17
+3232323232353539	IN:GET_EVENT	Schlage mir einige weitere Veranstaltungen vor, die bei meinen Freunden beliebt sind	event	35
+3232323232353534	IN:GET_EVENT	Empfiehl mir ein paar Veranstaltungen, die bei meinen Freunden beliebt sind	event	35
+3232323232353135	IN:GET_EVENT	Zeig mir ein paar mehr Veranstaltungen, die bei meinen Freunden beliebt sind	event	35
+3232323232333939	IN:SHARE_EVENT	Teile die fünfte Veranstaltung mit Celeste	event	25
+3232313536363737	IN:CREATE_CALL	ruf Jennifer an WhatsApp	calling	42
+3232313332343832	IN:CREATE_CALL	Kirk und Howe anrufen.	calling	42
+3232313332323730	IN:CREATE_CALL	Ruf Clara Bernard und Guillermo Hernandez an	calling	42
+3232313136333434	IN:GET_WEATHER	Wie lautet die Wettervorhersage für Mount Rainier	weather	38
+3231373534343330	IN:GET_WEATHER	Grad in Istanbul, Türkei	weather	38
+3231373534343236	IN:GET_CONTACT	zeig das Freunde-Ding	people	54
+3231373530303530	IN:GET_EVENT	Empfehlungen für Basketballspiele	event	35
+3231373330353234	IN:CREATE_CALL	WhatsApp-Anruf an Lina Brown	calling	42
+3231373234303633	IN:SEND_MESSAGE	Video-Nachricht an Milo	messaging	112
+3231373234303034	IN:SEND_MESSAGE	Ich möchte Athena eine Video-Nachricht schicken	messaging	112
+3231373233343332	IN:SEND_MESSAGE	Video-Nachricht an Edith	messaging	112
+3231373131303232	IN:CREATE_CALL	ruf Anna Moore Mendoza an	calling	42
+3231373130383836	IN:CREATE_CALL	Ich möchte Silas Everett Castillo anrufen	calling	42
+3231363735353136	IN:GET_AVAILABILITY	Ist Jason jetzt online	calling	110
+3231363735343932	IN:SET_UNAVAILABLE	Stelle meine Verfügbarkeit auf beschäftigt	calling	64
+3231363735343230	IN:SET_AVAILABLE	"Stell mich online auf „verfügbar""."	calling	23
+3231363735333830	IN:SET_AVAILABLE	Stelle meine aktuelle Erreichbarkeit auf online	calling	23
+3231363735333038	IN:GET_CALL_TIME	Wann hab ich den Videoanruf von John bekommen?	calling	73
+3231363734393135	IN:GET_CALL	Welche Anrufe habe ich heute Morgen verpasst?	calling	55
+3231363734333338	IN:GET_CALL_CONTACT	Wer hat mich zuletzt angerufen?	calling	90
+3231363734313932	IN:END_CALL	Brich den Anruf ab.	calling	21
+3231363431393532	IN:PLAY_MUSIC	Spiel 24K Magic auf iHeartRadio	music	17
+3231363431393437	IN:START_SHUFFLE_MUSIC	Spiele Born To Die - The Paradise Edition im Shuffle-Modus	music	14
+3231363431303434	IN:GET_WEATHER	Wetter um 17 Uhr danke	weather	38
+3231363430353838	IN:GET_WEATHER	Wird es heute sonnig?	weather	38
+3231363338383739	IN:GET_WEATHER	Wie lautet die Wettervorhersage für Ostern?	weather	38
+3231363338363438	IN:GET_WEATHER	Gib mir ein Update zu den Wetterbedingungen in Fidschi.	weather	38
+3231363338353438	IN:GET_WEATHER	Zeig mir das Wetter in Neuseeland	weather	38
+3231363338343430	IN:GET_WEATHER	Wie ist das Wetter in London?	weather	38
+3231363338323333	IN:GET_WEATHER	Was ist mit dem Wetter in Melbourne los?	weather	38
+3231363337333935	IN:CREATE_ALARM	Neuer Wecker bitte	alarm	87
+3231363337313939	IN:CREATE_ALARM	Bitte erstelle mehr Alarme	alarm	87
+3231363336383839	IN:SILENCE_ALARM	Ja, ja, ich höre dich.	alarm	85
+3231363336363935	IN:SILENCE_ALARM	Bitte mach den Wecker aus	alarm	85
+3231363335383639	IN:CREATE_ALARM	Stell einen Wecker für nächsten Freitag	alarm	87
+3231363335333538	IN:CREATE_ALARM	Stell mir den Wecker für den 10. Juni um 9:00 Uhr	alarm	87
+3231363334333239	IN:CREATE_ALARM	Stell einen wöchentlichen Wecker für jeden Mittwoch	alarm	87
+3231363334323537	IN:CREATE_ALARM	Stell einen Wecker für jeden Freitag	alarm	87
+3231363334313532	IN:CREATE_ALARM	Erstelle einen Alarm für eine Arbeitspause	alarm	87
+3231363333383533	IN:CREATE_ALARM	"Stelle einen Wecker auf 9:00 Uhr morgen früh mit dem Titel „Meeting"""	alarm	87
+3231363333363135	IN:CREATE_ALARM	"Alarm mit der Bezeichnung „Arbeit"" erstellen."	alarm	87
+3231363038363737	IN:CREATE_ALARM	Alarm um 16:50 Uhr klingeln lassen	alarm	87
+3231363037373736	IN:CREATE_ALARM	stelle einen Wecker auf 8:10 Uhr morgens	alarm	87
+3231363030333238	IN:CREATE_ALARM	Stell einen Wecker zum Aufwachen um 19 Uhr	alarm	87
+3231363030323639	IN:CREATE_ALARM	Stelle einen Wecker zum Aufwecken ein	alarm	87
+3231353938383134	IN:DELETE_ALARM	Kann der Alarm, den ich eingestellt habe, bitte abgeschaltet werden?	alarm	31
+3231353538313536	IN:GET_WEATHER	Wie wird das Wetter am Abend?	weather	38
+3231353537383533	IN:GET_WEATHER	Gibt es Wetteränderungen an der Westküste?	weather	38
+3231353536393639	IN:GET_WEATHER	Wie sieht das Wetter am Freitag aus	weather	38
+3231353536373039	IN:GET_WEATHER	Lies mir bitte einen Wetterbericht für Zypern vor	weather	38
+3231353536363630	IN:GET_WEATHER	Wie lautet die Wettervorhersage für Spanien?	weather	38
+3231353536343932	IN:GET_WEATHER	Was ist die Wettervorhersage für Schottland	weather	38
+3231353535333335	IN:CREATE_ALARM	Wecker für einen Film um 22 Uhr	alarm	87
+3231353534333731	IN:CREATE_ALARM	Stell meinen Wecker für den 21. Mai um 5 Uhr morgens.	alarm	87
+3231353534333031	IN:CREATE_ALARM	Kannst du einen Wecker für 7 Uhr am 18. Mai erstellen	alarm	87
+3231353533373439	IN:CREATE_ALARM	Stell einen Wecker für Freitag, Samstag und Sonntag	alarm	87
+3231353531393134	IN:CREATE_ALARM	Stell einen Wecker, der sich täglich um 12 Uhr wiederholt	alarm	87
+3231353531343839	IN:CREATE_ALARM	"Erstelle einen neuen Alarm namens ""Sport machen"", der um 10 Uhr morgens klingelt"	alarm	87
+3231353531323637	IN:CREATE_ALARM	Stell bitte einen 'Geh ins Bett'-Alarm für Mitternacht ein	alarm	87
+3231353438353430	IN:UPDATE_CALL	Füge meine Mutter diesem Anruf hinzu	calling	79
+3231353437363235	IN:GET_CALL_CONTACT	Sag mir, wer mich heute angerufen hat	calling	90
+3231353437333637	IN:GET_CALL	Kann ich die verpassten Anrufe von heute sehen?	calling	55
+3231353437323537	IN:GET_CALL	Wie viele verpasste Anrufe habe ich?	calling	55
+3231353437313338	IN:GET_CALL_TIME	Wann habe ich meinen letzten Sprachanruf getätigt?	calling	73
+3231353436353833	IN:END_CALL	Beende den Anruf	calling	21
+3231353436333432	IN:CREATE_CALL	Kannst du bitte einen Anruf an Herrn Corbyn starten?	calling	42
+3231353436323633	IN:CREATE_CALL	Ruf Hugo an	calling	42
+3231353336353930	IN:UPDATE_METHOD_CALL	auf Audio-Anruf wechseln	calling	51
+3231353334343133	IN:PLAY_MUSIC	spiele We Are The Champions auf iHeartRadio	music	17
+3231353232393635	IN:PLAY_MUSIC	"Spiel ""Better Now"" von Maroon 5."	music	17
+3231353036363634	IN:CREATE_CALL	Ruf Stefani Sauers Großmutter an	calling	42
+3231353036363138	IN:CREATE_CALL	Ruf Carita Stevisons Onkel an	calling	42
+3231353036343232	IN:CREATE_CALL	Ruf Allies Vater an	calling	42
+3231353036303738	IN:CREATE_CALL	Ruf die Schwester von Cathryn Hendron an	calling	42
+3231343937363731	IN:GET_EVENT	Basketballspiele am Dienstag	event	35
+3231343937363433	IN:GET_EVENT	Welche Basketballspiele finden im Februar statt	event	35
+3231343937323635	IN:GET_EVENT	Findet nächstes Wochenende ein Sportwettkampf statt	event	35
+3231343839343435	IN:UPDATE_CALL	Reagan hinzufügen	calling	79
+3231343031383232	IN:UPDATE_REMINDER	Die Erinnerung für den Besuch sollte ab 9 Uhr geändert werden	reminder	18
+3231333535323332	IN:CREATE_CALL	Kann ich mit Cleon Nancy sprechen?	calling	42
+3231333535313831	IN:ANSWER_CALL	Bitte antworte Sakura Kerry	calling	77
+3231333534343430	IN:CREATE_CALL	Stelle eine Telefonverbindung zu Ripley Shelby her	calling	42
+3231333534313339	IN:CREATE_CALL	Starte einen Anruf	calling	42
+3231333533343835	IN:CREATE_CALL	Ruf Neffe an	calling	42
+3231333533303031	IN:GET_AVAILABILITY	Freunde, die jetzt online sind	calling	110
+3231333532343136	IN:SET_UNAVAILABLE	Ich bin zu beschäftigt für alles.	calling	64
+3231333531393536	IN:SET_AVAILABLE	"kennzeichne mich als „verfügbar"""	calling	23
+3231333530373338	IN:CREATE_CALL	Starte einen Anruf an die Gruppe Freunde.	calling	42
+3231333436393236	IN:SWITCH_CALL	Wechsle bitte auf Anrufe	calling	69
+3231333435323037	IN:SET_UNAVAILABLE	"Ändere meinen Status auf ""Beschäftigt"	calling	64
+3231333432383634	IN:GET_AVAILABILITY	wer hat jetzt Zeit	calling	110
+3231333432313333	IN:SWITCH_CALL	Auflegen und nächster Anruf bitte	calling	69
+3231333431323938	IN:UPDATE_CALL	Schick Mark eine Einladung zum aktuellen Gespräch.	calling	79
+3231333431323539	IN:UPDATE_CALL	Ergänzung zu Anruf, lokalisiere Mutter	calling	79
+3231333430363439	IN:UPDATE_CALL	Füge John zum aktuellen Anruf hinzu	calling	79
+3231333339393134	IN:UPDATE_CALL	Füge dem Anruf jetzt bitte meine Freundin Julie hinzu	calling	79
+3231333339393036	IN:UPDATE_CALL	Ruf Papa an und bitte ihn, dem Anruf beizutreten	calling	79
+3231333339363537	IN:UPDATE_CALL	lad Papa ein	calling	79
+3231333131303830	IN:CREATE_CALL	Starte einen Videokonferenz-Anruf mit meinen Eltern und meiner Schwester.	calling	42
+3231333130393834	IN:CREATE_CALL	ruf bitte meine Freundin an	calling	42
+3231333130333336	IN:ANSWER_CALL	Antworte auf diesen Anruf von meinem Opa	calling	77
+3231323931373839	IN:SEND_MESSAGE	Sende Chris eine Nachricht und frag, ob er ein gutes Restaurant in meiner Gegend kennt.	messaging	112
+3231323831323335	IN:GET_MESSAGE	Harper hat mir gestern eine SMS geschickt, was stand drin?	messaging	34
+3231323830343932	IN:SEND_MESSAGE	frag Mama, wie viele Stunden die Besprechung dauern wird	messaging	112
+3231323739343937	IN:SEND_MESSAGE	Frag Bill, ob das Freizeitzentrum morgen früher offen hat	messaging	112
+3231323738393235	IN:GET_MESSAGE	Bitte lies alle Nachrichten vor, die meine Frau heute geschickt hat.	messaging	34
+3231323736343239	IN:SEND_MESSAGE	FRAGE MEINEN EHEMANN, OB ER RECHTZEITIG ZUM ABENDESSEN ZU HAUSE SEIN WIRD	messaging	112
+3231323736333038	IN:SEND_MESSAGE	Schreibe: treffen wir uns im Restaurant und gehen wir dann ins Kino.	messaging	112
+3231323735393630	IN:SEND_MESSAGE	Schreib Nick und frag, ob er das Foto gesehen hat	messaging	112
+3231323432323535	IN:CREATE_REMINDER	Erinnere mich daran, eine Geburtstagskarte an Sandy zu schicken.	reminder	11
+3231323430373638	IN:GET_REMINDER	Welche Erinnerungen habe ich heute?	reminder	93
+3231323430343738	IN:CREATE_REMINDER	Erstelle Erinnerungen fürs Schlafengehen.	reminder	11
+3231323430303835	IN:CREATE_REMINDER	Erinner mich daran, die Uhren eine Stunde zurückzustellen	reminder	11
+3231323339353633	IN:CREATE_REMINDER	Erinnere mich daran, die Hunde zu füttern	reminder	11
+3231323339343037	IN:DELETE_REMINDER	Lösch meine Erinnerung für Saft.	reminder	48
+3231323339323636	IN:CREATE_REMINDER	Erinner mich an meine Nachbesprechung am Donnerstag.	reminder	11
+3231323339323137	IN:CREATE_REMINDER	Erinnere mich daran, einen Arzttermin zu machen	reminder	11
+3231323338373638	IN:CREATE_REMINDER	Erinner mich daran, morgen die Auto Zahlung zu bezahlen	reminder	11
+3231323337383531	IN:GET_REMINDER	Zeig die erledigten Erinnerungen an.	reminder	93
+3231323337343130	IN:GET_REMINDER	Welche Erinnerungen habe ich gespeichert	reminder	93
+3231323337303737	IN:CREATE_REMINDER	Erstell eine Erinnerung daran, Susan Montagmorgen abzuholen	reminder	11
+3231323337303431	IN:CREATE_REMINDER	Richte eine Erinnerung für den Ölwechseltermin für Samstag 10 Uhr ein	reminder	11
+3231323336353031	IN:CREATE_REMINDER	Erinnere mich am Freitag daran, fürs Grillen einzukaufen	reminder	11
+3231323334383731	IN:GET_REMINDER_AMOUNT	Wie viele Erinnerungen stehen für mich an?	reminder	2
+3231323334373831	IN:CREATE_REMINDER	Erinner mich am Montag um 8 Uhr, Chris wegen der Blumen anzurufen	reminder	11
+3231323334353730	IN:CREATE_REMINDER	Erinnere mich heute Abend um 17 Uhr an das Abendessen	reminder	11
+3231323332373333	IN:DELETE_REMINDER	Die Drinks nach der Arbeit wurden abgesagt, also muss diese Erinnerung gelöscht werden.	reminder	48
+3231323332363434	IN:GET_REMINDER	Ist die Erinnerung am Dienstag über meine Mutter?	reminder	93
+3231323330313334	IN:GET_REMINDER	Lies mir die Erinnerung für die Verabredung zum Abendessen am Mittwoch vor	reminder	93
+3231323239383538	IN:DELETE_REMINDER	Erinnerung, Oma zum Einkaufen zu fahren, muss abgesagt werden.	reminder	48
+3231323238383732	IN:CREATE_REMINDER	Richte eine Erinnerung für Mittwoch um 12 Uhr zum Mittagessen mit Mama ein.	reminder	11
+3231323236303430	IN:UPDATE_REMINDER_DATE_TIME	kannst du die Erinnerung um 10 Uhr bitte auf 11 Uhr verschieben	reminder	22
+3231323236303132	IN:GET_REMINDER	Welche Erinnerungen hat Andy für Fernsehsendungen diesen Sommer eingestellt?	reminder	93
+3231323235313630	IN:GET_REMINDER	Zeige alle Erinnerungen an, die mit Familie zu tun haben.	reminder	93
+3231323235313237	IN:CREATE_REMINDER	Ich muss John innerhalb von 15 Minuten eine Erinnerung schicken.	reminder	11
+3231323234393130	IN:GET_REMINDER	Nenne mir alle Erinnerungen für das restliche Wochenende	reminder	93
+3231323233363937	IN:CREATE_REMINDER	Ich gehe am Samstag ins Einkaufszentrum, um Hautpflegeprodukte zu kaufen. Kannst du mich daran erinnern, auch ein Parfum zu kaufen?	reminder	11
+3231323233343536	IN:GET_REMINDER	Welche Erinnerungen habe ich donnerstags im September?	reminder	93
+3231323233303830	IN:GET_REMINDER_DATE_TIME	Wann ist meine nächste Erinnerung daran, mich für die Diät-Challenge zu wiegen?	reminder	4
+3231323231383735	IN:UPDATE_REMINDER_DATE_TIME	Aktualisiere die Erinnerung auf 20 Uhr	reminder	22
+3231323231383734	IN:UPDATE_REMINDER_DATE_TIME	Ändere die Erinnerung an das Gruppentreffen von Donnerstag auf Freitag	reminder	22
+3231323231363334	IN:UPDATE_REMINDER_DATE_TIME	Verschiebe die Erinnerung an die Pool-Party auf 14:00 Uhr statt auf Mittag.	reminder	22
+3231323231353139	IN:UPDATE_REMINDER_DATE_TIME	Verschiebe meine Erinnerung an den Friseurtermin von 3 auf 4	reminder	22
+3231313535393435	IN:GET_REMINDER	Habe ich für Sonntag Erinnerungen eingerichtet?	reminder	93
+3231313535373031	IN:UPDATE_REMINDER_DATE_TIME	Ändere die Zeit für die Erinnerung am 10. August auf 17:30 Uhr.	reminder	22
+3231313535323431	IN:DELETE_REMINDER	Lösche den Alarm bei meiner Erinnerung für einen Spieletreff mit Kim morgen.	reminder	48
+3231313534393436	IN:CREATE_REMINDER	Erinner mich daran, mich nächsten Montag um 6:00 Uhr für Konzertkarten anzustellen.	reminder	11
+3231313534373632	IN:CREATE_REMINDER	Erinnere mich, die Tickets für das Spiel am Freitag abzuholen	reminder	11
+3231313534353933	IN:CREATE_REMINDER	Erinnere mich daran, mich dieses Wochenende mit meinem Arzt zu treffen.	reminder	11
+3231313534313433	IN:GET_REMINDER_DATE_TIME	Kannst du mich wissen lassen, für wann meine Erinnerung für den Ölwechsel eingestellt ist?	reminder	4
+3231313533363430	IN:CREATE_REMINDER	Erinnere mich daran, der Besetzung heute Abend eine E-Mail über die Kostümanprobe zu schicken.	reminder	11
+3231313533353234	IN:CREATE_REMINDER	Ich muss Billy um 17 Uhr anrufen. Bitte erstell eine Erinnerung.	reminder	11
+3231313532393131	IN:CREATE_REMINDER	Ich möchte nicht zu spät zu meiner Massage kommen, kannst du mich eine Stunde vorher daran erinnern	reminder	11
+3231313532313233	IN:CREATE_REMINDER	Erinnere Stefania daran, dass das Treffen am Mittwoch um 6 Uhr ist	reminder	11
+3231313531323336	IN:CREATE_REMINDER	Erinnere mich daran, Lori am Freitag Abendessen zu bringen.	reminder	11
+3231313530323630	IN:CREATE_REMINDER	Ich muss mit Veronica über die Beaufsichtigung sprechen, richte eine Erinnerung für 16 Uhr ein.	reminder	11
+3231313439363431	IN:CREATE_REMINDER	Erstelle eine Erinnerung daran, diesen Montag nach der Katze meiner Nachbarn zu sehen	reminder	11
+3231313439313430	IN:UPDATE_REMINDER_DATE_TIME	Ändere die Erinnerung von 19 Uhr auf 21 Uhr.	reminder	22
+3231313437353831	IN:CREATE_REMINDER	Erinnere mich daran, Marie Sonntagmorgen eine E-Mail zu schreiben.	reminder	11
+3231313436313931	IN:DELETE_REMINDER	Entferne die Erinnerung an die Laser-Show nächsten Monat.	reminder	48
+3231313435393638	IN:GET_REMINDER	Welche Erinnerungen habe ich für morgen?	reminder	93
+3231313434343833	IN:CREATE_REMINDER	Erinner mich am 14. August daran, die Gasrechnung zu bezahlen.	reminder	11
+3231313434333132	IN:CREATE_REMINDER	Erinnere mich am Freitagnachmittag, meinen Kalender für nächste Woche durchzugehen.	reminder	11
+3231313433383035	IN:CREATE_REMINDER	Erinnere mich daran, Tacos zum Abendessen zu holen	reminder	11
+3230393939333433	IN:PLAY_MUSIC	Beginne jetzt Pandora zu spielen	music	17
+3230303431393130	IN:CREATE_ALARM	stell einen Wecker für April 2025	alarm	87
+3139393839373536	IN:GET_EVENT	Welche Sachen finden nächste Woche in Newport statt	event	35
+3139393839343231	IN:GET_EVENT	Was kann ich in Chicago machen?	event	35
+3139393838383739	IN:GET_EVENT	Wo finden heute Abend die Konzerte in Brookings statt?	event	35
+3139393838383337	IN:GET_EVENT	Konzerte in Seattle nächstes Jahr	event	35
+3139393838353339	IN:GET_EVENT	Was passiert heute Abend um 19 Uhr in Kansas City	event	35
+3139393838353338	IN:GET_EVENT	Am Sonntag ist Karneval in Aurora	event	35
+3139393837393138	IN:GET_EVENT	Dinge, die man heute Abend in Austin unternehmen kann	event	35
+3139393836393539	IN:GET_EVENT	Findet das Konzert in L.A. dieses Wochenende wie geplant statt?	event	35
+3139393836313138	IN:GET_EVENT	Modeschauen	event	35
+3139393836303636	IN:GET_EVENT	Welche Veranstaltungen finden nächstes Wochenende in Tallahassee statt?	event	35
+3139393834303039	IN:GET_EVENT	Dinge, die man in Chicago dieses Jahr an Chanukka machen kann	event	35
+3139393833333235	IN:GET_EVENT	Zeig mir Theaterstücke oder Musical, die nächste Woche stattfinden	event	35
+3139393833323436	IN:GET_EVENT	Was kann man nächstes Wochenende in Austin machen	event	35
+3139393832353330	IN:GET_EVENT	Gibt es in El Paso Geistertouren	event	35
+3139393832313134	IN:GET_EVENT	Findet dieses Wochenende etwas Cooles statt?	event	35
+3139393738323732	IN:GET_EVENT	Was für Konzerte finden nächstes Wochenende in SF statt?	event	35
+3139393736363532	IN:GET_EVENT	Bitte sag mir, ob es an diesem Wochenende etwas zu tun gibt	event	35
+3139393736353630	IN:GET_EVENT	Such nach Zaubershows, die nächste Woche stattfinden	event	35
+3139393231333433	IN:GET_CONTACT	Hat Jaxon Rose eine Stiefmutter?	people	54
+3139373936333231	IN:PLAY_MUSIC	Ich möchte 92,1 auf iHeartRadio hören.	music	17
+3139373936323932	IN:PLAY_MUSIC	schalte RADIO 94 5 WORLD CLASS ROCK auf iheartradio ein	music	17
+3139343333373830	IN:GET_LOCATION	Wo ist Randal Cunningham aufgewachsen?	people	44
+3139343333363436	IN:GET_LOCATION	Wo wurde Michael Jackson geboren?	people	44
+3139343333343135	IN:GET_AGE	Wie alt ist die Frau von John Stamos?	people	80
+3139343333333630	IN:GET_LOCATION	Wo wurde Donald Trump geboren	people	44
+3138393933353537	IN:GET_INFO_CONTACT	Wo ist Ruth	people	58
+3138393932383435	IN:GET_EMPLOYER	Wo arbeitet James?	people	92
+3138393931333831	IN:GET_EMPLOYER	Wo arbeitet Paula Carlton?	people	92
+3138393835363138	IN:GET_LOCATION	Wo wohnt Ali?	people	44
+3138393833333138	IN:GET_CONTACT	Sag mir, wer in Delamo Park arbeitet	people	54
+3138393832393230	IN:GET_CONTACT	Wer arbeitet bei Marriott Hotels?	people	54
+3138393831333830	IN:GET_CONTACT	Kenne ich Jemanden, der in Las Vegas studiert hat?	people	54
+3138393831323237	IN:GET_CONTACT	Kenne ich jemanden mit einem Abschluss von der UCF?	people	54
+3138393830353935	IN:GET_CONTACT	Ist jemand, den ich kenne, in Alaska?	people	54
+3138393739393533	IN:GET_CONTACT	Lebt einer meiner Freunde in Madison?	people	54
+3138393739363834	IN:GET_CONTACT	Kenne ich jemanden aus Frankreich	people	54
+3138393739353339	IN:GET_CONTACT	Befindet sich jemand von meinen Freunden in Vegas?	people	54
+3138393738353334	IN:GET_CONTACT	habe ich irgendwelche Freunde in New York City	people	54
+3138393738303533	IN:GET_CONTACT	Wohnt jemand in Boston	people	54
+3138383937383231	IN:QUESTION_MUSIC	Wer ist der Interpret von diesem Song	music	83
+3138383935313439	IN:GET_RECIPES	Rezepte für selbstgemachtes Brot	recipes	62
+3138383931333535	IN:GET_INFO_RECIPES	Welche Zutaten sind in Kürbiskuchen	recipes	28
+3136343035313432	IN:CREATE_TIMER	ich möchte, dass der Timer in 30 Minuten klingelt	timer	49
+3136343034313634	IN:RESUME_TIMER	Setze den Ofen-Timer fort	timer	16
+3136333338353833	IN:GET_STORIES_NEWS	Ich will NBA-Updates	news	78
+3136333338343430	IN:QUESTION_NEWS	Wann wurde Kim Jong Uns Bruder umgebracht	news	98
+3136333337363531	IN:GET_STORIES_NEWS	Bitte lies Details über die Wahlen vor	news	78
+3136333337353132	IN:QUESTION_NEWS	Wie lauten die Lotto-Gewinnzahlen	news	98
+3136333035343532	IN:QUESTION_NEWS	Wann findet die nächste Wahl statt	news	98
+3136303030323930	IN:GET_STORIES_NEWS	gibt es Neuigkeiten zur Nordkorea-Story	news	78
+3135333031393331	IN:GET_STORIES_NEWS	Was sind die wichtigsten Schlagzeilen von News 12 in New Jersey	news	78
+3135333031303535	IN:GET_STORIES_NEWS	Lokale Schlagzeilen	news	78
+3135333030343036	IN:CREATE_ALARM	stell den Wecker für die Pausenzeit	alarm	87
+3135323937383138	IN:CREATE_TIMER	Stell den Timer auf 50 Minuten ab jetzt	timer	49
+3135323936313739	IN:UPDATE_ALARM	Füge meinem Wecker 9 Minuten hinzu	alarm	39
+3135323934383132	IN:GET_STORIES_NEWS	Lies mir die Business-Schlagzeilen vor	news	78
+3135323934353935	IN:CREATE_ALARM	Den Alarm für 7 Uhr am Sonntag neu einstellen.	alarm	87
+3135323932343133	IN:GET_STORIES_NEWS	Gibt es irgendwelche aktuellen Nachrichten zu Nordkorea	news	78
+3135323931333438	IN:ADD_TIME_TIMER	Füge dem Timer 12 Minuten hinzu	timer	103
+3135323931333238	IN:CREATE_ALARM	ich will einen Wecker in 2 Stunden ab jetzt einstellen	alarm	87
+3135323930343434	IN:GET_STORIES_NEWS	Aktuelle örtliche Schlagzeilen.	news	78
+3135323930333336	IN:GET_STORIES_NEWS	Wie lauten die Schlagzeilen im Guardian heute	news	78
+3135323930313530	IN:GET_STORIES_NEWS	Gibt es aktuelle Meldungen über Nationalparks	news	78
+3135323930303135	IN:CREATE_ALARM	Stelle einen Wecker auf 23 Uhr	alarm	87
+3135323839313038	IN:GET_STORIES_NEWS	Top Nachrichten-Artikel	news	78
+3134313539393634	IN:GET_WEATHER	Die Temperatur in Madrid nächste Woche in Celsius	weather	38
+3134313539393138	IN:GET_WEATHER	Wird es mehr als 32 Grad Fahrenheit	weather	38
+3134313539383631	IN:GET_WEATHER	Wird es in Dublin morgen unter 46 Grad Celsius sein?	weather	38
+3134313538393435	IN:GET_WEATHER	Wie warm ist es heute Abend in Boston in Fahrenheit	weather	38
+3133343130323934	IN:GET_RECIPES	Wie macht man gerösteten Mais	recipes	62
+3133343130313633	IN:GET_INFO_RECIPES	Wie viele Kalorien hat eine Essiggurke	recipes	28
+3133323738303831	IN:GET_INFO_RECIPES	Wie koche ich frische Pasta	recipes	28
+3133323737383736	IN:GET_INFO_RECIPES	für wie lange sollte ich Rippchen garen	recipes	28
+3133323737363734	IN:GET_INFO_RECIPES	Bei welcher Temperatur muss mein Hühnchen garen, damit es unbedenklich ist?	recipes	28
+3133323737313536	IN:GET_INFO_RECIPES	welche Zutaten gehören in einen Shepherd's Pie	recipes	28
+3132363335353134	IN:GET_INFO_RECIPES	Weißt du, ob Tres Leche Milchprodukte enthält?	recipes	28
+3132363330343831	IN:IS_TRUE_RECIPES	Hat Fisch einen hohen Proteingehalt?	recipes	66
+3132363039343237	IN:PREVIOUS_TRACK_MUSIC	Wiederhole das letzte Lied	music	81
+3132353737303238	IN:PLAY_MUSIC	Mach bitte die Musik an	music	17
+3132353534393436	IN:GET_INFO_RECIPES	Wie viele Kalorien sind in einer Scheibe Thomas Jefferson Pound Cake?	recipes	28
+39353832323439	IN:CREATE_TIMER	Stell einen Timer auf 4 Stunden ein.	timer	49
+39353831373238	IN:CREATE_ALARM	Stelle einen Wecker auf fünfzehn Minuten vor meinem Meeting	alarm	87
+39353738383631	IN:RESUME_TIMER	Timer fortsetzen	timer	16
+39353737323231	IN:GET_STORIES_NEWS	Bitte Neuigkeiten aktualisieren	news	78
+39353734343832	IN:DELETE_ALARM	Lösch bitte die Weckrufe.	alarm	31
+39353731353737	IN:GET_WEATHER	Welche Temperaturen herrschen heute?	weather	38
+39353639303939	IN:PREVIOUS_TRACK_MUSIC	Kannst du das letzte Lied noch mal spielen?	music	81
+39353638383636	IN:CREATE_ALARM	Stelle einen Wecker für 7:30 Uhr	alarm	87
+39353638383130	IN:CREATE_ALARM	Stelle einen Wecker, um mich in 30 Minuten aufzuwecken.	alarm	87
+39353637353539	IN:GET_STORIES_NEWS	Was sind die Schlagzeilen bei Fox News?	news	78
+39353637333735	IN:GET_STORIES_NEWS	Was sind die neuesten Politik-Nachrichten	news	78
+39353635313131	IN:PLAY_MUSIC	Spiel nur Lieder von Taylor Swift.	music	17
+39353634323333	IN:GET_WEATHER	Wie hoch ist die Temperatur in Phoenix, AZ	weather	38
+39353632373133	IN:PLAY_MUSIC	Kann ich I Don't Love You von My Chemical Romance auf Spotify hören?	music	17
+39353632363436	IN:GET_STORIES_NEWS	Nachrichten über die Wahl.	news	78
+39353539383132	IN:PLAY_MUSIC	Kann ich alle gut bewerteten Heavy-Metal-Lieder auf Apple Music anhören?	music	17
+39353539333937	IN:GET_ALARM	wofür ist mein nächster Alarm	alarm	102
+39353537353739	IN:GET_WEATHER	Was ist die heißeste Temperatur in der ganzen Woche?	weather	38
+39353537343335	IN:PLAY_MUSIC	Spiel andere Lieder dieses Künstlers	music	17
+39353535333636	IN:CREATE_TIMER	Zeitvorgabe einstellen	timer	49
+39353530393635	IN:PLAY_MUSIC	Kannst du Jay-Z spielen?	music	17
+39353530393030	IN:CREATE_TIMER	Ich brauche einen Timer für 10 Minuten.	timer	49
+39353438393835	IN:SKIP_TRACK_MUSIC	Springe zum fünften Lied.	music	8
+39353438393237	IN:CREATE_ALARM	STELL MEINEN WECKER AUF 9.00 UHR, DAMIT ICH PÜNKTLICH ZUR ARBEIT KOMME	alarm	87
+39353437393938	IN:GET_STORIES_NEWS	Gib mir die neuesten Nachrichten aus der ganzen Welt?	news	78
+39353437343730	IN:DELETE_TIMER	Beende meinen aktuellen Timer	timer	59
+39353436373134	IN:CREATE_ALARM	Stelle einen Alarm für morgen um 18 Uhr.	alarm	87
+39353435303237	IN:PLAY_MUSIC	"Spiele „Lemonade"" von Beyoncé auf Spotify."	music	17
+39353434333131	IN:GET_STORIES_NEWS	Kannst du mir Nachrichten geben	news	78
+39353433373838	IN:PLAY_MUSIC	Spiele mir Musik aus den Top 40 von 1974	music	17
+39353432373538	IN:GET_ALARM	Welche Alarme habe ich eingerichtet?	alarm	102
+39353432323535	IN:GET_WEATHER	Kann ich heute Sandalen anziehen?	weather	38
+39353339373435	IN:GET_STORIES_NEWS	Lies mir die neueste Schlagzeile vor	news	78
+39353339323032	IN:GET_STORIES_NEWS	Was sind die aktuellen Nachrichten in Deutschland?	news	78
+39353332303730	IN:GET_WEATHER	Wie lautet die heutige Wettervorhersage für Amsterdam?	weather	38
+39353331313631	IN:PLAY_MUSIC	Spiel meine 60er-Liste aus Spotify	music	17
+39353330333138	IN:PLAY_MUSIC	Ich möchte das erste Album von den Kings of Leon anhören	music	17
+39353330313038	IN:GET_WEATHER	Sollte ich einen Regenschirm dabei haben?	weather	38
+39353239373436	IN:SKIP_TRACK_MUSIC	Spring zum nächsten Lied auf dem Album.	music	8
+39353238363536	IN:GET_WEATHER	Wie soll das Wetter im Disney World heute werden?	weather	38
+39353238353035	IN:GET_WEATHER	Wann wird es eine Pause von der Hitze geben?	weather	38
+39353237343731	IN:GET_TIMER	Was ist aktuell auf meinem Timer?	timer	104
+39353237343334	IN:GET_STORIES_NEWS	Welche Schlagzeilen gibt es heute über Trump?	news	78
+39353235393830	IN:CREATE_TIMER	Stelle einen 15-Minuten-Timer.	timer	49
+39353235333936	IN:GET_WEATHER	Welche Temperaturen soll es morgen geben?	weather	38
+39353235333932	IN:PLAY_MUSIC	spiel Musik von Madonna	music	17
+39353235333339	IN:GET_ALARM	Wie viele Wecker habe ich gerade an?	alarm	102
+39353235303836	IN:PREVIOUS_TRACK_MUSIC	Bitte wiederhole den letzten Song.	music	81
+39353234323336	IN:DELETE_TIMER	Lösche den Timer für Laufen	timer	59
+39353232333531	IN:CREATE_ALARM	Stell einen Wecker für morgen um 6 Uhr.	alarm	87
+39353231373435	IN:GET_STORIES_NEWS	Wer ist in den Nachrichten	news	78
+39353138393030	IN:CREATE_TIMER	Starte einen Timer für meine Runde auf der Laufbahn.	timer	49
+39353133353632	IN:GET_WEATHER	Wie ist das Wetter in Buffalo heute?	weather	38
+39353130333432	IN:PLAY_MUSIC	Ich will Lieder von Garth Brooks hören.	music	17
+39353038333535	IN:GET_STORIES_NEWS	Wie lauten die lokalen Nachrichten aus San Jose, Kalifornien?	news	78
+39353038333231	IN:GET_WEATHER	Wie hoch ist die Chance in Prozent, dass der Hurrikan bis San Juan, Puerto Rico kommt?	weather	38
+39353037373331	IN:GET_STORIES_NEWS	Irgendwelche neuen Nachrichten über Matt Damon und seine Frau?	news	78
+39353037313539	IN:CREATE_ALARM	Stell den Wecker auf morgen um 7.	alarm	87
+39353033343438	IN:GET_WEATHER	WANN WIRD ES SONNIG	weather	38
+39353031333733	IN:GET_WEATHER	Wird es in der kommenden Woche regnen	weather	38
+39353031303230	IN:SNOOZE_ALARM	Schiebe den Wecker um 15 Minuten nach hinten	alarm	13
+39343939313638	IN:CREATE_TIMER	Starte den Timer, stoppe den Timer, starte den Timer, stoppe den Timer	timer	49
+39343939303435	IN:GET_STORIES_NEWS	Gib mir bitte Details über Nordkorea	news	78
+39343938333333	IN:GET_WEATHER	Ist heute ein guter Tag zum Grillen?	weather	38
+39343937353430	IN:GET_STORIES_NEWS	Was sind die aktuellsten Nachrichten aus Russland	news	78
+39343935363931	IN:GET_WEATHER	Was ist die Rekordtemperatur für das heutige Datum?	weather	38
+39343933393437	IN:GET_WEATHER	Gibt es gerade Tornados in Kansas?	weather	38
+39343932383338	IN:GET_WEATHER	Wie viel wird es morgen regnen?	weather	38
+39343932333834	IN:GET_STORIES_NEWS	Schlagzeilen aus Nordkorea	news	78
+39343932313238	IN:GET_WEATHER	Brauche ich einen Regenschirm	weather	38
+39343930393535	IN:RESUME_TIMER	Timer in 15 Minuten fortsetzen	timer	16
+39343839323132	IN:ADD_TIME_TIMER	Verlänger mein Gehpensum um 20 Minuten	timer	103
+39343837383532	IN:PLAY_MUSIC	Spiel eine EDM-Wiedergabeliste für mich.	music	17
+39343837383234	IN:GET_ALARM	Bitte nenn mir meine Wecker	alarm	102
+39343836323837	IN:GET_WEATHER	Wie warm wird es diesen Monat werden?	weather	38
+39343738303836	IN:GET_WEATHER	Was ist die gefühlte Temperatur in Rochester, NY?	weather	38
+39343734353534	IN:CREATE_TIMER	Stell einen Timer auf 3 Stunden und 30 Minuten ab jetzt	timer	49
+39343734333932	IN:CREATE_ALARM	Stelle meinen Wecker auf 5 Minuten ab jetzt ein	alarm	87
+39343733393239	IN:GET_TIMER	Wie viel Zeit ist auf meinem Arbeits-Timer?	timer	104
+39343731333338	IN:CREATE_ALARM	Stelle den Wecker, dass er um 19:00 Uhr klingelt	alarm	87
+39343637333835	IN:GET_STORIES_NEWS	Bitte lies Details zu Michelle Carter vor	news	78
+39343636363830	IN:GET_ALARM	Liste bitte alle Erinnerungen auf, die ich eingestellt habe	alarm	102
+39343635363539	IN:GET_STORIES_NEWS	Die Nachrichten von heute, bitte	news	78
+39343632363838	IN:GET_INFO_RECIPES	wie lange dauert es, Bananenbrot zu backen	recipes	28
+39343631383935	IN:GET_RECIPES	wie man Pfannkuchen selber macht	recipes	62
+39343631373039	IN:GET_RECIPES	kannst du ein Rezept für Pesto für mich finden	recipes	62
+39343630353731	IN:GET_INFO_RECIPES	Wie lange kocht man Schmorbraten	recipes	28
+39343630353136	IN:GET_INFO_RECIPES	Worauf sollte ich den Ofen zum Rösten von Gemüse einstellen?	recipes	28
+39343539343632	IN:GET_RECIPES	Rezept für Pasta Alfredo	recipes	62
+39343538373031	IN:GET_RECIPES	Such ein Rezept für Jerk Chicken	recipes	62
+39343537373537	IN:GET_INFO_RECIPES	was ist in Hühnchencurry	recipes	28
+39343535333932	IN:GET_INFO_RECIPES	Wie lange muss Lasagne backen	recipes	28
+39343533303239	IN:GET_RECIPES	Welche Technik wird zur Herstellung von Ricottakäse verwendet	recipes	62
+39343531363033	IN:GET_INFO_RECIPES	Bei welcher Temperatur sollte man Hähnchen braten	recipes	28
+39343530383735	IN:GET_INFO_RECIPES	Wie viele Tassen Wasser benötige ich auf zwei Tassen Quinoa	recipes	28
+3232353833333231	IN:SEND_MESSAGE	Schreib Denny, Brieanna und Dianne, dass wir uns später sprechen	messaging	112
+3232353832393031	IN:GET_MESSAGE	Hat die Gruppe bevorzugter Freunde mir in den letzten paar Tagen eine Nachricht geschickt?	messaging	34
+3232353832383130	IN:SEND_MESSAGE	Kannst du Laura und Lola eine Nachricht schicken?	messaging	112
+3232353832333337	IN:GET_MESSAGE	Ich will Nachrichten von meinem Kind Grace sehen	messaging	34
+3232353735313335	IN:SEND_MESSAGE	Sende es über Facebook an Jack	messaging	112
+3232353734373233	IN:SEND_MESSAGE	"Schreibe Susan über WhatsApp „Das klingt gut!"""	messaging	112
+3232353331333933	IN:CREATE_CALL	Ich möchte gerne 463-555-8338 anrufen	calling	42
+3232353331333532	IN:CREATE_CALL	Bitte ruf 5559977 von meinem Handy aus an	calling	42
+3232353331323438	IN:CREATE_CALL	Ich möchte 982-555-0982 über mein Handy anrufen	calling	42
+3232353138383339	IN:CREATE_CALL	Ich möchte mich bei Antonio Faulkner melden	calling	42
+3232353138383237	IN:CREATE_CALL	Ich möchte Emely Hendricks kontaktieren	calling	42
+3232353138373332	IN:CREATE_CALL	Ich möchte meine Cousins Devan, Sharon, Katelynn und Allyson per Videochat über den Messenger anrufen	calling	42
+3232353137393435	IN:CREATE_CALL	Richte einen Videochat mit Chinesischlernenden auf Skype ein	calling	42
+3232353137383939	IN:CREATE_CALL	Stelle einen Sprachanruf mit meiner Social-Club-Gruppe über den Messenger her	calling	42
+3232353137363436	IN:CREATE_CALL	Starte ein Telefonat mit Kathryn, Madison, Katlyn und Alayna	calling	42
+3232343533363534	IN:SET_RSVP_NO	"Antworte in Bezug auf den Great Big Family Play Day mit „nein"""	event	45
+3232343533353736	IN:SET_RSVP_INTERESTED	"Antworte in Bezug auf die GeekCraftExpo mit „vielleicht"""	event	0
+3232343533303334	IN:SET_RSVP_NO	"Setze meinen Status auf „geht nicht zum Olympic Peninsula Apple and Cider Festival"""	event	45
+3232343532303635	IN:SET_RSVP_NO	"Ändere meinen Status auf „gehe nicht zum TEDxSeattle"""	event	45
+3232343331303834	IN:ADD_TIME_TIMER	Bitte verlängere den Timer um 4 Stunden und 10 Minuten	timer	103
+3232343330393038	IN:CREATE_TIMER	Stelle einen Timer auf 25 Minuten und acht Sekunden und einen Timer auf 1 Minute	timer	49
+3232333635363936	IN:CREATE_CALL	Ruf Hayden Ingram per WhatsApp-Videochat an	calling	42
+3232333635353438	IN:CREATE_CALL	Ruf Bryson und Erick per WhatsApp an	calling	42
+3232333633363638	IN:GET_TIMER	Zeig mir meinen Timer für's Frittieren	timer	104
+3232323930333331	IN:GET_TIMER	Stelle meinen Blink-Timer	timer	104
+3232323930323030	IN:DELETE_TIMER	"Lösche den Timer mit dem Namen „Spaghetti"""	timer	59
+3232323831363732	IN:PLAY_MUSIC	Spiel was von Springsteen.	music	17
+3232323831343936	IN:PLAY_MUSIC	Spiel Joe Bonamassa	music	17
+3232323830393133	IN:PLAY_MUSIC	Tesla Live spielen	music	17
+3232323830373930	IN:PLAY_MUSIC	Hch möchte Al Green Greatest Hits anhören	music	17
+3232323830373532	IN:PLAY_MUSIC	Spiel Journeys größte Hits ab	music	17
+3232323739313937	IN:PLAY_MUSIC	Spiel Jocelyn Flores	music	17
+3232323731383034	IN:PLAY_MUSIC	Spiel Garth Brooks auf Google Play Music ab	music	17
+3232323731373132	IN:SET_DEFAULT_PROVIDER_MUSIC	Öffne Musik nur in Amazon Music	music	106
+3232323731363735	IN:SET_DEFAULT_PROVIDER_MUSIC	Verwende iheartradio für Musik	music	106
+3232323630373931	IN:CREATE_ALARM	Stelle den Wecker für jeden Montag Abend auf 22:00 Uhr	alarm	87
+3232323230303831	IN:PLAY_MEDIA	Finde was von Jackie Chan für mich	music	3
+3232313734363231	IN:GET_MESSAGE	Hab ich im letzten Monat Nachrichten von meinem Neffen bekommen?	messaging	34
+3232313332343637	IN:CREATE_CALL	Ruf Eaton und Cummings an	calling	42
+3231393232383733	IN:GET_WEATHER	Soll ich morgen einen Pullover tragen?	weather	38
+3231373538363632	IN:CREATE_CALL	Bitte ruf sofort Alonzo Lee an	calling	42
+3231373530303633	IN:GET_EVENT	Ich brauche Empfehlungen von dir zu Fußballspielen, die morgen Abend laufen	event	35
+3231373330313531	IN:CREATE_CALL	Ruf stattdessen Gloria Burgess an	calling	42
+3231373236373334	IN:SEND_MESSAGE	Sende es an Zimlich Barney	messaging	112
+3231373236363731	IN:CREATE_CALL	Ruf George über WhatsApp an	calling	42
+3231373236353137	IN:CREATE_CALL	Ruf Lilly Wade Handy an	calling	42
+3231373234363336	IN:CREATE_CALL	Verbinde sie mit dem Telefonanschluss	calling	42
+3231373234323333	IN:CREATE_CALL	Ruf Miller an	calling	42
+3231373234303736	IN:SEND_MESSAGE	Antworte A. Logan mit einem Video	messaging	112
+3231373232313839	IN:CREATE_CALL	Starte einen Anruf mit Alayna Moore über WhatsApp	calling	42
+3231373131333232	IN:CREATE_CALL	Ruf Haven A. an	calling	42
+3231373034353638	IN:GET_SUNRISE	Sag mir, wann am Dienstag die Sonne aufgeht	weather	76
+3231363735353039	IN:SET_AVAILABLE	Ich bin online − stell das bitte für mich ein	calling	23
+3231363734333532	IN:GET_CALL_TIME	Um wie viel Uhr hat Tessa mich angerufen?	calling	73
+3231363734303838	IN:END_CALL	aktuellen Anruf abbrechen	calling	21
+3231363339353634	IN:GET_WEATHER	Wird sich die Wettervorhersage für den 8. Juli in Singapur verbessern?	weather	38
+3231363337303139	IN:CREATE_ALARM	Stell den Wecker	alarm	87
+3231363335333734	IN:CREATE_ALARM	Stell den Wecker für den 5.	alarm	87
+3231363333333731	IN:CREATE_ALARM	Bitte stell einen Alarm ein, der sonntags um 11 Uhr morgens und 12 Uhr mittags klingelt.	alarm	87
+3231363137393037	IN:CREATE_CALL	Ruf doch mal Marget Rehberg an	calling	42
+3231363039353831	IN:SEND_MESSAGE	"Schick eine Nachricht mit dem Text: „Wann fahren wir heute los?"""	messaging	112
+3231363037363335	IN:GET_CALL	Kannst du mir die bisherigen Gespräche mit Michael zeigen?	calling	55
+3231363032393133	IN:START_SHUFFLE_MUSIC	#1 auf Zufallswiedergabe endlos wiederholen	music	14
+3231363032353933	IN:PLAY_MUSIC	"öffne Spotify und spiel „2001 (New UK Version)"""	music	17
+3231363032333638	IN:SNOOZE_ALARM	Für 5 weitere Minuten schlummern	alarm	13
+3231363031363630	IN:CREATE_ALARM	Stell den Wecker auf Montag, 17 Uhr	alarm	87
+3231363031323737	IN:CREATE_ALARM	Stell mir einen Alarm für den 25. Juni ein.	alarm	87
+3231363030353337	IN:CREATE_ALARM	"Erstelle einen ""Freier Tag""-Alarm für den 1. Juni"	alarm	87
+3231353938303435	IN:GET_WEATHER	Wie warm wird es am Samstag?	weather	38
+3231353835303530	IN:CREATE_CALL	Ich möchte bitte Jennifer Bernett anrufen.	calling	42
+3231353539363536	IN:GET_WEATHER	Wie warm wird es heute?	weather	38
+3231353539333931	IN:GET_WEATHER	Brauche ich heute Abend einen Regenschirm?	weather	38
+3231353538333937	IN:GET_WEATHER	Wie viel Regen gibt es?	weather	38
+3231353538313230	IN:GET_WEATHER	Wie ist das Wetter heute Abend?	weather	38
+3231353537373532	IN:GET_WEATHER	Wie wird das Wetter in Devon?	weather	38
+3231353535343436	IN:SILENCE_ALARM	Ich hab's gehört, jetzt hör auf mit dem nervigen Wecker.	alarm	85
+3231353533373038	IN:CREATE_ALARM	Stell einen wöchentlichen Alarm für montags um 5 und dienstags um 6 Uhr ein	alarm	87
+3231353533363337	IN:CREATE_ALARM	Ich brauche zwei Alarme, einen für 3 und einen für 4 Uhr.	alarm	87
+3231353533353430	IN:CREATE_ALARM	Stelle jeden Montag einen Alarm für 15:30 Uhr und 18:00 Uhr.	alarm	87
+3231353533323732	IN:CREATE_ALARM	Stell einen wiederkehrenden Alarm für jeden Montag um 9 Uhr und 14 Uhr ein.	alarm	87
+3231353531313330	IN:CREATE_ALARM	Kannst du mich morgen früh um 8 wecken?	alarm	87
+3231353530383539	IN:UPDATE_ALARM	Ändere meinen Alarm für morgen Nachmittag.	alarm	39
+3231353530383138	IN:UPDATE_ALARM	Ändere meinen Weck-Alarm	alarm	39
+3231353439353537	IN:DELETE_ALARM	Lösch meinen aktuellen Alarm	alarm	31
+3231353439333235	IN:DELETE_ALARM	Ich möchte alle derzeit eingestellten Alarme löschen.	alarm	31
+3231353437373236	IN:GET_AVAILABILITY	Wer ist derzeit online?	calling	110
+3231353437363436	IN:SET_AVAILABLE	Kannst du anzeigen, dass ich online verfügbar bin?	calling	23
+3231353437363036	IN:GET_AVAILABILITY	ist Valerija online?	calling	110
+3231353437313837	IN:GET_CALL_TIME	Wann habe ich Tesco angerufen?	calling	73
+3231353233343539	IN:PLAY_MUSIC	Mache Jacquees Musik an	music	17
+3231353233333634	IN:PLAY_MUSIC	"Spiel „Happier"" von Justin Timberlake"	music	17
+3231353233333537	IN:PLAY_MUSIC	Finde die neuesten Lieder von SZA	music	17
+3231353232323931	IN:CREATE_PLAYLIST_MUSIC	Lege eine Playlist an: Vereinigte Staaten Top 50	music	67
+3231353036343231	IN:CREATE_CALL	Ruf die Oma von Reese an	calling	42
+3231353036333530	IN:CREATE_CALL	Ruf die Oma von Sophie an	calling	42
+3231343939333831	IN:CREATE_CALL	Ruf den Pfandleiher an	calling	42
+3231343937333339	IN:GET_EVENT	Irgendwelche Tennisspiele?	event	35
+3231343937323538	IN:GET_EVENT	Sportereignisse in Philadelphia am Donnerstag	event	35
+3231343630373334	IN:GET_CONTACT	Welche von Pearlene Bohorquez' Enkeln wurden am 22. geboren?	people	54
+3231343630363631	IN:GET_CONTACT	Zeig die Geburtstage meiner Tanten an	people	54
+3231343030383537	IN:CREATE_REMINDER	Bitte erinnere mich daran, Mark und Paul anzurufen und sie zum Abendessen auswärts einzuladen.	reminder	11
+3231343030373037	IN:CREATE_REMINDER	Erinner mich am Montag um 9 Uhr.	reminder	11
+3231333934383739	IN:SEND_MESSAGE	Frag Lee, wann ich am Mittwoch an der Schule sein soll.	messaging	112
+3231333636383938	IN:GET_MESSAGE	Lies weiter die Nachricht vor	messaging	34
+3231333534393839	IN:CREATE_CALL	Ich möchte mit Oh sprechen	calling	42
+3231333534393633	IN:ANSWER_CALL	Bitte antworte Ripley Shelby	calling	77
+3231333534383935	IN:CREATE_CALL	Ruf Oh Krishna an	calling	42
+3231333532343534	IN:UPDATE_CALL	Bitte lade Dan zu diesem Anruf ein	calling	79
+3231333531383232	IN:GET_AVAILABILITY	Ist mein Bruder gerade online?	calling	110
+3231333531363631	IN:SET_AVAILABLE	"Auf „jetzt erreichbar"" ändern"	calling	23
+3231333531333730	IN:UPDATE_CALL	Jackie soll dem Anruf hinzugefügt werden	calling	79
+3231333436363330	IN:GET_AVAILABILITY	Wer ist verfügbar?	calling	110
+3231333436303938	IN:GET_AVAILABILITY	Zeig mir, wer gerade Zeit hat	calling	110
+3231333435323832	IN:GET_AVAILABILITY	Wer ist gerade verfügbar?	calling	110
+3231333432353634	IN:SET_UNAVAILABLE	"Bitte setze meinen Status auf „nicht verfügbar"""	calling	64
+3231333430363638	IN:UPDATE_CALL	Füge Mama zum Gespräch hinzu	calling	79
+3231333132383033	IN:CREATE_CALL	Starte einen Videoanruf mit meinem Stiefvater.	calling	42
+3231333131343936	IN:ANSWER_CALL	Nimm alle Anrufe von meiner Schwägerin an	calling	77
+3231333039373637	IN:CREATE_CALL	Ruf meine Schwiegertöchter an	calling	42
+3231323838363637	IN:SEND_MESSAGE	Schick Frank eine Nachricht, dass er auf WAZE nachsehen soll, wie es um 17:00 Uhr mit dem Verkehr zu mir nach Hause aussieht.	messaging	112
+3231323837363332	IN:SEND_MESSAGE	Schreib an Bradley's Garage, dass ich mein Auto morgen früh abhole.	messaging	112
+3231323837313934	IN:SEND_MESSAGE	Sende eine Nachricht an meine Schwester Debbie. Lass mich wissen, ob sie heute ins Einkaufszentrum gehen möchte	messaging	112
+3231323836383838	IN:SEND_MESSAGE	SCHREIB MEINEN GROSSELTERN EINE NACHRICHT UND FRAG SIE, UM WIE VIEL UHR WIR WEIHNACHTEN VORBEIKOMMEN SOLLEN	messaging	112
+3231323836303332	IN:SEND_MESSAGE	Schicke eine Nachricht an die Buchhaltung, die Rechnung schnellstmöglich zu bearbeiten	messaging	112
+3231323831323136	IN:SEND_MESSAGE	Bitte sende Michelle eine Nachricht und sag ihr, dass wir den Ort geändert haben, an dem wir uns treffen.	messaging	112
+3231323737383632	IN:SEND_MESSAGE	Frag Mo, wann sein Flug geht	messaging	112
+3231323737343338	IN:SEND_MESSAGE	Frag Shannon, ob sie unterwegs ist	messaging	112
+3231323737333537	IN:SEND_MESSAGE	Sende Mama und Papa eine Nachricht und sag ihnen, dass ich sie in 15 Minuten über Facetime anrufen werde	messaging	112
+3231323431363832	IN:CREATE_REMINDER	Erinnere mich, meinen Arzt morgen früh anzurufen	reminder	11
+3231323431303932	IN:CREATE_REMINDER	Erinnere mich daran, am Dienstag bei meiner Mutter vorbeizuschauen.	reminder	11
+3231323431303637	IN:CREATE_REMINDER	Erinnere mich daran, einen Hausarzt anzurufen	reminder	11
+3231323430353834	IN:CREATE_REMINDER	Erinnere mich daran, meine Medikamente um 9 Uhr morgens zu nehmen	reminder	11
+3231323430323236	IN:CREATE_REMINDER	Erinnere mich, dein Geschenk abzuholen	reminder	11
+3231323339383236	IN:GET_REMINDER	Hast Du irgendwelche Erinnerungen für mich?	reminder	93
+3231323339323233	IN:CREATE_REMINDER	Erinner mich daran, den Ofen in einer Stunde auszuschalten.	reminder	11
+3231323338373635	IN:CREATE_REMINDER	Erstelle eine Erinnerung daran, das Haus morgen um 6 Uhr zu verlassen	reminder	11
+3231323338343330	IN:CREATE_REMINDER	Erinner mich ans Recycling.	reminder	11
+3231323338313136	IN:DELETE_REMINDER	Lösch die Erinnerung an das Training heute Abend	reminder	48
+3231323337383937	IN:DELETE_REMINDER	Lösch die Erinnerung an den Termin heute um 14:30 Uhr	reminder	48
+3231323337343333	IN:CREATE_REMINDER	Stelle eine Erinnerung ein, um den Ofen auszuschalten	reminder	11
+3231323336313031	IN:DELETE_REMINDER	Lösch die Erinnerung, das Abendessen aufzutauen	reminder	48
+3231323335323337	IN:GET_REMINDER	Erinnerungen für heute Abend abrufen, bitte.	reminder	93
+3231323334323835	IN:UPDATE_REMINDER_TODO	Kannst du die Erinnerung für nächstes Wochenende über die Essenszeit abändern?	reminder	101
+3231323334313432	IN:DELETE_REMINDER	Kannst du unsere Erinnerung an die Lerngruppe bei Jim löschen?	reminder	48
+3231323333303132	IN:GET_REMINDER	Sag mir alle Erinnerungen für die Einkäufe für den Schulanfang	reminder	93
+3231323333303039	IN:GET_REMINDER	Wo sind meine Erinnerungen für Arbeitsbesprechungen?	reminder	93
+3231323331353235	IN:DELETE_REMINDER	Lösche bitte eine Erinnerung.	reminder	48
+3231323239303838	IN:GET_REMINDER	Kannst du Erinnerungen über Scotts Party hervorholen?	reminder	93
+3231323235393133	IN:GET_REMINDER	Bitte lies die Erinnerung über meinen Arzttermin nächste Woche.	reminder	93
+3231323235383134	IN:DELETE_REMINDER	Lösche den Alarm für die Erinnerung an die Geburtstagsparty	reminder	48
+3231323234343532	IN:DELETE_REMINDER	Lösche alle Erinnerungen bezüglich Golf mit Sandy.	reminder	48
+3231313536333737	IN:CREATE_REMINDER	Kannst du bitte eine Erinnerung um 10 Uhr am Samstag bezüglich meines Friseurtermins um 13 Uhr anlegen?	reminder	11
+3231313534303336	IN:CREATE_REMINDER	Erinner mich einen Tag vorher an meinen Zahnarzttermin	reminder	11
+3231313533373430	IN:CREATE_REMINDER	Ich habe eine Operation in San Bernardino um 10 Uhr. Ich brauche eine Erinnerung 3 Stunden vor der Operation.	reminder	11
+3231313533363535	IN:CREATE_REMINDER	Erinner die Gruppe daran, sich um 7 Uhr morgens zum Unterricht zu treffen.	reminder	11
+3231313533343133	IN:GET_REMINDER	Zeig mir meine Erinnerungsliste.	reminder	93
+3231313532373231	IN:CREATE_REMINDER	Erstelle eine Erinnerung, dass ich diesen Donnerstag um 16 Uhr ein Bewerbungsgespräch habe.	reminder	11
+3231313531373737	IN:CREATE_REMINDER	Erinner mich daran, Gelder zwischen meinen Konten zu überweisen	reminder	11
+3231313531343435	IN:CREATE_REMINDER	Erinner mich daran, meinen Reiskocher nach 1 Stunde auszustecken	reminder	11
+3231313531313730	IN:CREATE_REMINDER	Kannst Du mich daran erinnern, Morgen früh um 9 Uhr zu frühstücken?	reminder	11
+3231313439373030	IN:CREATE_REMINDER	Lege eine Erinnerung eine halbe Stunde vor meiner Präsentation am Dienstag an.	reminder	11
+3231313438343833	IN:CREATE_REMINDER	Ich muss morgen mit meinem Papa videochatten. Kannst du mir eine Erinnerung gegen 15 Uhr einstellen?	reminder	11
+3231313438323132	IN:CREATE_REMINDER	Erinner mich daran, zwei Dutzend Eier zu meiner Einkaufsliste hinzuzufügen.	reminder	11
+3231313437303633	IN:DELETE_REMINDER	Lösche die Erinnerung daran, den Klempner anzurufen.	reminder	48
+3231313435383339	IN:CREATE_REMINDER	Erinner mich daran, meine Hausaufgaben bei Canvas hochzuladen, bevor sie am Dienstag fällig sind.	reminder	11
+3231313434303037	IN:UPDATE_REMINDER_DATE_TIME	Ändere meine Erinnerung daran, auf den Twitter-Beitrag von meiner Schwester bezüglich der Augen-Make-up-Farben zu antworten, von 20 Uhr auf 20:30 Uhr.	reminder	22
+3231313235333930	IN:GET_SUNSET	Wann ist heute der Sonnenuntergang?	weather	43
+3231303230333632	IN:IGNORE_CALL	Bitte ignoriere alle zukünftigen Anrufe von Jake.	calling	75
+3231303139393339	IN:IGNORE_CALL	Nimm keine Anrufe von Lydia entgegen	calling	75
+3231303136363830	IN:CREATE_CALL	Starte ein Videogespräch mit meinem Freund Sean Little	calling	42
+3231303134393033	IN:UPDATE_METHOD_CALL	Verwende kein Video für diesen Anruf	calling	51
+3231303133383137	IN:CREATE_CALL	Videoanruf mit meinem Vater	calling	42
+3230313137303237	IN:GET_WEATHER	Wie ist die Wettervorhersage diese Woche?	weather	38
+3230303431383530	IN:CREATE_TIMER	Stelle den Timer auf 18 Jahre	timer	49
+3139393930303536	IN:GET_EVENT	Nenn mir ein paar Veranstaltungen, die dieses Wochenende in San Francisco stattfinden	event	35
+3139393839373338	IN:GET_EVENT	Aktivitäten in Mississippi	event	35
+3139393839323832	IN:GET_EVENT	Was kann man dieses Wochenende am besten in Converse machen?	event	35
+3139393833363831	IN:GET_EVENT	Wo kann man nach Mitternacht hingehen?	event	35
+3139393833313639	IN:GET_EVENT	Gitarrenkonzerte in Dallas für nächstes Wochenende	event	35
+3139393831383231	IN:GET_EVENT	Sag mir, was heute Abend in New York los ist	event	35
+3139393830343639	IN:GET_EVENT	Was findet nächste Woche in Ypsilanti statt?	event	35
+3139393830323038	IN:GET_EVENT	Irgendwelche Partys heute Abend?	event	35
+3139393736323530	IN:GET_EVENT	Welche Veranstaltungen gibt es an Silvester?	event	35
+3139383539333338	IN:GET_CONTACT_METHOD	Kennst du die Nummer von Tim?	people	7
+3139383539333036	IN:GET_CONTACT_METHOD	Wie heißt Hunter auf Twitter?	people	7
+3139343333343730	IN:GET_INFO_CONTACT	Welche Nationalität hat George Clooney?	people	58
+3138393934373830	IN:GET_INFO_CONTACT	Wer ist Ian?	people	58
+3138393934303239	IN:GET_INFO_CONTACT	Erzähl mir von Pam.	people	58
+3138393932333537	IN:GET_EMPLOYMENT_TIME	Arbeitet Mary schon immer bei AT&T?	people	5
+3138393932313235	IN:GET_EMPLOYER	Arbeitet Tim immer noch bei Golden Moon?	people	92
+3138393931383932	IN:GET_EMPLOYMENT_TIME	Wann hat Andrew seine Stelle bei Verizon angetreten?	people	5
+3138393839333933	IN:GET_UNDERGRAD	Auf welches College geht Ryan?	people	70
+3138393838303036	IN:GET_AGE	Wie alt ist Sarah?	people	80
+3138393837363934	IN:GET_AGE	Wie alt ist Emily?	people	80
+3138393835373333	IN:GET_EMPLOYER	Wo arbeitet Alex?	people	92
+3138393835303737	IN:GET_LOCATION	Bitte sag mir, wo Dawn arbeitet	people	44
+3138393833393935	IN:GET_CONTACT	Wer arbeitet bei Macys?	people	54
+3138393833323937	IN:GET_CONTACT	Wer arbeitet bei Hugo	people	54
+3138393832393935	IN:GET_CONTACT	Wer arbeitet in Ashwaubenon?	people	54
+3138393832363037	IN:GET_CONTACT	Wer arbeitet für den National Park Service?	people	54
+3138393832333931	IN:GET_CONTACT	Wer hat an der COTC seinen Abschluss gemacht?	people	54
+3138393831343336	IN:GET_CONTACT	Kenne ich irgendjemanden, der auf die Pepperdine gegangen ist?	people	54
+3138393831333437	IN:GET_CONTACT	Wie viele Leute kenne ich, die an der Texas A&M University studiert haben?	people	54
+3138393831323336	IN:GET_CONTACT	Wie viele Leute kenne ich, die in Florida zur Uni gingen?	people	54
+3138393734303034	IN:GET_CONTACT	Finde die Freunde meiner Mutter.	people	54
+3138383935303637	IN:GET_INFO_RECIPES	Wie viel Gramm Protein sind in einem Glas fettarmer Milch?	recipes	28
+3138383934393738	IN:GET_INFO_RECIPES	Wie lange muss ich Pommes in der Heißluftfritteuse garen?	recipes	28
+3138383934373330	IN:IS_TRUE_RECIPES	Hat Pizza mehr Kalorien als Steak?	recipes	66
+3138383932383936	IN:GET_INFO_RECIPES	Ich brauche den Nährwertgehalt für das Müsli	recipes	28
+3138383931313532	IN:GET_INFO_RECIPES	Wie lange muss man leicht umrühren?	recipes	28
+3138383931303632	IN:GET_INFO_RECIPES	Wie lange muss ich Pizza backen?	recipes	28
+3138383931303630	IN:GET_RECIPES	Wie mache ich Lasagne?	recipes	62
+3136343034333134	IN:PAUSE_TIMER	Pausiere die Timer	timer	99
+3135333031313330	IN:GET_STORIES_NEWS	Einzelheiten zu OJ Simpsons Entlassung aus dem Gefängnis	news	78
+3135323933313539	IN:GET_STORIES_NEWS	Finde für mich das Neueste zum Prozess gegen Bill Cosby	news	78
+3135323839393835	IN:CREATE_TIMER	Timer für 1,5 Stunden einstellen	timer	49
+3135323839353231	IN:ADD_TIME_TIMER	Füge dem Timer noch zwei Minuten hinzu	timer	103
+3134313630323137	IN:GET_WEATHER	Temperatur morgen früh in der Umgebung von Dublin in Fahrenheit	weather	38
+3134313539383535	IN:GET_WEATHER	Wird die Temperatur in Paris über 12 Grad Celsius steigen?	weather	38
+3134313539383530	IN:GET_WEATHER	Wird die Temperatur in New York heute über 79 Grad Celsius liegen?	weather	38
+3134313539363830	IN:GET_WEATHER	Temperatur morgen früh in Celsius	weather	38
+3134313539313539	IN:GET_WEATHER	Temperatur nächste Woche hier in Celsius	weather	38
+3133343439353837	IN:GET_INFO_RECIPES	Welche Gewürze macht man auf ein Huhn?	recipes	28
+3133343138393938	IN:GET_INFO_RECIPES	Wie viel Fett ist in einem Brownie?	recipes	28
+3133343130333730	IN:GET_INFO_RECIPES	Welches Öl ist am besten, um Stir Fry zu kochen?	recipes	28
+3133323738353034	IN:GET_INFO_RECIPES	Wie lange brät man Jakobsmuscheln in der Pfanne an?	recipes	28
+3133323738333332	IN:GET_INFO_RECIPES	Wie viele Kalorien hat eine große Peperoni-Pizza?	recipes	28
+3133323737393637	IN:GET_INFO_RECIPES	Bei welcher Temperatur gart man einen Truthahn?	recipes	28
+3133323737323033	IN:GET_RECIPES	Zeig mir ein paar traditionelle chinesische Rezepte	recipes	62
+3133323735353330	IN:GET_INFO_RECIPES	Welche Gewürze sind in einer Taco-Suppe?	recipes	28
+3132383135363030	IN:GET_WEATHER	Heute Abend war es ziemlich schwül. Wird es heute Nacht regnen?	weather	38
+3132363137353539	IN:PAUSE_TIMER	Kannst du jetzt pausieren?	timer	99
+3132363134393235	IN:GET_WEATHER	Wird es morgen Abend kalt sein?	weather	38
+3132353834373938	IN:GET_WEATHER	Zeig mir die Wetterbedingungen für diese Woche	weather	38
+3132353732363338	IN:GET_WEATHER	Was ist die durchschnittliche Temperatur im Juli?	weather	38
+3132353635373436	IN:PLAY_MUSIC	Spiel mir Musik	music	17
+3132353635313636	IN:PLAY_MUSIC	Kannst du meine Country-Playlist abspielen?	music	17
+39353830353734	IN:PAUSE_TIMER	Pausiere den Timer.	timer	99
+39353830353139	IN:GET_TIMER	Wie lange läuft mein Timer noch?	timer	104
+39353738323031	IN:GET_WEATHER	SOLL ES NÄCHSTE WOCHE IN PALM SPRINGS REGNEN?	weather	38
+39353733343736	IN:CREATE_ALARM	Stell den Alarm so ein, dass er während meines Trainings alle 15 Minuten klingelt	alarm	87
+39353733303332	IN:CREATE_ALARM	Schalte alle Alarme ein	alarm	87
+39353731333839	IN:CREATE_ALARM	Stell einen Wecker für 7 Uhr morgen früh	alarm	87
+39353730383536	IN:GET_STORIES_NEWS	Aktuelle Nachrichten aus Kanada	news	78
+39353730303835	IN:UPDATE_TIMER	verschieb meinen Timer für 5 Uhr um eine Stunde	timer	74
+39353639333731	IN:GET_STORIES_NEWS	Irgendwelche Neuigkeiten zur Explosion?	news	78
+39353639333039	IN:PLAY_MUSIC	Spiele alle Alben von Pink Floyd	music	17
+39353638303730	IN:SKIP_TRACK_MUSIC	Überspringe dieses Stück bitte	music	8
+39353637313432	IN:SILENCE_ALARM	Schalte die Alarme aus	alarm	85
+39353637303931	IN:GET_WEATHER	Brauche ich heute meine Regenstiefel?	weather	38
+39353631373133	IN:GET_WEATHER	Wie ist die Wettervorhersage für meine Geburtstagsparty?	weather	38
+39353631313733	IN:GET_WEATHER	Brauche ich heute Morgen eine Regenjacke?	weather	38
+39353630373036	IN:SKIP_TRACK_MUSIC	Überspring dieses Lied.	music	8
+39353539393334	IN:GET_WEATHER	Wird es heute in Birmingham regnen?	weather	38
+39353537303736	IN:PLAY_MUSIC	Spiel ein Lied von Cher.	music	17
+39353534343734	IN:CREATE_ALARM	Stell den Wecker auf 8:30 Uhr.	alarm	87
+39353530343931	IN:ADD_TIME_TIMER	Füg dem Timer zehn weitere Minuten hinzu.	timer	103
+39353438383739	IN:QUESTION_NEWS	Bedroht Korea immer noch die USA?	news	98
+39353438353936	IN:GET_WEATHER	Wie wird die Temperatur heute um 15 Uhr?	weather	38
+39353432363637	IN:GET_WEATHER	Was für ein Wetter wird am Samstag erwartet?	weather	38
+39353432313830	IN:ADD_TIME_TIMER	Kannst du 30 Sekunden zu meinem Timer hinzufügen?	timer	103
+39353430363535	IN:GET_STORIES_NEWS	Breaking News von heute Morgen	news	78
+39353339343630	IN:GET_WEATHER	Langfristige Wettervorhersage für diesen Winter	weather	38
+39353234333436	IN:GET_STORIES_NEWS	Neue Nachrichten über Trump?	news	78
+39353234303631	IN:CREATE_TIMER	Stelle einen Timer auf zehn Minuten	timer	49
+39353230323431	IN:GET_WEATHER	Wie wird die Temperatur diesen Samstag?	weather	38
+39353230313632	IN:GET_TRACK_INFO_MUSIC	Wer ist der Produzent dieses Albums?	music	10
+39353138353931	IN:PLAY_MUSIC	Spiel Musik von Depeche Mode auf Spotify.	music	17
+39353137353633	IN:QUESTION_MUSIC	Was ist das meistgespielte Lied	music	83
+39353137313235	IN:QUESTION_NEWS	Ist OJ Simpson immer noch im Gefängnis?	news	98
+39353133373938	IN:CREATE_ALARM	Stell den Wecker auf heute Abend, 7 Uhr	alarm	87
+39353132353933	IN:QUESTION_NEWS	Sinkt die Kriminalitätsrate in Chicago?	news	98
+39353131353230	IN:GET_WEATHER	Ich möchte wissen, wie die Temperatur morgen werden soll.	weather	38
+39353131303139	IN:PLAY_MUSIC	Das Neueste von den Stone Temple Pilots	music	17
+39353130373331	IN:CREATE_ALARM	Stell einen Alarm auf morgen, 8:30 Uhr	alarm	87
+39353039383432	IN:PLAY_MUSIC	Starte Musik auf Pandora	music	17
+39353039303030	IN:GET_STORIES_NEWS	Was sind die neuesten Nachrichten zu Nordkorea?	news	78
+39353038343734	IN:PLAY_MUSIC	Bitte spiel ein paar Lieder aus Musicals.	music	17
+39353036363737	IN:CREATE_ALARM	Stell den Wecker auf heute, 15 Uhr, um Alice abzuholen.	alarm	87
+39353036303530	IN:GET_STORIES_NEWS	Gibt es Neuigkeiten über Nordkorea?	news	78
+39353035313033	IN:GET_WEATHER	Werden in Bezug auf das aktuelle Gewitter Blitze gemeldet?	weather	38
+39353034383831	IN:ADD_TIME_TIMER	Meinem Timer weitere Minuten hinzufügen.	timer	103
+39353033383633	IN:SKIP_TRACK_MUSIC	Spring zum letzten Lied	music	8
+39353032353335	IN:CREATE_ALARM	Kannst du den Wecker auf 8:30 Uhr stellen?	alarm	87
+39343939313539	IN:GET_WEATHER	Wie ist die aktuelle Temperatur auf Long Island?	weather	38
+39343937303031	IN:GET_WEATHER	Wird es um 7 Uhr morgens kühl sein?	weather	38
+39343932383933	IN:PLAY_MUSIC	"Kann ich „She is Always a Woman"" von Billy Joel hören?"	music	17
+39343932363731	IN:GET_STORIES_NEWS	Was sind die Nachrichten bei der Daily Show heute Abend?	news	78
+39343932343138	IN:GET_WEATHER	Bahamas-Wetter	weather	38
+39343932323338	IN:CREATE_ALARM	Setze einen Alarm, damit ich daran denke, Mama ihre Medizin zu geben	alarm	87
+39343931313332	IN:GET_WEATHER	Wie viel Regen kriegen wir diese Woche?	weather	38
+39343930383530	IN:GET_TIMER	Wie viele Minuten sind auf dem Timer noch übrig?	timer	104
+39343930333238	IN:GET_WEATHER	Wie kalt ist es gerade?	weather	38
+39343838343930	IN:GET_WEATHER	Soll ich eine Mütze tragen?	weather	38
+39343837373535	IN:CREATE_ALARM	Stell einen Alarm ein, der alle 15 Minuten klingelt.	alarm	87
+39343837363531	IN:GET_WEATHER	Braut sich im Augenblick ein Orkan zusammen?	weather	38
+39343835393634	IN:CREATE_TIMER	Ich brauche einen Timer mit 10 Minuten auf der Uhr.	timer	49
+39343833393637	IN:GET_WEATHER	Wird es Freitag heiß werden?	weather	38
+39343833343735	IN:CREATE_ALARM	Bitte stell einen Alarm ab jetzt für 95 Minuten ein	alarm	87
+39343831333735	IN:GET_STORIES_NEWS	Wie sind die neusten Nachrichten zur ISIS-Krise?	news	78
+39343831333036	IN:GET_WEATHER	Wie ist das Wetter dieses Wochenende?	weather	38
+39343739333932	IN:SNOOZE_ALARM	Schalte meinen Wecker für 10 Minuten stumm	alarm	13
+39343739303733	IN:GET_STORIES_NEWS	Prüf die lokalen Nachrichten	news	78
+39343738383739	IN:GET_STORIES_NEWS	Was sind jetzt gerade die größten Schlagzeilen?	news	78
+39343738353735	IN:GET_WEATHER	Um wie viel Uhr wird es morgen regnen?	weather	38
+39343737373336	IN:GET_WEATHER	Bitte das Wetter für St. Louis, Missouri.	weather	38
+39343736383339	IN:GET_STORIES_NEWS	Gib mir die aktuellen Nachrichten	news	78
+39343734333834	IN:CREATE_TIMER	Richte einen Timer für eine Minute ein	timer	49
+39343732383932	IN:GET_TRACK_INFO_MUSIC	Sag mir den Namen dieses Künstlers.	music	10
+39343732383431	IN:GET_TIMER	Wie lange geht meine Timer noch?	timer	104
+39343639363530	IN:CREATE_TIMER	Stell einen Timer für hartgekochte Eier	timer	49
+39343639353935	IN:CREATE_TIMER	Füge einen Timer für 20 Minuten hinzu	timer	49
+39343637353438	IN:GET_STORIES_NEWS	Was ist die am meisten gelesene Schlagzeile heute?	news	78
+39343632313130	IN:GET_INFO_RECIPES	Welche Temperatur brauche ich für die Kirschkuchen?	recipes	28
+39343631373836	IN:GET_INFO_RECIPES	Bei welcher Temperatur muss ich Rinderbraten kochen?	recipes	28
+39343631313832	IN:GET_RECIPES	Wie lautet das Rezept für Hühnchen-Carbonara?	recipes	62
+39343631313638	IN:GET_INFO_RECIPES	Wie lange sollte ich einen Kuchen backen?	recipes	28
+39343630383330	IN:GET_INFO_RECIPES	Wie lange gart man Schmorbraten?	recipes	28
+39343630373239	IN:GET_RECIPES	Wie mache ich Erdbeer-Shortcake?	recipes	62
+39343630363538	IN:GET_INFO_RECIPES	Welche Zutaten brauche ich für einen Kartoffelsalat?	recipes	28
+39343630303331	IN:GET_RECIPES	Ich brauche ein Rezept für Thousand-Island-Dressing	recipes	62
+39343539353833	IN:GET_RECIPES	Such mir ein veganes Dessert mit Äpfeln	recipes	62
+39343537383536	IN:GET_INFO_RECIPES	Bei welcher Temperatur soll ich das backen?	recipes	28
+39343537383131	IN:GET_INFO_RECIPES	Wie bereite ich ein gut durchgebratenes Steak zu?	recipes	28
+39343536313436	IN:GET_INFO_RECIPES	Wie kocht man Steak in der Pfanne?	recipes	28
+39343535353335	IN:GET_INFO_RECIPES	Wie gart man Speck am besten im Ofen?	recipes	28
+39343535343038	IN:GET_INFO_RECIPES	Wie brät man Fisch	recipes	28
+39343534313635	IN:GET_RECIPES	Gesunde Rezepte fürs Abendessen	recipes	62
+39343533333332	IN:GET_INFO_RECIPES	Was ist in Moussaka?	recipes	28
+39343533313838	IN:GET_INFO_RECIPES	Wie lange soll ich meinen Apfelkuchen backen?	recipes	28
+39343532393535	IN:GET_INFO_RECIPES	Wie viele Kalorien sind in einem Philly-Käsesteaksandwich?	recipes	28
+39343532373430	IN:GET_INFO_RECIPES	Wie lange brate ich mein Fleisch, damit es englisch ist?	recipes	28
+39343530393334	IN:GET_RECIPES	Wie macht man Hummerbrötchen?	recipes	62
+39343530363932	IN:GET_INFO_RECIPES	Wie viele Schokoladenstückchen soll ich in meine Kekse geben?	recipes	28

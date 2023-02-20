@@ -1,0 +1,150 @@
+threadId=50000	segmentId=50000	!@#NEXLP_DOCVECTOR_SEPARATOR#@!亚马逊你要给我个解释！. 1、吊牌价格是78元，你大耶的为啥秒杀价格比吊牌价高？ 2、原价248元，优惠价78元是从何而来？ 3、要不是因为包装直接扔了肯定要退货，卖家这样标价格忒不厚道。 !#nexlpEOL#!
+threadId=50001	segmentId=50001	!@#NEXLP_DOCVECTOR_SEPARATOR#@!异味严重. 这件衣服面料的异味非常严重，类似于那种劣质衣服的甲醛味，已经洗了两次了，异味一点都没有减轻。 !#nexlpEOL#!
+threadId=50002	segmentId=50002	!@#NEXLP_DOCVECTOR_SEPARATOR#@!垃圾的东西！. 超级垃圾，发货发了半个月，多次催才到，而且来到好多都是烂的…永不会再买！！！！体验超级垃圾，超级垃圾，超级垃圾！！重要的事情说三遍… !#nexlpEOL#!
+threadId=50003	segmentId=50003	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量一般. 首先可以确定 这个帽子和瑞士没什么关系 质量一般 肯定不值这个价 !#nexlpEOL#!
+threadId=50004	segmentId=50004	!@#NEXLP_DOCVECTOR_SEPARATOR#@!差评，没货还上架. 没货发给我，还摆上货架，我等了一个月才告诉我没货，差评 !#nexlpEOL#!
+threadId=50005	segmentId=50005	!@#NEXLP_DOCVECTOR_SEPARATOR#@!真是无语，起雾漏水情况都出现了. 无语，现在不知道怎么办。 用了两周后开始起雾，用了一个月后，其中一个镜出现了漏水情况。 还那么贵啊，结果是这样。 !#nexlpEOL#!
+threadId=50006	segmentId=50006	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量太水. 本来买来看还可以，可以一用发现第二节螺丝坏了，打电话问客服说买家只支持退货，不换货，而且还要四天以后，才40元不到的东西我已看出这家的服务质量了，唉，自己吃亏吧。再不买这家的了。 !#nexlpEOL#!
+threadId=50007	segmentId=50007	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量太差，怀疑不是原装进口机器. 买来用了不到半年，这半年用的频率也不高，基本每周用一次，绳子就断了。维修后没几个月又坏了。质量太差了，到底是不是进口的？觉得商家存在欺骗行为。希望尽快给个说法。 !#nexlpEOL#!
+threadId=50008	segmentId=50008	!@#NEXLP_DOCVECTOR_SEPARATOR#@!硬邦邦. 真心是硬～没弹性。表皮容易裂，打了三个月就不行了。 !#nexlpEOL#!
+threadId=50009	segmentId=50009	!@#NEXLP_DOCVECTOR_SEPARATOR#@!胸垫都没有！. 见了鬼了 胸垫都没有 跟国内版本不一样！在页面上也没有地方可以看得出来没有垫片这个问题！！！！ !#nexlpEOL#!
+threadId=50010	segmentId=50010	!@#NEXLP_DOCVECTOR_SEPARATOR#@!油. 真的有病发个空盒给我还强行说是快递运输的漏油？ !#nexlpEOL#!
+threadId=50011	segmentId=50011	!@#NEXLP_DOCVECTOR_SEPARATOR#@!垃圾. 只能说东西差的不能再差了，箱子崭新无损，里面的头盔，周围的保护泡沫都成了碎片！垃圾 !#nexlpEOL#!
+threadId=50012	segmentId=50012	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不好 两个字. 快递慢就不说了 我能说一点也不好吗 太次了 刚贴上不到十分钟就全掉了 太失望了 !#nexlpEOL#!
+threadId=50013	segmentId=50013	!@#NEXLP_DOCVECTOR_SEPARATOR#@!效果不好. 买来后用不了，无论你怎么按键都无法显示直线距离，而且极不清晰，不知道上个评论的良心在哪！ !#nexlpEOL#!
+threadId=50014	segmentId=50014	!@#NEXLP_DOCVECTOR_SEPARATOR#@!差. 差差差，地摊货，白给都不要，实物与图片不符，奉劝大家不要上当！ !#nexlpEOL#!
+threadId=50015	segmentId=50015	!@#NEXLP_DOCVECTOR_SEPARATOR#@!9.15号买的， 10.18号就开不了机了 请问怎么办？. 9.15号买的， 10.18号就开不了机了 请问怎么办？ !#nexlpEOL#!
+threadId=50016	segmentId=50016	!@#NEXLP_DOCVECTOR_SEPARATOR#@!女士体恤. 发货过来吊牌显示是女士体恤。我这个晕啊。 !#nexlpEOL#!
+threadId=50017	segmentId=50017	!@#NEXLP_DOCVECTOR_SEPARATOR#@!订单注明要求开发票，为何每次都不开发票. 为什么每次要求开发票，都没有给我开票，亚马逊就是这样服务的吗？我录入开票信息都没看见吗？真是神奇 !#nexlpEOL#!
+threadId=50018	segmentId=50018	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量极差，像盗版。. 收到的像是另一条裤子，和图片完全不一样，质量极差，可能是盗版。 !#nexlpEOL#!
+threadId=50019	segmentId=50019	!@#NEXLP_DOCVECTOR_SEPARATOR#@!物流问题. 北上广中心城区，第一天下单，提示第二天上午到达，第三天下午未到达，与物流人员咨询，物流人员反馈，如果我要的话，就送过来...... 感觉我下个订单，是下着好玩，没准备要！ 这种物流效率，无语！ !#nexlpEOL#!
+threadId=50020	segmentId=50020	!@#NEXLP_DOCVECTOR_SEPARATOR#@!售后怎么联系呢？. 送来就有垫脚破裂，申请换货后补发了垫脚，到现在不到两月，又有个大螺栓破裂，售后请及时联系已做处理或回复，谢谢。 !#nexlpEOL#!
+threadId=50021	segmentId=50021	!@#NEXLP_DOCVECTOR_SEPARATOR#@!品质十分烂的货，千万别买！. 非常非常烂的货，收到后，就用了2分钟开关就坏了！ !#nexlpEOL#!
+threadId=50022	segmentId=50022	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以. 能用，但是发到这两遍的堵头都坏了，不影响用也就没换！价格低 !#nexlpEOL#!
+threadId=50023	segmentId=50023	!@#NEXLP_DOCVECTOR_SEPARATOR#@!无法形成一个圆形视野. 怎么调都无法形成一个圆形视野。看起来别扭死了。 !#nexlpEOL#!
+threadId=50024	segmentId=50024	!@#NEXLP_DOCVECTOR_SEPARATOR#@!估计是假货，总是打不着. 夏天想用个小的，不料买了了总是不好打，换了火石、棉芯还是不好打。当时买货时看是亚马逊直发，才买的，出现这情况，令人不爽！ !#nexlpEOL#!
+threadId=50025	segmentId=50025	!@#NEXLP_DOCVECTOR_SEPARATOR#@!继续努力吧！. 第一个，按一下翻一个界面，一碰就跑了，想回到时钟界面要按好几次。第二，电池超级不耐用，三天。第三，不能戴着洗澡，水到面板上，就开始操作～～～ !#nexlpEOL#!
+threadId=50026	segmentId=50026	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太差. 亚马逊也太不靠谱了，买了望远镜，发现有问题，跟客服反映，答应解决，都过去一个星期了，没有回复，太差了，以后再也不会来了 !#nexlpEOL#!
+threadId=50027	segmentId=50027	!@#NEXLP_DOCVECTOR_SEPARATOR#@!库存发黄！！！！粘尘！！！！不好打！！！！. 放了好多年的估计！！！！整体发黄！！！而且还粘尘！！！！打了几分钟就脏的不得了！！！！滑！！！！！弹力也不好！！！！非常不满意！！！！亚马逊客服看到了如果可以退的话请给我退!!!只打了一次！！！！ !#nexlpEOL#!
+threadId=50028	segmentId=50028	!@#NEXLP_DOCVECTOR_SEPARATOR#@!用过的东西还拿出来卖？. 看图说话，什么垃圾东西,还把我的图删了？发货是某东上用过的东西，发出来，有本事把我的图给我发表出来，垃圾 !#nexlpEOL#!
+threadId=50029	segmentId=50029	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太差了. 估计是放的时间太久，有股霉味，显微镜有地方锈蚀严重，掉漆很厉害！ !#nexlpEOL#!
+threadId=50030	segmentId=50030	!@#NEXLP_DOCVECTOR_SEPARATOR#@!对产品投诉。骗子. 骗子，一点都不保温。加入热水后，外壳烫手，4小时候后就已经是室温了。仿制MINISO的产品，太差了。要求亚马逊退货。投诉亚马孙的广告和销售的产品。请退货并道歉。 !#nexlpEOL#!
+threadId=50031	segmentId=50031	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常差. 非常差 非常不舒服 根本没用还很贵 垫完很高 很不舒服 !#nexlpEOL#!
+threadId=50032	segmentId=50032	!@#NEXLP_DOCVECTOR_SEPARATOR#@!被安利的各位，散了把…. 这个饵真心一般，用的钩子比几元钱的国产饵的还要垃圾，真心不理解为啥价格会炒这么高，还一群sx在后面追捧…无语。所谓大神一个帖子安利一帮，看来真的是钓不到鱼开始玩玄学… !#nexlpEOL#!
+threadId=50033	segmentId=50033	!@#NEXLP_DOCVECTOR_SEPARATOR#@!极差! 20天就坏了! 还不给退货!. 极差! 用了20天就坏了，差点摔到孩子。而且因为包装没了不给退货，理由是影响2次销售。谁买东西20多天还留着破纸盒包装! 坏了的东西居然还要2次销售! 亚马逊太坑人了，不知有多少坏东西又2次销售了！ !#nexlpEOL#!
+threadId=50034	segmentId=50034	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买亚马逊东西需谨慎. 果断卸载亚马逊 垃圾 正品不正品先不说 退货运费一百多比东西还贵 网购还是用中国的APP吧 !#nexlpEOL#!
+threadId=50035	segmentId=50035	!@#NEXLP_DOCVECTOR_SEPARATOR#@!球缩水的. 同样是7号球，同样是斯伯丁，但是些次的球比实体店的同样号数的球会小一圈，我也不明白为什么。 !#nexlpEOL#!
+threadId=50036	segmentId=50036	!@#NEXLP_DOCVECTOR_SEPARATOR#@!店里找不到这样一款难看的. 这帽子还是中国制造 在外国走了一圈价格大涨 可是 皱皱巴巴的做工简单真的符合这个价格吗 卖家图片少的可怜 全凭买家想象 回来真的很难看 就像肯德基小妹妹戴的感觉一样 退货太麻烦了 将就吧 !#nexlpEOL#!
+threadId=50037	segmentId=50037	!@#NEXLP_DOCVECTOR_SEPARATOR#@!齿轮质量太糟糕，建议不要轻易决定购买. 买的第二天骑前面的齿轮调到高档时就咔咔响了，现在买了不到一周高档已经完全不能用了，都在空转了。 !#nexlpEOL#!
+threadId=50038	segmentId=50038	!@#NEXLP_DOCVECTOR_SEPARATOR#@!为什么少了耳塞现在也没反应？请客服帮助解决. 为什么少了耳塞现在也没反应？请客服帮助解决！ !#nexlpEOL#!
+threadId=50039	segmentId=50039	!@#NEXLP_DOCVECTOR_SEPARATOR#@!寄过来一个坏短裤. 我还能不能信亚马逊了 短裤是坏的 无语了 !#nexlpEOL#!
+threadId=50040	segmentId=50040	!@#NEXLP_DOCVECTOR_SEPARATOR#@!我刚刚买回来，下载文档时出现图片中“W”红色大码，没有办法解开？如何解决？. 我刚刚买回来，下载文档时出现图片中“W”红色大码，没有办法解开？如何解决？ !#nexlpEOL#!
+threadId=50041	segmentId=50041	!@#NEXLP_DOCVECTOR_SEPARATOR#@!容易进水. 第一次购买那个牌子，200多元还没有几十元的好，转身就容易进水，调到2至3格还是一样，太容易容易进水了，什么好坏大牌子那么差，退货处理吗？ !#nexlpEOL#!
+threadId=50042	segmentId=50042	!@#NEXLP_DOCVECTOR_SEPARATOR#@!起球. 180cm，65公斤 M号基本合适，穿在身上也和舒服，不过洗了几次后，有些容易摩擦的地方起球了。不满意！！！！！ !#nexlpEOL#!
+threadId=50043	segmentId=50043	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不好. 质量一般，还有线头，透气不好，保暖也不好 !#nexlpEOL#!
+threadId=50044	segmentId=50044	!@#NEXLP_DOCVECTOR_SEPARATOR#@!推荐. 东西挺好，感觉比 Speedo那款58的还紧一些。值得购买 !#nexlpEOL#!
+threadId=50045	segmentId=50045	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有点小. 有点小了，发货速度也慢。不是很满意的一次购物体验。 !#nexlpEOL#!
+threadId=50046	segmentId=50046	!@#NEXLP_DOCVECTOR_SEPARATOR#@!略贵 质量过关. 这款最便宜的时候 99 我买的119 !#nexlpEOL#!
+threadId=50047	segmentId=50047	!@#NEXLP_DOCVECTOR_SEPARATOR#@!镜框是歪的. 镜片有点小，视野边缘的黑框很大。收到就是歪的，卡一侧的耳朵，会头疼。 !#nexlpEOL#!
+threadId=50048	segmentId=50048	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很一般的速干衣，已经洗了并穿过了，后悔了！. 这衣服腋下的那块网孔料很容易扎到抽丝，个人怀疑不是正品，毕竟一分钱一分货呀！看来不能贪便宜呀！ !#nexlpEOL#!
+threadId=50049	segmentId=50049	!@#NEXLP_DOCVECTOR_SEPARATOR#@!包还好，就是难洗. 买了几个月后发现内部易起灰尘，而且会粘在内壁上，洗的时候基本要用手搓（水冲不了），非常难洗干净。不知道是我的问题还是包本身的，不过我也没对它做什么啊...... !#nexlpEOL#!
+threadId=50050	segmentId=50050	!@#NEXLP_DOCVECTOR_SEPARATOR#@!失望. 拿到手的时候，整个包都有发霉的现象！都有点拿不出手了，包装的也很差，好失望的购物包啊！连退的心情都没有了！差！ !#nexlpEOL#!
+threadId=50051	segmentId=50051	!@#NEXLP_DOCVECTOR_SEPARATOR#@!收货时间长. 商品整体感不错，就是收到货的时间特别长。 !#nexlpEOL#!
+threadId=50052	segmentId=50052	!@#NEXLP_DOCVECTOR_SEPARATOR#@!感觉不是正品. 今天收到新bd仗，跟我原来的那对仗比，做工差远了，特别在两个接口处，明显不平整，感觉不是正品！ !#nexlpEOL#!
+threadId=50053	segmentId=50053	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没有吊牌的帽子. 竟然没有吊牌，就是很简单的用一个透明的拉条的密封袋装着，没有新货该有的气味，好明显的二手货 !#nexlpEOL#!
+threadId=50054	segmentId=50054	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般. 很一般，挺长，不重，喷漆不好，实物对不起那个价格，感觉就值30-40元 !#nexlpEOL#!
+threadId=50055	segmentId=50055	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错的旅行背包. 书包颜色与图片相符，容量对于女孩来说够大，质量防水 !#nexlpEOL#!
+threadId=50056	segmentId=50056	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有很大味道. 69块买的，我感觉不算便宜，味道大，洗过还有味道，款式满意，没有生产地址。以后服饰类不会再网上买。 !#nexlpEOL#!
+threadId=50057	segmentId=50057	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不密封. 手机直接报废 多给颗星 给我换手机的正当的理由 ：） !#nexlpEOL#!
+threadId=50058	segmentId=50058	!@#NEXLP_DOCVECTOR_SEPARATOR#@!唉。。。图便宜了. 买来两周就有外层就有脱皮，一个月后里面已经开线。。。就是便宜，没别的。。。 !#nexlpEOL#!
+threadId=50059	segmentId=50059	!@#NEXLP_DOCVECTOR_SEPARATOR#@!气人哟. 买的时候看着,什么秒杀价199,点进去是399。当时没大注意。今天写评论看到又是199，这不是气人吗？ !#nexlpEOL#!
+threadId=50060	segmentId=50060	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常失望的物流. 东西不错，商家也不错，就是物流太差了！明明第二天送达，还说已经送达了，你不去向商家问询还不知道真相，送到代收点也不告知你去取（我根本不知道这个代收点）。非常失望的体验 !#nexlpEOL#!
+threadId=50061	segmentId=50061	!@#NEXLP_DOCVECTOR_SEPARATOR#@!包包. 昨晚拍的现在就收到了，速度真叫快。包包质量很好，就是拍小了，总体满意。 !#nexlpEOL#!
+threadId=50062	segmentId=50062	!@#NEXLP_DOCVECTOR_SEPARATOR#@!早知道就忍忍去迪卡侬买了. 质量一般，塑料味道超大，握一会儿之后手上难闻的不行 !#nexlpEOL#!
+threadId=50063	segmentId=50063	!@#NEXLP_DOCVECTOR_SEPARATOR#@!穿着极不舒服，压脚！. 穿着极不舒服，前面两边压脚！，不知道是否是鞋型的问题。当时没认真穿，现在无法穿，浪费了。 !#nexlpEOL#!
+threadId=50064	segmentId=50064	!@#NEXLP_DOCVECTOR_SEPARATOR#@!半年左右铜铭牌掉了. 永乐大概半年左右铜铭牌居然掉了...................不能图便宜啊 !#nexlpEOL#!
+threadId=50065	segmentId=50065	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错. 拍子很好看，吸汗带挺舒服，拍套也不错。很轻。还没用。 !#nexlpEOL#!
+threadId=50066	segmentId=50066	!@#NEXLP_DOCVECTOR_SEPARATOR#@!瑕疵严重. 膝盖那块补丁布的裤缝线有明显的瑕疵，有一小段根本没缝线 !#nexlpEOL#!
+threadId=50067	segmentId=50067	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有点儿鸡肋了. 想着和背包组合的，压根儿不配套，而且下面没有固定的暗扣 !#nexlpEOL#!
+threadId=50068	segmentId=50068	!@#NEXLP_DOCVECTOR_SEPARATOR#@!带子偏松. 无法固定，镜带偏松，容易进水，使用体验较差 !#nexlpEOL#!
+threadId=50069	segmentId=50069	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一般般. 商品收到了，还行。做工没有国内的好。同时为什么寄来的快递里有一个三星S8的手机包装？？里面不含手机但含有手机配件！！！是要算我的关税吗？？？对于亚马逊的服务深感失望！！！ !#nexlpEOL#!
+threadId=50070	segmentId=50070	!@#NEXLP_DOCVECTOR_SEPARATOR#@!只是好看！. 材料不是我想象的那样，跟地摊货没什么区别，只是好看！ !#nexlpEOL#!
+threadId=50071	segmentId=50071	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不爽. 才穿了一次，就破了个小洞，一点点尖刺都能挂出个小洞来，这质量...... !#nexlpEOL#!
+threadId=50072	segmentId=50072	!@#NEXLP_DOCVECTOR_SEPARATOR#@!钛刀叉勺. 在碗上可以刮出黑道道，用手可以摸掉，感觉是铝合金，不像是钛合金，回头化验一下。 !#nexlpEOL#!
+threadId=50073	segmentId=50073	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没有弹力的T恤~~~. 觉得花的钱就买这个牌子了~~ 没什么弹性的材质，应该是压箱底的存货~ !#nexlpEOL#!
+threadId=50074	segmentId=50074	!@#NEXLP_DOCVECTOR_SEPARATOR#@!舒适度和保暖性不错，但裆部撕烂开线不结实. 一个多月，跑步穿了几次，整体穿的感觉都不错，保暖性也满意，但今天发现裆部撕烂开线了。希望改进！ !#nexlpEOL#!
+threadId=50075	segmentId=50075	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很满意. 质量不错穿着很舒适，最满意的是亚马逊的服务尤其是售后更令人满意。退换货既有效率又让人满意，这一点那家也不如亚马逊。衷心感谢售后服务的工作人员，向你们致敬。亚马逊值得信赖的网站，值得拥有和陪伴。 !#nexlpEOL#!
+threadId=50076	segmentId=50076	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量不错，衣服较薄，没穿不知保暖效果。. 175,75kg，买的M，但是明显大一圈，袖子能塞2个手。只能退不能换，选择死亡。 !#nexlpEOL#!
+threadId=50077	segmentId=50077	!@#NEXLP_DOCVECTOR_SEPARATOR#@!做工不错，功能多，板面覆膜太薄太松. 做工不错，功能多，但和以前买的腹肌板比较，板面覆膜太薄太松，担心其寿命。 !#nexlpEOL#!
+threadId=50078	segmentId=50078	!@#NEXLP_DOCVECTOR_SEPARATOR#@!👌. 除了没有设计感，其他还行！李宁普遍没有设计感，抄袭的时候估计连尺寸都没搞清楚 !#nexlpEOL#!
+threadId=50079	segmentId=50079	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错. 不错 炼器械值得买 毕竟较厚，不可能太舒服 用来骑车、保暖就不合适了 !#nexlpEOL#!
+threadId=50080	segmentId=50080	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还行吧. 这个蓝颜色的实物偏绿。 戴了一段时间后补评： （1）颜色花色BUFF确实好，是别的10几块的比不上的（10几块我买了两个, 两个问题：1，短些， 2 颜色花色差） （2）洗过4、5次后开始气球了，，，，，呜呜，，最不愿意看到的，感觉和10几块的没啥差别（10几块的洗2、3次后就起球） 自己看着办吧。 !#nexlpEOL#!
+threadId=50081	segmentId=50081	!@#NEXLP_DOCVECTOR_SEPARATOR#@!这个价格还可以接受. 有色差，袖子的颜色变成灰色了。尺码偏小。 !#nexlpEOL#!
+threadId=50082	segmentId=50082	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还行吧. 保温效果还行，就是顶盖太弱了，只要用力一点可以捏烂！ !#nexlpEOL#!
+threadId=50083	segmentId=50083	!@#NEXLP_DOCVECTOR_SEPARATOR#@!ä¸é"çZippo. 不错的Zippo 不过貌似没有其他的Zippo外壳厚 做工很好 外壳13年10月产 内胆14年6月产 用了不到一个月掉色了 郁闷 !#nexlpEOL#!
+threadId=50084	segmentId=50084	!@#NEXLP_DOCVECTOR_SEPARATOR#@!商家与亚马逊有待改进. 球拍不错，就是买到后扫条形码出来是380元，但我买的是398元。商家的解释也不清，到底是商家问题还是亚马逊问题，他们也讲不清？有些遗憾。 !#nexlpEOL#!
+threadId=50085	segmentId=50085	!@#NEXLP_DOCVECTOR_SEPARATOR#@!夏装. 下单发货就降价，这个挺纳闷的？夏装，还不错。 !#nexlpEOL#!
+threadId=50086	segmentId=50086	!@#NEXLP_DOCVECTOR_SEPARATOR#@!超出需求了. 质量很好，只是像我月跑100公里，配速5分的用户而言，用处其实没那么大，而且确实太硬了。可能用泡沫轴更合适吧 !#nexlpEOL#!
+threadId=50087	segmentId=50087	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还不错. 很好用的。练腹肌首选。这次快递比较给力，不是走的邮政是走的申通，两天就到了。以前买其他东西，走的邮政，过了两个星期都还不到，而且到了也不打电话，还只能上班时间去拿，也不送货上门的。亚马逊选择邮政真的是脑袋被门给压了。 !#nexlpEOL#!
+threadId=50088	segmentId=50088	!@#NEXLP_DOCVECTOR_SEPARATOR#@!马刺的帐篷口碑还可以. 试了下，其实支起来还是挺方便的，质量也不错。 !#nexlpEOL#!
+threadId=50089	segmentId=50089	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常好用. 还不错很满意这次购物，音量和预期有点差距 !#nexlpEOL#!
+threadId=50090	segmentId=50090	!@#NEXLP_DOCVECTOR_SEPARATOR#@!屁股处容易变形. 坐久了，屁股处容易变形，鼓起来一大块不好看， !#nexlpEOL#!
+threadId=50091	segmentId=50091	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以. 比较厚，比较紧。肚子和腿不是很粗的可以买。 !#nexlpEOL#!
+threadId=50092	segmentId=50092	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还算满意啦. 很喜欢这造型，从第一眼见到这个酒壶，就喜欢的不得了。 去年在淘宝上买了一个，但密封不严，有点漏水就退了。 这次在亚马逊上买的，倒是密封的不错，没有漏水的现象。不过，也有点小瑕疵，就是壶盖上的铁条，左右有点不对称。这一点，从商品照片上也能看出来。 但也懒得换货了，万一换回来的再漏水就郁闷了。 所以呢，买这个酒壶，最重要的是确保不漏水，别的小缺点就尽量包容吧。 !#nexlpEOL#!
+threadId=50093	segmentId=50093	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尚可. 172,72kg衣服合身。就是太薄，只能春夏穿。 !#nexlpEOL#!
+threadId=50094	segmentId=50094	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量还行，价格稍贵. 东西还算可以，秒杀时买的，价格还是稍贵了点 !#nexlpEOL#!
+threadId=50095	segmentId=50095	!@#NEXLP_DOCVECTOR_SEPARATOR#@!布料摸起来不错. 拆开包装摸了下，布料感觉挺舒服的，穿上去稍微有点紧，总体感觉还是不错的 !#nexlpEOL#!
+threadId=50096	segmentId=50096	!@#NEXLP_DOCVECTOR_SEPARATOR#@!年中最优惠，不到200. 买了较小的一码也没觉得压力，膝盖支持确实很好，裤腰带太长了不知道放哪怪怪得…长度刚好在小腿肚偏下，质量看起来比skins结实耐穿。中缝有些歪，我发现大多数裤子裆部中线都对不齐？还有就是年中这些装备普遍便宜点，价格最低的时候会撤prime没有包邮，配送时效就会长一点，图方便最好还是prime好价直接拿下 !#nexlpEOL#!
+threadId=50097	segmentId=50097	!@#NEXLP_DOCVECTOR_SEPARATOR#@!这是蓝色啊. 这是黑色吗？这明显是深蓝色，但是买的比较便宜，算了吧 !#nexlpEOL#!
+threadId=50098	segmentId=50098	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买的第二件. 170CM，70KG，没有小肚子，170/88A比较合身。颜色比广告要深。 !#nexlpEOL#!
+threadId=50099	segmentId=50099	!@#NEXLP_DOCVECTOR_SEPARATOR#@!效果还可以. 清洗效果还可以，味道很难散掉。一年了还有味道 !#nexlpEOL#!
+threadId=50100	segmentId=50100	!@#NEXLP_DOCVECTOR_SEPARATOR#@!用起来还不错. 有两个地方的接口对位不是很精确，做工略粗糙，对接起来有点费力，不过还好都正常组装起来了，其他各方面都挺好，对初学者足够使用了。其实100多块钱的收腹机也足够了，但是这家的造型风格相对比较喜欢，所以就选这家了。 !#nexlpEOL#!
+threadId=50101	segmentId=50101	!@#NEXLP_DOCVECTOR_SEPARATOR#@!登山包还是到实体店购买比较合适. 在亚马逊看了好久，也研究了很久尺寸问题，找朋友帮忙量了什么脊椎长度之类，最后的选择背起来还是不太舒服。 但明显能低等次的登山包与Gregory的差距，整体来讲还是很实用的。带着走了几次3、4天的短途，其中一次在路上买了很多书，也还是够用。 !#nexlpEOL#!
+threadId=50102	segmentId=50102	!@#NEXLP_DOCVECTOR_SEPARATOR#@!送礼的东西. 送人的不知道质量如何，对方无反馈。没钱也是个愁人事儿。 !#nexlpEOL#!
+threadId=50103	segmentId=50103	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好看. 颜色正，但是速比涛的低端系列真的不划算，设计不太贴身 !#nexlpEOL#!
+threadId=50104	segmentId=50104	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好评. 用起来很好呢 可以把人拍的美美的 角度让人控制的不错 让人有一种好心情 真心不错呀 !#nexlpEOL#!
+threadId=50105	segmentId=50105	!@#NEXLP_DOCVECTOR_SEPARATOR#@!整体还算满意. 对得起这个价位！整体还不错！就是有点太重了！ !#nexlpEOL#!
+threadId=50106	segmentId=50106	!@#NEXLP_DOCVECTOR_SEPARATOR#@!。。. 这个刀 很小巧 我以为很大的 收到一看只有手指那么大小 送人了 朋友很喜欢 刀子锋利 功能也挺全 带着方便 !#nexlpEOL#!
+threadId=50107	segmentId=50107	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好. 口小，难清洗，洗后难干。用时方便但清洗晾干太难太麻烦了。 !#nexlpEOL#!
+threadId=50108	segmentId=50108	!@#NEXLP_DOCVECTOR_SEPARATOR#@!作为压缩裤，压缩感一般，做工挺好。. 175，65公斤，女，m码毫无压力，跟穿秋裤一样，没有任何压缩感，目测小一号也不会很压缩，跟面料有关吧。做秋裤穿质量挺好。 !#nexlpEOL#!
+threadId=50109	segmentId=50109	!@#NEXLP_DOCVECTOR_SEPARATOR#@!和以前的有些不一样. 拍子昨天收到了，和之前买的有些不一样，中杆明显要比之前的粗一些，还有不知道是线的原因还是其他的，击球的时候有些震手，和之前买的黑金刚又起来感觉不一样。。。不过对这款拍子还是有很重的感情的。。。 !#nexlpEOL#!
+threadId=50110	segmentId=50110	!@#NEXLP_DOCVECTOR_SEPARATOR#@!M码都大一点。. 180,85KG，M能穿，有点大，估计S修身，面料比较厚，颜色略老气 !#nexlpEOL#!
+threadId=50111	segmentId=50111	!@#NEXLP_DOCVECTOR_SEPARATOR#@!实物与照片基本一致，质量过关，性价比还算可以. 按时到货，包装合适，价格不算高，产品质量过关，新帽子，刚开始戴有点不适应，时间长一点就好了。 !#nexlpEOL#!
+threadId=50112	segmentId=50112	!@#NEXLP_DOCVECTOR_SEPARATOR#@!U型枕值得买. 耳塞没用，眼罩的绳子用了一段时间就会断，还是起一种像皮屑的东西，U型枕好用，携带方便很容易吹气，不漏气，可以自己调节软硬度(*^◎^*) !#nexlpEOL#!
+threadId=50113	segmentId=50113	!@#NEXLP_DOCVECTOR_SEPARATOR#@!买对了！. 身高177，胸围102，购买的m号，穿着合身，衣服很轻薄，快干材质，很舒服。 !#nexlpEOL#!
+threadId=50114	segmentId=50114	!@#NEXLP_DOCVECTOR_SEPARATOR#@!值得购买. 斯柯达晶锐1.4，4年9万公里，用了几天后才来做评价，用下来感觉很好，原先油门要踩到底才感觉能发力，现在油门只要轻踩即可，比做完保养还要顺畅，值得给爱国使用。 !#nexlpEOL#!
+threadId=50115	segmentId=50115	!@#NEXLP_DOCVECTOR_SEPARATOR#@!美中不足没有口袋. 如果象有些款式的泳裤那样有个小小的带拉链的口袋就更好了。 !#nexlpEOL#!
+threadId=50116	segmentId=50116	!@#NEXLP_DOCVECTOR_SEPARATOR#@!想象不到的好！. 全五分，太棒了。首先，物流在下定的第2天就收到了，那么重，真的辛苦了；东西非常好，和专业健身房的差不多，手感不错；价格上满200减50，就加买了个俯卧撑器，减后2件就180左右，还包邮，很实惠~~ !#nexlpEOL#!
+threadId=50117	segmentId=50117	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以. 质量还不错，四个球各有特点，配色也好看，但是宝宝三分钟热度，不会玩很长时间。但至少拍照很好看哈哈！ !#nexlpEOL#!
+threadId=50118	segmentId=50118	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常满意. 不失所望，鞋子穿在脚上，既轻便，又舒服，非常满意！ !#nexlpEOL#!
+threadId=50119	segmentId=50119	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很好，放心购. 确实是正品，挺好，就是买小了一号，可能是亚马逊新手，不太熟悉购买流程，不太会操作，不过也是很满意的的一次购物。以后就买亚马逊了！ !#nexlpEOL#!
+threadId=50120	segmentId=50120	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有温度感应，真是稀奇. 这东西居然还有温度感应，试了一下，贴近皮肤有温度的时候就会感应。围脖做工也还成。 !#nexlpEOL#!
+threadId=50121	segmentId=50121	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好看. 贴吧验证是真的，还有人问我要了网址也要这款，我也觉得很好看，买来送人的 !#nexlpEOL#!
+threadId=50122	segmentId=50122	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很好. 很好，以前从不去评价，不知道浪费了多少积分，现在知道积分可以换钱，就要好好评价了，后来我就把这段话复制走了，既能赚积分，还省事，走到哪复制到哪，最重要的是，不用认真的评论了，不用想还差多少字，直接发出就可以了，推荐给大家！！ !#nexlpEOL#!
+threadId=50123	segmentId=50123	!@#NEXLP_DOCVECTOR_SEPARATOR#@!亚马逊首次网购满意. 发货快，包装好，满意的购物！手胶不会用：) !#nexlpEOL#!
+threadId=50124	segmentId=50124	!@#NEXLP_DOCVECTOR_SEPARATOR#@!满意. 发货很快 垫子包装完好 拆开后没有异味 很适合在家里做运动的时候用 !#nexlpEOL#!
+threadId=50125	segmentId=50125	!@#NEXLP_DOCVECTOR_SEPARATOR#@!锐步漫步机. 安装龙师傅技术娴熟，服务态度佳。下一步的就开始熟悉漫步机的性能了。 !#nexlpEOL#!
+threadId=50126	segmentId=50126	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好刀. 可以一刀多用，蛮喜欢的，不敢随身带，怕警察蜀黍查。 !#nexlpEOL#!
+threadId=50127	segmentId=50127	!@#NEXLP_DOCVECTOR_SEPARATOR#@!眼镜很满意. 眼镜不错，遮光效果很好，也很轻便到货比预想的要快 !#nexlpEOL#!
+threadId=50128	segmentId=50128	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错的手环. 用了两个多月，感觉还不错，心率啥的都可以。虽然手部运动会增加步数，这基本所有手环都避免不了。充一次电大概一个多两个小时，可以持续使用5-7天。 !#nexlpEOL#!
+threadId=50129	segmentId=50129	!@#NEXLP_DOCVECTOR_SEPARATOR#@!中级水平特别适合. 个人打球水平还行，非初级选手。这个拍子有其优势和特点，使用起来杀球不是他的特点，柔和的手感是其主要特点，而且拉后场特别容易，即使在特别被动的情况下，网前手感因人而异吧，后场的两边的拉开确实控制的比较好。建议不要拉特别大的磅数，将就控制，24/22，应该是最佳效果。以上纯粹个人观点。有不同意见可以进行谈论。 !#nexlpEOL#!
+threadId=50130	segmentId=50130	!@#NEXLP_DOCVECTOR_SEPARATOR#@!特价时买的. 特价时购买的，质量好，超值，用了近一年。 !#nexlpEOL#!
+threadId=50131	segmentId=50131	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好东西. 大小合适，172，67kg，S码合适，质量也不错 !#nexlpEOL#!
+threadId=50132	segmentId=50132	!@#NEXLP_DOCVECTOR_SEPARATOR#@!婴儿游泳圈. 婴儿游泳圈，不错，是自己喜欢的。送货速度也快 !#nexlpEOL#!
+threadId=50133	segmentId=50133	!@#NEXLP_DOCVECTOR_SEPARATOR#@!东西很不错，送货很快啊。. 东西还没有用，只是带上试了试大小和手感，很不错。最主要的是送货快，海外购，差不多一周就到了，很出乎意外。 !#nexlpEOL#!
+threadId=50134	segmentId=50134	!@#NEXLP_DOCVECTOR_SEPARATOR#@!舒适. 透气性非常好，是我目前穿过的最舒适的内衣裤了。 !#nexlpEOL#!
+threadId=50135	segmentId=50135	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好，喜欢. 帽子很轻，材质很软，很适合运动时戴，非常好，遮阳效果也很好 !#nexlpEOL#!
+threadId=50136	segmentId=50136	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错. 已经试用了，龙骨防滑效果非常好，胶皮手感舒适。美中不足，封胶皮的胶带没有延展性，贴的时候皱褶比较多。 !#nexlpEOL#!
+threadId=50137	segmentId=50137	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很愉快的一次，快递也很到位. 觉得好似回到了童年，小的时候父亲不给做，哥哥姐姐也不给做，只有借别人的玩，别人还生怕给他弄坏了似的！现在有了自己的弹弓，也可以给女儿玩，希望以后成为一个女汉子吧！ !#nexlpEOL#!
+threadId=50138	segmentId=50138	!@#NEXLP_DOCVECTOR_SEPARATOR#@!愉快的购物之旅. 这个是给小孩用的，一定不能漏水，孩子经常蹦蹦跳跳，会撞到头，那个大包啊~~用这个热敷一下很方便，感冒、扭伤也可以冰敷。冷热两用，很实惠。东西都是一分钱一分货的，二、三十块的东西都不知道是什么材质的，闻起来臭臭的，这个就不会，摸起来也不是那种便宜货的感觉，很愉快的购物，用着放心！ !#nexlpEOL#!
+threadId=50139	segmentId=50139	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质地不错. 收到后第二天就穿了，其做工和包装很对的起价格，整体感觉非常柔软，厚度适中，透气性算是蛮好的了，吸汗，挺好的 !#nexlpEOL#!
+threadId=50140	segmentId=50140	!@#NEXLP_DOCVECTOR_SEPARATOR#@!跑步机高端大气上档次. 刚刚收到到货，产品没多少评论本来有点怀疑购买的，可是收到后，完全没有那种顾虑了，好大的包装很重，快递还帮我送到家，已经自己按照说明书安装好了，也很容易安装，试了一下跑步机，噪声合适不大声，可能刚刚买有点气味，呵呵，新东西嘛，可能过几天散一下就没有了，总体来说还是比较满意的。 !#nexlpEOL#!
+threadId=50141	segmentId=50141	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好. 不错的板子结实，轮子走起来没有声音，到货配件都是装好的，拿出来就可以用了。 !#nexlpEOL#!
+threadId=50142	segmentId=50142	!@#NEXLP_DOCVECTOR_SEPARATOR#@!防风保暖都比较好. 399买的，觉得很值，小雨基本没问题，防风保暖也不错。只是这个颜色比较深，有点像工作服。 !#nexlpEOL#!
+threadId=50143	segmentId=50143	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还不错. 还不错，就是有点小瑕疵，希望出货时能仔细检查下，懒得换了。 !#nexlpEOL#!
+threadId=50144	segmentId=50144	!@#NEXLP_DOCVECTOR_SEPARATOR#@!划船机 磁控的质量不错。诚信可以. 周四拍下，约了周末送到就在周日送到了，很守信。师傅送到六楼还包安装，很方便。机器挺沉的，虽然可以折叠，还是最好不要经常移动，感觉质量用料是货真价实，值这个钱，但愿自己和家人能坚持使用。滑轨流畅，坐垫比我想象中柔软。谢谢赠送的心率带测试 !#nexlpEOL#!
+threadId=50145	segmentId=50145	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错的通勤包. 很不错的通勤包，13寸Mac Pro装着有富余。 !#nexlpEOL#!
+threadId=50146	segmentId=50146	!@#NEXLP_DOCVECTOR_SEPARATOR#@!方便适用. 质量还是好的，不像以前买的款太松。就是空间还是有限，大包装个note4就满了，很紧，没法装其他东西。装些小东西还是没得说。 !#nexlpEOL#!
+threadId=50147	segmentId=50147	!@#NEXLP_DOCVECTOR_SEPARATOR#@!信赖亚马逊，宝贝棒棒的. 非常非常好，实惠便宜，信赖亚马逊。173cm，70kg，头中等偏小一点点，尺寸small，正好 !#nexlpEOL#!
+threadId=50148	segmentId=50148	!@#NEXLP_DOCVECTOR_SEPARATOR#@!比较锋利. 刀刃还算锋利，就是刀尖比较长，刀柄有点细，手大的话抓起来可能会感觉有些别扭。 !#nexlpEOL#!
+threadId=50149	segmentId=50149	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还是不错😊. 有点薄，不过效果还可以，没有束缚感，可以自由运动。确实不防风，就是一件贴身层，效果要明显的话还是靠保暖衣 !#nexlpEOL#!

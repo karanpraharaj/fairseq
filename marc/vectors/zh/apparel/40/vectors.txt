@@ -1,0 +1,40 @@
+threadId=50000	segmentId=50000	!@#NEXLP_DOCVECTOR_SEPARATOR#@!描述不详细，. 刚收到货，觉得还不错，觉得买了好东西，试穿了一下，稍微有一点点大，谁知道洗了一次后，穿上去过大，根本没法穿！！！！！！！！！！！已经洗了，也没法退货。觉得亚马逊最好设置一个在线客服，或者商品描述更详细一些，方便客户购买！！！！！！！！ !#nexlpEOL#!
+threadId=50001	segmentId=50001	!@#NEXLP_DOCVECTOR_SEPARATOR#@!失望. 不是真丝，色彩也差，整体差，自营也骗人吗？ !#nexlpEOL#!
+threadId=50002	segmentId=50002	!@#NEXLP_DOCVECTOR_SEPARATOR#@!非常失望. 货品的颜色，面料和图片上差别太大了，退货又退不了。非常失望！ !#nexlpEOL#!
+threadId=50003	segmentId=50003	!@#NEXLP_DOCVECTOR_SEPARATOR#@!照片和实物差距有点接受不了. 色差大的要命，不想评论，很失望的购物经历，以后不敢在亚马逊买衣服了。 !#nexlpEOL#!
+threadId=50004	segmentId=50004	!@#NEXLP_DOCVECTOR_SEPARATOR#@!超级硬. 板型好，很合身，但是超级硬，第一次穿的时候感觉是铁皮一样。洗了两次后好了些，还是比较硬。不推荐 !#nexlpEOL#!
+threadId=50005	segmentId=50005	!@#NEXLP_DOCVECTOR_SEPARATOR#@!差评. 老板你真他妈黑心说好的带绒呢？哪去了，绒都让你吃了！我说的是实话不要打电话骚扰我哦！ !#nexlpEOL#!
+threadId=50006	segmentId=50006	!@#NEXLP_DOCVECTOR_SEPARATOR#@!太差，太次了！. 垃圾，无良商家，效果咱就先不讲，就连普通内裤都不如，洗的时候还掉色，请大家以后不要购买他们家的商品，太坑了！ !#nexlpEOL#!
+threadId=50007	segmentId=50007	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尺码错误. 真是奇怪了！我明明选择的是m码，怎么就变成了s码呢？ !#nexlpEOL#!
+threadId=50008	segmentId=50008	!@#NEXLP_DOCVECTOR_SEPARATOR#@!质量不行. 我不知道是不是才出厂还是怎么的，刚刚拿回来熏得简直受不了，皮子应该是真皮，毕竟付了这么高的价格，三星是给味道的。。 --------------------------------------------------------------- 2015.7.5更新 去年3月下的单子，用了不到1年就快断了，搞得我现在都不敢拴太紧，为什么现在才来改评论，因为当时买的时候235左右（亚马逊直营），现在不到100（变成仅有第三方了），而且比以前在某B上买的60的皮带（仅带子）都不如。 总而言之各方因素加起来搞得很不爽，发上来给大家参考，购买前请慎重考虑。 最后附上照片。 半天提交不上去，原来评论中不能带金额yuan。。呵呵。 !#nexlpEOL#!
+threadId=50009	segmentId=50009	!@#NEXLP_DOCVECTOR_SEPARATOR#@!差评. 感觉跟东莞的 地摊货一样，裤子布料好像在仓库放了5年以上，不明白怎么会有怎么大的销量？ !#nexlpEOL#!
+threadId=50010	segmentId=50010	!@#NEXLP_DOCVECTOR_SEPARATOR#@!衣服还行吧，就是毛领很掉档次，根本不是图片上的样子，上当了. 衣服还行吧，就是毛领很掉档次，根本不是图片上的样子，上当了 !#nexlpEOL#!
+threadId=50011	segmentId=50011	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尺码. 身高187cm，体重105kg，买的17/34 35码，长短和大小都不合适，最起码要大一码 !#nexlpEOL#!
+threadId=50012	segmentId=50012	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有问题. 不太透气。本人容易出汗，此衣服不吸汗，导致穿过一次就得洗，而在洗过几次后，领口标签处发生明显破损 !#nexlpEOL#!
+threadId=50013	segmentId=50013	!@#NEXLP_DOCVECTOR_SEPARATOR#@!有质量问题. 打算穿的时候才发现左腿后侧有个小洞，也没法退了。下次还得多检查 !#nexlpEOL#!
+threadId=50014	segmentId=50014	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没有预期的好. 质量没有预期的好，很薄。亚马逊的衣服真的很少碰到质量好的，价格也合理的。 !#nexlpEOL#!
+threadId=50015	segmentId=50015	!@#NEXLP_DOCVECTOR_SEPARATOR#@!裤腿很紧，档部压迫感强. 本人178CM 65KG,腰围77CM，之前买了条莫代尔的M码，各方面都非常舒服，穿上去就是传说中的柔和无感，于是这款也选了M码，腰围倒是刚刚好，可是裤腿很紧，档部也又紧又浅，站立的时候倒还好，只是裤腿有点压迫感，但是坐着或蹲下的时候就悲剧了，裤腿往上缩，档部压迫得非常不舒服，而且再次站立的时候由于裤腿紧，不会自动落下，只能用手扯下来，每次都必须扯，真不是一般的失望。。。。建议各位买大一码，或许会有改善 !#nexlpEOL#!
+threadId=50016	segmentId=50016	!@#NEXLP_DOCVECTOR_SEPARATOR#@!颜色不好看. 颜色不好看，蓝色得太接地气了，两个口袋也总是张着嘴的。 !#nexlpEOL#!
+threadId=50017	segmentId=50017	!@#NEXLP_DOCVECTOR_SEPARATOR#@!没有照片上的好看. 没有照片上的好看，做工面料都不怎么样，不值这个价。 !#nexlpEOL#!
+threadId=50018	segmentId=50018	!@#NEXLP_DOCVECTOR_SEPARATOR#@!收到的时候里面的盒子是拆开的！！！墨镜的镜片上有个大大的指纹！！！. 1、这个是二手的吧？？？一直以为亚马逊是和二手东是不一样的，原来第三方也是这样，哎，一直出差，都没时间退，现在发票都快递过来了，就算了，要是不这么忙，是肯定要退的！！！ 2、至于眼镜本身，很轻，有鼻托，很符合亚洲人的鼻子的构造，可以调整两边的距离，和眉毛平齐 3、因为收到的就是拆过的，真假不知 4、淘宝上这个牌子的，卖的不多，便宜的那家价格也和秒杀的价格差不多， !#nexlpEOL#!
+threadId=50019	segmentId=50019	!@#NEXLP_DOCVECTOR_SEPARATOR#@!洪都拉斯产的. 183 130 M码偏大。洪都拉斯产的，也不知道哪个国家。反正质量不如made in china。连淘宝货都比不上。建议去天猫旗舰店。 !#nexlpEOL#!
+threadId=50020	segmentId=50020	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以。. 洗了几次，手感略显差了些。大小比正常略大一小点儿，但整体合身。 !#nexlpEOL#!
+threadId=50021	segmentId=50021	!@#NEXLP_DOCVECTOR_SEPARATOR#@!对的起价格. 手感不柔滑，绒感觉不细腻，松散。对的价格，180 75公斤，修身，有点紧致。 !#nexlpEOL#!
+threadId=50022	segmentId=50022	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还可以. 质量没的说，只是蓝色和图片有出入，颜色太浅了。 !#nexlpEOL#!
+threadId=50023	segmentId=50023	!@#NEXLP_DOCVECTOR_SEPARATOR#@!今天穿了不错没有起球，保暖效果好。很是满意. 和图片一样没有色差，物流真快，包装非常仔细，质量非常好,真出乎我的意料，做工精致，版型正，很和我的心意，很厚实暖和，很喜欢，朋友都觉得很好看！而且卖家服务态度非常好，下次还会再来的， !#nexlpEOL#!
+threadId=50024	segmentId=50024	!@#NEXLP_DOCVECTOR_SEPARATOR#@!还不错. 看看专柜价格，就觉得还是在这里划算些。当然，其实也只是普通T恤而已 !#nexlpEOL#!
+threadId=50025	segmentId=50025	!@#NEXLP_DOCVECTOR_SEPARATOR#@!小了. 172cm，70kg，s码，小了，整体小一码，不像美式的尺码。舒适度不错，图案不是印花，是突出衣服的，上身比图片好看。 !#nexlpEOL#!
+threadId=50026	segmentId=50026	!@#NEXLP_DOCVECTOR_SEPARATOR#@!一分钱一分货. 确实是棉质地，看精梳度，让人明白一分钱一分货，哈哈，不值得期待的。 !#nexlpEOL#!
+threadId=50027	segmentId=50027	!@#NEXLP_DOCVECTOR_SEPARATOR#@!不错. 衣服质量还是不错的，只是我穿着肩部有些紧。 !#nexlpEOL#!
+threadId=50028	segmentId=50028	!@#NEXLP_DOCVECTOR_SEPARATOR#@!大了. 质量不错，腰部的那串珠子很有分量，总之挺喜欢，不过有些大了 !#nexlpEOL#!
+threadId=50029	segmentId=50029	!@#NEXLP_DOCVECTOR_SEPARATOR#@!舒适，适合运动. 穿着比较舒适。唯一缺点是腰带稍微松了些，每次穿都要系紧绳带。 !#nexlpEOL#!
+threadId=50030	segmentId=50030	!@#NEXLP_DOCVECTOR_SEPARATOR#@!尺寸正. 收到了，颜色很漂亮 ，尺寸正，穿上非常不错 !#nexlpEOL#!
+threadId=50031	segmentId=50031	!@#NEXLP_DOCVECTOR_SEPARATOR#@!品质很棒，尺码偏大. 品质还是不错的，非常舒服，尺码偏大，本人身高182，78公斤，穿L偏大，M正好 !#nexlpEOL#!
+threadId=50032	segmentId=50032	!@#NEXLP_DOCVECTOR_SEPARATOR#@!挺好的. 衣服质量挺不错的，夏天单穿短裤，到了冬天可以在里面套一条打底裤，挺好的。 !#nexlpEOL#!
+threadId=50033	segmentId=50033	!@#NEXLP_DOCVECTOR_SEPARATOR#@!正品，质量好，好看. 囤货，这个价格真是挺出乎意料，很好，正品 !#nexlpEOL#!
+threadId=50034	segmentId=50034	!@#NEXLP_DOCVECTOR_SEPARATOR#@!很好很满意. 宝贝和商家描述的一样，无色差，质量做工没得挑，料子柔和舒服，保暖性不错，非常满意！ !#nexlpEOL#!
+threadId=50035	segmentId=50035	!@#NEXLP_DOCVECTOR_SEPARATOR#@!合身. 面料很好，穿起来舒适有型，很愉快的一次购物 !#nexlpEOL#!
+threadId=50036	segmentId=50036	!@#NEXLP_DOCVECTOR_SEPARATOR#@!好. 好，借我借我一双慧眼吧 ，让我把这纷扰 看得清清楚楚明明白白真真切切 !#nexlpEOL#!
+threadId=50037	segmentId=50037	!@#NEXLP_DOCVECTOR_SEPARATOR#@!中国好裤子. 好裤子 还是亚马逊 不能贪图便宜 去某宝 一分钱一分货 ！ !#nexlpEOL#!
+threadId=50038	segmentId=50038	!@#NEXLP_DOCVECTOR_SEPARATOR#@!喜欢. 很喜欢这个牌子的衣服，大小合适，质量好，是我喜欢的风格，看到好看的会一直买。 !#nexlpEOL#!
+threadId=50039	segmentId=50039	!@#NEXLP_DOCVECTOR_SEPARATOR#@!领带. 上大一准备的正装领带，希望小儿子能用上吧！质量吗，也都这样吧！期望耐四年，永远如新 !#nexlpEOL#!
